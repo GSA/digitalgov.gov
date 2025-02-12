@@ -9,9 +9,7 @@ title: "Search engine optimization"
 deck: "Search engine optimization (SEO) is the practice of enabling search engines to index and surface content."
 
 # description — keep it short and clear
-summary: "Strong search engine optimization (SEO) fosters transparency and enhances user experience. It empowers the public to navigate complex programs, and find the information they need quickly. Accurate and informative search results improve user experience, minimizing frustration and wasted time on irrelevant pages. 
-
-Creating a search experience that directs users to the information they seek reduces reliance on contact centers and other support channels. It also saves users’ time."
+summary: "Strong search engine optimization (SEO) fosters transparency and enhances user experience. It empowers the public to navigate complex programs, and find the information they need quickly. Accurate and informative search results improve user experience, minimizing frustration and wasted time on irrelevant pages. Creating a search experience that directs users to the information they seek reduces reliance on contact centers and other support channels. It also saves users’ time."
 
 # Weight
 weight: 2

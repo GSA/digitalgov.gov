@@ -1,7 +1,7 @@
 {{- if .Params.aliases -}}
-  "redirects" : [
-  {{- if .Params.aliases -}}
-    "{{ delimit .Params.aliases "\", \"" }}"
+  "redirects": [
+  {{- range $index, $alias := .Params.aliases -}}
+    {{- if $index }},{{ end }}"{{ $alias }}"
   {{- end -}}
   ],
 {{- end -}}

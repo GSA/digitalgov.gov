@@ -1,16 +1,16 @@
 {
    "content": "topics",
-   "count": "51",
+   "count": "49",
    "items": [
       {
          "field_title": "Accessibility",
          "field_deck": "The design of products, devices, services, or environments for people with disabilities",
-         "field_summary": "Accessibility isn’t just the right thing to do; it’s the law. The guidance, resources, and community you find here will help you deliver accessible digital products and services in the federal government.",
-         "date_modified": "2024-10-25T14:26:09-04:00",
+         "field_summary": "Accessibility isn&rsquo;t just the right thing to do; it’s the law. The guidance, resources, and community you find here will help you deliver accessible digital products and services in the federal government.",
+         "date_modified": "2024-12-31T09:41:56-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://www.section508.gov/manage/laws-and-policies/",
-         "legislation_title": "Section 508 of the Rehabilitation Act of 1973",
-         "legislation_link": "https://www.section508.gov/manage/laws-and-policies/",
+         "field_legislation": "https://digital.gov/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/",
+         "legislation_title": "Section 508 of the Rehabilitation Act of 1973 and OMB M-24-08",
+         "legislation_link": "https://digital.gov/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/",
          "field_featured_communities": [
             "web-managers-forum"
          ],
@@ -19,19 +19,9 @@
          "field_featured_links_title": "Accessibility: Essential knowledge",
          "field_featured_links": [
             {
-               "title": "Federal website standards",
-               "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
-               "href": "https://standards.digital.gov"
-            },
-            {
                "title": "Section508.gov",
                "summary": "This site provides guidance for federal agencies on several topics in IT accessibility, including creating accessible websites and documents, accessibility testing, accessibility training, and accessibility in contracting and procurement.",
                "href": "https://www.section508.gov"
-            },
-            {
-               "title": "Best practices for writing for the accessible web",
-               "summary": "Tips for making online information accessible for those with auditory and visual needs.",
-               "href": "https://digital.gov/resources/best-practices-writing-for-accessible-web"
             },
             {
                "title": "An advanced approach to accessibility",
@@ -39,25 +29,31 @@
                "href": "https://digital.gov/resources/advanced-accessibility"
             },
             {
-               "title": "Accessibility: Usability for every ability",
-               "summary": "Incorporate accessibility from the start and celebrate accessibility guidelines that help build better products and services for all users.",
-               "href": "https://designsystem.digital.gov/documentation/accessibility/#what-project-teams-should-do"
-            },
-            {
-               "title": "Accessibility for Teams",
+               "title": "Accessibility for teams",
                "summary": "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow.",
                "href": "https://digital.gov/guides/accessibility-for-teams"
+            },
+            {
+               "title": "Federal website standards",
+               "summary": "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices.",
+               "href": "https://standards.digital.gov"
+            },
+            {
+               "title": "Accessibility: Usability for every ability",
+               "summary": "Learn how the U.S. Web Design System uses accessibility in its design language, components, guidance, and layouts.",
+               "href": "https://designsystem.digital.gov/documentation/accessibility/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/us-access-board/",
-            "https://digital.gov/topics/508/",
-            "https://digital.gov/topics/americans-with-disabilities-act/",
-            "https://digital.gov/topics/section-508/"
+         "redirects": [
+            "/topics/us-access-board/",
+            "/topics/508/",
+            "/topics/americans-with-disabilities-act/",
+            "/topics/section-508/"
          ],
          "filepath": "/content/topics/accessibility/_index.md",
+         "uid": "accessibility",
          "slug": "accessibility",
-         "url": "http://localhost:1313/topics/accessibility/"
+         "url": "/topics/accessibility/"
       },
       {
          "field_title": "Acquisition",
@@ -73,30 +69,31 @@
          ],
          "field_featured_resource": "/resources/techfar-hub-get-started",
          "field_featured_resource_link": "/resources/techfar-hub-get-started",
-         "aliases": [
-            "https://digital.gov/topics/fas/",
-            "https://digital.gov/topics/federal-acquisition-institute/",
-            "https://digital.gov/topics/federal-acquisition-service/",
-            "https://digital.gov/topics/contingency-contracting-corps/",
-            "https://digital.gov/topics/digital-acquisition-playbook/",
-            "https://digital.gov/topics/digital-acquisitions-accelerator/",
-            "https://digital.gov/topics/far/",
-            "https://digital.gov/topics/federal-acquisition-regulation/",
-            "https://digital.gov/topics/it-schedule-70/",
-            "https://digital.gov/topics/rfp/"
+         "redirects": [
+            "/topics/fas/",
+            "/topics/federal-acquisition-institute/",
+            "/topics/federal-acquisition-service/",
+            "/topics/contingency-contracting-corps/",
+            "/topics/digital-acquisition-playbook/",
+            "/topics/digital-acquisitions-accelerator/",
+            "/topics/far/",
+            "/topics/federal-acquisition-regulation/",
+            "/topics/it-schedule-70/",
+            "/topics/rfp/"
          ],
          "filepath": "/content/topics/acquisition/_index.md",
+         "uid": "acquisition",
          "slug": "acquisition",
-         "url": "http://localhost:1313/topics/acquisition/"
+         "url": "/topics/acquisition/"
       },
       {
          "field_title": "Analytics",
-         "field_deck": "Measure and plan your site performance with analytics best practices and tools",
+         "field_deck": "Measure and plan your site performance with analytics best practices and tools.",
          "field_summary": "Web analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance.",
-         "date_modified": "2024-12-09T12:43:40-05:00",
+         "date_modified": "2024-12-31T08:38:38-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
-         "legislation_title": "Executive Order 14058 and OMB Circular A-11 Section 280",
+         "legislation_title": "Executive Order 14058 and OMB Circular A-11, Section 280",
          "legislation_link": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
          "field_featured_communities": [
             "web-analytics-and-optimization",
@@ -127,51 +124,48 @@
                "href": "https://digital.gov/resources/an-introduction-to-search/"
             },
             {
-               "title": "How to use web analytics to uncover cybersecurity incidents: A USAGov case study",
-               "summary": "Learn how you can take a deep dive into analytics and uncover phishing attempts or other improper use of your agency’s content, logo, or brand.",
-               "href": "https://digital.gov/2020/10/26/true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident/"
-            },
-            {
                "title": "How to track performance",
-               "summary": "Use this step-by-step guide to choose metrics & tools, set budgets & goals, and add site tracking on your website.",
+               "summary": "Use this step-by-step guide to choose metrics &amp; tools, set budgets &amp; goals, and add site tracking on your website.",
                "href": "https://designsystem.digital.gov/performance/how/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/analytics-usa-gov",
-            "https://digital.gov/topics/data/",
-            "https://digital.gov/topics/big-data/",
-            "https://digital.gov/topics/dap/",
-            "https://digital.gov/topics/digital-analytics-program/",
-            "https://digital.gov/topics/google-analytics/",
-            "https://digital.gov/topics/metrics/"
+         "redirects": [
+            "/topics/analytics-usa-gov",
+            "/topics/data/",
+            "/topics/big-data/",
+            "/topics/dap/",
+            "/topics/digital-analytics-program/",
+            "/topics/google-analytics/",
+            "/topics/metrics/"
          ],
          "filepath": "/content/topics/analytics/_index.md",
+         "uid": "analytics",
          "slug": "analytics",
-         "url": "http://localhost:1313/topics/analytics/"
+         "url": "/topics/analytics/"
       },
       {
          "field_title": "Application programming interface",
          "field_summary": "",
          "date_modified": "2024-02-14T08:48:35-05:00",
          "field_page_weight": "2",
-         "aliases": [
-            "https://digital.gov/topics/api/",
-            "https://digital.gov/topics/api-keys/",
-            "https://digital.gov/topics/wednesday-api-briefing/"
+         "redirects": [
+            "/topics/api/",
+            "/topics/api-keys/",
+            "/topics/wednesday-api-briefing/"
          ],
          "filepath": "/content/topics/application-programming-interface/_index.md",
+         "uid": "application-programming-interface",
          "slug": "application-programming-interface",
-         "url": "http://localhost:1313/topics/application-programming-interface/"
+         "url": "/topics/application-programming-interface/"
       },
       {
          "field_title": "Artificial intelligence",
          "field_deck": "Artificial intelligence involves machines programmed to learn and reason.",
          "field_summary": "Artificial intelligence (AI) is an emerging technology where machines are programmed to learn, reason, and perform in ways that simulate human intelligence. Although AI technology took a dramatic leap forward, the ability of machines to automate manual tasks has been around for a long time. Today’s AI can analyze vast amounts of data to identify patterns and trends, providing insights to improve decisions in areas like resource allocation and risk management. Follow your agency’s guidance on security and best practices when using AI.",
-         "date_modified": "2024-07-24T13:11:23-04:00",
+         "date_modified": "2024-12-31T08:42:04-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
-         "legislation_title": "Executive Order on Safe, Secure, and Trustworthy Artificial Intelligence",
+         "legislation_title": "Executive Order 14110: Safe, Secure, and Trustworthy Artificial Intelligence",
          "legislation_link": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
          "field_featured_communities": [
             "artificial-intelligence",
@@ -179,17 +173,18 @@
          ],
          "field_featured_resource": "https://www.ai.gov/",
          "field_featured_resource_link": "https://www.ai.gov/",
-         "featured_resource_title": "Artificial intelligence: Essential knowledge",
+         "featured_resource_title": "AI.gov",
          "featured_resource_summary": "Ensuring the U.S. leads in safe, secure, and trustworthy artificial intelligence innovation to harness the opportunities of AI while mitigating its risks.",
-         "aliases": [
-            "https://digital.gov/topics/ai/",
-            "https://digital.gov/topics/artificial-intelligence-for-citizen-services-community/",
-            "https://digital.gov/topics/chatbots/",
-            "https://digital.gov/topics/natural-language-generation/"
+         "redirects": [
+            "/topics/ai/",
+            "/topics/artificial-intelligence-for-citizen-services-community/",
+            "/topics/chatbots/",
+            "/topics/natural-language-generation/"
          ],
          "filepath": "/content/topics/artificial-intelligence/_index.md",
+         "uid": "artificial-intelligence",
          "slug": "artificial-intelligence",
-         "url": "http://localhost:1313/topics/artificial-intelligence/"
+         "url": "/topics/artificial-intelligence/"
       },
       {
          "field_title": "Best practices",
@@ -227,13 +222,14 @@
                "href": "https://digital.gov/guides/dap/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/resource/",
-            "https://digital.gov/topics/whats-new/"
+         "redirects": [
+            "/topics/resource/",
+            "/topics/whats-new/"
          ],
          "filepath": "/content/topics/best-practices/_index.md",
+         "uid": "best-practices",
          "slug": "best-practices",
-         "url": "http://localhost:1313/topics/best-practices/"
+         "url": "/topics/best-practices/"
       },
       {
          "field_title": "Budgeting and performance",
@@ -248,27 +244,28 @@
          ],
          "field_featured_resource": "/resources/cdc-clear-communication-index",
          "field_featured_resource_link": "/resources/cdc-clear-communication-index",
-         "aliases": [
-            "https://digital.gov/topics/data-act/",
-            "https://digital.gov/topics/digital-accountability-and-transparency-act/",
-            "https://digital.gov/topics/ecpic/",
-            "https://digital.gov/topics/federal-information-technology-acquisition-reform-act/",
-            "https://digital.gov/topics/fitara/",
-            "https://digital.gov/topics/green-it/",
-            "https://digital.gov/topics/it-modernization-fund/",
-            "https://digital.gov/topics/itmf/",
-            "https://digital.gov/topics/m3-framework/",
-            "https://digital.gov/topics/performance/"
+         "redirects": [
+            "/topics/data-act/",
+            "/topics/digital-accountability-and-transparency-act/",
+            "/topics/ecpic/",
+            "/topics/federal-information-technology-acquisition-reform-act/",
+            "/topics/fitara/",
+            "/topics/green-it/",
+            "/topics/it-modernization-fund/",
+            "/topics/itmf/",
+            "/topics/m3-framework/",
+            "/topics/performance/"
          ],
          "filepath": "/content/topics/budgeting-and-performance/_index.md",
+         "uid": "budgeting-and-performance",
          "slug": "budgeting-and-performance",
-         "url": "http://localhost:1313/topics/budgeting-and-performance/"
+         "url": "/topics/budgeting-and-performance/"
       },
       {
-         "field_title": "Challenges \u0026 Prize Competitions",
+         "field_title": "Challenges and prize competitions",
          "field_deck": "Prize competitions can advance the missions of federal agencies.",
          "field_summary": "Agencies can use prize competitions to connect with the public braintrust, tapping into diverse expertise and perspectives to solve complex problems. Prize competitions often lead to unconventional and efficient solutions that might not be found within traditional government structures. Agencies and the public benefit from fresh approaches to tackle challenges in areas like healthcare, cybersecurity, and environmental protection.",
-         "date_modified": "2024-09-25T08:47:49-04:00",
+         "date_modified": "2025-01-03T08:58:22-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.congress.gov/bill/114th-congress/senate-bill/3084/text",
          "legislation_title": "American Innovation and Competitiveness Act (Public Law 114-329)",
@@ -280,16 +277,17 @@
          "field_featured_resource_link": "https://www.challenge.gov/",
          "featured_resource_title": "Challenge.gov",
          "featured_resource_summary": "Where competition delivers innovation for the public good.",
-         "aliases": [
-            "https://digital.gov/topics/apps-challenges/",
-            "https://digital.gov/topics/challenge-gov/",
-            "https://digital.gov/topics/challenges/",
-            "https://digital.gov/topics/challenges-and-prizes-community-of-practice/",
-            "https://digital.gov/topics/prizes-and-competitions/"
+         "redirects": [
+            "/topics/apps-challenges/",
+            "/topics/challenge-gov/",
+            "/topics/challenges/",
+            "/topics/challenges-and-prizes-community-of-practice/",
+            "/topics/prizes-and-competitions/"
          ],
          "filepath": "/content/topics/challenges-and-prize-competitions/_index.md",
+         "uid": "challenges-and-prize-competitions",
          "slug": "challenges-and-prize-competitions",
-         "url": "http://localhost:1313/topics/challenges-and-prize-competitions/"
+         "url": "/topics/challenges-and-prize-competitions/"
       },
       {
          "field_title": "Cloud and infrastructure",
@@ -308,15 +306,16 @@
          "field_featured_resource_link": "https://cloud.cio.gov/strategy/",
          "featured_resource_title": "Cloud Smart: Federal Cloud Computing Strategy",
          "featured_resource_summary": "A long-term, high-level strategy to drive cloud adoption in federal agencies. It offers a path forward for agencies to migrate to a safe and secure cloud infrastructure — supporting agencies to achieve additional savings, better security, and faster delivery of services.",
-         "aliases": [
-            "https://digital.gov/topics/aws/",
-            "https://digital.gov/topics/cloud/",
-            "https://digital.gov/topics/cloud-gov/",
-            "https://digital.gov/topics/infrastructure/"
+         "redirects": [
+            "/topics/aws/",
+            "/topics/cloud/",
+            "/topics/cloud-gov/",
+            "/topics/infrastructure/"
          ],
          "filepath": "/content/topics/cloud-and-infrastructure/_index.md",
+         "uid": "cloud-and-infrastructure",
          "slug": "cloud-and-infrastructure",
-         "url": "http://localhost:1313/topics/cloud-and-infrastructure/"
+         "url": "/topics/cloud-and-infrastructure/"
       },
       {
          "field_title": "Communication",
@@ -325,32 +324,33 @@
          "date_modified": "2024-11-07T15:44:50-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-15.pdf",
-         "legislation_title": "Information Quality Act & OMB Memo M-19-15 (PDF, 991 KB, 11 pages)",
+         "legislation_title": "Information Quality Act &amp; OMB Memo M-19-15 (PDF, 991 KB, 11 pages)",
          "legislation_link": "https://www.whitehouse.gov/wp-content/uploads/2019/04/M-19-15.pdf",
          "field_featured_communities": [
             "communicators"
          ],
          "field_featured_resource": "/resources/cdc-clear-communication-index",
          "field_featured_resource_link": "/resources/cdc-clear-communication-index",
-         "aliases": [
-            "https://digital.gov/topics/email-marketing/",
-            "https://digital.gov/topics/fcn/",
-            "https://digital.gov/topics/marketing/",
-            "https://digital.gov/topics/presentations/",
-            "https://digital.gov/topics/public-safety/",
-            "https://digital.gov/topics/writing/",
-            "https://digital.gov/topics/fcc/",
-            "https://digital.gov/topics/federal-communications-commission/"
+         "redirects": [
+            "/topics/email-marketing/",
+            "/topics/fcn/",
+            "/topics/marketing/",
+            "/topics/presentations/",
+            "/topics/public-safety/",
+            "/topics/writing/",
+            "/topics/fcc/",
+            "/topics/federal-communications-commission/"
          ],
          "filepath": "/content/topics/communication/_index.md",
+         "uid": "communication",
          "slug": "communication",
-         "url": "http://localhost:1313/topics/communication/"
+         "url": "/topics/communication/"
       },
       {
-         "field_title": "Contact Centers",
+         "field_title": "Contact centers",
          "field_deck": "Government contact centers are centralized hubs for the public to access information, request services, and receive assistance.",
          "field_summary": "Contact centers provide a centralized point of access, consolidating diverse services and information under one umbrella. This alleviates the burden on the public to navigate complex organizational structures to reach the agency they need. By streamlining access, contact centers empower individuals to engage with government services effectively, fostering a sense of ease and trust.",
-         "date_modified": "2024-11-07T15:45:39-05:00",
+         "date_modified": "2025-01-03T14:49:58-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.federalregister.gov/documents/2023/05/11/2023-10046/agency-information-collection-activities-improving-customer-experience-omb-circular-a-11-section-280",
          "legislation_title": "OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery",
@@ -361,23 +361,18 @@
          "field_featured_resource": "resources/fifteen-plays-of-our-contact-center-approach",
          "field_featured_resource_link": "resources/fifteen-plays-of-our-contact-center-approach",
          "filepath": "/content/topics/contact-centers/_index.md",
+         "uid": "contact-centers",
          "slug": "contact-centers",
-         "url": "http://localhost:1313/topics/contact-centers/"
+         "url": "/topics/contact-centers/"
       },
       {
-         "field_title": "Content",
-         "date_modified": "2024-12-30T16:19:11-05:00",
-         "filepath": null,
-         "url": "http://localhost:1313/topics/content/"
-      },
-      {
-         "field_title": "Content Strategy",
+         "field_title": "Content strategy",
          "field_deck": "Make use of content strategy to deliver great digital experiences.",
-         "field_summary": "Content strategy involves planning, creating, delivering, and governing content that meets the needs of its users and achieves an organization’s goals. Content strategy is an essential element of effective digital web services and communication for government agencies.",
-         "date_modified": "2024-12-30T16:19:11-05:00",
+         "field_summary": "Content strategy involves planning, creating, delivering, and governing content that meets the needs of its users and achieves an organization&rsquo;s goals. Content strategy is an essential element of effective digital web services and communication for government agencies.",
+         "date_modified": "2025-01-03T09:16:00-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
-         "legislation_title": "21st Century IDEA & M-23-22",
+         "legislation_title": "21st Century IDEA &amp; M-23-22",
          "legislation_link": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
          "field_featured_communities": [
             "web-managers-forum",
@@ -413,36 +408,37 @@
                "href": "https://digital.gov/event/2020/03/20/writing-for-accessible-web/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/blog/",
-            "https://digital.gov/topics/content-management-system/",
-            "https://digital.gov/topics/content-models/",
-            "https://digital.gov/topics/content-syndication/",
-            "https://digital.gov/topics/cope/",
-            "https://digital.gov/topics/core/",
-            "https://digital.gov/topics/drupal/",
-            "https://digital.gov/topics/federal-health-it-strategic-plan/",
-            "https://digital.gov/topics/gamification/",
-            "https://digital.gov/topics/knowledge-management/",
-            "https://digital.gov/topics/online-proofing/",
-            "https://digital.gov/topics/open-and-structured-content-models/",
-            "https://digital.gov/topics/sites/",
-            "https://digital.gov/topics/strategy/",
-            "https://digital.gov/topics/structured-content/",
-            "https://digital.gov/topics/the-content-corner/",
-            "https://digital.gov/topics/top-tasks/",
-            "https://digital.gov/topics/user-generated-content/",
-            "https://digital.gov/topics/web-content-managers-forum/"
+         "redirects": [
+            "/topics/blog/",
+            "/topics/content-management-system/",
+            "/topics/content-models/",
+            "/topics/content-syndication/",
+            "/topics/cope/",
+            "/topics/core/",
+            "/topics/drupal/",
+            "/topics/federal-health-it-strategic-plan/",
+            "/topics/gamification/",
+            "/topics/knowledge-management/",
+            "/topics/online-proofing/",
+            "/topics/open-and-structured-content-models/",
+            "/topics/sites/",
+            "/topics/strategy/",
+            "/topics/structured-content/",
+            "/topics/the-content-corner/",
+            "/topics/top-tasks/",
+            "/topics/user-generated-content/",
+            "/topics/web-content-managers-forum/"
          ],
          "filepath": "/content/topics/content-strategy/_index.md",
+         "uid": "content-strategy",
          "slug": "content-strategy",
-         "url": "http://localhost:1313/topics/content-strategy/"
+         "url": "/topics/content-strategy/"
       },
       {
-         "field_title": "Crowdsourcing and Citizen Science",
+         "field_title": "Crowdsourcing and citizen science",
          "field_deck": "Crowdsourcing and citizen science can accelerate discovery across the U.S. government.",
          "field_summary": "Through citizen science and crowdsourcing, the federal government and nongovernmental organizations can engage the public in addressing societal needs and accelerating science, technology, and innovation. In citizen science, the public voluntarily participates in the scientific process, addressing real-world problems in ways that may include formulating research questions, conducting scientific experiments, collecting and analyzing data, interpreting results, making new discoveries, developing technologies and applications, and solving complex problems. In crowdsourcing, organizations submit an open call for voluntary assistance from a large group of individuals for online, distributed problem solving.",
-         "date_modified": "2024-09-25T08:47:49-04:00",
+         "date_modified": "2025-01-03T09:03:20-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
          "legislation_title": "Crowdsourcing and Citizen Science Act of 2016",
@@ -454,73 +450,75 @@
          "field_featured_resource_link": "https://www.citizenscience.gov/",
          "featured_resource_title": "CitizenScience.gov",
          "featured_resource_summary": " An official government website designed to accelerate the use of crowdsourcing and citizen science across the U.S. government.",
-         "aliases": [
-            "https://digital.gov/topics/10x/",
-            "https://digital.gov/topics/citizen-science/",
-            "https://digital.gov/topics/citizen-science-and-crowdsourcing-community-of-practice/",
-            "https://digital.gov/topics/crowdfunding/",
-            "https://digital.gov/topics/crowdsourcing/",
-            "https://digital.gov/topics/fcpccs/"
+         "redirects": [
+            "/topics/10x/",
+            "/topics/citizen-science/",
+            "/topics/citizen-science-and-crowdsourcing-community-of-practice/",
+            "/topics/crowdfunding/",
+            "/topics/crowdsourcing/",
+            "/topics/fcpccs/"
          ],
          "filepath": "/content/topics/crowdsourcing-and-citizen-science/_index.md",
+         "uid": "crowdsourcing-and-citizen-science",
          "slug": "crowdsourcing-and-citizen-science",
-         "url": "http://localhost:1313/topics/crowdsourcing-and-citizen-science/"
+         "url": "/topics/crowdsourcing-and-citizen-science/"
       },
       {
          "field_title": "Customer experience",
          "field_deck": "Improving customer experience drives better results in the federal government",
-         "field_summary": "Customer experience (CX) is the sum of the public’s interactions with any government service. An intentional CX strategy is essential to building and maintaining public trust, improving the efficiency and effectiveness of government programs, and delivering better outcomes for the public. By focusing on the customer’s needs and expectations, federal agencies can create more user-friendly and efficient processes, provide more timely and helpful support, and deliver better experiences. This can lead to increased public satisfaction, greater trust in government, and improved outcomes for all.",
-         "date_modified": "2024-09-25T10:52:58-04:00",
+         "field_summary": "Customer experience (CX) is the sum of the public&rsquo;s interactions with any government service. An intentional CX strategy is essential to building and maintaining public trust, improving the efficiency and effectiveness of government programs, and delivering better outcomes for the public.",
+         "date_modified": "2024-12-31T11:20:38-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government",
-         "legislation_title": "Executive Order on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government",
-         "legislation_link": "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government",
+         "field_legislation": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
+         "legislation_title": "Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government and OMB Circular A-11, Section 280",
+         "legislation_link": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
          "field_featured_communities": [
             "user-experience"
          ],
-         "field_featured_resource": "resources/customer-experience-toolkit/",
-         "field_featured_resource_link": "resources/customer-experience-toolkit/",
+         "field_featured_resource": "resources/an-introduction-to-customer-experience/",
+         "field_featured_resource_link": "resources/an-introduction-to-customer-experience/",
          "field_featured_links_title": "Customer experience: Essential knowledge",
          "field_featured_links": [
             {
-               "title": "Embed equity in civic design to transform customer experience",
-               "summary": "Use lessons learned from this case study, which describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience.",
+               "title": "Embedding equity in civic design to transform customer experience",
+               "summary": "Two civic designers explain the deep ties between equity and customer experience in federal government.",
                "href": "https://digital.gov/resources/embedding-equity-in-civic-design-to-transform-customer-experience/"
             },
             {
-               "title": "Follow time-tested steps from the VA Customer Experience Cookbook",
-               "summary": "The Department of Veterans Affairs (VA) Customer Experience Cookbook provides a guide for other government agencies looking to build customer experience capabilities.",
-               "href": "https://news.va.gov/81288/va-releases-customer-experience-cookbook-federal-agencies/"
+               "title": "Customer experience tools from the Department of Homeland Security",
+               "summary": "Explore resources to support establishing a customer centric mindset in the federal government.",
+               "href": "https://www.dhs.gov/cx/resources/guides-kits"
             },
             {
-               "title": "Adopt strategies to deliver excellent, equitable, and secure federal services and customer experience",
-               "summary": "The second priority of the President’s Management Agenda focuses on revolutionizing the federal government’s customer service delivery and rebuilding the customer experience.",
-               "href": "https://www.performance.gov/pma/cx/"
+               "title": "Follow time-tested steps from the Department of Veterans Affairs",
+               "summary": "Explore the Customer Experience Cookbook and other resources to support building customer experience capabilities.",
+               "href": "https://department.va.gov/veterans-experience/"
             },
             {
-               "title": "OMB Circular A-11 Section 280 (2023) – Managing Customer Experience and Improving Service (PDF, 385 KB, 14 pages)",
-               "summary": "Measure customer experience with this guide from the Office of Management and Budget (OMB), including questions on satisfaction and confidence and trust in section 280.7.",
-               "href": "https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf"
+               "title": "Understanding the Digital Analytics Program",
+               "summary": "The Digital Analytics Program offers advanced, easy web analytics for federal agencies.",
+               "href": "https://digital.gov/guides/dap/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/communities/",
-            "https://digital.gov/topics/ex-im-bank/",
-            "https://digital.gov/topics/export-import-bank-of-the-united-states/",
-            "https://digital.gov/topics/customer-experience-community-of-practice/",
-            "https://digital.gov/topics/customer-satisfaction/",
-            "https://digital.gov/topics/customer-service/",
-            "https://digital.gov/topics/cx/"
+         "redirects": [
+            "/topics/communities/",
+            "/topics/ex-im-bank/",
+            "/topics/export-import-bank-of-the-united-states/",
+            "/topics/customer-experience-community-of-practice/",
+            "/topics/customer-satisfaction/",
+            "/topics/customer-service/",
+            "/topics/cx/"
          ],
          "filepath": "/content/topics/customer-experience/_index.md",
+         "uid": "customer-experience",
          "slug": "customer-experience",
-         "url": "http://localhost:1313/topics/customer-experience/"
+         "url": "/topics/customer-experience/"
       },
       {
          "field_title": "Data visualization",
          "field_deck": "Make your data more actionable and digestible",
          "field_summary": "Data visualization helps government teams interpret and communicate information. Visualizations can help simplify complex data, encourage broader interest on a topic, and increase transparency.",
-         "date_modified": "2024-11-13T14:32:31-05:00",
+         "date_modified": "2025-01-06T12:40:41-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/open-data-policy-m-13-13/",
          "legislation_title": "M-13-13, Guidance on managing open information as an asset",
@@ -529,8 +527,8 @@
             "web-analytics-and-optimization",
             "user-experience"
          ],
-         "field_featured_resource": "/guides/dap",
-         "field_featured_resource_link": "/guides/dap",
+         "field_featured_resource": "/resources/an-introduction-to-data-visualization/",
+         "field_featured_resource_link": "/resources/an-introduction-to-data-visualization/",
          "field_featured_links_title": "Data visualization: Essential knowledge",
          "field_featured_links": [
             {
@@ -539,27 +537,33 @@
                "href": "https://resources.data.gov/"
             },
             {
+               "title": "Understanding the Digital Analytics Program",
+               "summary": "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies.",
+               "href": "https://digital.gov/guides/dap/"
+            },
+            {
                "title": "Involving end users at all stages to create actionable science products for complex, real-world issues",
                "summary": "Understand how to use co-production methods to increase the usefulness of scientific results, products, and tools.",
                "href": "https://digital.gov/2021/08/13/involving-end-users-at-all-stages-to-create-actionable-science-products-for-complex-real-world-issues/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/infographic/"
+         "redirects": [
+            "/topics/infographic/"
          ],
          "filepath": "/content/topics/data-visualization/_index.md",
+         "uid": "data-visualization",
          "slug": "data-visualization",
-         "url": "http://localhost:1313/topics/data-visualization/"
+         "url": "/topics/data-visualization/"
       },
       {
          "field_title": "Design",
-         "field_deck": "Understand how and why design impacts user experience",
+         "field_deck": "Understand how and why design impacts user experience.",
          "field_summary": "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements.",
          "date_modified": "2025-01-03T12:18:15-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
-         "legislation_title": "21st Century Integrated Digital Experience Act",
-         "legislation_link": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
+         "field_legislation": "/resources/21st-century-integrated-digital-experience-act/",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
+         "legislation_link": "/resources/21st-century-integrated-digital-experience-act/",
          "field_featured_communities": [
             "user-experience",
             "uswds"
@@ -580,7 +584,7 @@
             },
             {
                "title": "An introduction to design systems",
-               "summary": "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started.",
+               "summary": "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch.",
                "href": "https://digital.gov/resources/introduction-to-design-systems/"
             },
             {
@@ -592,41 +596,37 @@
                "title": "Understanding design in 10 questions",
                "summary": "Learn how the discipline of design can help your agency improve customer experience.",
                "href": "https://digital.gov/2023/03/03/understanding-design-in-10-questions/"
-            },
-            {
-               "title": "Bringing design in-house",
-               "summary": "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative.",
-               "href": "https://digital.gov/2023/01/27/bringing-design-in-house/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/draft-web-design-standards/",
-            "https://digital.gov/topics/prototype/",
-            "https://digital.gov/topics/public-sans/",
-            "https://digital.gov/2017/11/14/uswds-digitalgov/",
-            "https://digital.gov/2017/03/2017-03-13-u-s-web-design-standards-releases-version-1-0/",
-            "https://digital.gov/2017/03/13/u-s-web-design-standards-releases-version-1-0/",
-            "https://digital.gov/2015/09/2015-09-28-introducing-the-u-s-web-design-standards/",
-            "https://digital.gov/2015/09/28/introducing-the-u-s-web-design-standards/",
-            "https://digital.gov/2015/11/2015-11-17-gsa-gov-refreshed-with-eye-toward-mobile-users/",
-            "https://digital.gov/2015/10/2015-10-05-the-content-corner-content-management-system-considerations/",
-            "https://digital.gov/2015/11/2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions/",
-            "https://digital.gov/2016/04/06/three-teams-using-the-draft-u-s-web-design-standards-talk-about-their-experiences/",
-            "https://digital.gov/2016/03/16/making-the-draft-u-s-web-design-standards-better-through-your-feedback/",
-            "https://digital.gov/2016/03/25/how-to-integrate-the-draft-u-s-web-design-standards-into-existing-projects/"
+         "redirects": [
+            "/topics/draft-web-design-standards/",
+            "/topics/prototype/",
+            "/topics/public-sans/",
+            "/2017/11/14/uswds-digitalgov/",
+            "/2017/03/2017-03-13-u-s-web-design-standards-releases-version-1-0/",
+            "/2017/03/13/u-s-web-design-standards-releases-version-1-0/",
+            "/2015/09/2015-09-28-introducing-the-u-s-web-design-standards/",
+            "/2015/09/28/introducing-the-u-s-web-design-standards/",
+            "/2015/11/2015-11-17-gsa-gov-refreshed-with-eye-toward-mobile-users/",
+            "/2015/10/2015-10-05-the-content-corner-content-management-system-considerations/",
+            "/2015/11/2015-11-10-trends-on-tuesday-5-tips-for-designing-touch-interactions/",
+            "/2016/04/06/three-teams-using-the-draft-u-s-web-design-standards-talk-about-their-experiences/",
+            "/2016/03/16/making-the-draft-u-s-web-design-standards-better-through-your-feedback/",
+            "/2016/03/25/how-to-integrate-the-draft-u-s-web-design-standards-into-existing-projects/"
          ],
          "filepath": "/content/topics/design/_index.md",
+         "uid": "design",
          "slug": "design",
-         "url": "http://localhost:1313/topics/design/"
+         "url": "/topics/design/"
       },
       {
-         "field_title": "Digital Service Delivery",
+         "field_title": "Digital service delivery",
          "field_deck": "Make it easier for the public to access the information and services that they count on each and every day.",
-         "field_summary": "For millions, access to digital services isn’t a luxury—it’s critical. The public’s experiences using government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food can dramatically affect how they feel about the government. Digital service delivery is the primary subject of 21st Century IDEA, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices.",
-         "date_modified": "2024-12-03T16:29:25-05:00",
+         "field_summary": "For millions, access to digital services is critical. The public uses government websites to find unemployment support, file taxes, apply for student loans, or get assistance with housing, childcare, or food. Providing easy-to-use access to these services online is a priority of the federal government. Improving digital service delivery is the primary subject of 21st Century Integrated Digital Experience Act, and its policy guidance in OMB M-23-22, which requires federal agencies to enact best practices.",
+         "date_modified": "2024-12-31T08:56:31-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum",
@@ -662,371 +662,317 @@
                "title": "An introduction to digital governance",
                "summary": "Digital governance refers to the internal systems and processes we use to manage our digital presence. Learn why governance is essential to digital service delivery.",
                "href": "https://digital.gov/resources/an-introduction-to-digital-governance/"
-            },
-            {
-               "title": "Test websites for accessibility",
-               "summary": "Design and deliver digital services with everyone in mind. Use both manual and automated testing methods to create accessible websites.",
-               "href": "https://digital.gov/resources/how-test-websites-for-accessibility/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/21st-century-idea/",
-            "https://digital.gov/topics/diversity-equity-inclusion-accessibility-deia/",
-            "https://digital.gov/topics/this-weeks-idea/",
-            "https://digital.gov/topics/18f/",
-            "https://digital.gov/topics/abmc/",
-            "https://digital.gov/topics/administration-on-aging/",
-            "https://digital.gov/topics/administrative-office-of-the-united-states-courts/",
-            "https://digital.gov/topics/aids-gov/",
-            "https://digital.gov/topics/american-battle-monuments-commission/",
-            "https://digital.gov/topics/american-red-cross/",
-            "https://digital.gov/topics/digitalgov-summit/",
-            "https://digital.gov/topics/monthly-theme/",
-            "https://digital.gov/topics/animal-and-plant-health-inspection-service/",
-            "https://digital.gov/topics/architect-of-the-capitol/",
-            "https://digital.gov/topics/arlington-national-cemetery/",
-            "https://digital.gov/topics/atf/",
-            "https://digital.gov/topics/bbg/",
-            "https://digital.gov/topics/bea/",
-            "https://digital.gov/topics/bia/",
-            "https://digital.gov/topics/blm/",
-            "https://digital.gov/topics/bls/",
-            "https://digital.gov/topics/broadcasting-board-of-governors/",
-            "https://digital.gov/topics/bureau-of-alcohol-tobacco-firearms-and-explosives/",
-            "https://digital.gov/topics/bureau-of-indian-affairs/",
-            "https://digital.gov/topics/bureau-of-justice-statistics/",
-            "https://digital.gov/topics/bureau-of-reclamation/",
-            "https://digital.gov/topics/cdc/",
-            "https://digital.gov/topics/census/",
-            "https://digital.gov/topics/centers-for-disease-control-and-prevention/",
-            "https://digital.gov/topics/centers-for-medicare-and-medicaid-services/",
-            "https://digital.gov/topics/central-intelligence-agency/",
-            "https://digital.gov/topics/cfpb/",
-            "https://digital.gov/topics/cia/",
-            "https://digital.gov/topics/cms/",
-            "https://digital.gov/topics/cncs/",
-            "https://digital.gov/topics/commerce/",
-            "https://digital.gov/topics/connect-gov/",
-            "https://digital.gov/topics/consumer-financial-protection-bureau/",
-            "https://digital.gov/topics/consumer-product-safety-commission/",
-            "https://digital.gov/topics/cops-office/",
-            "https://digital.gov/topics/corporation-for-national-and-community-service/",
-            "https://digital.gov/topics/court-services-and-offender-supervision-agency/",
-            "https://digital.gov/topics/cpsc/",
-            "https://digital.gov/topics/csosa/",
-            "https://digital.gov/topics/defense-advanced-research-projects-agency/",
-            "https://digital.gov/topics/defense-commissary-agency/",
-            "https://digital.gov/topics/defense-finance-and-accounting-services/",
-            "https://digital.gov/topics/defense-intelligence-agency/",
-            "https://digital.gov/topics/defense-logistics-agency/",
-            "https://digital.gov/topics/department-of-commerce/",
-            "https://digital.gov/topics/dfas/",
-            "https://digital.gov/topics/dhs/",
-            "https://digital.gov/topics/dia/",
-            "https://digital.gov/topics/digital-health-innovation-plan/",
-            "https://digital.gov/topics/digital-services-playbook/",
-            "https://digital.gov/topics/digitalgov/",
-            "https://digital.gov/topics/disease/",
-            "https://digital.gov/topics/dod/",
-            "https://digital.gov/topics/doe/",
-            "https://digital.gov/topics/doi/",
-            "https://digital.gov/topics/doj/",
-            "https://digital.gov/topics/dol/",
-            "https://digital.gov/topics/dos/",
-            "https://digital.gov/topics/dot/",
-            "https://digital.gov/topics/education/",
-            "https://digital.gov/topics/eia/",
-            "https://digital.gov/topics/epa/",
-            "https://digital.gov/topics/event/",
-            "https://digital.gov/topics/executive-office-of-the-president/",
-            "https://digital.gov/topics/faa/",
-            "https://digital.gov/topics/fafsa/",
-            "https://digital.gov/topics/fai/",
-            "https://digital.gov/topics/fbi/",
-            "https://digital.gov/topics/fda/",
-            "https://digital.gov/topics/fec/",
-            "https://digital.gov/topics/federal-aviation-administration/",
-            "https://digital.gov/topics/federal-bureau-of-investigation/",
-            "https://digital.gov/topics/federal-election-commission/",
-            "https://digital.gov/topics/federal-emergency-management-agency/",
-            "https://digital.gov/topics/federal-railroad-administration/",
-            "https://digital.gov/topics/federal-reserve-board/",
-            "https://digital.gov/topics/federal-student-aid/",
-            "https://digital.gov/topics/federal-trade-commission/",
-            "https://digital.gov/topics/fema/",
-            "https://digital.gov/topics/first-responder-network-authority/",
-            "https://digital.gov/topics/first-responders-network/",
-            "https://digital.gov/topics/firstnet/",
-            "https://digital.gov/topics/frb/",
-            "https://digital.gov/topics/fs/",
-            "https://digital.gov/topics/fsa/",
-            "https://digital.gov/topics/ftc/",
-            "https://digital.gov/topics/fws/",
-            "https://digital.gov/topics/gao/",
-            "https://digital.gov/topics/go-usa-gov/",
-            "https://digital.gov/topics/gsa/",
-            "https://digital.gov/topics/hhs/",
-            "https://digital.gov/topics/hiv-gov/",
-            "https://digital.gov/topics/hrsa/",
-            "https://digital.gov/topics/hud/",
-            "https://digital.gov/topics/humanitarian-information-unit/",
-            "https://digital.gov/topics/ice/",
-            "https://digital.gov/topics/ies/",
-            "https://digital.gov/topics/ihs/",
-            "https://digital.gov/topics/imls/",
-            "https://digital.gov/topics/indian-health-service/",
-            "https://digital.gov/topics/institute-for-education-sciences/",
-            "https://digital.gov/topics/institute-of-museum-and-library-services/",
-            "https://digital.gov/topics/internal-revenue-service/",
-            "https://digital.gov/topics/international-trade-administration/",
-            "https://digital.gov/topics/irs/",
-            "https://digital.gov/topics/ita/",
-            "https://digital.gov/topics/itif/",
-            "https://digital.gov/topics/kids-gov/",
-            "https://digital.gov/topics/law-library-of-congress/",
-            "https://digital.gov/topics/library-of-congress/",
-            "https://digital.gov/topics/loc/",
-            "https://digital.gov/topics/mcc/",
-            "https://digital.gov/topics/nara/",
-            "https://digital.gov/topics/nasa/",
-            "https://digital.gov/topics/nasm/",
-            "https://digital.gov/topics/national-aeronautics-and-space-administration/",
-            "https://digital.gov/topics/national-air-and-space-museum/",
-            "https://digital.gov/topics/national-cancer-institute/",
-            "https://digital.gov/topics/national-center-for-complementary-and-integrative-health/",
-            "https://digital.gov/topics/national-center-for-telehealth-and-technology/",
-            "https://digital.gov/topics/national-defense-university/",
-            "https://digital.gov/topics/national-eye-institute/",
-            "https://digital.gov/topics/national-gallery-of-art/",
-            "https://digital.gov/topics/national-guard/",
-            "https://digital.gov/topics/national-highway-traffic-safety-administration/",
-            "https://digital.gov/topics/national-hurricane-center/",
-            "https://digital.gov/topics/national-institute-of-allergy-and-infectious-diseases/",
-            "https://digital.gov/topics/national-institute-of-heart-lung-and-blood-diseases/",
-            "https://digital.gov/topics/national-institute-of-justice/",
-            "https://digital.gov/topics/national-institute-of-standards/",
-            "https://digital.gov/topics/national-institute-of-standards-and-technology/",
-            "https://digital.gov/topics/national-institute-on-drug-abuse/",
-            "https://digital.gov/topics/national-institutes-of-health/",
-            "https://digital.gov/topics/national-library-of-medicine/",
-            "https://digital.gov/topics/national-museum-of-african-american-history-and-culture/",
-            "https://digital.gov/topics/national-museum-of-american-history/",
-            "https://digital.gov/topics/national-ocean-service/",
-            "https://digital.gov/topics/national-oceanic-and-atmospheric-administration/",
-            "https://digital.gov/topics/national-renewable-energy-laboratory/",
-            "https://digital.gov/topics/national-resources-conservation-service/",
-            "https://digital.gov/topics/national-science-foundation/",
-            "https://digital.gov/topics/national-technical-information-service/",
-            "https://digital.gov/topics/national-telecommunications-and-information-administration/",
-            "https://digital.gov/topics/national-weather-service/",
-            "https://digital.gov/topics/national-zoological-park/",
-            "https://digital.gov/topics/navy-army-community-credit-union/",
-            "https://digital.gov/topics/nccih/",
-            "https://digital.gov/topics/nci/",
-            "https://digital.gov/topics/ndu/",
-            "https://digital.gov/topics/nhlbi/",
-            "https://digital.gov/topics/nhtsa/",
-            "https://digital.gov/topics/niaid/",
-            "https://digital.gov/topics/nida/",
-            "https://digital.gov/topics/nih/",
-            "https://digital.gov/topics/nij/",
-            "https://digital.gov/topics/nlm/",
-            "https://digital.gov/topics/nmaahc/",
-            "https://digital.gov/topics/nmah/",
-            "https://digital.gov/topics/nmai/",
-            "https://digital.gov/topics/noaa/",
-            "https://digital.gov/topics/norad/",
-            "https://digital.gov/topics/north-american-defense-command/",
-            "https://digital.gov/topics/nos/",
-            "https://digital.gov/topics/nps/",
-            "https://digital.gov/topics/nrc/",
-            "https://digital.gov/topics/nrel/",
-            "https://digital.gov/topics/nsf/",
-            "https://digital.gov/topics/ntia/",
-            "https://digital.gov/topics/ntis/",
-            "https://digital.gov/topics/nuclear-regulatory-commission/",
-            "https://digital.gov/topics/nws/",
-            "https://digital.gov/topics/occupational-safety-and-health-administration/",
-            "https://digital.gov/topics/ocsit/",
-            "https://digital.gov/topics/odni/",
-            "https://digital.gov/topics/office-of-child-support-enforcement/",
-            "https://digital.gov/topics/office-of-citizen-services-and-innovative-technology/",
-            "https://digital.gov/topics/office-of-community-oriented-policing-services/",
-            "https://digital.gov/topics/office-of-government-information-services/",
-            "https://digital.gov/topics/office-of-inspector-general/",
-            "https://digital.gov/topics/office-of-minority-health/",
-            "https://digital.gov/topics/office-of-natural-resources-revenue/",
-            "https://digital.gov/topics/office-of-naval-research/",
-            "https://digital.gov/topics/office-of-products-and-programs/",
-            "https://digital.gov/topics/office-of-the-director-of-national-intelligence/",
-            "https://digital.gov/topics/office-of-the-national-coordinator-for-health-it/",
-            "https://digital.gov/topics/office-of-the-us-foreign-assistance-resources/",
-            "https://digital.gov/topics/ogis/",
-            "https://digital.gov/topics/oig/",
-            "https://digital.gov/topics/oip/",
-            "https://digital.gov/topics/omh/",
-            "https://digital.gov/topics/onc/",
-            "https://digital.gov/topics/onrr/",
-            "https://digital.gov/topics/opm/",
-            "https://digital.gov/topics/opp/",
-            "https://digital.gov/topics/osha/",
-            "https://digital.gov/topics/our-work/",
-            "https://digital.gov/topics/pbgc/",
-            "https://digital.gov/topics/peace-corps/",
-            "https://digital.gov/topics/pension-benefit-guaranty-corporation/",
-            "https://digital.gov/topics/rotc/",
-            "https://digital.gov/topics/samhsa/",
-            "https://digital.gov/topics/sba/",
-            "https://digital.gov/topics/sbir/",
-            "https://digital.gov/topics/sbst/",
-            "https://digital.gov/topics/sclda/",
-            "https://digital.gov/topics/sec/",
-            "https://digital.gov/topics/sitesusagov/",
-            "https://digital.gov/topics/small-business-innovation-research/",
-            "https://digital.gov/topics/smithsonian-center-for-learning-and-digital-access/",
-            "https://digital.gov/topics/smithsonian-institution/",
-            "https://digital.gov/topics/smithsonian-libraries/",
-            "https://digital.gov/topics/smithsonian-national-museum-of-the-american-indian/",
-            "https://digital.gov/topics/social-and-behavioral-sciences-team/",
-            "https://digital.gov/topics/ssa/",
-            "https://digital.gov/topics/state/",
-            "https://digital.gov/topics/technology-transformation-services/",
-            "https://digital.gov/topics/the-bureau-of-land-management/",
-            "https://digital.gov/topics/the-united-states-social-security-administration/",
-            "https://digital.gov/topics/transportation-security-administration/",
-            "https://digital.gov/topics/tribal/",
-            "https://digital.gov/topics/tribal-government/",
-            "https://digital.gov/topics/tsa/",
-            "https://digital.gov/topics/tts/",
-            "https://digital.gov/topics/unified-shared-services-management/",
-            "https://digital.gov/topics/united-states-air-force/",
-            "https://digital.gov/topics/united-states-army/",
-            "https://digital.gov/topics/united-states-census-bureau/",
-            "https://digital.gov/topics/united-states-department-of-defense/",
-            "https://digital.gov/topics/united-states-department-of-energy/",
-            "https://digital.gov/topics/united-states-department-of-health-and-human-services/",
-            "https://digital.gov/topics/united-states-department-of-homeland-security/",
-            "https://digital.gov/topics/united-states-department-of-housing-and-urban-development/",
-            "https://digital.gov/topics/united-states-department-of-transportation/",
-            "https://digital.gov/topics/united-states-geological-survey/",
-            "https://digital.gov/topics/united-states-navy/",
-            "https://digital.gov/topics/united-states-office-of-personnel-management/",
-            "https://digital.gov/topics/united-states-patent-and-trademark-office/",
-            "https://digital.gov/topics/united-states-postal-service/",
-            "https://digital.gov/topics/us/",
-            "https://digital.gov/topics/us-agency-for-international-development/",
-            "https://digital.gov/topics/us-bureau-of-economic-analysis/",
-            "https://digital.gov/topics/us-bureau-of-engraving-and-printing/",
-            "https://digital.gov/topics/us-bureau-of-labor-statistics/",
-            "https://digital.gov/topics/us-citizenship-and-immigration-service/",
-            "https://digital.gov/topics/us-coast-guard/",
-            "https://digital.gov/topics/us-customs-and-border-protection/",
-            "https://digital.gov/topics/us-department-of-agriculture/",
-            "https://digital.gov/topics/us-department-of-education/",
-            "https://digital.gov/topics/us-department-of-justice/",
-            "https://digital.gov/topics/us-department-of-labor/",
-            "https://digital.gov/topics/us-department-of-state/",
-            "https://digital.gov/topics/us-department-of-the-interior/",
-            "https://digital.gov/topics/us-department-of-the-treasury/",
-            "https://digital.gov/topics/us-department-of-veterans-affairs/",
-            "https://digital.gov/topics/us-digital-service/",
-            "https://digital.gov/topics/us-energy-information-administration/",
-            "https://digital.gov/topics/us-environmental-protection-agency/",
-            "https://digital.gov/topics/us-fish-and-wildlife-service/",
-            "https://digital.gov/topics/us-food-and-drug-administration/",
-            "https://digital.gov/topics/us-forest-service/",
-            "https://digital.gov/topics/us-general-services-administration/",
-            "https://digital.gov/topics/us-global-change-research-program/",
-            "https://digital.gov/topics/us-government-accountability-office/",
-            "https://digital.gov/topics/us-government-printing-office/",
-            "https://digital.gov/topics/us-health-resources-and-services-administration/",
-            "https://digital.gov/topics/us-immigration-and-customs-enforcement/",
-            "https://digital.gov/topics/us-national-park-service/",
-            "https://digital.gov/topics/us-securities-and-exchange-commission/",
-            "https://digital.gov/topics/us-small-business-administration/",
-            "https://digital.gov/topics/us-trade-and-development-agency/",
-            "https://digital.gov/topics/usa-gov/",
-            "https://digital.gov/topics/usagov/",
-            "https://digital.gov/topics/usaid/",
-            "https://digital.gov/topics/usajobs/",
-            "https://digital.gov/topics/uscis/",
-            "https://digital.gov/topics/usda/",
-            "https://digital.gov/topics/usds/",
-            "https://digital.gov/topics/usfs/",
-            "https://digital.gov/topics/usgs/",
-            "https://digital.gov/topics/usps/",
-            "https://digital.gov/topics/uspto/",
-            "https://digital.gov/topics/ustda/",
-            "https://digital.gov/topics/uswds/",
-            "https://digital.gov/topics/va/",
-            "https://digital.gov/topics/va-center-for-innovation/",
-            "https://digital.gov/topics/vaci/",
-            "https://digital.gov/topics/veterans-health-administration/",
-            "https://digital.gov/topics/vha/",
-            "https://digital.gov/topics/web-based/"
+         "redirects": [
+            "/topics/21st-century-idea/",
+            "/topics/diversity-equity-inclusion-accessibility-deia/",
+            "/topics/this-weeks-idea/",
+            "/topics/18f/",
+            "/topics/abmc/",
+            "/topics/administration-on-aging/",
+            "/topics/administrative-office-of-the-united-states-courts/",
+            "/topics/aids-gov/",
+            "/topics/american-battle-monuments-commission/",
+            "/topics/american-red-cross/",
+            "/topics/digitalgov-summit/",
+            "/topics/monthly-theme/",
+            "/topics/animal-and-plant-health-inspection-service/",
+            "/topics/architect-of-the-capitol/",
+            "/topics/arlington-national-cemetery/",
+            "/topics/atf/",
+            "/topics/bbg/",
+            "/topics/bea/",
+            "/topics/bia/",
+            "/topics/blm/",
+            "/topics/bls/",
+            "/topics/broadcasting-board-of-governors/",
+            "/topics/bureau-of-alcohol-tobacco-firearms-and-explosives/",
+            "/topics/bureau-of-indian-affairs/",
+            "/topics/bureau-of-justice-statistics/",
+            "/topics/bureau-of-reclamation/",
+            "/topics/cdc/",
+            "/topics/census/",
+            "/topics/centers-for-disease-control-and-prevention/",
+            "/topics/centers-for-medicare-and-medicaid-services/",
+            "/topics/central-intelligence-agency/",
+            "/topics/cfpb/",
+            "/topics/cia/",
+            "/topics/cms/",
+            "/topics/cncs/",
+            "/topics/commerce/",
+            "/topics/connect-gov/",
+            "/topics/consumer-financial-protection-bureau/",
+            "/topics/consumer-product-safety-commission/",
+            "/topics/cops-office/",
+            "/topics/corporation-for-national-and-community-service/",
+            "/topics/court-services-and-offender-supervision-agency/",
+            "/topics/cpsc/",
+            "/topics/csosa/",
+            "/topics/defense-advanced-research-projects-agency/",
+            "/topics/defense-commissary-agency/",
+            "/topics/defense-finance-and-accounting-services/",
+            "/topics/defense-intelligence-agency/",
+            "/topics/defense-logistics-agency/",
+            "/topics/department-of-commerce/",
+            "/topics/dfas/",
+            "/topics/dhs/",
+            "/topics/dia/",
+            "/topics/digital-health-innovation-plan/",
+            "/topics/digital-services-playbook/",
+            "/topics/digitalgov/",
+            "/topics/disease/",
+            "/topics/dod/",
+            "/topics/doe/",
+            "/topics/doi/",
+            "/topics/doj/",
+            "/topics/dol/",
+            "/topics/dos/",
+            "/topics/dot/",
+            "/topics/education/",
+            "/topics/eia/",
+            "/topics/epa/",
+            "/topics/event/",
+            "/topics/executive-office-of-the-president/",
+            "/topics/faa/",
+            "/topics/fafsa/",
+            "/topics/fai/",
+            "/topics/fbi/",
+            "/topics/fda/",
+            "/topics/fec/",
+            "/topics/federal-aviation-administration/",
+            "/topics/federal-bureau-of-investigation/",
+            "/topics/federal-election-commission/",
+            "/topics/federal-emergency-management-agency/",
+            "/topics/federal-railroad-administration/",
+            "/topics/federal-reserve-board/",
+            "/topics/federal-student-aid/",
+            "/topics/federal-trade-commission/",
+            "/topics/fema/",
+            "/topics/first-responder-network-authority/",
+            "/topics/first-responders-network/",
+            "/topics/firstnet/",
+            "/topics/frb/",
+            "/topics/fs/",
+            "/topics/fsa/",
+            "/topics/ftc/",
+            "/topics/fws/",
+            "/topics/gao/",
+            "/topics/go-usa-gov/",
+            "/topics/gsa/",
+            "/topics/hhs/",
+            "/topics/hiv-gov/",
+            "/topics/hrsa/",
+            "/topics/hud/",
+            "/topics/humanitarian-information-unit/",
+            "/topics/ice/",
+            "/topics/ies/",
+            "/topics/ihs/",
+            "/topics/imls/",
+            "/topics/indian-health-service/",
+            "/topics/institute-for-education-sciences/",
+            "/topics/institute-of-museum-and-library-services/",
+            "/topics/internal-revenue-service/",
+            "/topics/international-trade-administration/",
+            "/topics/irs/",
+            "/topics/ita/",
+            "/topics/itif/",
+            "/topics/kids-gov/",
+            "/topics/law-library-of-congress/",
+            "/topics/library-of-congress/",
+            "/topics/loc/",
+            "/topics/mcc/",
+            "/topics/nara/",
+            "/topics/nasa/",
+            "/topics/nasm/",
+            "/topics/national-aeronautics-and-space-administration/",
+            "/topics/national-air-and-space-museum/",
+            "/topics/national-cancer-institute/",
+            "/topics/national-center-for-complementary-and-integrative-health/",
+            "/topics/national-center-for-telehealth-and-technology/",
+            "/topics/national-defense-university/",
+            "/topics/national-eye-institute/",
+            "/topics/national-gallery-of-art/",
+            "/topics/national-guard/",
+            "/topics/national-highway-traffic-safety-administration/",
+            "/topics/national-hurricane-center/",
+            "/topics/national-institute-of-allergy-and-infectious-diseases/",
+            "/topics/national-institute-of-heart-lung-and-blood-diseases/",
+            "/topics/national-institute-of-justice/",
+            "/topics/national-institute-of-standards/",
+            "/topics/national-institute-of-standards-and-technology/",
+            "/topics/national-institute-on-drug-abuse/",
+            "/topics/national-institutes-of-health/",
+            "/topics/national-library-of-medicine/",
+            "/topics/national-museum-of-african-american-history-and-culture/",
+            "/topics/national-museum-of-american-history/",
+            "/topics/national-ocean-service/",
+            "/topics/national-oceanic-and-atmospheric-administration/",
+            "/topics/national-renewable-energy-laboratory/",
+            "/topics/national-resources-conservation-service/",
+            "/topics/national-science-foundation/",
+            "/topics/national-technical-information-service/",
+            "/topics/national-telecommunications-and-information-administration/",
+            "/topics/national-weather-service/",
+            "/topics/national-zoological-park/",
+            "/topics/navy-army-community-credit-union/",
+            "/topics/nccih/",
+            "/topics/nci/",
+            "/topics/ndu/",
+            "/topics/nhlbi/",
+            "/topics/nhtsa/",
+            "/topics/niaid/",
+            "/topics/nida/",
+            "/topics/nih/",
+            "/topics/nij/",
+            "/topics/nlm/",
+            "/topics/nmaahc/",
+            "/topics/nmah/",
+            "/topics/nmai/",
+            "/topics/noaa/",
+            "/topics/norad/",
+            "/topics/north-american-defense-command/",
+            "/topics/nos/",
+            "/topics/nps/",
+            "/topics/nrc/",
+            "/topics/nrel/",
+            "/topics/nsf/",
+            "/topics/ntia/",
+            "/topics/ntis/",
+            "/topics/nuclear-regulatory-commission/",
+            "/topics/nws/",
+            "/topics/occupational-safety-and-health-administration/",
+            "/topics/ocsit/",
+            "/topics/odni/",
+            "/topics/office-of-child-support-enforcement/",
+            "/topics/office-of-citizen-services-and-innovative-technology/",
+            "/topics/office-of-community-oriented-policing-services/",
+            "/topics/office-of-government-information-services/",
+            "/topics/office-of-inspector-general/",
+            "/topics/office-of-minority-health/",
+            "/topics/office-of-natural-resources-revenue/",
+            "/topics/office-of-naval-research/",
+            "/topics/office-of-products-and-programs/",
+            "/topics/office-of-the-director-of-national-intelligence/",
+            "/topics/office-of-the-national-coordinator-for-health-it/",
+            "/topics/office-of-the-us-foreign-assistance-resources/",
+            "/topics/ogis/",
+            "/topics/oig/",
+            "/topics/oip/",
+            "/topics/omh/",
+            "/topics/onc/",
+            "/topics/onrr/",
+            "/topics/opm/",
+            "/topics/opp/",
+            "/topics/osha/",
+            "/topics/our-work/",
+            "/topics/pbgc/",
+            "/topics/peace-corps/",
+            "/topics/pension-benefit-guaranty-corporation/",
+            "/topics/rotc/",
+            "/topics/samhsa/",
+            "/topics/sba/",
+            "/topics/sbir/",
+            "/topics/sbst/",
+            "/topics/sclda/",
+            "/topics/sec/",
+            "/topics/sitesusagov/",
+            "/topics/small-business-innovation-research/",
+            "/topics/smithsonian-center-for-learning-and-digital-access/",
+            "/topics/smithsonian-institution/",
+            "/topics/smithsonian-libraries/",
+            "/topics/smithsonian-national-museum-of-the-american-indian/",
+            "/topics/social-and-behavioral-sciences-team/",
+            "/topics/ssa/",
+            "/topics/state/",
+            "/topics/technology-transformation-services/",
+            "/topics/the-bureau-of-land-management/",
+            "/topics/the-united-states-social-security-administration/",
+            "/topics/transportation-security-administration/",
+            "/topics/tribal/",
+            "/topics/tribal-government/",
+            "/topics/tsa/",
+            "/topics/tts/",
+            "/topics/unified-shared-services-management/",
+            "/topics/united-states-air-force/",
+            "/topics/united-states-army/",
+            "/topics/united-states-census-bureau/",
+            "/topics/united-states-department-of-defense/",
+            "/topics/united-states-department-of-energy/",
+            "/topics/united-states-department-of-health-and-human-services/",
+            "/topics/united-states-department-of-homeland-security/",
+            "/topics/united-states-department-of-housing-and-urban-development/",
+            "/topics/united-states-department-of-transportation/",
+            "/topics/united-states-geological-survey/",
+            "/topics/united-states-navy/",
+            "/topics/united-states-office-of-personnel-management/",
+            "/topics/united-states-patent-and-trademark-office/",
+            "/topics/united-states-postal-service/",
+            "/topics/us/",
+            "/topics/us-agency-for-international-development/",
+            "/topics/us-bureau-of-economic-analysis/",
+            "/topics/us-bureau-of-engraving-and-printing/",
+            "/topics/us-bureau-of-labor-statistics/",
+            "/topics/us-citizenship-and-immigration-service/",
+            "/topics/us-coast-guard/",
+            "/topics/us-customs-and-border-protection/",
+            "/topics/us-department-of-agriculture/",
+            "/topics/us-department-of-education/",
+            "/topics/us-department-of-justice/",
+            "/topics/us-department-of-labor/",
+            "/topics/us-department-of-state/",
+            "/topics/us-department-of-the-interior/",
+            "/topics/us-department-of-the-treasury/",
+            "/topics/us-department-of-veterans-affairs/",
+            "/topics/us-digital-service/",
+            "/topics/us-energy-information-administration/",
+            "/topics/us-environmental-protection-agency/",
+            "/topics/us-fish-and-wildlife-service/",
+            "/topics/us-food-and-drug-administration/",
+            "/topics/us-forest-service/",
+            "/topics/us-general-services-administration/",
+            "/topics/us-global-change-research-program/",
+            "/topics/us-government-accountability-office/",
+            "/topics/us-government-printing-office/",
+            "/topics/us-health-resources-and-services-administration/",
+            "/topics/us-immigration-and-customs-enforcement/",
+            "/topics/us-national-park-service/",
+            "/topics/us-securities-and-exchange-commission/",
+            "/topics/us-small-business-administration/",
+            "/topics/us-trade-and-development-agency/",
+            "/topics/usa-gov/",
+            "/topics/usagov/",
+            "/topics/usaid/",
+            "/topics/usajobs/",
+            "/topics/uscis/",
+            "/topics/usda/",
+            "/topics/usds/",
+            "/topics/usfs/",
+            "/topics/usgs/",
+            "/topics/usps/",
+            "/topics/uspto/",
+            "/topics/ustda/",
+            "/topics/uswds/",
+            "/topics/va/",
+            "/topics/va-center-for-innovation/",
+            "/topics/vaci/",
+            "/topics/veterans-health-administration/",
+            "/topics/vha/",
+            "/topics/web-based/"
          ],
          "filepath": "/content/topics/digital-service-delivery/_index.md",
+         "uid": "digital-service-delivery",
          "slug": "digital-service-delivery",
-         "url": "http://localhost:1313/topics/digital-service-delivery/"
+         "url": "/topics/digital-service-delivery/"
       },
       {
-         "field_title": "Diversity, Equity, and Inclusion",
-         "field_deck": "Find out how to incorporate diversity, equity, inclusion, and accessibility (DEIA) into digital experiences.",
-         "field_summary": "When digital experiences are designed to be inclusive, they are accessible to all — people with diverse abilities, people who speak different languages, and people from diverse cultural, ethnic, and economic backgrounds. Inclusion creates a better user experience for everyone. When we consider inclusion from the start of designing digital experiences, we create a wider impact for the products and services we design.",
-         "date_modified": "2024-09-25T10:52:58-04:00",
-         "field_page_weight": "2",
-         "field_legislation": "https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal",
-         "legislation_title": "Executive Order 14091: Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government",
-         "legislation_link": "https://www.federalregister.gov/documents/2023/02/22/2023-03779/further-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal",
-         "field_featured_communities": [
-            "multilingual",
-            "user-experience"
-         ],
-         "field_featured_resource": "/resources/introduction-to-self-description",
-         "field_featured_resource_link": "/resources/introduction-to-self-description",
-         "field_featured_links_title": "Diversity, equity, inclusion, and accessibility: Essential knowledge",
-         "field_featured_links": [
-            {
-               "title": "Embedding equity in civic design to transform customer experience",
-               "summary": "Learn how designers in the federal government leverage design methods to build a foundation for improved customer experiences for all people.",
-               "href": "https://digital.gov/resources/embedding-equity-in-civic-design-to-transform-customer-experience/"
-            },
-            {
-               "title": "Inclusive design patterns",
-               "summary": "See the U.S. Web Design System’s research report and learn how findings lead to library of guidance and examples focused on key digital interactions that foster effective, inclusive, and equitable digital experiences.",
-               "href": "https://designsystem.digital.gov/together/"
-            },
-            {
-               "title": "An introduction to pronouns",
-               "summary": "Learn how to respectfully use someone’s pronouns.",
-               "href": "https://digital.gov/resources/an-introduction-to-pronouns/"
-            },
-            {
-               "title": "Accessibility for Teams",
-               "summary": "A quick-start guide for embedding accessibility and inclusive design practices into your team’s workflow.",
-               "href": "https://accessibility.digital.gov"
-            },
-            {
-               "title": "Office of Personnel Management (OPM) | Diversity, Equity, Inclusion, and Accessibility",
-               "summary": "Use these strategies and actions to meet your diversity, equity, and inclusion goals.",
-               "href": "https://www.opm.gov/services-for-agencies/diversity-equity-inclusion-and-accessibility/"
-            }
-         ],
-         "aliases": [
-            "https://digital.gov/topics/diversity-equity-inclusion-accessibility-deia/"
-         ],
-         "filepath": "/content/topics/diversity-equity-and-inclusion/_index.md",
-         "slug": "diversity-equity-and-inclusion",
-         "url": "http://localhost:1313/topics/diversity-equity-and-inclusion/"
-      },
-      {
-         "field_title": "Domain Management",
+         "field_title": "Domain management",
          "field_deck": "Clear and consistent use of .gov and .mil domains is essential to maintaining public trust.",
          "field_summary": "It should be easy to identify government websites on the internet. Using a .gov or .mil domain increases security, trust, and accountability, while ensuring the public can clearly identify official government services and information.",
-         "date_modified": "2024-09-25T10:52:58-04:00",
+         "date_modified": "2025-01-03T09:19:07-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf",
-         "legislation_title": " DOTGOV Act & M-23-10 (PDF, 96 KB, 3 pages, February 2023)",
+         "legislation_title": " DOTGOV Act &amp; M-23-10 (PDF, 96 KB, 3 pages, February 2023)",
          "legislation_link": "https://www.whitehouse.gov/wp-content/uploads/2023/02/M-23-10-DOTGOV-Act-Guidance.pdf",
          "field_featured_communities": [
             "web-managers-forum"
@@ -1054,17 +1000,18 @@
             }
          ],
          "filepath": "/content/topics/domain-management/_index.md",
+         "uid": "domain-management",
          "slug": "domain-management",
-         "url": "http://localhost:1313/topics/domain-management/"
+         "url": "/topics/domain-management/"
       },
       {
          "field_title": "Emerging tech",
-         "field_deck": "Cutting-edge technologies can improve the delivery of public services",
+         "field_deck": "Innovative technologies can improve the delivery of public services.",
          "field_summary": "The federal government monitors new technologies, especially those with great potential to change how the public lives and works. Adopting new technologies responsibly can improve the efficiency and quality of government services.",
-         "date_modified": "2024-11-01T15:02:07-04:00",
+         "date_modified": "2024-12-31T08:57:28-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
-         "legislation_title": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+         "legislation_title": "Executive Order 14110: Safe, Secure, and Trustworthy Artificial Intelligence",
          "legislation_link": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
          "field_featured_communities": [
             "web-analytics-and-optimization",
@@ -1073,7 +1020,7 @@
          "field_featured_links_title": "Emerging tech: Essential knowledge",
          "field_featured_links": [
             {
-               "title": "Administration Actions on AI",
+               "title": "Administration actions on AI",
                "summary": "Find updates on the federal government’s work to promote the safe, secure, and trustworthy use of AI. This includes federal agency use cases, the Blueprint for an AI Bill of Rights and an AI risk management framework.",
                "href": "https://ai.gov/actions/"
             },
@@ -1093,20 +1040,21 @@
                "href": "https://digital.gov/2022/01/26/assessing-the-state-of-federal-robotic-process-automation-rpa/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/darpa/",
-            "https://digital.gov/topics/3d-printing/",
-            "https://digital.gov/topics/augmented-reality/",
-            "https://digital.gov/topics/blockchain/",
-            "https://digital.gov/topics/internet-of-things/",
-            "https://digital.gov/topics/iot/",
-            "https://digital.gov/topics/the-data-briefing/",
-            "https://digital.gov/topics/trends-on-tuesday/",
-            "https://digital.gov/topics/zero-ui/"
+         "redirects": [
+            "/topics/darpa/",
+            "/topics/3d-printing/",
+            "/topics/augmented-reality/",
+            "/topics/blockchain/",
+            "/topics/internet-of-things/",
+            "/topics/iot/",
+            "/topics/the-data-briefing/",
+            "/topics/trends-on-tuesday/",
+            "/topics/zero-ui/"
          ],
          "filepath": "/content/topics/emerging-tech/_index.md",
+         "uid": "emerging-tech",
          "slug": "emerging-tech",
-         "url": "http://localhost:1313/topics/emerging-tech/"
+         "url": "/topics/emerging-tech/"
       },
       {
          "field_title": "Governance",
@@ -1114,9 +1062,9 @@
          "field_summary": "Governance provides a framework for decision-making by establishing standards and procedures and clarifying roles and responsibilities. Digital governance encompasses all aspects of website management and operation, including content, design, technical infrastructure, security, funding, and product, project, and program management.",
          "date_modified": "2025-01-03T12:18:15-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century IDEA & M-23-22",
-         "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
+         "field_legislation": "/resources/delivering-digital-first-public-experience/",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
+         "legislation_link": "/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum"
          ],
@@ -1133,14 +1081,9 @@
                "href": "https://digital.gov/resources/an-introduction-to-digital-governance/"
             },
             {
-               "title": "What are agency reporting requirements?",
-               "summary": "Learn what the Office of Management and Budget (OMB) requires federal executive agencies to complete by September 2024; one year after M-23-22 issuance.",
-               "href": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/#what-are-the-agency-reporting-requirements"
-            },
-            {
-               "title": "Who’s on your digital dream team?",
-               "summary": "Learn about the various roles your agency could include on your web teams.",
-               "href": "https://digital.gov/2020/05/27/whos-on-your-digital-dream-team/"
+               "title": "An introduction to decommissioning sites",
+               "summary": "Learn how to decommission a federal agency website when it no longer provides value or meets user needs.",
+               "href": "https://digital.gov/resources/an-introduction-to-decommissioning-sites/"
             },
             {
                "title": "Required web content and links",
@@ -1154,17 +1097,18 @@
             }
          ],
          "filepath": "/content/topics/governance/_index.md",
+         "uid": "governance",
          "slug": "governance",
-         "url": "http://localhost:1313/topics/governance/"
+         "url": "/topics/governance/"
       },
       {
-         "field_title": "Human centered design",
-         "field_deck": "Take the guesswork out of service design by understanding people’s needs.",
-         "field_summary": "Human centered design (HCD) is a philosophy and method that places people’s experiences at the heart of service design. Unlike traditional, system-centric approaches, HCD prioritizes understanding real-world challenges and frustrations faced by users and crafting solutions that directly address them. HCD is a continuous process, not a one-time fix. Regular evaluation and user feedback are essential to maintain relevance and adapt services to evolving user needs. HCD provides a valuable framework for ensuring government services are and remain accessible, efficient, and user-centric.",
-         "date_modified": "2024-09-25T08:47:49-04:00",
+         "field_title": "Human-centered design",
+         "field_deck": "Take the guesswork out of service design by understanding people&rsquo;s needs.",
+         "field_summary": "Human-centered design (HCD) is a philosophy and method that places people’s experiences at the heart of service design. Unlike traditional, system-centric approaches, HCD prioritizes understanding real-world challenges and frustrations faced by users and crafting solutions that directly address them. HCD is a continuous process, not a one-time fix. Regular evaluation and user feedback are essential to maintain relevance and adapt services to evolving user needs.",
+         "date_modified": "2024-12-31T09:26:12-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century Integrated Digital Experience Act & OMB Memo M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB Memo M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum",
@@ -1172,12 +1116,13 @@
          ],
          "field_featured_resource": "/guides/hcd/",
          "field_featured_resource_link": "/guides/hcd/",
-         "aliases": [
-            "https://digital.gov/topics/user-centered-design/"
+         "redirects": [
+            "/topics/user-centered-design/"
          ],
          "filepath": "/content/topics/human-centered-design/_index.md",
+         "uid": "human-centered-design",
          "slug": "human-centered-design",
-         "url": "http://localhost:1313/topics/human-centered-design/"
+         "url": "/topics/human-centered-design/"
       },
       {
          "field_title": "Information architecture",
@@ -1186,17 +1131,18 @@
          "date_modified": "2024-02-02T11:35:13-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century Integrated Digital Experience Act & OMB Memo M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act &amp; OMB Memo M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum"
          ],
-         "aliases": [
-            "https://digital.gov/topics/architecture/"
+         "redirects": [
+            "/topics/architecture/"
          ],
          "filepath": "/content/topics/information-architecture/_index.md",
+         "uid": "information-architecture",
          "slug": "information-architecture",
-         "url": "http://localhost:1313/topics/information-architecture/"
+         "url": "/topics/information-architecture/"
       },
       {
          "field_title": "Information collection",
@@ -1213,18 +1159,19 @@
          ],
          "field_featured_resource": "guide-paperwork-reduction-act",
          "field_featured_resource_link": "guide-paperwork-reduction-act",
-         "aliases": [
-            "https://digital.gov/topics/pra/"
+         "redirects": [
+            "/topics/pra/"
          ],
          "filepath": "/content/topics/information-collection/_index.md",
+         "uid": "information-collection",
          "slug": "information-collection",
-         "url": "http://localhost:1313/topics/information-collection/"
+         "url": "/topics/information-collection/"
       },
       {
          "field_title": "Innovation",
          "field_deck": "New ideas and methods for improving federal programs and services",
          "field_summary": "Technology is always evolving. Exploring the latest developments and trends in digital service delivery helps practitioners find new ways to create outstanding digital experiences for users.",
-         "date_modified": "2024-11-01T15:25:06-04:00",
+         "date_modified": "2025-01-23T18:55:40-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/open-data-policy-m-13-13/",
          "legislation_title": "Open data policy (Memo M-13-13)",
@@ -1244,20 +1191,16 @@
                "title": "Presidential Innovation Fellows",
                "summary": "Get an overview of a program embedding seasoned technologists and innovators within federal agencies.",
                "href": "https://presidentialinnovationfellows.gov/"
-            },
-            {
-               "title": "Prioritizing equity in government-led innovation programs",
-               "summary": "Learn how the Census Open Innovation Labs team supports the next generation of technologists and designers.",
-               "href": "https://digital.gov/2021/10/25/prioritizing-equity-in-government-led-innovation-programs/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/pif/",
-            "https://digital.gov/topics/presidential-innovation-fellows/"
+         "redirects": [
+            "/topics/pif/",
+            "/topics/presidential-innovation-fellows/"
          ],
          "filepath": "/content/topics/innovation/_index.md",
+         "uid": "innovation",
          "slug": "innovation",
-         "url": "http://localhost:1313/topics/innovation/"
+         "url": "/topics/innovation/"
       },
       {
          "field_title": "Mobile",
@@ -1302,43 +1245,44 @@
                "href": "https://digital.gov/resources/mobile-sow-and-developer-qualifications/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/mobile/",
-            "https://digital.gov/topics/5g/",
-            "https://digital.gov/topics/app/",
-            "https://digital.gov/topics/apps/",
-            "https://digital.gov/topics/broadband/",
-            "https://digital.gov/topics/federal-crowdsource-mobile-testing-program/",
-            "https://digital.gov/topics/federal-mobile-products-registry/",
-            "https://digital.gov/topics/gps/",
-            "https://digital.gov/topics/making-mobile-gov/",
-            "https://digital.gov/topics/mobile-app-development-program/",
-            "https://digital.gov/topics/mobile-apps/",
-            "https://digital.gov/topics/mobile-code-catalog/",
-            "https://digital.gov/topics/mobile-first/",
-            "https://digital.gov/topics/mobile-friendly/",
-            "https://digital.gov/topics/mobile-gov/",
-            "https://digital.gov/topics/mobile-gov-community-of-practice/",
-            "https://digital.gov/topics/mobile-gov-experience/",
-            "https://digital.gov/topics/mobile-testing/",
-            "https://digital.gov/topics/mobile-user-experience-guidelines/",
-            "https://digital.gov/topics/mobile-ux-guideline-1/",
-            "https://digital.gov/topics/mobile-ux-guideline-2/",
-            "https://digital.gov/topics/mobile-ux-guideline-3/",
-            "https://digital.gov/topics/mobile-ux-guideline-4/",
-            "https://digital.gov/topics/mobile-ux-guideline-5/",
-            "https://digital.gov/topics/mobile-ux-guideline-6/",
-            "https://digital.gov/topics/native-app/",
-            "https://digital.gov/topics/native-apps/",
-            "https://digital.gov/topics/responsive-web-design/",
-            "https://digital.gov/topics/sms/",
-            "https://digital.gov/topics/thursday-mobile-products/",
-            "https://digital.gov/topics/usa-gov-federal-mobile-apps-directory/",
-            "https://digital.gov/topics/wireless/"
+         "redirects": [
+            "/topics/mobile/",
+            "/topics/5g/",
+            "/topics/app/",
+            "/topics/apps/",
+            "/topics/broadband/",
+            "/topics/federal-crowdsource-mobile-testing-program/",
+            "/topics/federal-mobile-products-registry/",
+            "/topics/gps/",
+            "/topics/making-mobile-gov/",
+            "/topics/mobile-app-development-program/",
+            "/topics/mobile-apps/",
+            "/topics/mobile-code-catalog/",
+            "/topics/mobile-first/",
+            "/topics/mobile-friendly/",
+            "/topics/mobile-gov/",
+            "/topics/mobile-gov-community-of-practice/",
+            "/topics/mobile-gov-experience/",
+            "/topics/mobile-testing/",
+            "/topics/mobile-user-experience-guidelines/",
+            "/topics/mobile-ux-guideline-1/",
+            "/topics/mobile-ux-guideline-2/",
+            "/topics/mobile-ux-guideline-3/",
+            "/topics/mobile-ux-guideline-4/",
+            "/topics/mobile-ux-guideline-5/",
+            "/topics/mobile-ux-guideline-6/",
+            "/topics/native-app/",
+            "/topics/native-apps/",
+            "/topics/responsive-web-design/",
+            "/topics/sms/",
+            "/topics/thursday-mobile-products/",
+            "/topics/usa-gov-federal-mobile-apps-directory/",
+            "/topics/wireless/"
          ],
          "filepath": "/content/topics/mobile/_index.md",
+         "uid": "mobile",
          "slug": "mobile",
-         "url": "http://localhost:1313/topics/mobile/"
+         "url": "/topics/mobile/"
       },
       {
          "field_title": "Multilingual",
@@ -1385,15 +1329,16 @@
                "href": "https://digital.gov/resources/bilingual-glossaries-dictionaries-style-guides"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/anle/",
-            "https://digital.gov/topics/gobiernousagov/",
-            "https://digital.gov/topics/lep/",
-            "https://digital.gov/topics/multilingual-community/"
+         "redirects": [
+            "/topics/anle/",
+            "/topics/gobiernousagov/",
+            "/topics/lep/",
+            "/topics/multilingual-community/"
          ],
          "filepath": "/content/topics/multilingual/_index.md",
+         "uid": "multilingual",
          "slug": "multilingual",
-         "url": "http://localhost:1313/topics/multilingual/"
+         "url": "/topics/multilingual/"
       },
       {
          "field_title": "Multimedia",
@@ -1405,19 +1350,20 @@
             "communicators",
             "social-media"
          ],
-         "aliases": [
-            "https://digital.gov/topics/audio/",
-            "https://digital.gov/topics/audio-video/",
-            "https://digital.gov/topics/digital-audio-video-community/",
-            "https://digital.gov/topics/video/",
-            "https://digital.gov/topics/video-production-pros-community/",
-            "https://digital.gov/topics/virtual-augmented-reality-community/",
-            "https://digital.gov/topics/virtual-reality/",
-            "https://digital.gov/topics/voice/"
+         "redirects": [
+            "/topics/audio/",
+            "/topics/audio-video/",
+            "/topics/digital-audio-video-community/",
+            "/topics/video/",
+            "/topics/video-production-pros-community/",
+            "/topics/virtual-augmented-reality-community/",
+            "/topics/virtual-reality/",
+            "/topics/voice/"
          ],
          "filepath": "/content/topics/multimedia/_index.md",
+         "uid": "multimedia",
          "slug": "multimedia",
-         "url": "http://localhost:1313/topics/multimedia/"
+         "url": "/topics/multimedia/"
       },
       {
          "field_title": "Open data",
@@ -1450,13 +1396,14 @@
                "href": "https://digital.gov/guides/site-scanning/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/open/",
-            "https://digital.gov/topics/data-gov/"
+         "redirects": [
+            "/topics/open/",
+            "/topics/data-gov/"
          ],
          "filepath": "/content/topics/open-data/_index.md",
+         "uid": "open-data",
          "slug": "open-data",
-         "url": "http://localhost:1313/topics/open-data/"
+         "url": "/topics/open-data/"
       },
       {
          "field_title": "Open government",
@@ -1492,31 +1439,33 @@
                "href": "https://challenge.gov"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/foia/",
-            "https://digital.gov/topics/freedom-of-information-act/",
-            "https://digital.gov/topics/national-action-plan-on-open-government/"
+         "redirects": [
+            "/topics/foia/",
+            "/topics/freedom-of-information-act/",
+            "/topics/national-action-plan-on-open-government/"
          ],
          "filepath": "/content/topics/open-government/_index.md",
+         "uid": "open-government",
          "slug": "open-government",
-         "url": "http://localhost:1313/topics/open-government/"
+         "url": "/topics/open-government/"
       },
       {
-         "field_title": "Open Source",
+         "field_title": "Open source",
          "field_summary": "",
-         "date_modified": "2024-10-11T15:38:40-04:00",
+         "date_modified": "2025-01-03T09:20:31-05:00",
          "field_page_weight": "2",
-         "aliases": [
-            "https://digital.gov/2017/06/13/fractal-and-federalist-join-the-u-s-web-design-standards/"
+         "redirects": [
+            "/2017/06/13/fractal-and-federalist-join-the-u-s-web-design-standards/"
          ],
          "filepath": "/content/topics/open-source/_index.md",
+         "uid": "open-source",
          "slug": "open-source",
-         "url": "http://localhost:1313/topics/open-source/"
+         "url": "/topics/open-source/"
       },
       {
-         "field_title": "Plain Language",
+         "field_title": "Plain language",
          "field_summary": "Plain language is communication that is clear and easy to understand for your target audience, regardless of the medium used to deliver it. It is communication your audience can understand the first time they encounter it. Using plain language on government websites is one of the best ways to reach your target audience. A clear, concise message builds trust with users because they can understand your call to action and complete their tasks and meet their needs.",
-         "date_modified": "2024-10-17T12:03:14-04:00",
+         "date_modified": "2025-01-03T09:17:24-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.govinfo.gov/app/details/PLAW-111publ274",
          "legislation_title": "Plain Writing Act of 2010",
@@ -1551,38 +1500,31 @@
                "href": "https://digital.gov/resources/omb-final-guidance-on-implementing-the-plain-writing-act-of-2010-m-11-15/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/communities/plain-language-community-of-practice/",
-            "https://digital.gov/topics/plain-language-community-of-practice/",
-            "https://digital.gov/topics/plain-writing-act-of-2010/"
+         "redirects": [
+            "/communities/plain-language-community-of-practice/",
+            "/topics/plain-language-community-of-practice/",
+            "/topics/plain-writing-act-of-2010/"
          ],
          "filepath": "/content/topics/plain-language/_index.md",
+         "uid": "plain-language",
          "slug": "plain-language",
-         "url": "http://localhost:1313/topics/plain-language/"
+         "url": "/topics/plain-language/"
       },
       {
          "field_title": "Podcast",
          "field_deck": "Use podcasts to offer pre-recorded content your users can listen to anytime, anywhere.",
          "field_summary": "Podcasts enable government agencies to connect with the public in a fresh, accessible way. More informal than press releases, podcasts can offer digestible insights into government work. For example, consider demystifying complex policies through engaging interviews, humanizing experts through storytelling, and addressing public concerns in candid conversations. Use podcasts to foster transparency, build trust, and inject a bit of humanity into the public’s perception of government.",
-         "date_modified": "2024-09-25T08:47:49-04:00",
+         "date_modified": "2025-01-13T10:27:29-05:00",
          "field_page_weight": "2",
          "field_featured_communities": [
-            "web-managers-forum"
+            "communicators"
          ],
-         "field_featured_resource": "how-to-start-and-sustain-a-federal-podcast",
-         "field_featured_resource_link": "how-to-start-and-sustain-a-federal-podcast",
+         "field_featured_resource": "an-introduction-to-podcasts",
+         "field_featured_resource_link": "an-introduction-to-podcasts",
          "filepath": "/content/topics/podcast/_index.md",
+         "uid": "podcast",
          "slug": "podcast",
-         "url": "http://localhost:1313/topics/podcast/"
-      },
-      {
-         "field_title": "Policies and Regulations",
-         "field_summary": "The relevant laws, policies, and regulations for federal agencies.",
-         "date_modified": "2024-04-05T17:53:36-04:00",
-         "field_page_weight": "2",
-         "filepath": "/content/topics/policy/_index.md",
-         "slug": "policy",
-         "url": "http://localhost:1313/topics/policy/"
+         "url": "/topics/podcast/"
       },
       {
          "field_title": "Privacy",
@@ -1591,48 +1533,50 @@
          "date_modified": "2024-09-25T08:47:49-04:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.fpc.gov/resources/omb/",
-         "legislation_title": "Privacy Act of 1974 & various OMB memos",
+         "legislation_title": "Privacy Act of 1974 &amp; various OMB memos",
          "legislation_link": "https://www.fpc.gov/resources/omb/",
          "field_featured_communities": [
             "web-managers-forum"
          ],
          "field_featured_resource": "an-introduction-to-privacy",
          "field_featured_resource_link": "an-introduction-to-privacy",
-         "aliases": [
-            "https://digital.gov/topics/privacy-impact-assessment/"
+         "redirects": [
+            "/topics/privacy-impact-assessment/"
          ],
          "filepath": "/content/topics/privacy/_index.md",
+         "uid": "privacy",
          "slug": "privacy",
-         "url": "http://localhost:1313/topics/privacy/"
+         "url": "/topics/privacy/"
       },
       {
          "field_title": "Product and project management",
          "field_summary": "",
          "date_modified": "2024-02-14T08:30:21-05:00",
          "field_page_weight": "2",
-         "aliases": [
-            "https://digital.gov/topics/cio/",
-            "https://digital.gov/topics/cio-council/",
-            "https://digital.gov/topics/work-in-progress/",
-            "https://digital.gov/topics/agile/",
-            "https://digital.gov/topics/agile-lean-community-of-practice/",
-            "https://digital.gov/topics/kanban/",
-            "https://digital.gov/topics/lean/",
-            "https://digital.gov/topics/product-management/",
-            "https://digital.gov/topics/project-management/",
-            "https://digital.gov/topics/scrum/",
-            "https://digital.gov/topics/sprint/",
-            "https://digital.gov/topics/workflows/"
+         "redirects": [
+            "/topics/cio/",
+            "/topics/cio-council/",
+            "/topics/work-in-progress/",
+            "/topics/agile/",
+            "/topics/agile-lean-community-of-practice/",
+            "/topics/kanban/",
+            "/topics/lean/",
+            "/topics/product-management/",
+            "/topics/project-management/",
+            "/topics/scrum/",
+            "/topics/sprint/",
+            "/topics/workflows/"
          ],
          "filepath": "/content/topics/product-and-project-management/_index.md",
+         "uid": "product-and-project-management",
          "slug": "product-and-project-management",
-         "url": "http://localhost:1313/topics/product-and-project-management/"
+         "url": "/topics/product-and-project-management/"
       },
       {
-         "field_title": "Professional Development",
-         "field_deck": "Acquire new skills and knowledge to improve your career performance and reach your professional goals.",
+         "field_title": "Professional development",
+         "field_deck": "Acquire new skills and knowledge to improve your career performance and reach  your professional goals.",
          "field_summary": "Ensuring that federal agencies can deliver excellent digital services requires an engaged and well-trained workforce. While core competencies in collaboration, communication, and leadership remain vital, additional skills like data analysis, cybersecurity, and digital fluency are becoming increasingly in-demand. Creating an intentional professional development plan for yourself or your team ensures that we can deliver cutting-edge solutions.",
-         "date_modified": "2024-09-25T08:47:49-04:00",
+         "date_modified": "2025-01-03T09:23:20-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.performance.gov/pma/workforce/",
          "legislation_title": "The President’s Management Agenda: Workforce Priority",
@@ -1642,21 +1586,81 @@
          ],
          "field_featured_resource": "open-opportunities",
          "field_featured_resource_link": "open-opportunities",
-         "aliases": [
-            "https://digital.gov/topics/digitalgov-university/",
-            "https://digital.gov/topics/recaps/",
-            "https://digital.gov/topics/skills/",
-            "https://digital.gov/topics/summit/",
-            "https://digital.gov/topics/technology-industry-day/",
-            "https://digital.gov/topics/training/",
-            "https://digital.gov/topics/dgu/",
-            "https://digital.gov/topics/webinar/",
-            "https://digital.gov/topics/human-resources/",
-            "https://digital.gov/topics/open-opportunities-program/"
+         "redirects": [
+            "/topics/digitalgov-university/",
+            "/topics/recaps/",
+            "/topics/skills/",
+            "/topics/summit/",
+            "/topics/technology-industry-day/",
+            "/topics/training/",
+            "/topics/dgu/",
+            "/topics/webinar/",
+            "/topics/human-resources/",
+            "/topics/open-opportunities-program/"
          ],
          "filepath": "/content/topics/professional-development/_index.md",
+         "uid": "professional-development",
          "slug": "professional-development",
-         "url": "http://localhost:1313/topics/professional-development/"
+         "url": "/topics/professional-development/"
+      },
+      {
+         "field_title": "Public policy",
+         "field_deck": "The relevant laws and policies for delivering better digital services",
+         "field_summary": "Public policy plays a vital role in how federal programs serve the public. More than 100 laws, memos, and other policies impact federal websites, covering topics such as accessibility, privacy, security, design, and user experience. It is important for web and digital practitioners to understand the policy framework.",
+         "date_modified": "2025-01-06T13:51:32-05:00",
+         "field_page_weight": "2",
+         "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
+         "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
+         "field_featured_communities": [
+            "web-managers-forum"
+         ],
+         "field_featured_links_title": "Public policy: Essential knowledge",
+         "field_featured_links": [
+            {
+               "title": "Requirements for strengthening the federal government’s commitment to digital accessibility",
+               "summary": "Understanding Section 508 of the Rehabilitation Act of 1973, Section 508 standards, and OMB M-24-08.",
+               "href": "https://digital.gov/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/"
+            },
+            {
+               "title": "Requirements for transforming federal customer experience and service delivery",
+               "summary": "Understanding Executive Order 14058 and OMB Circular A-11, Section 280 (2024).",
+               "href": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/"
+            },
+            {
+               "title": "Requirements for delivering a digital-first public experience",
+               "summary": "Understanding the 21st Century Integrated Digital Experience Act and OMB M-23-22.",
+               "href": "https://digital.gov/resources/delivering-digital-first-public-experience/"
+            },
+            {
+               "title": "Requirements for the registration and use of .gov domains in the federal government",
+               "summary": "Understanding the DOTGOV Online Trust in Government Act and OMB M-23-10.",
+               "href": "https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/"
+            },
+            {
+               "title": "Requirements for improving access to services for people with limited English proficiency",
+               "summary": "Understanding Executive Order 13166, Attorney General memorandum, and Title VI of the Civil Rights Act.",
+               "href": "https://digital.gov/resources/requirements-for-improving-access-to-services-for-people-with-limited-english-proficiency-lep/"
+            },
+            {
+               "title": "Requirements for improving the management of federal programs and projects",
+               "summary": "Understanding the Program Management Improvement Accountability Act and OMB M-18-19.",
+               "href": "https://digital.gov/resources/requirements-for-improving-the-management-of-federal-programs-and-projects/"
+            }
+         ],
+         "redirects": [
+            "/guides/public-policy/",
+            "/guides/public-policy/accessibility",
+            "/guides/public-policy/conclusion",
+            "/guides/public-policy/information-collection",
+            "/guides/public-policy/policy-types",
+            "/guides/public-policy/privacy-and-security",
+            "/topics/policy/"
+         ],
+         "filepath": "/content/topics/public-policy/_index.md",
+         "uid": "public-policy",
+         "slug": "public-policy",
+         "url": "/topics/public-policy/"
       },
       {
          "field_title": "Records management",
@@ -1683,48 +1687,51 @@
             }
          ],
          "filepath": "/content/topics/records-management/_index.md",
+         "uid": "records-management",
          "slug": "records-management",
-         "url": "http://localhost:1313/topics/records-management/"
+         "url": "/topics/records-management/"
       },
       {
          "field_title": "Research",
          "field_summary": "",
          "date_modified": "2024-01-26T09:48:04-05:00",
          "field_page_weight": "2",
-         "aliases": [
-            "https://digital.gov/topics/18f-methods/",
-            "https://digital.gov/topics/a-b-testing/",
-            "https://digital.gov/topics/community-ab-testing/",
-            "https://digital.gov/topics/methodology/",
-            "https://digital.gov/topics/personas/",
-            "https://digital.gov/topics/quick-study/",
-            "https://digital.gov/topics/user-research/",
-            "https://digital.gov/topics/user-testing-and-research/"
+         "redirects": [
+            "/topics/18f-methods/",
+            "/topics/a-b-testing/",
+            "/topics/community-ab-testing/",
+            "/topics/methodology/",
+            "/topics/personas/",
+            "/topics/quick-study/",
+            "/topics/user-research/",
+            "/topics/user-testing-and-research/"
          ],
          "filepath": "/content/topics/research/_index.md",
+         "uid": "research",
          "slug": "research",
-         "url": "http://localhost:1313/topics/research/"
+         "url": "/topics/research/"
       },
       {
          "field_title": "Robotic process automation",
          "field_summary": "",
          "date_modified": "2024-02-14T08:30:21-05:00",
          "field_page_weight": "2",
-         "aliases": [
-            "https://digital.gov/topics/rpa/"
+         "redirects": [
+            "/topics/rpa/"
          ],
          "filepath": "/content/topics/robotic-process-automation/_index.md",
+         "uid": "robotic-process-automation",
          "slug": "robotic-process-automation",
-         "url": "http://localhost:1313/topics/robotic-process-automation/"
+         "url": "/topics/robotic-process-automation/"
       },
       {
          "field_title": "Search",
-         "field_deck": "Good search functionality helps the public find exactly what they’re looking for.",
+         "field_deck": "Good search functionality helps the public find exactly what they&rsquo;re looking for.",
          "field_summary": "The search function is an essential component of any government website. It is a critical part of providing a positive user experience. Search is especially important for federal agencies which often have complex websites with large amounts of information. A well-designed search function can help users navigate this complexity and find the information they need quickly and easily.",
          "date_modified": "2024-09-25T10:52:58-04:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
-         "legislation_title": "21st Century Integrated Digital Experience Act (21st Century IDEA) & Section III.A.4 of M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act (21st Century IDEA) &amp; Section III.A.4 of M-23-22",
          "legislation_link": "https://digital.gov/resources/21st-century-integrated-digital-experience-act/",
          "field_featured_communities": [
             "web-analytics-and-optimization"
@@ -1759,34 +1766,36 @@
                "href": "https://digital.gov/event/2022/04/28/optimization-case-study-performance-seo-and-accessibility-with-cfpb/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/digitalgov-search/"
+         "redirects": [
+            "/topics/digitalgov-search/"
          ],
          "filepath": "/content/topics/search/_index.md",
+         "uid": "search",
          "slug": "search",
-         "url": "http://localhost:1313/topics/search/"
+         "url": "/topics/search/"
       },
       {
-         "field_title": "Search Engine Optimization",
+         "field_title": "Search engine optimization",
          "field_deck": "Search engine optimization (SEO) is the practice of enabling search engines to index and surface content.",
          "field_summary": "Strong search engine optimization (SEO) fosters transparency and enhances user experience. It empowers the public to navigate complex programs, and find the information they need quickly. Accurate and informative search results improve user experience, minimizing frustration and wasted time on irrelevant pages. Creating a search experience that directs users to the information they seek reduces reliance on contact centers and other support channels. It also saves users’ time.",
-         "date_modified": "2024-08-21T17:04:51-04:00",
+         "date_modified": "2025-01-03T09:09:02-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century Integrated Digital Experience Act & OMB Memo M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act &amp; OMB Memo M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum",
             "web-analytics-and-optimization"
          ],
          "filepath": "/content/topics/search-engine-optimization/_index.md",
+         "uid": "search-engine-optimization",
          "slug": "search-engine-optimization",
-         "url": "http://localhost:1313/topics/search-engine-optimization/"
+         "url": "/topics/search-engine-optimization/"
       },
       {
          "field_title": "Security",
          "field_deck": "Secure websites and a secure online presence foster trust between the public and government.",
-         "field_summary": "To protect sensitive information while maintaining access for authorized users, prioritize the implementation of security and management controls. The responsibility, however, to ensure website safety extends beyond technology. Publicly share your security protocols and establish a clear channel for users to report any suspicious activity. By making security a collaborative effort, you’ll build trust, protect sensitive information, and ensure that your website functions securely.",
+         "field_summary": "To protect sensitive information while maintaining access for authorized users, prioritize the implementation of security and management controls. The responsibility, however, to ensure website safety extends beyond technology. Publicly share your security protocols and establish a clear channel for users to report any suspicious activity. By making security a collaborative effort, you&rsquo;ll build trust, protect sensitive information, and ensure that your website functions securely.",
          "date_modified": "2024-09-25T08:47:49-04:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.gpo.gov/fdsys/pkg/PLAW-113publ283/pdf/PLAW-113publ283.pdf",
@@ -1797,29 +1806,30 @@
          ],
          "field_featured_resource": "resources/an-introduction-to-security",
          "field_featured_resource_link": "resources/an-introduction-to-security",
-         "aliases": [
-            "https://digital.gov/topics/cybersecurity-national-action-plan/",
-            "https://digital.gov/topics/federal-risk-and-authorization-management-program/",
-            "https://digital.gov/topics/fedramp/",
-            "https://digital.gov/topics/https/",
-            "https://digital.gov/topics/login-gov/",
-            "https://digital.gov/topics/national-cyber-security-awareness-month/",
-            "https://digital.gov/topics/ncsam/",
-            "https://digital.gov/topics/nist/",
-            "https://digital.gov/topics/authentication/"
+         "redirects": [
+            "/topics/cybersecurity-national-action-plan/",
+            "/topics/federal-risk-and-authorization-management-program/",
+            "/topics/fedramp/",
+            "/topics/https/",
+            "/topics/login-gov/",
+            "/topics/national-cyber-security-awareness-month/",
+            "/topics/ncsam/",
+            "/topics/nist/",
+            "/topics/authentication/"
          ],
          "filepath": "/content/topics/security/_index.md",
+         "uid": "security",
          "slug": "security",
-         "url": "http://localhost:1313/topics/security/"
+         "url": "/topics/security/"
       },
       {
-         "field_title": "Social Media",
+         "field_title": "Social media",
          "field_deck": "Use social media to effectively communicate with your audience.",
          "field_summary": "By using social media, agencies can strengthen their connection with the public, promote transparency, and respond to their audience’s needs. Social media meets customers where they are, and it is a great place to communicate with them — making it an essential tool for communications during emergencies.",
-         "date_modified": "2024-10-09T12:06:44-04:00",
+         "date_modified": "2024-12-31T08:58:45-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf",
-         "legislation_title": "M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages, June 2010)",
+         "legislation_title": "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages)",
          "legislation_link": "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf",
          "field_featured_communities": [
             "social-media",
@@ -1829,7 +1839,7 @@
          "field_featured_links_title": "Social media: Essential knowledge",
          "field_featured_links": [
             {
-               "title": "6 important factors to consider for digital advertising in government",
+               "title": "Six important factors to consider for digital advertising in government",
                "summary": "Learn about the benefits and potential pitfalls of digital advertising and paid media.",
                "href": "https://digital.gov/2022/10/18/6-important-factors-to-consider-for-digital-advertising-in-government"
             },
@@ -1844,41 +1854,42 @@
                "href": "https://digital.gov/resources/how-to-start-and-sustain-a-federal-podcast"
             },
             {
-               "title": "Three Tips for Using Facebook and Instagram Stories",
+               "title": "Three tips for using Facebook and Instagram stories",
                "summary": "See how USA.gov and USAGov en Español use stories to increase their engagement rate and number of followers as they deliver helpful information to the public.",
                "href": "https://blog.usa.gov/three-tips-for-using-facebook-and-instagram-stories"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/world-bank/",
-            "https://digital.gov/topics/facebook/",
-            "https://digital.gov/topics/instagram/",
-            "https://digital.gov/topics/linkedin/",
-            "https://digital.gov/topics/pinterest/",
-            "https://digital.gov/topics/social-media-metrics/",
-            "https://digital.gov/topics/socialgov/",
-            "https://digital.gov/topics/socialgov-community/",
-            "https://digital.gov/topics/twitter/",
-            "https://digital.gov/topics/ugc/",
-            "https://digital.gov/topics/us-digital-registry/",
-            "https://digital.gov/topics/yelp/",
-            "https://digital.gov/topics/youtube/",
-            "https://digital.gov/news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts",
-            "https://digital.gov/news/2016/02/2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry",
-            "https://digital.gov/news/2016/06/2016-06-20-u-s-digital-registry"
+         "redirects": [
+            "/topics/world-bank/",
+            "/topics/facebook/",
+            "/topics/instagram/",
+            "/topics/linkedin/",
+            "/topics/pinterest/",
+            "/topics/social-media-metrics/",
+            "/topics/socialgov/",
+            "/topics/socialgov-community/",
+            "/topics/twitter/",
+            "/topics/ugc/",
+            "/topics/us-digital-registry/",
+            "/topics/yelp/",
+            "/topics/youtube/",
+            "/news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts",
+            "/news/2016/02/2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry",
+            "/news/2016/06/2016-06-20-u-s-digital-registry"
          ],
          "filepath": "/content/topics/social-media/_index.md",
+         "uid": "social-media",
          "slug": "social-media",
-         "url": "http://localhost:1313/topics/social-media/"
+         "url": "/topics/social-media/"
       },
       {
-         "field_title": "Software Engineering",
-         "field_deck": "Develop websites and services that are secure, reliable, and easy to maintain.",
+         "field_title": "Software engineering",
+         "field_deck": "Develop  websites and services that are secure, reliable, and easy to maintain.",
          "field_summary": "Federal websites are essential tools for unifying and communicating government information with the public in a timely manner. A well-developed website builds public trust in government and provides users with access to information when they need it. Follow up-to-date technical standards and software best practices to build accessible websites and digital services.",
-         "date_modified": "2024-09-25T10:52:58-04:00",
+         "date_modified": "2025-01-03T09:21:51-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century IDEA) & M-23-22",
+         "legislation_title": "21st Century IDEA) &amp; M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "web-managers-forum",
@@ -1912,27 +1923,28 @@
                "href": "https://designsystem.digital.gov/documentation/getting-started-for-developers/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/browsers/",
-            "https://digital.gov/topics/code/",
-            "https://digital.gov/topics/developer-hub/",
-            "https://digital.gov/topics/devops/",
-            "https://digital.gov/topics/github/",
-            "https://digital.gov/topics/hackathon/",
-            "https://digital.gov/topics/ios/",
-            "https://digital.gov/topics/json/",
-            "https://digital.gov/topics/national-day-of-civic-hacking/",
-            "https://digital.gov/topics/saas/"
+         "redirects": [
+            "/topics/browsers/",
+            "/topics/code/",
+            "/topics/developer-hub/",
+            "/topics/devops/",
+            "/topics/github/",
+            "/topics/hackathon/",
+            "/topics/ios/",
+            "/topics/json/",
+            "/topics/national-day-of-civic-hacking/",
+            "/topics/saas/"
          ],
          "filepath": "/content/topics/software-engineering/_index.md",
+         "uid": "software-engineering",
          "slug": "software-engineering",
-         "url": "http://localhost:1313/topics/software-engineering/"
+         "url": "/topics/software-engineering/"
       },
       {
-         "field_title": "Terms of Service",
+         "field_title": "Terms of service",
          "field_deck": "Agreements negotiated between the federal government and vendors who offer digital tools and services.",
          "field_summary": "Social media is a key way that federal agencies engage with their customers and accomplish their mission. However, there are risks and legal implications associated with these tools. Be sure to coordinate with your Office of General Counsel before signing any terms of service or end-user license agreements.",
-         "date_modified": "2024-10-08T17:26:33-04:00",
+         "date_modified": "2025-01-03T09:14:38-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2013/m-13-10.pdf",
          "legislation_title": "M-13-10, Antideficiency Act Implications of Certain Online Terms of Service Agreements (April 4, 2013) (PDF, 1.11 MB, 17 Pages)",
@@ -1941,25 +1953,27 @@
             "social-media"
          ],
          "filepath": "/content/topics/terms-of-service/_index.md",
+         "uid": "terms-of-service",
          "slug": "terms-of-service",
-         "url": "http://localhost:1313/topics/terms-of-service/"
+         "url": "/topics/terms-of-service/"
       },
       {
          "field_title": "Topics",
          "field_summary": "",
          "date_modified": "2024-07-08T14:28:23-04:00",
          "filepath": "/content/topics/_index.md",
-         "url": "http://localhost:1313/topics/"
+         "uid": "Topics",
+         "url": "/topics/"
       },
       {
          "field_title": "Trust",
          "field_deck": "Understand how digital services impact trust in government.",
          "field_summary": "Trust has to be earned every time. Federal websites and digital services can’t assume it. The guidance, resources, and community you find here will help to create government websites that inspire trust in federal digital resources.",
-         "date_modified": "2024-12-03T15:52:24-05:00",
+         "date_modified": "2024-12-31T13:27:40-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government",
-         "legislation_title": "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government",
-         "legislation_link": "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government",
+         "field_legislation": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
+         "legislation_title": "Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government and OMB Circular A-11, Section 280",
+         "legislation_link": "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/",
          "field_featured_communities": [
             "web-managers-forum"
          ],
@@ -1999,39 +2013,44 @@
             }
          ],
          "filepath": "/content/topics/trust/_index.md",
+         "uid": "trust",
          "slug": "trust",
-         "url": "http://localhost:1313/topics/trust/"
+         "url": "/topics/trust/"
       },
       {
          "field_title": "Usability",
          "field_deck": "How easily and effectively people can accomplish their goals using a product or system, while having a positive experience.",
          "field_summary": "Usability refers to the measurement of how easily a user can accomplish their goals when using a service. This is usually measured through established research methodologies under the term “usability testing,” which includes success rates and customer satisfaction. Usability is one part of the larger user experience (UX) umbrella. While UX encompasses designing the overall experience of a product, usability focuses on the mechanics of making sure products work as well as possible for the user.",
-         "date_modified": "2025-01-03T12:18:15-05:00",
+         "date_modified": "2025-01-15T12:01:53-05:00",
          "field_page_weight": "2",
-         "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience",
-         "legislation_title": "21st Century Integrated Digital Experience Act (21st Century IDEA) and M-23-22",
-         "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience",
+         "field_legislation": "/resources/delivering-digital-first-public-experience",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
+         "legislation_link": "/resources/delivering-digital-first-public-experience",
          "field_featured_communities": [
             "user-experience"
          ],
-         "aliases": [
-            "https://digital.gov/topics/first-click-testing/",
-            "https://digital.gov/topics/usability-case-study/",
-            "https://digital.gov/topics/usability-starter-kit/",
-            "https://digital.gov/topics/usability-testing/"
+         "field_featured_resource": "/guides/hcd",
+         "field_featured_resource_link": "/guides/hcd",
+         "redirects": [
+            "/topics/first-click-testing/",
+            "/topics/usability-case-study/",
+            "/topics/usability-starter-kit/",
+            "/topics/usability-testing/",
+            "/resources/digitalgov-user-experience-resources/government-usability-case-studies/"
          ],
          "filepath": "/content/topics/usability/_index.md",
+         "uid": "usability",
          "slug": "usability",
-         "url": "http://localhost:1313/topics/usability/"
+         "url": "/topics/usability/"
       },
       {
-         "field_title": "User Experience",
+         "field_title": "User experience",
          "field_deck": "User experience involves every interaction a user has with an agency.",
          "field_summary": "Websites and digital services provide better results when they are designed and delivered with the user in mind. In the current digital landscape, it is critical to adopt a user-centered approach to understand and respond to the individual needs of users. By evaluating the user experience on federal websites and digital services, agencies can increase customer satisfaction, build public trust, and reduce burden on the public.",
-         "date_modified": "2024-09-25T10:52:58-04:00",
+         "date_modified": "2024-12-30T15:39:33-05:00",
          "field_page_weight": "2",
          "field_legislation": "https://digital.gov/resources/delivering-digital-first-public-experience/",
-         "legislation_title": "21st Century IDEA & M-23-22",
+         "legislation_title": "21st Century Integrated Digital Experience Act and OMB M-23-22",
          "legislation_link": "https://digital.gov/resources/delivering-digital-first-public-experience/",
          "field_featured_communities": [
             "user-experience"
@@ -2066,15 +2085,16 @@
                "href": "https://methods.18f.gov/"
             }
          ],
-         "aliases": [
-            "https://digital.gov/topics/aoi/",
-            "https://digital.gov/topics/community-ux/",
-            "https://digital.gov/topics/digitalgov-user-experience-program/",
-            "https://digital.gov/topics/federal-user-experience-community/",
-            "https://digital.gov/topics/user-experience-community-of-practice/"
+         "redirects": [
+            "/topics/aoi/",
+            "/topics/community-ux/",
+            "/topics/digitalgov-user-experience-program/",
+            "/topics/federal-user-experience-community/",
+            "/topics/user-experience-community-of-practice/"
          ],
          "filepath": "/content/topics/user-experience/_index.md",
-         "url": "http://localhost:1313/topics/user-experience/"
+         "uid": "User experience",
+         "url": "/topics/user-experience/"
       }
    ]
 }

@@ -16,7 +16,7 @@ This is folder contains mocks, final output json for each content types and scri
 | communities  | communities/list.json.json             | http://localhost:1313/communities/index.json | valid |
 | guides       | default/list.json.json                 |                                              | valid |
 | resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json   | valid |
-| topics       | topics/v1/json                         | http://localhost:1313/topics/v1/json/        | valid |
+| topics       | layouts/topics/list.json.json          | http://localhost:1313/topics/v1/json/        | valid |
 | sources      | sources/list.json.json                 | http://localhost:1313/sources/index.json     | valid |
 | ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                      |       |
 | redirects    | default/list.json.json                 |                                              | wip   |
