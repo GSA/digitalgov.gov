@@ -16,8 +16,8 @@ aliases:
 
 # Set the legislation card title and link
 legislation:
-  title: "https://www.congress.gov/bill/118th-congress/house-bill/9566"
-  link: "Source Code Harmonization And Reuse in Information Technology Act"
+  title: "Source Code Harmonization And Reuse in Information Technology Act"
+  link: "https://www.congress.gov/bill/118th-congress/house-bill/9566"
 
 # Featured community to display at the top of the page
 featured_communities:
