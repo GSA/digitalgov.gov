@@ -49,5 +49,11 @@
   "youtube_title" : "{{- . -}}",
 {{- end -}}
 {{- with .Params.venue -}}
-  "field_venue" : "{{- . -}}",
+  "field_venue": { "venue_name": "{{- .venue_name -}}", "room": "{{- .room -}}",
+  "address": "{{- .address -}}", "city": "{{- .venue_name -}}", "state":
+  "{{- .state -}}", "zip": "{{- .zip -}}", "country": "{{- .country -}}", "map":
+  "{{- .map -}}" },
+{{- end -}}
+{{- with .Params.event_platform -}}
+  "field_event_platform" : "{{- . -}}",
 {{- end -}}
