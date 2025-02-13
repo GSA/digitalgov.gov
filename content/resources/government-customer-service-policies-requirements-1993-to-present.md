@@ -3,6 +3,9 @@ slug: government-customer-service-policies-requirements-1993-to-present
 date: 2016-01-07 5:41:53 -0400
 title: "Government Customer Service Policies & Requirements: 1993 to Present"
 summary: "A list of government customer service policies and requirements."
+
+expirydate: "2025-01-28"
+
 topics:
   - customer-experience
   - public-policy
