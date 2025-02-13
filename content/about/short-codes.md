@@ -49,9 +49,15 @@ Consistent with the GPRA Modernization Act of 2010, information published throug
 
 {{< /card-prompt >}}
 
-## Quote Block:
+## Quote (Quote Block)
+
+Default
 
 {{< quote-block text="One of the most important things we know about writing is to have some idea of your audience and whom you might be writing for." cite="Dr. Meredith Larson, Department of Education" >}}
+
+Dark
+
+{{< quote-block text="One of the most important things we know about writing is to have some idea of your audience and whom you might be writing for." cite="Dr. Meredith Larson, Department of Education" bg="dark" >}}
 
 ## Check List:
 
@@ -67,10 +73,15 @@ Consistent with the GPRA Modernization Act of 2010, information published throug
 
 {{< /checklist-sublist >}}
 
+{{< /checklist >}}
+
 Watch these [presentations training videos](https://www.section508.gov/create/presentations/training-videos) for more information on creating accessible presentations.
 
-{{< checkbox >}}Link to government websites by default.{{< /checkbox >}}
+https://github.com/GSA/digitalgov.gov/pull/8366 needs to be integrated before this actually removes the border.
 
+{{< checklist border=false >}}
+
+{{< checkbox >}}Link to government websites by default.{{< /checkbox >}}
 
 {{< /checklist >}}
 
@@ -98,6 +109,10 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
 
 {{< featured-resource link="guides/hcd" >}}
 
+## Featured Resource - External
+
+{{< featured-resource link="https://www.ai.gov" kicker="Visit ai.gov" title="Check out ai.gov" summary="ai.gov is the go to reference for all artifical intelligence in the federal government" >}}
+
 ## Highlight:
 
 {{< highlight >}}**1. Accessible to People of Diverse Abilities**{{< /highlight >}}
@@ -114,28 +129,50 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
 
 {{< img-right src="2012-social-gov-summit-accessibility" >}}
 
-## Legacy File:
-
-{{< legacy-file "2014/07/sample-content-inventory.xlsx" >}}
-
-## Legacy Image:
-
-{{< legacy-img src="2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="Robert Churchill/iStock/Thinkstock" >}}
-
-## Legacy Image Right:
-
-{{< legacy-img-right src="2014/08/250-x-154-Group-Of-Hands-of-Multi-Ethnic-Group-Of-People-Holding-Electronic-Devices-Robert-Churchill-iStock-Thinkstock-485584337.jpg" alt="A diverse group of hands hold up various mobile devices, each displaying a person, in front of an American flag" caption="Robert Churchill/iStock/Thinkstock" >}}
-
 ## Link:
 
 {{< link "resources/21st-century-integrated-digital-experience-act.md" >}}
 
 ## Note:
 
+Type: Activity
+
+{{< note variant="activity" >}} Literacy and Numeracy has a 5-point scale.{{< /note >}}
+
+Type: Action
+
+{{< note variant="action" >}} Literacy and Numeracy has a 5-point scale.{{< /note >}}
+
+Type: Alert
+
 {{< note variant="alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />
 To request other free U.S. government publications, visit the U.S. Government Publishing Office (GPO) [Pueblo Distribution Center website](https://pueblo.gpo.gov/).{{< /note >}}
 
+Type: Comment
+
+{{< note variant="comment" >}} Literacy and Numeracy has a 5-point scale.{{< /note >}}
+
+Type: Video
+
+{{< note variant="video" >}} Literacy and Numeracy has a 5-point scale.{{< /note >}}
+
+Type: Note
+
 {{< note >}} Literacy and Numeracy has a 5-point scale.{{< /note >}}
+
+## Note - Disclaimer
+
+{{< note variant="disclaimer" >}}
+
+{{< /note >}}
+
+## Note - Join
+
+{{< note variant="join" >}}
+
+The **Web Managers Community of Practice** is a group of government employees and contractors who manage government websites and digital services. They work to create a trusted, seamless online experience for all. [Join the Web Managers Community](https://digital.gov/communities/web-content-managers/).
+
+{{< /note >}}
 
 ## Ring:
 
@@ -145,7 +182,7 @@ Create an interview/conversation guide with a list of keywords or themes you wan
 
 ## Youtube:
 
-{{< youtube id="hfgllf1L9_4" title="U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media" >}}
+{{< youtube id="5vyAlqOEsuM" title="U.S. Federal #SocialGov: 2 Years of Smashing Silos + Elevating Citizen Services with Social Media" >}}
 
 ## Ref:
 
