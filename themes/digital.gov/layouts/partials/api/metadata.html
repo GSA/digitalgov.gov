@@ -30,7 +30,7 @@
 {{- if (isset .Params "guide_weight") -}}
   "field_guide_weight" : "{{- .Params.guide_weight -}}",
 {{- end -}}
-{{- if .Params.weight -}}
+{{- if (isset .Params "weight") -}}
   "field_page_weight" : "{{- .Params.weight -}}",
 {{- end -}}
 {{- if .Content -}}
