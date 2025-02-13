@@ -11,6 +11,7 @@ aliases:
   - /resources/mobile-user-experience-guidelines/
   - /resources/mobile-sow-and-developer-qualifications/
   - /resources/guide-create-mobile-friendly-websites/
+  - /resources/mobile-user-experience-guidelines/
 
 # see all topics at https://digital.gov/topics
 topics:
