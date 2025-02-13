@@ -33,3 +33,6 @@
 {{- if .Params.weight -}}
   "field_page_weight" : "{{- .Params.weight -}}",
 {{- end -}}
+{{- if .Content -}}
+  "field_body" : "{{- .Content | safeHTML -}}",
+{{- end -}}
