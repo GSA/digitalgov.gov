@@ -14,7 +14,7 @@ Seven million dollars is a big price tag. That is the amount Forbes predicts org
 
 {{< legacy-img src="2015/04/600-x-400-Computer-keyboard-with-infographics-element-stevanovicigor-iStock-Thinkstock-478655615.jpg" alt="A keyboard key has a green button with a bar chart on it." caption="stevanovicigor/iStock/Thinkstock" >}}
 
-While government agencies may not have big budgets for data analysis, we do have tons of data—survey data, usability data, campaign data—that should be leveraged to drive decisions. This idea was the subject of a panel discussion during the second annual [DigitalGov Citizen Services Summit]({{< ref "2015-06-12-digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available.md" >}}), held in May.
+While government agencies may not have big budgets for data analysis, we do have tons of data—survey data, usability data, campaign data—that should be leveraged to drive decisions. This idea was the subject of a panel discussion during the second annual [DigitalGov Citizen Services Summit](https://digital.gov/2015/06/12/digitalgov-citizen-services-summit-reflections-from-our-livestream-host-and-full-recording-now-available/), held in May.
 
 How can you bring all your data together to tell a story, drive decisions and make a change, asked Marina Fox, manager of the government-wide [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) and panel moderator.
 
