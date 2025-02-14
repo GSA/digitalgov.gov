@@ -20,9 +20,11 @@ Conversely, your research might confirm what your leadership and stakeholders pr
 Use this checklist to move through the presentation and communication of your findings and deliverables:
 
 <div style="margin-left: 20px">
-<input type="checkbox">
+<label for="organize">
+<input id="organize" type="checkbox">
 Organize all materials on a shared drive using a consistent naming protocol and file hierarchy.
-</input><br>
+</input>
+</label><br>
 <input type="checkbox">
 Provide a link to this guide in the folder so that anyone can review and follow your project history.
 </input><br>
