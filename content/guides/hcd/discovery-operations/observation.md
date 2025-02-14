@@ -22,28 +22,36 @@ In both of these methods, the data you collect will be multi-sensorial. It’s i
 Use this checklist to prepare the night before you go into observation-based research.
 
 <div style="margin-left: 20px">
+<label>
 <input type="checkbox">
 Review the <a href="{{< ref "/guides/hcd/discovery-concepts/do-research.md" >}}">research section of the HCD Discovery Concepts Guide.</a>
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Check with the participant the day before to see if specialized gear is needed.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Review the participant’s background, and any information you might have on how they work.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Gather your supplies and pack them: camera, recorder, notebook.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Have an idea of which method you might prefer for this observation: fly-on-the-wall or participatory.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Have print and digital versions of your interview/conversation guide ready.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Review your project elevator pitch.
-</input><br>
+</input></label><br>
+<label>
 <input type="checkbox">
 Focus. Get yourself mentally ready to deeply listen and interact with another person.
-</input>
+</input></label>
 </div>
