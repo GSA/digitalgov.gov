@@ -51,6 +51,8 @@ outputFormats:
     notAlternative: true
   JSON:
     mediatype: "application/json"
+    prettify: true
+    indent: "  "
 
 preserveTaxonomyNames: true
 
@@ -63,6 +65,7 @@ outputs:
   section: ["HTML", "RSS", "JSON"]
   page: ["HTML", "JSON"]
   term: ["HTML", "RSS", "JSON"]
+  list: ["HTML", "JSON"]
 
 markup:
   defaultMarkdownHandler: goldmark

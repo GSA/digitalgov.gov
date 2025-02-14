@@ -7,21 +7,24 @@ This is folder contains mocks, final output json for each content types and scri
 - run locally or on federalist and visit the below urls for each content type for the json endpoint 
 
 
-| content      | json serializer                        | endpoint                                     | notes |
-| ------------ | -------------------------------------- | -------------------------------------------- | ----- |
-| authors      | layouts/shortcodes/api-authors.html    | http://localhost:1313/authors/v1/json/       | valid |
-| news         | layouts/news/list.json.json            | http://localhost:1313/news/index.json        | valid |
-| short post   | layouts/shortcodes/api-shortposts.html | http://localhost:1313/short-posts/v1/json/   | valid |
-| events       | layouts/events/list.json.json          | http://localhost:1313/events/index.json      | valid |
-| communities  | communities/list.json.json             | http://localhost:1313/communities/index.json | valid |
-| guides       | default/list.json.json                 |                                              | valid |
-| resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json   | valid |
-| topics       | layouts/topics/list.json.json          | http://localhost:1313/topics/v1/json/        | valid |
-| sources      | sources/list.json.json                 | http://localhost:1313/sources/index.json     | valid |
-| ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                      |       |
-| redirects    | default/list.json.json                 |                                              | wip   |
-  
 
+| content      | json serializer                        | endpoint                                     | notes   |
+| ------------ | -------------------------------------- | -------------------------------------------- | ------- |
+| authors      | layouts/shortcodes/api-authors.html    | http://localhost:1313/authors/v1/json/       | valid   |
+| news         | layouts/news/list.json.json            | http://localhost:1313/news/index.json        | valid   |
+| short post   | layouts/shortcodes/api-shortposts.html | http://localhost:1313/short-posts/v1/json/   | valid   |
+| events       | layouts/events/list.json.json          | http://localhost:1313/events/index.json      | valid   |
+| communities  | layouts/communities/list.json.json     | http://localhost:1313/communities/index.json | valid   |
+| guides       | layouts/guides/list.json.json          | http://localhost:1313/guides/index.json      | valid   |
+| resources    | layouts/resources/list.json.json       | http://localhost:1313/resources/index.json   | valid   |
+| topics       | layouts/topics/list.json.json          | http://localhost:1313/topics/index.json      | valid   |
+| sources      | layouts/sources/list.json.json         | http://localhost:1313/sources/index.json     | valid   |
+| ~~services~~ | ~~default/list.json.json~~             | ~~yes~~                                      | n/a     |
+| redirects    | default/list.json.json                 |                                              | see csv |
+| about        | layouts/about/list.json.json           | http://localhost:1313/about/index.json       | valid   |
+| files        | layouts/files/list.json.json<br>       | http://localhost:1313/files/index.json<br>   | valid   |
+| images       | layouts/images/list.json.json          | http://localhost:1313/images/index.json      | valid   |
+  
 
 ## authors
 
