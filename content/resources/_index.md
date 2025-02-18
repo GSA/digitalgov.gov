@@ -59,6 +59,7 @@ resource_topics:
     - acquisition
     - budgeting-and-performance
     - contact-centers
+    - intellectual-property
     - product-and-project-management
     - privacy
     - records-management
