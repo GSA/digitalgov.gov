@@ -7,6 +7,7 @@ display_name: "Scott Horvath"
 first_name: "Scott"
 last_name: "Horvath"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: scott-horvath

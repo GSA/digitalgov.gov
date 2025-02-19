@@ -7,6 +7,7 @@ display_name: "Stephanie Stover"
 first_name: "Stephanie"
 last_name: "Stover"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: stephanie-stover

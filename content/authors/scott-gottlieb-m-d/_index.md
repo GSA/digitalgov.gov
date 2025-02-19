@@ -7,6 +7,7 @@ display_name: "Scott Gottlieb, M.D."
 first_name: "Scott"
 last_name: "Gottlieb"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: scott-gottlieb-m-d

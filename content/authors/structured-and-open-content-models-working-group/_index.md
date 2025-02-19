@@ -7,6 +7,7 @@ display_name: "Structured and Open Content Models Working Group"
 first_name: "Structured and Open Content Models"
 last_name: "Working Group"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: structured-and-open-content-models-working-group

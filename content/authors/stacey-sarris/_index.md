@@ -7,6 +7,7 @@ display_name: "Stacey Sarris"
 first_name: "Stacey"
 last_name: "Sarris"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: stacey-sarris

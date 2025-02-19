@@ -7,6 +7,7 @@ display_name: "Suzi Connor"
 first_name: "Suzi"
 last_name: "Connor"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: suzi-connor

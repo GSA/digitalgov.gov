@@ -7,6 +7,7 @@ display_name: "Ryan Xue"
 first_name: "Ryan"
 last_name: "Xue"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: ryan-xue
