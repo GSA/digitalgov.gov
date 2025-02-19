@@ -25,8 +25,6 @@ On September 8, 2016 Administrator Denise Turner Roth of the [U.S. General Servi
 
 "The General Services Administration has a long history of being a strong leader in adopting technology in government," said Administrator Roth when giving her opening remarks at GSA's Technology Industry Day.
 
-{{< tweet user="18F" id="773873292746723328" >}}
-
 In a moderated panel, the leadership team shared their insights about the future of GSA’s role in making it easier for agencies to create and buy technology. The panel included GSA Administrator Denise Turner Roth, Acting [Technology Transformation Service](http://www.gsa.gov/portal/category/25729) (TTS) Commissioner David Shive, Chief Technology Officer Navin Vembar, Assistant Commissioner of [Integrated Technology Services](http://www.gsa.gov/portal/content/105150) Mary Davie and Executive Director of [18F](http://www.gsa.gov/portal/content/124182) Aaron Snow.
 
 {{< tweet user="USGSA" id="773881444896739328" >}}
