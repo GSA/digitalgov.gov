@@ -7,6 +7,7 @@ display_name: "John Paul"
 first_name: "John"
 last_name: "Paul"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: john-paul
