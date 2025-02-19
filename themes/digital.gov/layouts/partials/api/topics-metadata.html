@@ -45,15 +45,16 @@
   {{- range $i, $e := $_featured_resources -}}
     {{- with $e -}}
       {{- if .link -}}
-      {
-          "field_featured_resource_link": "{{ .link }}"{{ if or .title .summary }},{{ end }}
+        { "field_featured_resource_link":
+        "{{ .link }}"{{ if or .title .summary }},{{ end }}
         {{- if .title -}}
-          "field_featured_resource_title": "{{ .title }}"{{ if .summary }},{{ end }}
+          "field_featured_resource_title":
+          "{{ .title }}"{{ if .summary }},{{ end }}
         {{- end -}}
         {{- if .summary -}}
           "field_featured_resource_summary": "{{ .summary }}"
         {{- end -}}
-      }{{ if lt (add $i 1) $featured_resources_length }},{{ end }}
+        }{{ if lt (add $i 1) $featured_resources_length }},{{ end }}
       {{- end -}}
     {{- end -}}
   {{- end -}}
