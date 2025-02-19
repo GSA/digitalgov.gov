@@ -70,7 +70,7 @@ Even if you aren’t trying to sell stakeholders on major improvements, document
 
 - Create a few [personas representative of your users](https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/) and rewrite one of your pages based on their needs. Does it change the way you lay out and explain information?
 - Have you [user tested](https://digital.gov/2017/09/28/finding-usability-testers-tips-from-an-army-recruiter/) your content? Gather your feedback from those tests and create a visual presentation that tells the user’s story and the issues they faced.
-- If you’re considering changing your app’s interface, test it first with a few colleagues using a [paper prototype](https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/). You may learn about usability issues before investing in a full technical redesign.
+- If you’re considering changing your app’s interface, test it first with a few colleagues using a paper prototype. You may learn about usability issues before investing in a full technical redesign.
 
 ## Recommended Reading
 
