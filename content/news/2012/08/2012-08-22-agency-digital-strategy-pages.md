@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/08/250-x-170-Green-Business-Startegy-olm26250-iStock-Thinkstock-452650991.jpg" alt="A compass with green markings points to the word, Strategy." caption="olm26250, iStock, Thinkstock" >}} 
