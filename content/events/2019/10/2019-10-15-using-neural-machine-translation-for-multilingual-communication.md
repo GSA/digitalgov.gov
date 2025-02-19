@@ -57,7 +57,7 @@ For 20+ years, Beth has led business development efforts and program execution t
 - [Using AI to match human performance in translating news from Chinese to English](https://blogs.microsoft.com/ai/chinese-to-english-translator-milestone/)
 - [Neural Machine Translation: How Artificial Intelligence Works When Translating Language](https://www.lionbridge.com/blog/translation-localization/neural-machine-translation-artificial-intelligence-works-multilingual-communication/)
 - [Systran Translation Tool](https://translate.systran.net/translationTools/text)
-- [Designing for Translation](https://digital.gov/2018/12/20/designing-for-translation/)
+- [Introduction to translation technology](https://digital.gov/resources/introduction-to-translation-technology/)
 
 _Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov)._
 

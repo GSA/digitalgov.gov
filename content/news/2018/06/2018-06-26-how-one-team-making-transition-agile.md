@@ -15,6 +15,7 @@ featured_image:
   uid: agile-flow-600
   alt: 'bakhtiar_zein iStock Thinkstock'
 
+expirydate: 2025-01-01
 ---
 
 It can often be difficult for organizations to adopt agile methodologies in their truest sense. Water-Scrum-Fall is a hybrid approach of [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and [agile](https://en.wikipedia.org/wiki/Agile_software_development) practices, blended together in a manner that facilitates the transition to agile.

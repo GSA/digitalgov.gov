@@ -15,6 +15,7 @@ featured_image:
   uid: agile-project-planning
   alt: 'Different colored sticky notes from an agile project planning session.'
 
+expirydate: 2025-01-01
 ---
 
 Some organizations are curious about agile and want to know the benefits of working with this methodology. While there are a number of benefits and opportunities from going agile, there are also a few challenges for leaders to manage.

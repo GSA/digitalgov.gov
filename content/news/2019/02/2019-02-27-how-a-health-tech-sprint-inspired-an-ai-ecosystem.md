@@ -22,7 +22,7 @@ featured_image:
 
 ---
 
-When we began our [14-week tech health sprint in October 2018](https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/), we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence (AI) to open federal data. Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life. 
+When we began our 14-week tech health sprint in October 2018], we did not realize the profound lessons we would learn in just a few months. Together with federal agencies and private sector organizations, we demonstrated the power of applying artificial intelligence (AI) to open federal data. Through this collaborative process, we showed that federal data can be turned into products for real-world health applications with the potential to help millions of Americans have a better life. 
 
 Joshua Di Frances, the executive director of the Presidential Innovation Fellows (PIF) program, says that this collaboration across agencies and private companies represents a new way of approaching AI and federal open data. “Through incentivizing links between government and industry via a bidirectional AI ecosystem, we can help promote usable, actionable data that benefits the American people," Di Frances said.
 

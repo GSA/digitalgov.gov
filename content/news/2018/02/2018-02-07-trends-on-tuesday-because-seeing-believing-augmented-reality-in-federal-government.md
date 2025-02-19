@@ -12,6 +12,7 @@ topics:
 featured_image:
   uid: augmented-reality-marketing
   alt: 'Augmented reality glasses technology concept.'
+expirydate: 2025-01-01
 ---
 
 _Connect with other feds working with emerging technologies via the [Emerging Citizen Technology Office](https://www.gsa.gov/technology/government-it-initiatives/emerging-citizen-technology); learn from and contribute to its [Emerging Citizen Technology Atlas](https://gsa.github.io/emerging-technology-atlas/) and join their related [Communities of Practice](https://www.digitalgov.gov/communities/)._

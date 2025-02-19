@@ -16,6 +16,7 @@ topics:
 featured_image: 
   uid: travel-journey-mapping-processes-slide
   alt: 'A sample sequence of events journey map for a recently naturalized citizen seeking to travel abroad&#46;'
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [USA.gov blog](https://blog.usa.gov/using-journey-mapping-to-streamline-processes-across-agencies)._

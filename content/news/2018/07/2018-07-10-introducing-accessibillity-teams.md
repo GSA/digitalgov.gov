@@ -14,6 +14,7 @@ topics:
 featured_image:
   uid: accessibility-for-teams-2
   alt: Colorful graphic of a group of handicapped symbols
+expirydate: 2025-01-01
 ---
 
 Accessibility is a crucial part of government product design. First, [it's the law](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973#508). Federal agencies face legal consequences when they don’t meet accessibility requirements. Second, it affects us all. Whether you have a motor disability, you sprained your wrist playing dodgeball, you need a building to have a ramp for your wheelchair or stroller, or you literally just have your hands full, we all find ourselves unable to do certain things at different points in our lives. Accessible products are better products for everyone.
