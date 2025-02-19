@@ -73,7 +73,7 @@ Secondary agency sites also need an "About" page that describes your site and li
 - Any known sub-agency site
 - Any known major entry points to your sites
 
-Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
 
 ## Accessibility Statement
@@ -103,7 +103,7 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 - All agency websites, internal and external.
 - Secondary sites can link to the accessibility statement on the domain website.
 
-Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and the [OMB Memorandum: Strategic Plan for Improving Management of Section 508 of the Rehabilitation Act](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/procurement/memo/strategic-plan-508-compliance.pdf) (PDF, 212 kb, 13 pages, January 2013).
+Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
 
 ## Budget and Performance Reports
@@ -125,24 +125,8 @@ Agencies are required to have a page on their website that has the following inf
 
 - The homepage of your agency's principal website
 
-Learn more about  transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and [OMB Circular A-11](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf), Part 6.
+Learn more about transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
-
-**Part 6, Section 210 | PUBLIC REPORTING AND PERFORMANCE.GOV**
-
-**210.6 How are agency-specific plans and reports made available to the public on the agency’s website?**
-
-To enhance transparency of performance data, all Federal {{< highlight >}}agencies should make information, including prior plans and reports, as easy as possible to locate from the agency’s individual website{{< /highlight >}} (e.g., [www.usda.gov](https://www.usda.gov)). Federal Agencies must also provide a hyperlink on Performance.gov to the agency’s public website (e.g., https://www.usda.gov/our-agency/about-usda/performance) where the agency has published current and past performance plans and reports. In adherence to OMB Memorandum M-17-06, agencies must create a prominent link directly to their performance plans and reports from their “About Agency” or “About Us” page, which is directly off of the agency’s homepage.
-
-Agencies may also want to create links from this page to other planning and performance reporting documents, such as the human capital operating plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
-
-When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
-
-**Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.
-
-{{< /card-policy >}}
 
 ## Equal Employment
 
@@ -257,7 +241,7 @@ Learn more about providing straightforward customer support in [Requirements for
 
 ## Privacy Policy
 
-All federal public websites must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
+Protect the privacy of the American people when they interact with their government. Some of the key ways for federal public websites ito do so include:
 
 - Conducting privacy impact assessments;
 - Posting privacy policies on each website, including instructions on how to "[opt-out](http://www.usa.gov/optout_instructions.shtml)" of any web tracking and measurement technologies the agency may use;
@@ -269,14 +253,14 @@ All federal public websites must comply with existing laws and directives that a
 
 `Privacy Policy`
 
-##### Required on:
+##### Display on:
 
 - Your principal website
 - Any known sub-agency site
 - Any known major entry points to your sites
 - Any web page that collects substantial information in identifiable form
 
-Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and in [OMB M-03-22, Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002](https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/) _(See Attachment A, Section III, Privacy Policies on Agency Websites)_
+Learn more about what content helps provide your users with clear, contextualized digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
 
 {{< card-policy src="https://digital.gov/resources/guidance-for-implementing-the-privacy-provisions-of-the-e-government-act-of-2002-m-03-22/" kicker="Policy" title="**OMB M-03-22:** Guidance for Implementing the Privacy Provisions of the E-Government Act of 2002" >}}**III. Privacy Policies on Agency Websites**
@@ -293,7 +277,7 @@ Learn more about what content helps provide your users with clear, contextualize
 
 1. _Content of Privacy Policies_.
 
-   1. Agency Privacy Policies must comply with guidance issued in OMB [Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf) and must now also include the following two new content areas:
+   1. Agency Privacy Policies must comply with guidance issued in OMB Memorandum 99-18 and must now also include the following two new content areas:
 
       1. _Consent to collection and sharing_ <sup>[15](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#15)</sup>. Agencies must now ensure that privacy policies:
 
@@ -308,7 +292,7 @@ Learn more about what content helps provide your users with clear, contextualize
 
    2. Agency Privacy Policies must continue to address the following, modified, requirements:
 
-      1. Nature, purpose, use and sharing of information collected. Agencies should follow existing policies (issued in [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf)) concerning notice of the nature, purpose, use and sharing of information collected via the Internet, as modified below:
+      1. Nature, purpose, use and sharing of information collected. Agencies should follow existing policies issued in OMB Memorandum 99-18 concerning notice of the nature, purpose, use and sharing of information collected via the Internet, as modified below:
 
          1. _Privacy Act information_. When agencies collect information subject to the Privacy Act, agencies are directed to explain what portion of the information is maintained and retrieved by name or personal identifier in a Privacy Act system of records and provide a Privacy Act Statement either:
 
@@ -318,7 +302,7 @@ Learn more about what content helps provide your users with clear, contextualize
          2. _"Privacy Act Statements"_. Privacy Act Statements must notify users of the authority for and purpose and use of the collection of information subject to the Privacy Act, whether providing the information is mandatory or voluntary, and the effects of not providing all or any part of the requested information.
          3. _Automatically Collected Information (site management data)_. Agency Privacy Policies must specify what information the agency collects automatically (i.e., user’s IP address, location, and time of visit) and identify the use for which it is collected (i.e., site management or security purposes).
          4. _Interaction with children_: Agencies that provide content to children under 13 and that collect personally identifiable information from these visitors should incorporate the requirements of the Children’s Online Privacy Protection Act ("COPPA") into their Privacy Policies (see Attachment C) <sup>[19](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#19)</sup>.
-         5. _Tracking and customization activities_. Agencies are directed to adhere to the following modifications to [OMB Memorandum 00-13](https://www.whitehouse.gov/wp-content/uploads/2017/11/2000-M-00-13-Privacy-Policies-and-Data-Collection-on-Federal-Web-Sites.pdf) and the OMB follow-up guidance letter dated [September 5, 2000](https://obamawhitehouse.archives.gov/omb/inforeg_cookies_letter90500/):
+         5. _Tracking and customization activities_. Agencies are directed to adhere to the following modifications to OMB Memorandum 00-13 and the OMB follow-up guidance letter dated [September 5, 2000](https://obamawhitehouse.archives.gov/omb/inforeg_cookies_letter90500/):
 
             1. _Tracking technology prohibitions_:
 
@@ -346,17 +330,17 @@ Learn more about what content helps provide your users with clear, contextualize
 
          6. _Law enforcement and homeland security sharing_: Consistent with current practice, Internet privacy policies may reflect that collected information may be shared and protected as necessary for authorized law enforcement, homeland security and national security activities.
 
-      2. _Security of the information_ <sup>[21](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#21)</sup>. Agencies should continue to comply with existing requirements for computer security in administering their websites <sup>[22](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#22)</sup> and post the following information in their Privacy Policy:
+      2. _Security of the information_ <sup>[21](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#21)</sup>. Agencies can continue to comply with existing requirements for computer security in administering their websites <sup>[22](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#22)</sup> and post the following information in their Privacy Policy:
          1. in clear language, information about management, operational and technical controls ensuring the security and confidentiality of personally identifiable records (e.g., access controls, data storage procedures, periodic testing of safeguards, etc.), and
          2. in general terms, information about any additional safeguards used to identify and prevent unauthorized attempts to access or cause harm to information and systems. (The statement should be at a level to inform the public that their information is being protected while not compromising security.)
 
-1. _Placement of notices_. Agencies should continue to follow the policy identified in [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf) regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
+1. _Placement of notices_. Agencies may continue to follow the policy identified in OMB Memorandum 99-18 regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
 
    1. {{< highlight >}}their principal web site;{{< /highlight >}}
    2. {{< highlight >}}any known, major entry points to their sites;{{< /highlight >}}
    3. {{< highlight >}}any web page that collects substantial information in identifiable form.{{< /highlight >}}
 
-1. **_Clarity of notices_**. Consistent with [OMB Memorandum 99-18](https://www.whitehouse.gov/wp-content/uploads/2017/11/1999-M-99-18-Privacy-Policies-on-Federal-Web-Sites.pdf), privacy policies must be:
+1. **_Clarity of notices_**. Consistent with OMB Memorandum 99-18, it's best for privacy policies to be:
    1. clearly labeled and easily accessed;
    2. written in plain language; and
    3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.
@@ -392,7 +376,7 @@ A method for reporting evidence of waste, fraud, or abuse to the Inspector Gener
 
 ## Security
 
-Agencies must have a way for the public to report potential security vulnerabilities, and explain how the agency will respond to such reports.
+Agencies have a way for the public to report potential security vulnerabilities, and explain how the agency will respond to such reports.
 
 - Ensure your site's Security Contact and Organization are current in the [.gov registrar](https://domains.dotgov.gov/)
 - Publish a vulnerability disclosure policy at [agency].gov/vulnerability-disclosure-policy
@@ -413,9 +397,6 @@ Agencies must have a way for the public to report potential security vulnerabili
 {{< /box >}}
 
 {{< card-policy src="https://cyber.dhs.gov/bod/20-01/#required-actions" kicker="Policy" title="DHS Binding Operational Directive 20-01">}}
-{{< /card-policy >}}
-
-{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2020/09/M-20-32.pdf" kicker="Policy" title="OMB M-20-32, Improving Vulnerability Identification, Management, and Remediation">}}
 {{< /card-policy >}}
 
 ---
