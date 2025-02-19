@@ -3,27 +3,15 @@
   ======================================
 */}}
 
-{{/* Communities ====================== */}}
-
-{{/* gets all pages in the site that are related */}}
-{{- $related_pages := .Site.Pages.Related  . -}}
-
-{{/* gets only the related community pages */}}
-{{- $.Scratch.Set "communities" (where $related_pages "Section" "communities") -}}
-
-{{/* Now conditionally shuffle the community pages and pick the first 5 */}}
-{{ if (gt (len ($.Scratch.Get "communities")) 5) }}
-  {{- $.Scratch.Set "communities" (first 5 ($.Scratch.Get "communities") | shuffle) -}}
-{{ end }}
-{{ $communities := ($.Scratch.Get "communities") }}
+{{ $featured_communities := (where (where .Site.Pages "Section" "communities").ByTitle ".Params.dg_highlight" "eq" true) }}
 
 {{/* If there are community pages... */}}
-{{- with $communities -}}
+{{- with $featured_communities -}}
   <article class="dg-promos dg-related-communities">
     <h3 class="dg-promos__heading">Join a Community</h3>
 
     <ul class="dg-promos__list">
-      {{- range $communities -}}
+      {{- range $featured_communities -}}
         <li class="promo dg-promos__list-item">
           <a
             href="{{ .Permalink }}?promo"
@@ -38,7 +26,6 @@
 
     <footer class="dg-promos__footer">
       {{ $communityCount := len (where $.Site.RegularPages "Section" "communities") }}
-
 
       <a
         href="{{ "communities" | relURL }}"

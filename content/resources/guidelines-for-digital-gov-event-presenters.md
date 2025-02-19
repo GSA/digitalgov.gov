@@ -97,7 +97,7 @@ Watch these [presentations training videos](https://www.section508.gov/create/pr
 
 {{< /checklist >}}
 
-Read these tips on how to [create accessible multimedia content](https://www.section508.gov/create/synchronized-media#audio-description) and [make audio descriptions](https://digital.gov/2014/06/30/508-accessible-videos-how-to-make-audio-descriptions/) for more information.
+Read these tips on how to [create accessible multimedia content and make audio descriptions](https://www.section508.gov/create/synchronized-media#audio-description) for more information.
 
 ## Additional guidelines for presenters who aren’t federal employees
 

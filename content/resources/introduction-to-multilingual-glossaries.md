@@ -18,6 +18,8 @@ slug: introduction-to-multilingual-glossaries
 # 1 -- visible
 # 2 -- highlighted
 weight: 1
+aliases:
+  - /resources/spanish-language-style-guide-and-glossaries/spanish-health-care-terms-in-the-united-states/
 
 ---
 

@@ -11,10 +11,7 @@ authors:
 topics:
   - mobile
   - user-experience
-
-aliases:
-  - /resources/mobile-user-experience-guidelines-and-recommendations/
-
+expirydate: 2025-01-01
 ---
 
 If your app doesn't have a good user experience, it goes to the [app graveyard]({{< ref "2014-07-29-trends-on-tuesday-avoid-the-app-graveyard.md" >}}).

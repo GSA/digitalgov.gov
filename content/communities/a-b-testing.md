@@ -8,10 +8,6 @@ title: "A/B Testing"
 deck: ""
 summary: "We encourage data-driven decisions and continuous optimization through A&#47;B testing."
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/a-b-testing-community
-
 # Archive - CoP merged with web-analytics-and-optimization CoP
 expirydate: "2020-07-16"
 

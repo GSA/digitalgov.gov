@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
   - data-visualization
+expirydate: 2025-01-01
 ---
 
 No information is more critical to your work than the numbers that reveal what’s happening, how you’re performing, and opportunities to do better.

@@ -11,6 +11,7 @@ topics:
   - accessibility
   - multimedia
   - social-media
+redirectto: "https://www.section508.gov/develop/universal-design-video-series/"
 ---
 
 {{< legacy-img src="2014/07/480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions.jpg" alt="480-x-385-Resource-Accessible-Videos-508-Compliant-Video-Player-with-captions" >}}

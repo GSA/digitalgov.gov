@@ -11,7 +11,7 @@ topics:
   - accessibility
   - multimedia
   - social-media
-
+redirectto: "https://www.section508.gov/develop/universal-design-video-series/"
 ---
 
 ## What are Audio Descriptions?

@@ -18,6 +18,7 @@ aliases:
   - /topics/customer-satisfaction/
   - /topics/customer-service/
   - /topics/cx/
+  - /resources/customer-experience-toolkit/
 
 # Weight
 weight: 2

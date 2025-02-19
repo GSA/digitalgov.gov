@@ -8,7 +8,7 @@ topics:
   - mobile
 authors:
   - jparcell
-
+expirydate: 2025-01-01
 ---
 
 Structuring a Statement of Work (SOW) for the development or modification of mobile products should be similar to any SOW your government organization issues for IT products and services.

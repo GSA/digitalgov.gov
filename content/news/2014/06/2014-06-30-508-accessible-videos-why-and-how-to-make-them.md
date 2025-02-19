@@ -12,6 +12,7 @@ topics:
   - user-experience
   - multimedia
   - social-media
+redirectto: "https://www.section508.gov/develop/universal-design-video-series/"
 ---
 
 {{< legacy-img src="2013/10/250-x-180-Laptop-and-gavel-Fuse-Thinkstock-78743811.jpg" alt="Laptop and gavel" caption="" >}} 

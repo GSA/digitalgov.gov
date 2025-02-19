@@ -10,7 +10,8 @@ topics:
   - design
   - communication
   - user-experience
-  
+expirydate: 2025-01-01
+
 featured_image:
   uid: old-boxing-gloves-nailed-to-the-textured-wall-viktor-gladkov-istock-thinkstock-506102725
   alt: 'Old boxing gloves nailed to a textured wall.'

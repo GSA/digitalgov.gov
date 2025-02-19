@@ -9,6 +9,7 @@ featured_image:
 topics:
   - mobile
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 _This guide was created by [David Fern](https://digital.gov/authors/david-fern/), Social Security Administration._
