@@ -10,6 +10,7 @@ topics:
   - customer-experience
   - information-collection
 
+expirydate: 2025-01-01
 ---
 
 Earlier this week, I shared with my colleagues at EXIM the [results of our 2016 export credit insurance customer survey](http://www.exim.gov/sites/default/files/reports/2016-Export-Credit-Insurance-Customer-Survey-Final.pdf). This is the third consecutive year that our largest customer segment has been asked to share their feedback with us.

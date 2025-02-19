@@ -14,6 +14,7 @@ topics:
   - budgeting-and-performance
   - security
   - innovation
+expirydate: 2025-01-01
 ---
 
 _Private industry and government came together to find best ways to deliver 21st century technology to federal agencies._ 

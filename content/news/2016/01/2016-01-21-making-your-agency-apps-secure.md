@@ -9,6 +9,7 @@ topics:
   - mobile
   - security
 
+expirydate: 2025-01-01
 ---
 
 It’s Saturday night: Do you know what your mobile app is doing?

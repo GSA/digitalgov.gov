@@ -11,6 +11,7 @@ topics:
   - mobile
   - software-engineering 
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Federal agencies are doing well in fulfilling the [2012 Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) by providing numerous mobile apps for American citizens. According to a report from [IBM’s Center for the Business of Government](http://www.businessofgovernment.org/report/using-mobile-apps-government), 76 federal agencies have at least one mobile app. As of July 2015, there are nearly 300 federal government mobile apps that provide at least one of the following:

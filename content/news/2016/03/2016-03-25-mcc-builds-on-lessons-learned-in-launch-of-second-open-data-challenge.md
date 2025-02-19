@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - open-data
+expirydate: 2025-01-01
 ---
 
 The Millennium Challenge Corporation (MCC)’s first open data challenge taught MCC some very valuable lessons in making its public data truly usable by the public. The challenges ask masters and PhD students to find creative ways to use MCC’s publicly-available evaluation data and provide new insights into its evaluation results. As the second challenge launches, MCC is building on these [lessons learned](https://www.mcc.gov/blog/entry/blog-030116-students-help-maximize-the-use-of-mcc-data) from the first challenge:

@@ -9,6 +9,7 @@ topics:
   - analytics
   - search
   - user-experience
+expirydate: 2025-01-01
 ---
 
 > Welcome to the first _Dear Search_ article, an occasional series where the DigitalGov Search team addresses common search questions.

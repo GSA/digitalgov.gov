@@ -15,6 +15,7 @@ topics:
   - best-practices
   - customer-experience
   - user-experience
+expirydate: 2025-01-01
 ---
 
 What does Snapchat, the disappearing message-and-video platform most used by teenagers, have to do with government outreach and communications programs? Well, Snapchat has quickly become an incredibly effective digital storytelling medium, and content creators across multiple government agencies have adopted it as an important part of their programs.

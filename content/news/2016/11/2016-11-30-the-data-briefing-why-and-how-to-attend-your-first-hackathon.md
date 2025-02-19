@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - design
+expirydate: 2025-01-01
 ---
 
 December 9, 2016, will be the 110th anniversary of Admiral Grace Hopper’s birthday. Admiral Hopper was a pioneer in computer programming who created the first compiler and whose ideas lead to the creation of COBOL. An apocryphal legend also credits Admiral Hopper with coining the terms “bug” and “debugging.” The GSA’s IT Digital Service Team will celebrate Admiral Hopper’s birthday with a [beginner-friendly hackathon](http://open.gsa.gov/grace-hopper-hackathon/).

@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 You may have heard about “DevOps” in the news or when meeting with IT professionals. What exactly is DevOps and what, if any, connection does it have with agile? Also, what do “containers” have to do with all of this? In this week’s column, I will introduce DevOps and a related technology: containers. Some DevOps practitioners will argue with my interpretations, and I invite these practitioners to explain their perspectives in the comments. {{< legacy-img src="2016/08/600-x-400-Word-DevOps-on-wood-planks-TimArbaev-iStock-Thinkstock-531240484.jpg" alt="Word DevOps on wood planks" caption="" >}} 

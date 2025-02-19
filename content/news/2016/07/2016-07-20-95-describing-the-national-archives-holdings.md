@@ -10,6 +10,7 @@ topics:
   - records-management
   - research
 
+expirydate: 2025-01-01
 ---
 
 The National Archives Catalog has reached a milestone: we now have 95% of our holdings completely described at the series level in our <a href="https://catalog.archives.gov/" target="_blank">online catalog</a>. This is a monumental achievement. Why? Because the National Archives holds over 14 billion pages of records, and we are adding hundreds of millions of pages to that total every year.

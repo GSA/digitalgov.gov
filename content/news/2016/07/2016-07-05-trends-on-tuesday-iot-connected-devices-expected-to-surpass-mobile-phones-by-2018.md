@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 International telecommunications network operator, Ericsson, released their [Mobility Report](https://www.ericsson.com/mobility-report) around the future of mobile recently with a bunch of interesting data around the future of telecommunications and mobile.

@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - budgeting-and-performance
+expirydate: 2025-01-01
 ---
 
 > **Summary**: We&#8217;re taking action to accelerate efforts to increase the efficiency of Federal data centers, reduce costs, and improve the government&#8217;s overall IT security posture.

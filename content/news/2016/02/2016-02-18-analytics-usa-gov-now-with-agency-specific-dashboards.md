@@ -12,6 +12,7 @@ authors:
   - colin-craig
 topics:
   - analytics
+expirydate: 2025-01-01
 ---
 
 We’ve added agency-specific dashboards to [analytics.usa.gov](https://analytics.usa.gov/)!

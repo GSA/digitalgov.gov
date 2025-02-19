@@ -11,6 +11,7 @@ topics:
   - analytics
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 _USAJOBS’ Analytics Success: using analytics to create accurate testing strategies._

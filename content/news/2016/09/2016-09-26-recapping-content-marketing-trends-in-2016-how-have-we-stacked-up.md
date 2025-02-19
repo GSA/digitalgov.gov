@@ -13,6 +13,7 @@ topics:
   - multilingual
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 Earlier this year, it was predicted that [content marketing would become even more important](http://buildfire.com/content-marketing-trends-2016/) due to its ability to enhance not just visibility, but also increase engagement with customers—who could, in turn, become great promoters of your content.
@@ -75,10 +76,12 @@ Additionally, with [40 percent of Americans](http://www.pewinternet.org/2015/04/
 
 _Looking for help planning or releasing a mobile product or service? Contact DigitalGov’s [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}}). Also, visit the [USA.gov Federal Mobile Apps Directory](http://www.usa.gov/mobileapps.shtml)._
 
+expirydate: 2025-01-01
 ---
 
 _You’ve just finished reading the latest article from our Monday column,_ [_The Content Corner_]({{< ref "/topics/content-strategy" >}})_. This column focuses on helping solve the main content issues facing federal digital professionals, including producing enough content and making that content engaging._
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

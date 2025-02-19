@@ -11,6 +11,7 @@ topics:
   - software-engineering
   - innovation
   - open-data
+expirydate: 2025-01-01
 ---
 
 The NASA Open Innovation team is pleased to announce the availability of the APIs that power <a href="http://marstrek.jpl.nasa.gov/" target="_blank">Mars Trek</a> and <a href="http://vestatrek.jpl.nasa.gov/" target="_blank">Vesta Trek</a> on <a href="https://api.nasa.gov/api.html#trek" target="_blank">api.nasa.gov</a>. The APIs for Mars provide data from the Mars Express, Mars Global Surveyor, Mars Odyssey and Mars Reconnaissance Orbiter missions with 21 different data products such as MOLA Altimetery Hillshade, Viking and THEMIS. There are also 6 data products from the Dawn mission to Vesta providing various views in True Color, Colorized and Color Hillshade to name a few.  More information on the Vesta data products can be found <a href="http://vestatrek.jpl.nasa.gov/facts.html" target="_blank">here</a>. {{< legacy-img src="2016/04/600-x-305-openNASAgov-Trek-API-mosaics.original.jpg" alt="A mosaic of images from Mars Trek and Vesta Trek." caption="" >}} 

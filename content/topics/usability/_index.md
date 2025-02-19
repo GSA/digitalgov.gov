@@ -15,6 +15,7 @@ aliases:
   - /topics/usability-case-study/
   - /topics/usability-starter-kit/
   - /topics/usability-testing/
+  - /resources/digitalgov-user-experience-resources/government-usability-case-studies/
 
 # Weight
 weight: 2

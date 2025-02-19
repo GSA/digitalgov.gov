@@ -13,6 +13,7 @@ topics:
   - content-strategy
   - open-data
   - budgeting-and-performance
+expirydate: 2025-01-01
 ---
 
 Last week we wrote about [how we diffuse knowledge through shared interests and sharing best practices on the Micro-purchase Platform](https://18f.gsa.gov/2016/08/25/micro-purchase-design-philosophy-do-one-thing-well/). This week, we’ll focus on some of the lessons learned during the (completed) DATA Act prototype. Importantly, though that project has finished, this post is _not_ meant to be a full retrospective; we’ll be focusing on technical decisions. We should also delineate this from the more long term DATA Act broker, which is under active development.

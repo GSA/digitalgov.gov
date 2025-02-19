@@ -2,9 +2,7 @@
 title: Using Plain Language To Tell Our Stories
 deck: Use templates to craft simple stories with purpose.
 kicker: Storytelling
-summary: >
-  Learn how to tell a story and figure out what role plain language plays in
-  storytelling.
+summary: Learn how to tell a story and figure out what role plain language plays in storytelling.
 host: Plain Language Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/using-plain-language-to-tell-our-stories-tickets-159178088949

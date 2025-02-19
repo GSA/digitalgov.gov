@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 I recently asked some friends—a group of intelligent, successful individuals—what they knew about World War I. The responses I received included, “Ummm…..it was in the 1910s?” or “Started in Europe when the archduke was killed?” Beyond this, it’s mostly blank stares and shoulder shrugs. People who consider themselves history geeks might mention President Woodrow Wilson’s 14 Points, or the creation of the League of Nations, but for many Americans, World War I is a forgotten war. It happened thousands of miles away, unlike the battles of the Civil War, and It was too long ago for most Americans to have known a person that served, unlike veterans of World War II. {{< legacy-img src="2016/11/600-x-400-20150616\_wp\_meuseargonne\_ABMC\_0047.jpg" alt="Meuse-Argonne American Cemetery is the largest, overseas, American military cemetery from World War I. More than 14,000 Americans rest with these hallowed grounds." caption="" >}} 

@@ -218,6 +218,7 @@ Each character and its code is listed below:
 <table border="1" summary="Listing of Diacritics and Their Character Codes">
   <tr>
     <th scope="col">
+      Character
     </th>
     <th scope="col" align="center">
       Number
@@ -440,8 +441,12 @@ Each character and its code is listed below:
 
 <table border="1" summary="Listing of Punctuation Marks and Their Character Codes">
   <tr>
-    <td align="center" width="18%"><strong>Symbol</strong></td>
-    <td width="82%"><strong>HTML Entity</strong></td>
+    <th scope="col">
+      Symbol
+    </th>
+    <th scope="col" align="center">
+      HTML Entity
+    </th>
   </tr>
 
   <tr>
@@ -518,8 +523,6 @@ Each character and its code is listed below:
 ## Sources
 
 - [El Diccionario de la Real Academia Española](http://www.rae.es/).
-
 - National Association of Hispanic Journalists. Manual de estilo. Knight Ridder: Ann Arbor, c.2003. (Not available online)
-
 - [Glosas, órgano informativo de la Comisión de Traducciones de la Academia Norteamericana de la Lengua Española](https://glosas.anle.us/)
 - [Errores ortotipográficos en la traducción al español](http://www.certifiedchinesetranslation.com/Spanish/ortotipo.html). Xosé Castro Roig y Lucía Rodríguez Corral, c.1999

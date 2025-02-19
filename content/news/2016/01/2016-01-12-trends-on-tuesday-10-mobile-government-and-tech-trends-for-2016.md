@@ -10,6 +10,7 @@ topics:
   - emerging-tech
   - mobile
   - security
+expirydate: 2025-01-01
 ---
 
 As we move into 2016, here are 10 trends I foresee flourishing around mobile, technology and government:

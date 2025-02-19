@@ -38,7 +38,7 @@ You might have an idea what UX changes are needed (cough, CONTENT, cough), but t
 
 Your stakeholders—usually some combination of clients, content managers, developers, executives, product owners, and users—may take some convincing. To build buy-in, you’ll need to communicate UX issues clearly to a variety of people that care about very different lines of business.
 
-[Get to know them](https://digital.gov/2016/07/01/build-empathy-with-stakeholder-interviews-part-1-preparation/). Are they focused on the bottom line? Customer service metrics? Time commitments required for a UX upgrade? Determine what aspects of a UX project are most important to each stakeholder and deliver your message accordingly.
+Get to know them. Are they focused on the bottom line? Customer service metrics? Time commitments required for a UX upgrade? Determine what aspects of a UX project are most important to each stakeholder and deliver your message accordingly.
 
 ## Document Your Users' Experience
 

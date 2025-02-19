@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - product-and-project-management
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 > _Summary: Today we’re launching Code.gov so that our Nation can continue to unlock the tremendous potential of the Federal Government’s software._

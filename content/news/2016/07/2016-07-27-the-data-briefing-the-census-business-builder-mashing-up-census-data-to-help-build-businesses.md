@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - emerging-tech
   - open-data
+expirydate: 2025-01-01
 ---
 
 The Census Bureau conducts more surveys than just the Constitutionally-mandated Decennial Census. There is also the [American Community Survey](http://www.census.gov/programs-surveys/acs/), the [Economic Census](http://www.census.gov/econ/census/), the [County Business Patterns series](http://www.census.gov/programs-surveys/cbp.html), statistics on [Nonemployer businesses](http://www.census.gov/econ/nonemployer/), and the [Survey of Business Owners and Self-Employed Persons](http://www.census.gov/programs-surveys/sbo.html).  On their own, each survey is full of useful information for researchers, local and state governments, and entrepreneurs. However, how valuable would the data be if it were mixed and displayed geographically?
@@ -27,6 +28,7 @@ Because of the success of the Census Business Builder, the Census Bureau release
 
 The Census Business Builder and the Regional Analyst Edition demonstrate several innovations in creating and implementing federal government data applications. First, the Census Business Builder was created using agile project management after being conceived in a hackathon. Second, both applications illustrate the power of combining data sets to create new data products. Third, both demonstrate the power of building API-powered federal government applications in the cloud to serve the needs of the American entrepreneur and American public.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

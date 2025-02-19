@@ -11,6 +11,7 @@ topics:
   - cloud-and-infrastructure
   - innovation
   - budgeting-and-performance
+expirydate: 2025-01-01
 ---
 
 > **Summary**: Today, we’re launching the M3 Framework to provide agencies with leading best practices for mission-support function modernizations and migrations.

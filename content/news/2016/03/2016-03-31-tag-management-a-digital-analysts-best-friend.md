@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - analytics
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Tag managers can assist in collecting valuable data about visits to your website. Here at CFPB, we use Google Tag Manager (GTM), which is a free tool that works in tandem with Google Analytics to record and send data on how users interact with your website on an aggregate level, including which pages they view, where they click and what they download. It requires one line of code to be added to your site. Once GTM is up and running, you create tags, or tiny bits of code that record and send data, which go straight to Google Analytics (or an ever-growing list of other user interfaces). If you need any help getting started, we can give you guidance!

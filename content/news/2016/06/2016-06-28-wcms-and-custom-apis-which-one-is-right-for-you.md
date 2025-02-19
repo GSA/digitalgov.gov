@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - mobile
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 ****[Gray Brooks]({{< ref "/authors/gray-brooks" >}}) of GSA gave us a great definition of APIs in the [DigitalGov University (DGU)](https://digital.gov/digitalgov-university/) presentation, [Introduction to APIs]({{< ref "2012-07-26-introduction-to-apis.md" >}}).

@@ -11,6 +11,7 @@ topics:
   - mobile
   - open-data
   - social-media
+expirydate: 2025-01-01
 ---
 
 With January, and the tearing off of the old calendar, comes the annual taking stock of [where we&#8217;ve been in the last year]({{< ref "2015-12-31-digitalgovs-2015-year-in-review.md" >}}) and where we can go in the year ahead.

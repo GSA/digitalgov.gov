@@ -7,6 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 Open and structured content models assist in the dissemination of information to various devices and media types. In the age of smartphones, tablets, social media tools, syndication and websites, the need for [modular content is growing]({{< ref "2015-08-24-the-content-corner-modular-design-and-structured-content.md" >}}).

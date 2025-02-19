@@ -9,6 +9,7 @@ topics:
   - open-data
   - content-strategy
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 The United Kingdom’s (UK) Digital Service has researched ways to [increase data science literacy among the UK public service](https://data.blog.gov.uk/2016/09/02/ideas-to-help-civil-servants-to-understand-the-opportunities-of-data/). Data science literacy goes further than data literacy, in that civil servants will know how to apply data science concepts and methods in their everyday work. I thought it would be useful to share the UK Digital Service’s findings to help federal government employees develop their data science literacy. {{< legacy-img src="2016/09/600-x-400-Magnifying-Glass-and-Multicolored-Pie-Chart-Mohitchoudhary-iStock-Thinkstock-538654186.jpg" alt="Magnifying Glass and Multicolored Pie Chart" caption="" >}} 

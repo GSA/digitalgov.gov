@@ -18,6 +18,7 @@ topics:
   - open-source
   - social-media
   - human-centered-design
+expirydate: 2025-01-01
 ---
 
 [One year ago this week]({{< ref "2015-09-23-usa-gov-launches-vote-usa-gov-to-help-citizens-register-and-connect-with-states.md" >}}), we launched [vote.gov](https://vote.gov/) (also known as vote.usa.gov). It’s a concise and simple site with a single mission: direct citizens through the voter registration process as quickly as possible. It was created by a joint team of [USA.gov](https://www.usa.gov/) staffers and [Presidential Innovation Fellows](https://www.whitehouse.gov/innovationfellows), all of whom work within the [General Services Administration](https://www.gsa.gov/) (GSA).

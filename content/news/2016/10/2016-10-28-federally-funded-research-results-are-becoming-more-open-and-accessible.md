@@ -11,6 +11,7 @@ topics:
   - content-strategy
   - open-government
   - research
+expirydate: 2025-01-01
 ---
 
 > _Summary: Significant strides in improving public access to scholarly publications and digital data help usher in an era of open science._

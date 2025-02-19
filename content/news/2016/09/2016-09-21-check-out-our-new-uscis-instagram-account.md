@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 We are fortunate to meet amazing immigrants every day and share in their immigration journeys. Now we have a unique opportunity to share their stories with the world using Instagram. Today, we launched our Instagram account under the handle [@USCIS](https://www.instagram.com/uscis) and <span lang="es" title="Spanish"><a href="https://www.instagram.com/uscis_es">@USCIS_ES</a></span> (Spanish version) and will share photos, graphics and videos to highlight our vital work.

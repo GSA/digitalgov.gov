@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - research
+expirydate: 2025-01-01
 ---
 
 The [CALC](https://18f.gsa.gov/2015/05/12/announcing-the-calc-tool/) team is an agile team of four &#8212; six if you count the Scrummaster and the Product Owner &#8212; building a simple means to load price data into the original CALC tool. They’re an Agile team, which means everybody pitches in on everything to some degree, and here, in their own words, is some reflection on what happened when they all scrubbed in on the Discovery phase. {{< legacy-img src="2015/07/600-x-400-Social-Business-Meeting-Rawpixel-Ltd-iStock-Thinkstock-179604739.jpg" alt="Social Business Meeting" caption="" >}} 

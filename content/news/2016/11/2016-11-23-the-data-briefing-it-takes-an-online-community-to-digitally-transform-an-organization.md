@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 The [open source]({{< ref "/topics/open-source" >}}) movement has changed how we develop software, create content, and even do science. Using a community to help complete projects and bring about change has become so ubiquitous in the last ten years that it has even earned a name — [crowdsourcing]({{< ref "/topics/crowdsourcing-and-citizen-science" >}}). Crowdsourcing is a powerful tool and is now being used to help organizations digitally transform.

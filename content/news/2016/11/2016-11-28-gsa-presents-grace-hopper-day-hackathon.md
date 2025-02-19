@@ -10,6 +10,7 @@ topics:
   - software-engineering
   - design
   - open-data
+expirydate: 2025-01-01
 ---
 
 **When**: Friday, December 9th, 2016<br />

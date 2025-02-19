@@ -14,6 +14,7 @@ topics:
   - multilingual
   - user-experience
   
+expirydate: 2025-01-01
 ---
 
 Social Security joins you and your family in celebrating [Hispanic Heritage Month](http://www.hispanicheritagemonth.gov/), which runs from September 15 to October 15.

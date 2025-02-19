@@ -10,6 +10,7 @@ topics:
   - application-programming-interface
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Some highlights from the recent fall conference of the Association for Public Policy Analysis and Management:

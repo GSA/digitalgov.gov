@@ -10,6 +10,7 @@ topics:
   - innovation
   - emerging-tech
   - open-data
+expirydate: 2025-01-01
 ---
 
 Two significant items in federal government data in the last few weeks:

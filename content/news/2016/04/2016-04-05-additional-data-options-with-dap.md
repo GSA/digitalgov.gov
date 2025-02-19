@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - open-data
   - analytics
+expirydate: 2025-01-01
 ---
 
 Agencies can participate in the Digital Analytics Program (DAP) by implementing the DAP script block. It’s a simple line of of code that enables you to take advantage DAP:

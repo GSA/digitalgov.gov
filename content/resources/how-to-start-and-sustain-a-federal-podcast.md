@@ -3,6 +3,9 @@ date: 2023-03-24 16:13:00 -0500
 title: How to start and sustain a federal podcast
 deck: It seems like everyone has a podcast these days, including the federal government. Should your agency decide to do the same — and if so, how do you even get started?
 summary: "Discover how to create and maintain a successful podcast at your federal agency."
+
+expirydate: "2025-01-08"
+
 # See all topics at https://digital.gov/topics
 topics:
   - communication

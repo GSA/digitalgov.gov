@@ -120,7 +120,7 @@ Analyze the types of queries and issues raised by users to understand needs and 
 
 ## You can’t change what you don’t measure: New performance metrics for digital services to consider
 
-Shortcomings with CX metrics based solely on structured data — such as website hits and solicited survey satisfaction ratings like [CSAT and NPS](https://digital.gov/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/) — are well-documented.
+Shortcomings with CX metrics based solely on structured data — such as website hits and solicited survey satisfaction ratings like CSAT and NPS — are well-documented.
 
 As highlighted in an article about using artificial intelligence to track how customers feel <sup><a aria-describedby="footnote-label" href="#fn1" id="footnotes-ref1">[1]</a></sup>:
 

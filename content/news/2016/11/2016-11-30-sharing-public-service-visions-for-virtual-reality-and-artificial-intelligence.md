@@ -11,6 +11,7 @@ topics:
   - artificial-intelligence
   - innovation
   - multimedia
+expirydate: 2025-01-01
 ---
 
 I’m taking a break from sorting through dozens of concepts from federal agencies about how they want to use artificial intelligence and virtual reality for citizens in the coming months in order to share with you just some of these groundbreaking initiatives of tomorrow that can be explored at a DigitalGov University workshop this week.

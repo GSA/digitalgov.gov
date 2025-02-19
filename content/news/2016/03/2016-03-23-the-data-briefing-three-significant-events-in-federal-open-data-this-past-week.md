@@ -13,6 +13,7 @@ topics:
   - open-data
   - open-source
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Three recent stories demonstrate how opening up federal government data and using agile methods to create federal government software can spur innovation while saving tax money and helping the American public.

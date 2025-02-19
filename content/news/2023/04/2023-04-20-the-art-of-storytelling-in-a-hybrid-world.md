@@ -45,7 +45,7 @@ In all likelihood, you have a varied audience, each with different needs, experi
 
 * [stakeholder analysis and mapping exercises](https://product-guide.18f.gov/discover/stakeholders/),
 * [empathy maps](https://qnetconfluence.cms.gov/display/HCD/Empathy+Maps),
-* and (if you can) [stakeholder interviews](https://digital.gov/2016/07/01/build-empathy-with-stakeholder-interviews-part-1-preparation/).
+* and (if you can) stakeholder interviews.
 
 Take the time and effort to get to know your audience, where they are coming from, and what they are bringing to the dialogue.
 

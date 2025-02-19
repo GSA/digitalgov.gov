@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - open-source
+expirydate: 2025-01-01
 ---
 
 When I joined the [<span class="s2">code.gov</span>](https://code.gov/) project, I had just over a month to make an impact on the project. The most pressing work seemed to be defining a software metadata schema — a way for agencies to format the details of the software they’ve built.

@@ -12,6 +12,7 @@ topics:
   - product-and-project-management
   - analytics
 
+expirydate: 2025-01-01
 ---
 
 Recently, [we interviewed Sara Wachter-Boettcher]({{< ref "2016-10-25-expert-insight-on-content-strategy-and-structure-for-future-ready-content.md" >}}), author of _Content Everywhere: Strategy and Structure for Future-Ready Content_. She discussed the concept of using the Core Model to design and structure web content and applications. The Core Model allows an organization to design from the inside out, with the primary focus on the on the core tasks its users need to accomplish.

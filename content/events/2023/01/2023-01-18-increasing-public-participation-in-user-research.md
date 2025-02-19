@@ -51,7 +51,6 @@ The 10x team will also discuss what they have planned for the next phase and ans
 
 - [Doing research at TTS: Compensating user research participants](https://handbook.tts.gsa.gov/18f/how-18f-works/research-guidelines/)
 - [18F Methods: Compensation, a - foundational method for practicing design research](https://methods.18f.gov/fundamentals/compensation/)
-- [Paying incentives for federal user research](https://digital.gov/2016/02/10/paying-incentives-for-federal-user-research/)
 
 ---
 

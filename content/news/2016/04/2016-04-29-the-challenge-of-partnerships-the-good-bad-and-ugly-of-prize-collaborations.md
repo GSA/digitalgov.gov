@@ -7,6 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 Well-executed partnerships can create better solutions and place them on a bigger platform. Poorly executed ones, on the other hand, can send federal agencies into a bureaucratic tailspin.

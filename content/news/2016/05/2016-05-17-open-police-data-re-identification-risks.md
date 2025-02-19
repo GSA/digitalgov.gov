@@ -9,6 +9,7 @@ topics:
   - open-data
   - security
 
+expirydate: 2025-01-01
 ---
 
 Last week I spoke at a White House event, “Opportunities & Challenges: Open Police Data and Ensuring the Safety and Security of Victims of Intimate Partner Violence and Sexual Assault.” This event brought together representatives from government agencies, police departments, and advocacy groups to discuss the potential safety and privacy impact of open police data initiatives.

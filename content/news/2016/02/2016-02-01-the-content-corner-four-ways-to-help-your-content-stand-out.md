@@ -10,6 +10,7 @@ topics:
   - multimedia
   - communication
   - data-visualization
+expirydate: 2025-01-01
 ---
 
 When [discussing trends for 2016]({{< ref "2016-01-11-the-content-corner-content-trends-for-2016.md" >}}), I made some mention of the content overload that started in 2015 but will certainly increase in 2016. Contently recently found that [organizations created 73% more content in 2015 than in 2014](https://contently.com/strategist/2016/01/11/content-marketing-2016-staffing-measurement-and-effectiveness-across-the-industry/). I see no reason why that number will decline in 2016, especially as content becomes the beast of burden of choice for a majority of organizations both public and private. Today, I wanted to share some content types that you can leverage to possibly help stand out among the deluge. {{< legacy-img src="2016/01/600-x-375-Standing-out-from-the-crowd-Palto-iStock-Thinkstock-469148870.jpg" alt="A bright yellow umbrella seen in a field of black ones stands out from the crowd." caption="" >}} 

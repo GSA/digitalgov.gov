@@ -9,6 +9,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 Google Product Director and author, Luke Wroblewski, wrote a piece about [how perfecting your Day-1 experience for users is critical](http://www.lukew.com/ff/entry.asp?1955) because retention after that point is incredibly difficult.

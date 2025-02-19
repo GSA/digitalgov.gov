@@ -230,7 +230,6 @@ Implement agile, iterative, customer-centric design processes for all customer i
 
 - [Foundations in Agile, Part I](https://digital.gov/event/2019/11/04/foundations-agile-i/), Digital.gov Event
 - [Foundations in Agile, Part II](https://digital.gov/event/2019/11/05/foundations-agile-ii/), Digital.gov Event
-- [How Agile Development Can Benefit Federal Projects](https://digital.gov/2016/01/04/how-agile-development-can-benefit-federal-projects/)
 - [Why People Contribute to Federal Tech Projects (And How You Can Provide a Good Experience)](https://digital.gov/2016/01/14/why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience/)
 - [Agile Project Management in Government](https://digital.gov/2015/01/16/how-to-run-an-agile-project-in-government/)
 

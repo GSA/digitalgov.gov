@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - social-media
+expirydate: 2025-01-01
 ---
 
 Technology is bringing the world closer together – from connecting people across the country instantly by live video chats to tapping into the insights of data analytics. This is the type of power that [FirstNet](http://www.firstnet.gov/) aims to bring to the public safety community through the [nationwide public safety broadband network](http://www.firstnet.gov/network).

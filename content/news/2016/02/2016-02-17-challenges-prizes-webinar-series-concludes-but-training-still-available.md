@@ -7,6 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 It began with a history lesson and ended with an eye to the future.

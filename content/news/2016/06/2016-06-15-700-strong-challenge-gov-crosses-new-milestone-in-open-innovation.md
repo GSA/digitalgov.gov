@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - innovation
+expirydate: 2025-01-01
 ---
 
 [Challenge.gov](https://www.challenge.gov/), the official website for crowdsourcing and prize competitions across government, celebrated its five-year anniversary in October 2015.

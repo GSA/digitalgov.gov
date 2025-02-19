@@ -11,6 +11,7 @@ topics:
   - mobile
   - social-media
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 _September is National Preparedness Month. FEMA&#8217;s [Ready.gov](https://www.ready.gov/) is encouraging everyone to plan how they would stay safe and communicate during disasters that can affect their communities. Additionally, Ready.gov is encouraging full participation in [America’s PrepareAthon!](https://community.fema.gov/) and the national day of action, National PrepareAthon! Day, which culminates National Preparedness Month on September 30._

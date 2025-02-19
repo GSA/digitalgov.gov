@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 Every week my main goal is to usually provide new ways to help you feed the content beast. However, today I am going to remind you of why feeding the beast is important, especially when it comes to your search engine rankings and helping users find your content.
