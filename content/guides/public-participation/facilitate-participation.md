@@ -34,7 +34,6 @@ Use data to inform decisions about engagement efforts and public participation. 
 
 - [Data.gov](http://www.data.gov/developers "Data.gov") is a rich resource for civic hackers, tech entrepreneurs, data scientists, and developers of all stripes. It includes information about APIs, open source projects, and relevant developer resources across government.
 - [Enigma](http://enigma.io/solutions/ "Engima") is amassing the largest collection of public data produced by governments, universities, companies, and organizations. Concentrating all of this data provides new insights into economies, companies, places and individuals.
-- [API Release Kit](https://www.digitalgov.gov/2013/05/16/api-release-kit/ "API Release Kit") describes the elements agencies should include in federal API releases.
 
 ### Metrics: How do you know you're successfully facilitating participation?
 

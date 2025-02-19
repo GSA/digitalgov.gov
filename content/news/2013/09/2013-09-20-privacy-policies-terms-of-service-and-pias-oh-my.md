@@ -10,6 +10,7 @@ topics:
   - privacy
   - social-media
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 _Guest post by Cheryl Hackley who works in the Office of Public Affairs at the Federal Trade Commission.[{{< legacy-img src="2013/09/privacy-image-250x167.png" alt="image of a computer with a padlock on the screen" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/privacy-image.png)_

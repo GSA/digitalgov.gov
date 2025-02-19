@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/08/250-x-167-Hands-Group-poco_bw-iStock-Thinkstock-145905230.jpg" alt="Group of hands; teamwork." caption="" >}}

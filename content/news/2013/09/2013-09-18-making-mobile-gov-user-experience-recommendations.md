@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 ### How We Did It
