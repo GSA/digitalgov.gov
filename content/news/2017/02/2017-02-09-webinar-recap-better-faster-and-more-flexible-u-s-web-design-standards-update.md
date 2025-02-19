@@ -10,6 +10,7 @@ topics:
   - design
   - product-and-project-management
   - user-experience
+expirydate: 2025-01-01
 ---
 
 ## The Road to Launch Version 1.0
@@ -47,6 +48,7 @@ Additionally, they are mid-way through a [product roadmap](https://standards.usa
 
 And there’s one important note: while the U.S. Web Design Standards were designed for the needs of government agencies, they can be used, and modified for specific needs by anyone! Learn more by watching the webinar below.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

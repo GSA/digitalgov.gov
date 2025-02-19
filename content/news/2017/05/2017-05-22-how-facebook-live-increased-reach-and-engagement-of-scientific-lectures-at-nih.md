@@ -11,6 +11,7 @@ topics:
   - mobile
   - social-media
   - multimedia
+expirydate: 2025-01-01
 ---
 
 Helping patients manage chronic pain has become an increasing challenge for health care providers, particularly in the face of an ongoing [opioid epidemic](https://www.hhs.gov/opioids/) in the United States.

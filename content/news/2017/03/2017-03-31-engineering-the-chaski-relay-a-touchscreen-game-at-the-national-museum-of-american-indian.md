@@ -14,6 +14,7 @@ topics:
   - human-centered-design
   - user-experience
   
+expirydate: 2025-01-01
 ---
 
 On visiting [The Great Inka Road: Engineering an Empire](http://www.nmai.si.edu/explore/exhibitions/item/?id=945) exhibition at the [Smithsonian National Museum of the American Indian](http://www.nmai.si.edu/), it is impossible not be taken by the sheer scale of the Inka Road. Qhapaq Ñan, or the Road of the Inka, is a 25,000-mile long road system that fed the rapid expansion of the Inka Empire in the 14th and 15th centuries. It connected distant towns and settlements in the Andes, snaking up and down mountains, bridging impossible valleys, and traversing lush agricultural fields and terraces. In 2014, [the road was recognized by UNESCO as a World Heritage site](http://whc.unesco.org/en/list/1459).

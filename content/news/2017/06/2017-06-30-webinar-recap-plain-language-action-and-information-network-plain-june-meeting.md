@@ -9,6 +9,7 @@ topics:
   - communication
   - content-strategy
   - plain-language
+expirydate: 2025-01-01
 ---
 
 {{< box >}}

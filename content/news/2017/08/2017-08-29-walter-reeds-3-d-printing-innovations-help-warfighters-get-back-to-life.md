@@ -13,6 +13,7 @@ topics:
   - design
   - research
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 _This is part of an ongoing series highlighting the innovations and research happening at Walter Reed National Military Medical Center in Bethesda, Maryland._

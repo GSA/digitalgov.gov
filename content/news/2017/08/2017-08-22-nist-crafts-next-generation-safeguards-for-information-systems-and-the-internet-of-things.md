@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - emerging-tech
   - security
+expirydate: 2025-01-01
 ---
 
 Information systems—from communications platforms to internet-connected devices—require both security and privacy safeguards to work successfully and protect users in our increasingly complex and interconnected world.

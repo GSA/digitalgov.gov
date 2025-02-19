@@ -11,6 +11,7 @@ featured_image:
 topics:
   - social-media
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [HIV.gov blog](https://www.hiv.gov/blog/staying-current-today-s-fast-moving-social-media-world)._

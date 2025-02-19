@@ -19,6 +19,7 @@ topics:
   - mobile
   - user-experience
   - accessibility
+expirydate: 2025-01-01
 ---
 
 The team behind the U.S. Web Design Standards (the Standards) held their first Ask Me Anything (AMA), in August, to answer questions from their public Slack channel community.

@@ -19,6 +19,7 @@ featured_image:
 
 primary_image: "software-developer-augemented-reality-screen-nicoelnino-istock-gettyimages-844536006"
 
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [18F blog](https://18f.gsa.gov/2017/09/20/managing-custom-software-development-in-government-when-youre-not-a-software-engineer/). It is the first in a series that will share effective and efficient ways to manage software development, even if one doesn’t have a background in software engineering._

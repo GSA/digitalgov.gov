@@ -12,6 +12,7 @@ topics:
   - mobile
   - best-practices
 
+expirydate: 2025-01-01
 ---
 
 The [Digital Analytics Program](https://digital.gov/guides/dap/) (DAP) offers no cost, hosted web analytics to federal agencies. In November 2016, the Office of Management and Budget (OMB) issued [Memorandum M-17-06, Policies for Federal Agency Public Websites and Digital Services](https://digital.gov/resources/omb-m-17-06), which requires federal websites to incorporate the DAP’s JavaScript code for website analytics.

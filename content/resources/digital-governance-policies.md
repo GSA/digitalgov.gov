@@ -5,6 +5,7 @@ title: Digital Governance Policy Outline
 summary: "A template for digital governance policies."
 authors:
   - jeremyzilar
+expirydate: 2025-01-01
 ---
 
 **Version 1.1**

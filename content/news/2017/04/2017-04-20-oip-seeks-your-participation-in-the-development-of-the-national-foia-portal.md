@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - research
   - open-government
+expirydate: 2025-01-01
 ---
 
 The Office of Information Policy (OIP) is pleased to announce its collaboration with GSA’s [18F](https://18f.gsa.gov/) team on the development of a National FOIA Portal.

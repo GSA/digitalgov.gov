@@ -14,6 +14,7 @@ topics:
   - security
   - multimedia
 
+expirydate: 2025-01-01
 ---
 
 Amidst the chaos of an active shooter event, preparedness is key to a seamless, swift and effective response—and a new video game funded by the <a href="https://www.dhs.gov/">Department of Homeland Security</a> (DHS) <a href="https://www.dhs.gov/science-and-technology">Science and Technology</a> (S&amp;T) Directorate and the <a href="http://www.arl.army.mil/">U.S. Army Research Laboratory</a> just might do the trick.

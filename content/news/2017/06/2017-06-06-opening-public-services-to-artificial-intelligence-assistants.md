@@ -13,6 +13,7 @@ topics:
   - artificial-intelligence
   - customer-experience
   - innovation
+expirydate: 2025-01-01
 ---
 
 _“Hey, Computer, how do I access my public services?”_

@@ -15,6 +15,7 @@ topics:
   - emerging-tech
 aliases:
   - /2017/09/06/five-ways-federal-leaders-can-build-the-will-skill-and-velocity-needed-for-digital-transformation/
+expirydate: 2025-01-01
 ---
 
 _Learning—and practicing—five imperatives of network leadership can help agencies improve their odds for successful digital transformation._

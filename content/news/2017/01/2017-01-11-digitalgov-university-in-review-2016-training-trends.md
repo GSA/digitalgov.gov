@@ -26,6 +26,7 @@ topics:
   - professional-development
   - social-media
   - multimedia
+expirydate: 2025-01-01
 ---
 
 [DigitalGov University](https://digital.gov/digitalgov-university/) (DGU), the events platform for DigitalGov, provides programming to build and accelerate digital capacity by providing webinars and in-person events highlighting innovations, case studies, tools, and resources. Thanks to your participation, DGU hosted over 90 events with 6,648 attendees from over 100 agencies across federal, tribal, state, and local governments.

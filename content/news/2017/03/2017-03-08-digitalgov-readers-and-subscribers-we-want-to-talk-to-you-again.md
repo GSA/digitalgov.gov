@@ -11,6 +11,7 @@ topics:
   - research
   - customer-experience
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="https://i.giphy.com/3o6Zt3PBAGPUvmvUJO.gif" alt="An animated gif of a girl with the word Hi written on her hand is from the National Archives Giphy.com collection." >}}
