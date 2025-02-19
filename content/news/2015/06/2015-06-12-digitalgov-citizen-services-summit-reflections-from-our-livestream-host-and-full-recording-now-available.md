@@ -60,6 +60,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
+
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
 expirydate: 2025-01-01
