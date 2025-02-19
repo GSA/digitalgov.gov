@@ -6,7 +6,8 @@
 display_name: "Dominic McDevitt-Parks"
 first_name: "Dominic"
 last_name: "McDevitt-Parks"
-
+e
+xpirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: dominic-mcdevitt-parks

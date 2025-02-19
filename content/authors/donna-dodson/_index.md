@@ -7,6 +7,7 @@ display_name: "Donna Dodson"
 first_name: "Donna"
 last_name: "Dodson"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: donna-dodson
