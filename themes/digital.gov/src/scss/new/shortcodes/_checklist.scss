@@ -5,6 +5,7 @@
   @include u-margin-top(0, "!important");
   @include u-border-top("2px", "gray-cool-10", "solid");
 
+  > li,
   &__item {
     list-style-type: none;
 
@@ -22,6 +23,12 @@
       @include u-display("inline-block");
       @include u-width(2);
       @include u-height(2);
+    }
+
+    > ul {
+      > li {
+        list-style-type: disc !important;
+      }
     }
   }
 

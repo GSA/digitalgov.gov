@@ -7,6 +7,8 @@
 input_file="redirects/slugs_clean.txt"
 output_file="redirects/filepaths.txt"
 
+> "$output_file"
+
 # Base directory to search within
 search_dir="content"
 

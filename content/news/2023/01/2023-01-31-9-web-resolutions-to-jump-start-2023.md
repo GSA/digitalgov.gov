@@ -4,6 +4,8 @@ title: 9 web resolutions to jump-start 2023
 deck: Try one, try all
 summary: Nine areas to focus on in the coming year to take your digital sites and services to the next level.
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development

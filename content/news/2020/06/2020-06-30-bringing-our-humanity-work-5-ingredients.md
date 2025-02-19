@@ -76,7 +76,7 @@ This month, we’re focusing on large group meetings: divisional Town Halls or o
 
 <p>Some conferencing platforms offer breakout rooms, which provide an excellent option for “get to know your colleagues” sessions or small group brainstorming.</p>
 
-<p>Include short educational or learning sessions in the agenda. For example, the TTS Diversity Guild (one of our working groups) has done guest presentations at TTS team meetings to share information about inclusion topics, provide updates about current initiatives, and encourage colleagues to get involved.</p>
+<p>Include short educational or learning sessions in the agenda.</p>
 
 <p>Lastly, consider closing the meeting with an action item or an open question that brings the whole “meal” together and leaves people feeling satisfied and included. Open your next Town Hall with insights from the action item or question from the previous Town Hall. For example, we encouraged our colleagues to reach out and tell someone why they appreciate them.</p>
 
@@ -97,8 +97,7 @@ This month, we’re focusing on large group meetings: divisional Town Halls or o
 <p>A staple of TTS large group meetings is sharing “pets, children, and other cuteness.” Staff turn on their video cameras (if they weren’t already on) and show off their pets, children, or something else they enjoy. Photos can be shown to the camera, too. The icing on the cake: if you wait until the end of the meeting to reveal these, people will stay until the end!</p>
 
 <p>We also encourage gratitude and reflection. Kudos are another staple of our meetings: we set aside a timeblock for teammates to thank each other, in their own words. The moderator can gather names ahead of time and call on each person to unmute. They can also read off kudos for anyone who can’t attend or would prefer not to unmute.</p>
-
-{{< tweet user="18F" id="1180123465963188224" >}}</li>
+</li>
 </ol>
 
 We hope you’ll stir together our five ingredients and create the dish that best serves your audience. Stay tuned for the next piece, focused on small team meetings.

@@ -4,15 +4,13 @@ title: "An introduction to inclusion"
 deck: "Understand why and how to create an inclusive culture"
 summary: "An inclusive culture contributes to a sense of belonging, promotes a healthier and more empowering workplace, respects differences, and optimizes for equal opportunities."
 
+expirydate: "2025-01-22"
+
 topics:
-  - diversity-equity-and-inclusion
   - product-and-project-management
   - professional-development
 
 slug: an-introduction-to-inclusion
-
-authors:
-  - anne-petersen
 
 # Controls how this page appears across the site
 # 0 -- hidden
