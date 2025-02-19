@@ -54,15 +54,11 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 {{< tweet user="jakegab" id="601206392905674752" >}}
 
-{{< tweet user="lauraandotis" id="601432623186051072" >}}
-
 {{< tweet user="FedRAMP" id="601370769533308928" >}}
 
 The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
 {{< tweet user="BernettaReese" id="601102824252936193" >}}
-
-{{< tweet user="BernettaReese" id="601385199994327040" >}}
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
