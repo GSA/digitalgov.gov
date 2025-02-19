@@ -7,6 +7,7 @@ display_name: "Lorrie Cranor"
 first_name: "Lorrie"
 last_name: "Cranor"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: lorrie-cranor

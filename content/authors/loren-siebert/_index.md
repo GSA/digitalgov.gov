@@ -7,6 +7,7 @@ display_name: "Loren Siebert"
 first_name: "Loren"
 last_name: "Siebert"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: loren-siebert

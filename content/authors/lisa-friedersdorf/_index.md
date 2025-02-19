@@ -7,6 +7,7 @@ display_name: "Lisa Friedersdorf"
 first_name: "Lisa"
 last_name: "Friedersdorf"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: lisa-friedersdorf
