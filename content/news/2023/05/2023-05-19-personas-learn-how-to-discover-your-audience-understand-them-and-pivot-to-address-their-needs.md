@@ -127,7 +127,6 @@ You’ve identified your audience, made your proto-persona, done your research, 
 
 * [National Archives Personas](https://www.archives.gov/digitalstrategy/personas)
 * [Library of Congress: Passing the mic to our audience: User personas and strategic planning for the sustainability of digital formats website](https://blogs.loc.gov/thesignal/2021/08/passing-the-mic-to-our-audience-user-personas-and-strategic-planning-for-the-sustainability-of-digital-formats-website/)
-* [Digital.gov: Voices of veterans - introducing personas to better understand our customers](https://digital.gov/2016/09/29/voices-of-veterans-introducing-personas-to-better-understand-our-customers/)
 * [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf)
 
 ## Where can I get a persona template?
