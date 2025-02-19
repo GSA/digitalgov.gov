@@ -283,7 +283,7 @@ This list provides a comprehensive overview of eight **objectives**, and the **c
 
 ## Conclusion
 
-Objectives define the broader mission, guiding the intranet's purpose. [Metrics offer continuous insight](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/), revealing strengths and areas for improvement. Benchmarks establish the starting point, while targets set the course for progress. Not included in this discussion are the tactics you’ll employ to reach those targets. Having targets will also allow you to measure the success of your tactics. Together, they form an integrated strategy that ensures your intranet not only meets but exceeds expectations. This holistic approach propels your intranet towards its full potential, delivering value to your organization and its users.
+Objectives define the broader mission, guiding the intranet's purpose. Metrics offer continuous insight, revealing strengths and areas for improvement. Benchmarks establish the starting point, while targets set the course for progress. Not included in this discussion are the tactics you’ll employ to reach those targets. Having targets will also allow you to measure the success of your tactics. Together, they form an integrated strategy that ensures your intranet not only meets but exceeds expectations. This holistic approach propels your intranet towards its full potential, delivering value to your organization and its users.
 
 As you navigate this journey, remember that intranet optimization is not a destination but an ongoing pursuit of excellence, where the alignment of these elements propels your intranet towards its full potential, delivering value to your organization and its users.
 

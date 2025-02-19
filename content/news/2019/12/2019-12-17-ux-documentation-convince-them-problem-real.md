@@ -38,7 +38,7 @@ You might have an idea what UX changes are needed (cough, CONTENT, cough), but t
 
 Your stakeholders—usually some combination of clients, content managers, developers, executives, product owners, and users—may take some convincing. To build buy-in, you’ll need to communicate UX issues clearly to a variety of people that care about very different lines of business.
 
-[Get to know them](https://digital.gov/2016/07/01/build-empathy-with-stakeholder-interviews-part-1-preparation/). Are they focused on the bottom line? Customer service metrics? Time commitments required for a UX upgrade? Determine what aspects of a UX project are most important to each stakeholder and deliver your message accordingly.
+Get to know them. Are they focused on the bottom line? Customer service metrics? Time commitments required for a UX upgrade? Determine what aspects of a UX project are most important to each stakeholder and deliver your message accordingly.
 
 ## Document Your Users' Experience
 
@@ -68,8 +68,8 @@ There are lots of UX documents out there—your goal is to choose the ones that 
 
 Even if you aren’t trying to sell stakeholders on major improvements, documenting UX can help you improve the usability of your content right now:
 
-- Create a few [personas representative of your users](https://digital.gov/2017/06/20/improving-customer-experience-with-digital-personas/) and rewrite one of your pages based on their needs. Does it change the way you lay out and explain information?
-- Have you [user tested](https://digital.gov/2017/09/28/finding-usability-testers-tips-from-an-army-recruiter/) your content? Gather your feedback from those tests and create a visual presentation that tells the user’s story and the issues they faced.
+- Create a few [personas representative of your users](https://digital.gov/2023/05/19/personas-learn-how-to-discover-your-audience-understand-them-and-pivot-to-address-their-needs/) and rewrite one of your pages based on their needs. Does it change the way you lay out and explain information?
+- Have you user tested your content? Gather your feedback from those tests and create a visual presentation that tells the user’s story and the issues they faced.
 - If you’re considering changing your app’s interface, test it first with a few colleagues using a [paper prototype](https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/). You may learn about usability issues before investing in a full technical redesign.
 
 ## Recommended Reading
