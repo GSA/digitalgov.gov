@@ -108,7 +108,6 @@ The next Lyme Innovation listening session is scheduled for Thursday, April 4th,
 The 14-week “TOP Health” tech sprint was co-led by the U.S. Department of Health and Human Services (HHS) [Office of the Chief Technology Officer](https://www.hhs.gov/cto/index.html) (CTO) and the [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/)(PIF) program. The PIF program and Dr. Gil Alterovitz led the TOP Health Challenge # 1 on AI. The HHS Office of the CTO and Dr. Kristen Honey led the TOP Health Challenge # 2 on Lyme and tick-borne diseases. For additional details on TOP Health, see our prior HHS CTO and Digital.gov blogs about this data-driven collaboration, participating teams, and resulting digital tools:
 
 - [Announcing a "TOP" Tech Sprint for Health Innovation - Join Us!](https://www.hhs.gov/cto/blog/2018/09/21/announcing-a-top-tech-sprint-for-health-innovation-join-us.html) (9/21/18)
-- [Health Tech Sprint Aims at Improving Care Access and Experience](https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/) (11/2/2018)
 - [“TOP Health” Tech Sprint Unleashes the Power of Open Data and AI](https://www.hhs.gov/cto/blog/2019/1/17/top-health-tech-sprint-unleashes-the-power-of-open-data-and-ai.html) (1/17/19)
 - [Deep Dive (part 1): How a Health Tech Sprint Pioneered an AI Ecosystem](https://digital.gov/2019/02/27/how-a-health-tech-sprint-inspired-an-ai-ecosystem/) (2/27/19)
 

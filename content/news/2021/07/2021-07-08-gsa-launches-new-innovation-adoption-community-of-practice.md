@@ -3,10 +3,7 @@ date: 2021-07-08 15:55:00 -0500
 kicker: Innovation
 title: GSA Launches New Innovation Adoption Community of Practice
 deck: Learn how you can get involved!
-summary: >
-  GSA is launching the Innovation Adoption Community of Practice on Digital.gov
-  to connect those who embrace innovative methods and practices that improve
-  government service delivery.
+summary: GSA is launching the Innovation Adoption Community of Practice on Digital.gov to connect those who embrace innovative methods and practices that improve government service delivery.
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
