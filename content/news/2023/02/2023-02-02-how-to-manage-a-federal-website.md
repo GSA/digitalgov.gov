@@ -53,7 +53,6 @@ Use headings and lists to help your readers go directly to their areas of intere
 ### Additional Resources
 
 * [Design for reading](https://www.plainlanguage.gov/guidelines/design/) — PlainLanguage.gov
-* [How to tell your agency's story plainly](https://digital.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/) —Digital.gov
 * [User Experience Community of Practice](https://digital.gov/communities/user-experience) —Digital.gov
 
 ### How it reads
@@ -79,7 +78,6 @@ Keep reading level in mind. Websites meant for the general public should not req
 ### Additional Resources
 
 * [The Average American Reader Needs You to Write (Even More) Clearly](https://digital.gov/event/2020/05/13/average-american-reader-needs-you-write/) — Digital.gov
-* [How to Tell Your Agency's Story Plainly](https://digital.gov/2014/04/16/how-to-tell-your-agencys-story-plainly/) — Digital.gov
 * [PlainLanguage.gov](https://www.plainlanguage.gov/)
 * [Plain writing checklist](https://www.archives.gov/open/plain-writing/checklist.html) — Archives.gov
 * [Top 10 plain writing principles](https://www.archives.gov/open/plain-writing/10-principles.html) — Archives.gov
@@ -139,7 +137,6 @@ U.S. government websites should provide regular web metrics, search, and custome
 
 ### Additional Resources
 
-* [Digital metrics for federal agencies](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/) — Digital.gov
 * [The U.S. government's web traffic](https://analytics.usa.gov/) — Analytics.USA.gov
 * [Research report on web accessibility metrics](https://www.w3.org/TR/accessibility-metrics-report/) — W3.org
 * [Shifting your metrics mindset](https://www.youtube.com/watch?v=JFIEXzJfFlM&list=PLd9b-GuOJ3nEz1NYl66orgVZIu17laKba&index=7)  — Digital.gov video

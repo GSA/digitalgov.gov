@@ -45,11 +45,11 @@ In all likelihood, you have a varied audience, each with different needs, experi
 
 * [stakeholder analysis and mapping exercises](https://product-guide.18f.gov/discover/stakeholders/),
 * [empathy maps](https://qnetconfluence.cms.gov/display/HCD/Empathy+Maps),
-* and (if you can) [stakeholder interviews](https://digital.gov/2016/07/01/build-empathy-with-stakeholder-interviews-part-1-preparation/).
+* and (if you can) stakeholder interviews.
 
 Take the time and effort to get to know your audience, where they are coming from, and what they are bringing to the dialogue.
 
-Next, remember that communications are not just about giving information. How often do you truly remember a chart full of numbers or a list of statistics? Stories, on the other hand, have lasting power. There is a reason we, as humans, gravitate towards stories. We see ourselves in them and we respond on an emotional level. A giant influx of insensible data is just never going to do that. I’m of course talking about [storytelling](https://digital.gov/2015/06/29/the-content-corner-telling-your-story/), that buzzword that has been haunting our virtual and private business spaces for almost a decade now. But what does storytelling really mean?
+Next, remember that communications are not just about giving information. How often do you truly remember a chart full of numbers or a list of statistics? Stories, on the other hand, have lasting power. There is a reason we, as humans, gravitate towards stories. We see ourselves in them and we respond on an emotional level. A giant influx of insensible data is just never going to do that. I’m of course talking about storytelling, that buzzword that has been haunting our virtual and private business spaces for almost a decade now. But what does storytelling really mean?
 
 ## What does storytelling really mean?
 
@@ -62,7 +62,6 @@ Storytelling will get your audience engaged; it will help them see where they fi
 Check out these examples and articles to see storytelling in action at the government level and awaken your own inner storyteller:
 
 * [Government of New Zealand, Foreign Affairs & Trade - Our Story](https://www.mfat.govt.nz/en/about-us/mfat75/75-our-story/)
-* [Digital.gov: Multimedia storytelling in government - Ghazni Towers Documentation Project](https://digital.gov/2014/10/03/multimedia-storytelling-in-government-ghazni-towers-documentation-project/)
 * [U.S. Department of Interior – Instagram](https://www.instagram.com/usinterior/)
 * [National Park Service - Instagram](https://www.instagram.com/nationalparkservice/)
 * [Government of Canada – Agriculture and Agri-Food – Good News Grows](https://agriculture.canada.ca/en/agri-info/good-news-grows)
