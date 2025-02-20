@@ -23,9 +23,9 @@ Use this checklist to ensure you’re doing all you can to get the buy-in of you
   <input type="checkbox">
   Include your project frame and explain what the project will do for leadership and/or their organization.
   </input></label><br>
+  <label>
   <input type="checkbox">
   Schedule time with leadership to walk them through your project.
-  <label>
   </input></label><br>
   <label>
   <input type="checkbox">
