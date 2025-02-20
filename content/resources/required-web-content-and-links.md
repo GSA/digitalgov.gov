@@ -125,7 +125,7 @@ Agencies are required to have a page on their website that has the following inf
 
 - The homepage of your agency's principal website
 
-Learn more about transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+Learn more about transparency around budgeting and performance reports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
 
 {{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
@@ -257,7 +257,7 @@ Learn more about providing straightforward customer support in [Requirements for
 
 ## Privacy Policy
 
-Protect the privacy of the American people when they interact with their government. Some of the key ways for federal public websites ito do so include:
+All federal public websites must comply with existing laws and directives that address the need to protect the privacy of the American people when they interact with their government. Some of the key requirements for federal public websites include:
 
 - Conducting privacy impact assessments;
 - Posting privacy policies on each website, including instructions on how to "[opt-out](http://www.usa.gov/optout_instructions.shtml)" of any web tracking and measurement technologies the agency may use;
@@ -346,17 +346,17 @@ Learn more about what content helps provide your users with clear, contextualize
 
          6. _Law enforcement and homeland security sharing_: Consistent with current practice, Internet privacy policies may reflect that collected information may be shared and protected as necessary for authorized law enforcement, homeland security and national security activities.
 
-      2. _Security of the information_ <sup>[21](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#21)</sup>. Agencies can continue to comply with existing requirements for computer security in administering their websites <sup>[22](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#22)</sup> and post the following information in their Privacy Policy:
+      2. _Security of the information_ <sup>[21](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#21)</sup>. Agencies should continue to comply with existing requirements for computer security in administering their websites <sup>[22](https://obamawhitehouse.archives.gov/omb/memoranda_m03-22/#22)</sup> and post the following information in their Privacy Policy:
          1. in clear language, information about management, operational and technical controls ensuring the security and confidentiality of personally identifiable records (e.g., access controls, data storage procedures, periodic testing of safeguards, etc.), and
          2. in general terms, information about any additional safeguards used to identify and prevent unauthorized attempts to access or cause harm to information and systems. (The statement should be at a level to inform the public that their information is being protected while not compromising security.)
 
-1. _Placement of notices_. Agencies may continue to follow the policy identified in OMB Memorandum 99-18 regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
+1. _Placement of notices_. Agencies should continue to follow the policy identified in OMB Memorandum 99-18 regarding the posting of privacy policies on their websites. Specifically, {{< highlight >}}agencies must post (or link to) privacy policies at:{{< /highlight >}}
 
    1. {{< highlight >}}their principal web site;{{< /highlight >}}
    2. {{< highlight >}}any known, major entry points to their sites;{{< /highlight >}}
    3. {{< highlight >}}any web page that collects substantial information in identifiable form.{{< /highlight >}}
 
-1. **_Clarity of notices_**. Consistent with OMB Memorandum 99-18, it's best for privacy policies to be:
+1. **_Clarity of notices_**. Consistent with OMB Memorandum 99-18, privacy policies must be:
    1. clearly labeled and easily accessed;
    2. written in plain language; and
    3. made clear and easy to understand, whether by integrating all information and statements into a single posting, by layering a short "highlights" notice linked to full explanation, or by other means the agency determines is effective.
