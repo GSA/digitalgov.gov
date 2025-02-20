@@ -103,7 +103,7 @@ Sample and best-in-practice accessibility statements can be found at [Section508
 - All agency websites, internal and external.
 - Secondary sites can link to the accessibility statement on the domain website.
 
-Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
+Learn more about what content helps provide your users with accessible digital experiences in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/) and [Requirements for strengthening the federal government’s commitment to digital accessibility](https://digital.gov/resources/requirements-for-strengthening-the-federal-government-commitment-to-digital-accessibility/).
 {{< /box >}}
 
 ## Budget and Performance Reports
