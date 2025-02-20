@@ -253,7 +253,7 @@ Protect the privacy of the American people when they interact with their governm
 
 `Privacy Policy`
 
-##### Display on:
+##### Required on:
 
 - Your principal website
 - Any known sub-agency site
