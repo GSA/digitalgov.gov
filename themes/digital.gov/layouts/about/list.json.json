@@ -1,0 +1,31 @@
+{{- $aboutPages := slice -}}
+{{- range .Site.Pages -}} 
+  {{- if and (.File) (strings.Contains .File.Path "about/") (strings.HasSuffix .File.Path ".md") -}}
+    {{- $aboutPages = $aboutPages | append . -}}
+  {{- end -}}
+{{- end -}}
+
+
+{
+  "content": "about",
+  "count": {{ len $aboutPages }},
+  "items": [
+    {{- $lastIndex := sub (len $aboutPages) 1 -}}
+    {{- range $index, $page := $aboutPages -}}
+    {
+      {{- partial "api/metadata.html" $page -}}
+      "field_guide_nav_ref": "{{ $page.Params.guide | safeJS }}",
+      "field_guide_nav_title": "{{ $page.Params.field_guide_nav_title | safeJS }}",
+      "field_glossary": "{{ $page.Params.glossary | safeJS }}",
+      "field_guide_weight": "{{ $page.Params.guide_weight | safeJS }}",
+      {{- partial "api/primary_image.html" $page -}}
+      "field_image": "{{ $page.Params.image | safeJS }}",
+      "field_summary_box": "{{ $page.Params.summary_box | safeJS }}",
+      {{- partial "api/topics.html" $page -}}
+      {{- partial "api/aliases.html" $page -}}
+      {{- partial "api/file-info.html" $page -}}
+      "url": "{{ $page.RelPermalink | safeJS }}"
+    }{{ if lt $index $lastIndex }},{{ end }}
+    {{- end -}}
+  ]
+}

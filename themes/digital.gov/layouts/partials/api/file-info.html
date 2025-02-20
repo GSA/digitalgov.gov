@@ -1,0 +1,11 @@
+{{ $path := "" }}{{ with .File }}
+  {{ $path = .Path }}
+{{ else }}
+  {{ $path = .Path }}
+{{ end }}
+"filepath":
+{{ with .File }}
+  {{ printf "/content/%s" .Path | jsonify }}
+{{ else }}
+  null
+{{ end }},

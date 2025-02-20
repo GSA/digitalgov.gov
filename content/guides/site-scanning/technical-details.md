@@ -2,6 +2,7 @@
 date: 2023-07-19 09:00:00 -0500
 title: "Technical details"
 guide: site-scanning
+field_guide_nav_title: "Technical details"
 primary_image: guide-site-scanning
 summary: "Learn about the automated processes behind the site scanning program."
 aliases:

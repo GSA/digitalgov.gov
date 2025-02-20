@@ -128,12 +128,12 @@ You’ve identified your audience, made your proto-persona, done your research, 
 * [National Archives Personas](https://www.archives.gov/digitalstrategy/personas)
 * [Library of Congress: Passing the mic to our audience: User personas and strategic planning for the sustainability of digital formats website](https://blogs.loc.gov/thesignal/2021/08/passing-the-mic-to-our-audience-user-personas-and-strategic-planning-for-the-sustainability-of-digital-formats-website/)
 * [Digital.gov: Voices of veterans - introducing personas to better understand our customers](https://digital.gov/2016/09/29/voices-of-veterans-introducing-personas-to-better-understand-our-customers/)
-* [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Marsh-Personas.pdf)
+* [USDA Personas and Use Cases](https://s3.amazonaws.com/digitalgov/static/Marsh-Personas.pdf)
 
 ## Where can I get a persona template?
 
-* [GSA Open Opportunity Personas (PowerPoint presentation, 94 KB, 1 slide, December 2014)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/OPENOPPS-personas-final.pptx.pptx) and the [Digital.gov article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
-* [Digital.gov Persona Template (PowerPoint presentation, 254 KB, 4 slides, May 2014)](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/Persona-Template.pptx)
+* [GSA Open Opportunity Personas (PowerPoint presentation, 94 KB, 1 slide, December 2014)](https://s3.amazonaws.com/digitalgov/static/OPENOPPS-personas-final.pptx.pptx) and the [Digital.gov article about creating them](https://www.digitalgov.gov/2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities)
+* [Digital.gov Persona Template (PowerPoint presentation, 254 KB, 4 slides, May 2014)](https://s3.amazonaws.com/digitalgov/static/Persona-Template.pptx)
 * [USDA Persona Template (.docx, 185 KB, 2 pages)](https://www.usda.gov/sites/default/files/documents/persona-template.docx)
 * [Energy.gov - Customer Profiles and Personas Templates](https://www.energy.gov/eere/communicationstandards/articles/templates-and-examples-customer-profiles-and-personas)
 * [Digital Services Georgia - Template and Personas Class Materials](https://digital.georgia.gov/training/state-certified-content-workshop/personas)

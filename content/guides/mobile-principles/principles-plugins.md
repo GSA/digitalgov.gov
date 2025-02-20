@@ -4,6 +4,7 @@ date: 2018-12-04 09:30:00 -0500
 title: "Installing additional software to properly view your site should not be necessary"
 summary: "Week four of our series covers the issue of relying on additional software to properly view your site."
 guide: mobile-principles
+field_guide_nav_title: "Plugins"
 primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/plugins

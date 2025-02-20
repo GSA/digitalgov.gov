@@ -5,6 +5,7 @@ title: "Discovery operations guide"
 deck: "Step-by-step guidance on how to conduct discovery research"
 summary: "Step-by-step guidance on how to conduct discovery research"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Overview"
 glossary: hcd-glossary.json
 image: hcd-discovery-operations
 primary_image: hcd-discovery-operations

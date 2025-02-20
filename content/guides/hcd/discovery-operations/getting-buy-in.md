@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Getting buy-in"
 summary: "Now is the time to check in with your leadership to validate their support and involvement"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Getting buy-in"
 primary_image: hcd-discovery-operations
 ---
 Your leadership may already know that you’ve been working on this project: they may have given you the project brief, and/or they were involved in the early framing of the project itself. Now that you have refined the project frame with details about potential locations, project scope, and solid thoughts on your team, it is the time to check in with them to validate their support and involvement before proceeding into the active recruiting stage.

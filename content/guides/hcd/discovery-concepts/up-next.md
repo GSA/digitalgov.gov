@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Step 8: Determine next steps"
 summary: "Design or reframe?"
 guide: hcd-discovery-concepts
+field_guide_nav_title: "Up next"
 primary_image: hcd-discovery-concepts
 ---
 

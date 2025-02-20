@@ -51,7 +51,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "Connected Government Act"
-  link: "/resources/connected-government-act/"
+  link: "https://digital.gov/resources/connected-government-act/"
 
 # Featured resource to display at the top of the page
 featured_resources:

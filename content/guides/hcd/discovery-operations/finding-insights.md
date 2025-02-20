@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Finding insights"
 summary: "Finding insights means converging the data in your research to expose commonalities or gaps."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Finding insights"
 primary_image: hcd-discovery-operations
 ---
 

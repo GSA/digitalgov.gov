@@ -57,6 +57,9 @@ We created a new GitHub project for each participant. They started out with a li
 
 We figured out in the process of interacting with participants that we could allow them to add subcategories and new cards, and put cards in multiple places using the Add Note function to create cards on the fly.
 
+
+{{< img src="onrr-foia-note-2021-ux-summit" align="center" >}}
+
 <img src="https://s3.amazonaws.com/digitalgov/onrr-foia-note-2021-ux-summit.png" alt="Screenshot showing the note function in GitHubThe top of the note shows that it’s in the “Uncategorized” column. Below is a text entry box and two buttons; on the left is a green button with the word Add in white text, and on the right is a light gray button with the word Cancel in black text. This note entry box appears above the next issue in the column, Freedom of Information Act (FOIA)." align="center">
 
 The image below shows how participants used the note function to add new cards. “References” is a card the participant thought was missing and “54” is to indicate that the card numbered 54 should go in this category in addition to the other category it was placed in.

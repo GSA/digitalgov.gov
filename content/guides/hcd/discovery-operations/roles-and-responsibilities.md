@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Roles and responsibilities"
 summary: "These are general descriptions of each team members’ responsibilities. Treat these as guidelines, not absolutes."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Roles and responsibilities"
 primary_image: hcd-discovery-operations
 ---
 

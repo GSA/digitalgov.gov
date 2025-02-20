@@ -1,0 +1,9 @@
+{{- if (isset .Params "name") -}}
+  "field_name" : "{{- .Params.name | markdownify -}}",
+{{- end -}}
+{{- if (isset .Params "domain") -}}
+  "field_domain" : "{{- .Params.domain -}}",
+{{- end -}}
+{{- if (isset .Params "logo") -}}
+  "field_logo" : "{{- .Params.logo -}}",
+{{- end -}}
