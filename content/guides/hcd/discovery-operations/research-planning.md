@@ -25,22 +25,28 @@ Use the research checklist to guide you as you move through last minute plans be
 If you push your team to exhaustion now, you won’t make it through the research phase with the rigor your participants and leadership expect and deserve. If a potential interviewee needs a time that it is simply impossible for your team to accommodate, don’t tell them no or promise the impossible; ask for another time, or be willing to simply drop the interview and come back to it.
 
 <div style="margin-left: 20px">
+  <label>
   <input type="checkbox">
   Plan a realistic schedule, based on time: 8 hours per day for everyone, including drive/travel time. Time for lunch and bathroom breaks between interviews are required; they are not optional.
-  </input><br>
+  </input></label><br>
+  <label>
   <input type="checkbox">
   Each day will need to end with a team synthesis. This time has to be included as part of your 8 hour day. This means, logically, that you’ll probably only be able to schedule 2 research tasks per team, per day. This might seem like too light of a load for your team, but it is realistic.
-  </input><br>
+  </input></label><br>
+  <label>
   <input type="checkbox">
   Constantly talk with your team’s Recruiter to have an idea of who the participants are and where you’ll meet them.
-  </input><br>
+  </input></label><br>
+  <label>
   <input type="checkbox">
   Purchase supplies: notebooks, pens, markers, sticky notes, audio recorders, cameras.
-  </input><br>
+  </input></label><br>
+  <label>
   <input type="checkbox">
   Print out Consent Forms.
-  </input><br>
+  </input></label><br>
+  <label>
   <input type="checkbox">
   Alongside your team, create an interview/ conversation guide. This should not be an explicit list of questions, as that will cut off the natural flow of a conversation. Instead, write down keywords and/or themes that reflect the points you and the team needs to cover in each interview.
-  </input>
+  </input></label>
 </div>
