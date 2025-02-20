@@ -128,6 +128,22 @@ Agencies are required to have a page on their website that has the following inf
 Learn more about transparency around budgeting and performance reoports in [Requirements for delivering a digital-first public experience](https://digital.gov/resources/delivering-digital-first-public-experience/).
 {{< /box >}}
 
+{{< card-policy src="https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf" kicker="Policy" title="OMB Circular A-11, Part 6, Section 210.6" >}}
+
+**Part 6, Section 210 | PUBLIC REPORTING AND PERFORMANCE.GOV**
+
+**210.6 How are agency-specific plans and reports made available to the public on the agency’s website?**
+
+To enhance transparency of performance data, all Federal {{< highlight >}}agencies should make information, including prior plans and reports, as easy as possible to locate from the agency’s individual website{{< /highlight >}} (e.g., [www.usda.gov](https://www.usda.gov)). Federal Agencies must also provide a hyperlink on Performance.gov to the agency’s public website (e.g., https://www.usda.gov/our-agency/about-usda/performance) where the agency has published current and past performance plans and reports. In adherence to OMB Memorandum M-17-06, agencies must create a prominent link directly to their performance plans and reports from their “About Agency” or “About Us” page, which is directly off of the agency’s homepage.
+
+Agencies may also want to create links from this page to other planning and performance reporting documents, such as the human capital operating plans, information resources management plans, Agency Financial Reports or Performance and Accountability Reports, Congressional Budget Justifications, and other acquisition or capital asset management plans where those other documents are publicly available and relevant to performance on strategic objectives. Agency performance planning and reporting documents available on the agency website should be consistent with Administration policies and not include predecisional information.
+
+When developing performance information for publication, agencies should be open, transparent, and accountable for results of progress against stated performance goals and objectives, publishing information online consistent with the Federal Records Act, privacy and security restrictions, and other applicable law and policy including [OMB Circular A-130](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/circulars/A130/a130revised.pdf), Managing Information as a Strategic Resource. It is important that agencies communicate relevant, reliable, and timely performance information within and outside their organizations to improve performance outcomes and operational efficiency.
+
+**Machine-readable**. Consistent with the GPRA Modernization Act of 2010, information published through Performance.gov will be made available to the public in a machine-readable format. See section 240 for additional information on an initiative to make agency performance plans and reports ‘machine readable’ with the 2021 Budget and Performance Planning / Reporting cycle.
+
+{{< /card-policy >}}
+
 ## Equal Employment
 
 All federal public websites must comply with the existing No Fear Act Notification and Federal Employee Anti-Discrimination and Retaliation of 2002 (No Fear Act) Public Law No. 107-174). Organizations should review the relevant law to ensure that their public websites meet the full range of requirements.
