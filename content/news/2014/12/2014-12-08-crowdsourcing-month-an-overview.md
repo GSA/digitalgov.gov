@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - open-government
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Social-Network-Concept-scanrail-iStock-Thinkstock-186408823.jpg" alt="Social Network Concept" caption="" >}}

@@ -7,6 +7,7 @@ authors:
   - andreanocesigritz
 topics:
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-416-Lightbulbs-on-yellow-Galina-Peshkova-iStock-Thinkstock-164168192.jpg" alt="A lit, modern, compact fluorescent (C F L) light bulb, surrounded by unlit, old-fashioned incandescent bulbs." caption="" >}} 

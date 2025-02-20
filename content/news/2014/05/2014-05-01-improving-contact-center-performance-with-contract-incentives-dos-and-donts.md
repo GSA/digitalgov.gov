@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - user-experience
   - contact-centers
+expirydate: 2025-01-01
 ---
 
 > “In business, words are words, explanations are explanations, promises are promises, but only performance is reality.” Harold S. Geneen {{< legacy-img src="2014/05/250-x-167-call-center-Young-IT-support-team-working-in-modern-open-office-Dean-Mitchell-iStock-Thinkstock-96269012.jpg" alt="Young call center staff working in modern open office" caption="" >}}

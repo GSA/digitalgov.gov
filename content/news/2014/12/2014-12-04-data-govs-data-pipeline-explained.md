@@ -8,6 +8,7 @@ authors:
 topics:
   - search-engine-optimization
   - open-data
+expirydate: 2025-01-01
 ---
 
 In case you missed it: the Data.gov team recently hosted DigitalGov University webinars designed to help agencies and open data advocates better understand how to get data on Data.gov and how to implement the Open Data Policy’s metadata schema updates. These webinars were designed assist government data publishers in making more data discoverable to the American people. You can watch these webinars and check out additional supplemental resources below.

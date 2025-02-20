@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - search
+expirydate: 2025-01-01
 ---
 
 [Bing](http://techcrunch.com/2013/09/17/bing-reveals-its-redesign-and-latest-improvements/), [Google](http://www.fastcodesign.com/3027704/how-googles-redesigned-search-results-augur-a-more-beautiful-web), and [Yahoo](http://mashable.com/2013/06/05/yahoo-redesigns-its-search-page/) have all rolled out major redesigns to their search results pages in the past year.

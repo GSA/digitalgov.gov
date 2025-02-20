@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - user-experience
   - open-source
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Old-Way-or-New-Way-IvelinRadkov-iStock-THinkstock-496474697.jpg" alt="Old Way or New Way" caption="" >}} 

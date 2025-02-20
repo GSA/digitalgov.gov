@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/520-x-195-UsabilityGov-reboot.jpg" alt="Various mobile devices showcase the responsive design of Usability.gov" >}}

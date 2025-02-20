@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - innovation
 
+expirydate: 2025-01-01
 ---
 
 IdeaBox is an application that helps an organization collect ideas, organize them, and solicit comments and votes on the ideas.

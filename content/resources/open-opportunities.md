@@ -11,6 +11,7 @@ aliases:
   - /join/open-opportunities-in-digitalgov/
   - /join/open-opportunities-in-digitalgov/how-open-opportunities-works/
   - /join/open-opportunities-in-digitalgov/open-opportunities-terms-of-use/
+expirydate: 2025-01-01
 ---
 
 Open Opportunities is a government-wide program offering professional development opportunities and facilitating collaboration and knowledge sharing across the federal government.

@@ -9,6 +9,7 @@ topics:
   - plain-language
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 After struggling with jargon-filled solicitations and a confusing website, some applicants were ready to give up on seeking grants from the [Institute of Education Sciences (IES)](http://ies.ed.gov/funding/). Their complaints prompted a [Plain Language]({{< ref "2014-04-16-how-to-tell-your-agencys-story-plainly.md" >}}) makeover for the Institute’s funding materials.

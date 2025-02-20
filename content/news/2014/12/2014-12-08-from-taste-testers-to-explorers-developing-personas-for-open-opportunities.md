@@ -25,6 +25,7 @@ aliases:
   - /2014/12/08/from-taste-testers-to-explorers-developing-personas-for-open-opportunities.md
 
 # Make it better ♥
+expirydate: 2025-01-01
 ---
 
 Being customer-focused means doing the gumshoe work of research and rounds of analysis to find gold by understanding user goals. For the task-based innovation network, [Open Opportunities for DigitalGov]({{< ref "open-opportunities.md" >}}), that meant developing personas in order to overcome our own biases and learn about the different motivations of our participants. In this article, we&#8217;ll talk about how we created our personas and how we plan to use them to meet both innovators&#8217; and program needs.

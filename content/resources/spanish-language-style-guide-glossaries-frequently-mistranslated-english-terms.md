@@ -8,6 +8,7 @@ topics:
 authors:
   - lgodfrey
   - lmartinez
+expirydate: 2025-01-01
 ---
 
 Below are some frequently mistranslated English terms (in **bold**), and their Spanish translations (in _italics_).

@@ -6,6 +6,7 @@ summary: "GSA welcomes interest from providers that want to offer, for the feder
 topics:
   - social-media
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="/2014/01/termsofService.jpg" alt="Typed sheet of paper with Agreement and the top and a pen laying on it." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/termsofService.jpg)GSA welcomes interest from providers that want to offer, for the federal government&#8217;s consideration, social media products that are free of charge. If you are such a provider, please email [GSA](mailto:socialmediaapps@gsa.gov) and include the following information:

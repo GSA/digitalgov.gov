@@ -11,6 +11,7 @@ authors:
   - amos-stone
 topics:
   - open-data
+expirydate: 2025-01-01
 ---
 
 Campaign finance information is not very approachable, even when made available as open data. The laws that regulate how money can be spent around elections are important to our democracy, but sometimes it’s difficult to understand how these laws apply. Between Senate, House, and Presidential campaigns, thousands of people run for office on a regular basis (every two years for the House of Representatives, every six years for the Senate, and every four years for the Presidency). With each election comes a huge collection of information on candidates and political committees, most notably the contributions and expenditures they receive and make. This information can, at times, be difficult to understand, especially without a full understanding of the context of the rules and regulations around how it is collected and monitored.

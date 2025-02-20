@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [<img class="alignright size-full wp-image-99122" alt="MobileGov innovators huddled around laptops at a coffee shop." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png" width="436" height="322" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/MobileGovWikithon2013-06-17.png)In September 2013, the Mobile Gov Community of Practice released [user experience guidelines and recommendations]({{< ref "2013-09-18-making-mobile-gov-user-experience-recommendations.md" >}} "Making Mobile Gov: User Experience Recommendations") for federal agencies to use in order to create good mobile user experiences. This article highlights private sector and government resources and tools to assist agencies in implementing those user experience guidelines.

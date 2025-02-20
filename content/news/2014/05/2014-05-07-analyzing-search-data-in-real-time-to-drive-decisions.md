@@ -11,6 +11,7 @@ topics:
   - search
   - open-source
 
+expirydate: 2025-01-01
 ---
 
 [DigitalGov Search](https://search.gov) recently rolled out a new open source technology stack, which gives the team access to real-time analytics and dashboards to monitor search trends.

@@ -11,6 +11,7 @@ topics:
   - plain-language
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/04/250-x-167-plain-language-chris2766-iStock-Thinkstock-477440077.jpg" alt="Dictionary definition of the word language, highlighted in pink" caption="chris2766, iStock, Thinkstock" >}} 

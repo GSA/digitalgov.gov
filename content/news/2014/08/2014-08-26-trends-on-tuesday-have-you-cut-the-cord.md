@@ -1,4 +1,3 @@
-
 ---
 slug: trends-on-tuesday-have-you-cut-the-cord
 date: 2014-08-26 10:00:05 -0400
@@ -9,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/08/600-x-400-Scissors-cutting-phone-cord-eskaylim-iStock-Thinkstock-186002262.jpg" alt="Scissors cutting phone cord" caption="" >}} 

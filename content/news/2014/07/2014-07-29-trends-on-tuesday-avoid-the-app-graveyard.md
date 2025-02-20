@@ -11,6 +11,7 @@ topics:
   - mobile
   - user-experience
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Apps that are downloaded, used a few times and then never used again, are considered part of the “app graveyard.” In fact, 95% of apps are discarded within a month of download by users, according to Smashing Magazine. By focusing on creating a great user experience, you can make sure your agency apps are used consistently and don’t end up in the app graveyard.

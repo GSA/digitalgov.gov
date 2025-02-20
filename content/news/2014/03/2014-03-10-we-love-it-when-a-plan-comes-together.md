@@ -10,6 +10,7 @@ topics:
   - challenges-and-prize-competitions
   - social-media
   - open-government
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/03/OPENGOV_Featured_301x212-250x176.jpg" alt="OpenGov logo" >}}

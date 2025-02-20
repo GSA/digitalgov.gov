@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/250-x-355-NJ\_Loc3\_Mantoloking_Breach-lg.jpg" alt="Before and after photos, New Jersey, Mantoloking Breach" caption="" >}}

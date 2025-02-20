@@ -11,6 +11,7 @@ topics:
   - research
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-402-Internet-accessibility-concept-Federico-Caputo-Hemera-Thinkstock-100945139.jpg" alt="Internet accessibility concept" caption="" >}} 

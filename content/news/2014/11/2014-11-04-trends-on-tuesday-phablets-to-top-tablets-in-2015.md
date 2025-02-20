@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Is it a phone or is it a tablet? {{< legacy-img src="2014/11/600-x-435-CES-phablet-2013-Consumer-Electronics-Show-Highlights-Newest-Technology-David-Becker-Getty-Images-News-Thinkstock-159184299.jpg" alt="Mobile phone and phablet seen at the 2013 C E S (Consumer Electronics Show)" caption="" >}}

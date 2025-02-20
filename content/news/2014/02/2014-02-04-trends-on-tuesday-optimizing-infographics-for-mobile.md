@@ -10,6 +10,7 @@ topics:
   - mobile
   - emerging-tech
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Mobile first means more than just focusing on text content; it’s also includes considering visual content as important element of the user experience.

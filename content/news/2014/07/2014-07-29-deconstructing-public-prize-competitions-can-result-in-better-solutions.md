@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
 
+expirydate: 2025-01-01
 ---
 
 When faced with a big, daunting problem to solve, it’s human nature to try to tackle it by breaking it down into smaller parts and taking it “one step at a time.” The message from a recent DigitalGov University webinar on public prize competitions (AKA ‘challenges’) was that the government can often receive better solutions by going through the exact same process, and giving awards at each step.

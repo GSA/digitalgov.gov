@@ -26,9 +26,6 @@ Use data to inform decisions about engagement efforts and public participation. 
 
 - [Govcode](http://www.govcode.org/ "Govcode") is a website that features government open source projects. Open source projects that utilize the ‘help wanted’ tag proactively solicit contributions from the public on government technology projects.
 - [Public Participation in Government Web Design](https://www.digitalgov.gov/event/designing-in-the-open-public-participation-in-government-web-design/ "Public Participation in Government Web Design"): The Data.gov team integrated feedback from virtual, online, face to face testing, and social media platforms to dramatically change the site design in response to customer needs.
-- [Web Design Changes? Let the Metrics be Your Guide](https://www.digitalgov.gov/2014/10/23/web-design-changes-let-the-metrics-be-your-guide/ "Web Design Changes? Let the Metrics be Your Guide") NASA metrics showed that mobile use of NASA.gov initially outpaced desktop use, confirming their decision to change to a mobile-first design.
-- [Government CX: Finding the Metrics That Matter](https://www.digitalgov.gov/2014/01/13/government-cx-finding-the-metrics-that-matter/ "Government CX: Finding the Metrics That Matter") The Export-Import Bank measures transaction processing times and ease of use to create the best experience for their stakeholders.
-- [Analyzing Who’s Using your Agency’s Data with FOIA requests](https://www.digitalgov.gov/2014/12/19/whos-using-your-agencys-data/ "Analyzing Who’s Using your Agency’s Data with FOIA requests") GSA’s Open Data Point of Contact reached out to the agency FOIA office to survey FOIA requesters on how they used requested information to get a better sense of the data demands of the public.
 
 ### Resources
 

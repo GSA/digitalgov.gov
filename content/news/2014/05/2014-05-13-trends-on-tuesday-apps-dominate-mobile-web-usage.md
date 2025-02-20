@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/05/250-x-177-touch-pad-with-icons-shutter_m-iStock-Thinkstock-179747897.jpg" alt="touch pad with icons" caption="" >}} 

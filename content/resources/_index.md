@@ -4,7 +4,6 @@ deck: "Don't know where to start with a federal requirement? Aren't sure how to 
 summary: "Essential how-to guidance for government product managers and digital teams."
 
 aliases:
-  - /about/lost-and-found-mapping-page/
   - /pages/
   - /hurricane-ian/
   - /resources/hurricane-ian-guidance-for-us-government/

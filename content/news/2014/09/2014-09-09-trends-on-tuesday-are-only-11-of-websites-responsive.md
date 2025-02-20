@@ -9,6 +9,7 @@ topics:
   - mobile
   - content-strategy
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/250-x-250-Flat-design-concept-of-responsive-design-totallyPic.com-iStock-Thinkstock-484543733.jpg" alt="Flat design concept of responsive design" caption="" >}}
