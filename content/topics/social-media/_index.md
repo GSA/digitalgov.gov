@@ -33,8 +33,8 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages)"
-  link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
+  title: "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications"
+  link: "https://digital.gov/resources/guidance-for-agency-use-of-third-party-websites-and-applications/"
 
 # Featured community to display at the top of the page
 featured_communities:
