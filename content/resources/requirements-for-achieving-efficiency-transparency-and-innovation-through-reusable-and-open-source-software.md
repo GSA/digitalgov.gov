@@ -86,7 +86,13 @@ As with step one, the purpose of this step is to develop your agency's strategic
 
 ### Consider custom development
 
-{{< card-policy src="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" kicker="OMB M-16-21" title="Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software" >}}**Step 3** (Consider Custom Development): If an agency’s alternatives analysis concludes that an existing Federal software solution or commercial solution cannot adequately satisfy its needs, the agency may consider procuring custom-developed code in whole or in conjunction with existing Federal or commercial code. When commissioning new custom-developed software, agencies must consider the value of publishing custom code as OSS and negotiate data rights reflective of its value-consideration. Agencies must also obtain sufficient rights to fulfill this policy’s objectives related to Government-wide code reuse and the open source pilot program.{{< /card-policy >}}
+{{< card-policy src="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" kicker="OMB M-16-21" title="Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software" >}}
+
+**Step 3**
+(Consider Custom Development): If an agency’s alternatives analysis concludes that an existing Federal software solution or commercial solution cannot adequately satisfy its needs, the agency may consider procuring custom-developed code in whole or in conjunction with existing Federal or commercial code. 
+
+When commissioning new custom-developed software, agencies must consider the value of publishing custom code as OSS and negotiate data rights reflective of its value-consideration. Agencies must also obtain sufficient rights to fulfill this policy’s objectives related to Government-wide code reuse and the open source pilot program.
+{{< /card-policy >}}
 
 The Federal Source Code Policy pilot program requires agencies to release at least 20% of new custom-developed code each year as open source software. While agencies are encouraged to release a greater percentage of code if doing so is beneficial to the government, agencies are not required to release more than 20% of code.
 
