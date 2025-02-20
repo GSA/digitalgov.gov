@@ -110,8 +110,8 @@ You can learn more by visiting our [Login.gov website](https://www.login.gov).
 
 Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](https://partners.login.gov).
 
-## _About the Author_
-{{< author-bio "julia-solorzano" >}}
+## About the Speaker
+### Julia Solorzano &nbsp;|&nbsp;U.S. General Services Administration
 
 ---
 
