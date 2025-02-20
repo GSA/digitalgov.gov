@@ -59,13 +59,15 @@ The analysis helps teams identify alternatives and mitigate additional spending 
 
 ### Conduct strategic analysis and analyze alternatives
 
+
+
 {{< card-policy src="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" kicker="OMB M-16-21" title="Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software" >}}
 
 **Step 1** (Conduct Strategic Analysis and Analyze Alternatives): Each agency must conduct research and analysis prior to initiating any technology acquisition or custom code development. The strategic analysis should consider not only agency mission and operational needs, but also external public initiatives and interagency initiatives such as Cross-Agency Priority Goals. Having conducted the strategic analysis, agencies shall then conduct an alternatives analysis, evaluating whether to use an existing Federal software solution or to acquire or develop a new software solution. The alternatives analysis shall give preference to the use of an existing Federal software solution. <sup>25</sup>
 
-<sup>25</sup> Existing Federal software solutions are those for which appropriate rights are already held by the Government, which may include commercial or custom-developed software solutions.
+<sup>25</sup> _Existing Federal software solutions are those for which appropriate rights are already held by the Government, which may include commercial or custom-developed software solutions._{{< /card-policy >}}
 
-{{ </card-policy >}}
+
 
 The purpose of this step is to ensure your agency — not just your acquisition team, but also your technology team, program management team, and leadership, among others — has a complete, strategic view of what offerings exist before determining that an acquisition is required.
 
