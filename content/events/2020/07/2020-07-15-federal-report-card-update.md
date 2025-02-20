@@ -44,7 +44,7 @@ weight: 0
 
 David Lipscomb will talk about this year’s [Federal Report Card](https://www.centerforplainlanguage.org/reports/federal-report-card/) — how the Center for Plain Language is approaching it, and what agencies can do to get top grades.
 
-The annual Federal Report Card is a snapshot of how well the federal government is following the [2010 Plain Writing Act](https://digital.gov/resources/plain-writing-act-of-2010/). This year, the Center is excited to celebrate the 10th anniversary of the Plain Writing Act, including everything federal agencies have done to give the public the clear communication it needs.
+The annual Federal Report Card is a snapshot of how well the federal government is following the 2010 Plain Writing Act. This year, the Center is excited to celebrate the 10th anniversary of the Plain Writing Act, including everything federal agencies have done to give the public the clear communication it needs.
 
 ## Presenter:
 

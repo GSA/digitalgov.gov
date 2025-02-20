@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Get your customer personas right, and you will improve the customer experience (CX) for the rest of your audience.

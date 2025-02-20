@@ -10,6 +10,7 @@ topics:
   - communication
   - podcast
 
+expirydate: 2025-01-01
 ---
 
 Several months or so ago, I raised the question of whether you and your agency [should be podcasting.]({{< ref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) Incidentally, my post coincided with the launch of [DigitalGov’s new podcast series]({{< ref "/topics/podcast" >}}). As I discussed in my previous post, the long-niche broadcasting format has continued to grow in popularity and success with popular podcasts such as NPR’s [Serial](http://serialpodcast.org/) and [Marc Maron’s WTF podcast series](http://www.wtfpod.com/) that recently featured [President Obama as a guest](http://www.wtfpod.com/podcast/episodes/episode_613_-_president_barack_obama).

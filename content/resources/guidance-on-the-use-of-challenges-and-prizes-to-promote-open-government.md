@@ -9,6 +9,7 @@ topics:
 authors:
   - apiazza
 
+expirydate: 2025-01-01
 ---
 
 In September 2009, the President released his Strategy for American Innovation, calling for agencies to increase their ability to promote and harness innovation by using policy tools such as prizes and challenges. This guidance calls for the increased use of challenges and prizes to develop new tools and approaches to improve open government, and highlights for agencies policy and legal issues related to the use of prizes and challenges as tools for promoting open government, innovation, and other national priorities.

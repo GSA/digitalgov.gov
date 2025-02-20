@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - challenges-and-prize-competitions
   - emerging-tech  
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-439-3D-Printer-in-Action-isolated-on-white-silavsale-iStock-Thinkstock-504486619.jpg" alt="3D Printer in Action isolated on white" caption="" >}}

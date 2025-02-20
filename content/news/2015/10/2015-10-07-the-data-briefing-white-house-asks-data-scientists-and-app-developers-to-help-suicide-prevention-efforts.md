@@ -11,6 +11,7 @@ topics:
   - emerging-tech
   - mobile
   - open-data
+expirydate: 2025-01-01
 ---
 
 The White House issued a call on September 30, 2015, for data scientists and app developers to help with a vital public health issue: suicide prevention. From the <a href="https://obamawhitehouse.archives.gov/blog/2015/09/30/building-partnerships-suicide-prevention" target="_blank">official announcement</a>:

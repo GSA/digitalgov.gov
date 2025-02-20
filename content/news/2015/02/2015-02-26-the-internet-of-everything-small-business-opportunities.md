@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - privacy
   - security
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/600-x-400-The-Internet-of-Things_Photo-by-wilgengebroed-flickr-CC-BY-NC-2.jpg" alt="An illustration concept showing The Internet of Things" caption="" >}}

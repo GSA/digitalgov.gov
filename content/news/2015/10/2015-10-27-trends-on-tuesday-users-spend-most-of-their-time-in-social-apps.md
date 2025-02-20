@@ -9,6 +9,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 ComScore released a [new 2015 U.S. Mobile App report](http://www.comscore.com/Insights/Presentations-and-Whitepapers/2015/The-2015-US-Mobile-App-Report) tracking native mobile app usage among adults over 18 years old, and it reinforced a lot of the [trends we’ve been reporting on DigitalGov]({{< ref "2015-09-01-trends-on-tuesday-mobile-messaging-and-social-app-research-released.md" >}}).

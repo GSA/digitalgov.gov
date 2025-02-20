@@ -13,6 +13,7 @@ topics:
   - emerging-tech
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 Around this month's [Communities Theme]({{< ref "2015-07-07-wont-you-help-your-neighbor-communities-theme-month-on-digitalgov.md" >}}), the DigitalGov team thought we’d round up your community rock stars. These are people in your communities who’ve gone above and beyond, who’ve contributed content, organized events, participated in developing toolkits and more. Let’s kick it off with the DigitalGov Summit Sounding Board.

@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
 
+expirydate: 2025-01-01
 ---
 
 Seven new training modules aim to help [Federal Challenge and Prize Community]({{< ref "challenges-prizes.md" >}}) members learn more about using prize competitions to solve problems. The expert series, Designing and Operating Prizes to Maximize Success, kicked off module one on July 14, 2015, with “Prize History, Prize Theory and What Makes a Good Prize.” Module one is designed to give challenge managers a foundation on prizes starting with their role in history and demonstrate well-known advancements that have resulted from prizes.

@@ -9,6 +9,7 @@ topics:
   - communication
   - plain-language
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Solution-and-Strategy-Path-wildpixel-iStock-Thinkstock-482060980.jpg" alt="Solution and Strategy Path" caption="" >}}

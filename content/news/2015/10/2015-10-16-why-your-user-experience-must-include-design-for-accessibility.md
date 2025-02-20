@@ -9,6 +9,7 @@ topics:
   - accessibility
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Too often, usability and accessibility are confused with each other by our clients (stakeholders). They shouldn’t be, because while they are related, they are very different. So, how do you bring these two concepts together? They should really be working side-by-side throughout the ENTIRE process. This might seem like a no-brainer but it can be a challenge. {{< legacy-img src="2015/05/500-x-400-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." caption="" >}} 

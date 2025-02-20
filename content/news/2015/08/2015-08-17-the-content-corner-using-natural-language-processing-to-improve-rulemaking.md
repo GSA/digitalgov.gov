@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - artificial-intelligence
   - open-government
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/600-x-343-Asking-cyborg-Ociacia-iStock-Thinkstock-177531624.jpg" alt="Cyborg gesturing to ask a question" caption="" >}} 

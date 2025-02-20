@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - open-data
+expirydate: 2025-01-01
 ---
 
 In case you missed it, U.S. Open Data [recently launched a tool](https://usopendata.org/2015/02/18/lmgtdfy/) called: <a href="http://lmgtdfy.usopendata.org/" target="_blank">Let Me Get That Data For You (LMGTDY)</a>. The name is a play on the very funny <a href="http://lmgtfy.com/" target="_blank">Let Me Google That For You</a> website.

@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 On October 19th, NIH brought together nearly 1,500 digital and health experts in person and via [webcast](http://www.nih.gov/news/events/digital-summit.htm). The event featured two keynote speakers and panels that showcased the unique perspectives of patients and caregivers, health communicators, health professionals and scientists.

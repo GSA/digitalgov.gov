@@ -9,6 +9,7 @@ topics:
   - analytics
   - application-programming-interface
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/600-x-274-IFTTT-recipe-for-Send-a-SMS-at-a-certain-time-every-day.jpg" alt="IFTTT recipe for send a SMS at a certain time every day" >}}

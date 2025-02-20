@@ -12,6 +12,7 @@ topics:
   - analytics
   - social-media
 primary_image: sept-2015-peak-full-eclipse-visits-analytics-usa-gov
+expirydate: 2025-01-01
 ---
 
 NASA's reach over the last 24 hours eclipsed that of the regulars typically seen in [government digital metrics](https://analytics.USA.gov). But, all agencies can drive the conversation and accomplish a similar feat with a good [content strategy]({{< ref "2015-03-23-the-content-corner-building-a-content-strategy.md" >}}).

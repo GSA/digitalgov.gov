@@ -10,6 +10,7 @@ topics:
   - customer-experience
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2015/05/600-x-400-0-two-yellow-puzzle-pieces-TongRo-Images-TongRo-Images-Thinkstock-871735781.jpg" alt="Two yellow puzzle pieces on a wooden table." caption="TongRo Images, Thinkstock" >}} 

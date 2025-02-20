@@ -11,6 +11,7 @@ topics:
   - social-media
   - analytics
   - data-visualization
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Social-Media-Infographics-LucionCreative-iStock-Thinkstock-476423382.jpg" alt="Social Media Infographics" caption="" >}}

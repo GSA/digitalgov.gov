@@ -8,6 +8,7 @@ authors:
   - kelly-olson
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2015/09/600-x-175-challenge-gov-5-years.jpg" alt="The Challenge.gov 5 years of excellence logo." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/09/600-x-175-challenge-gov-5-years.jpg)

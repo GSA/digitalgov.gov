@@ -13,6 +13,7 @@ topics:
   - content-strategy
   - communication
 
+expirydate: 2025-01-01
 ---
 
 No, this is not another post about [podcasting]({{< ref "2015-04-06-the-content-corner-should-you-be-podcasting.md" >}}) but about a different voice entirely. It is the words you use, the conversation that you are having with your users. Is your content using the most effective language possible to communicate and to convey emotions like trust or empathy? As an [article from Larsen Design](http://larsen.com/insights/creating-the-right-brand-voice/) states, &#8220;You don&#8217;t want to sound like Brahms when your audience is listening to Beck.&#8221; Have you stopped to consider what you sound like to your user, and is it appropriate for your subject matter, agencies, or audience?

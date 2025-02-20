@@ -9,6 +9,7 @@ topics:
   - contact-centers
   - customer-experience
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 The [Government Contact Center Council (G3C)](https://digital.gov/communities/government-contact-center-council/), led by GSA’s Tonya Beres, has been working with DigitalGov University to host events for the contact center community across the federal government.

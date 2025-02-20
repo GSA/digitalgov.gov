@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 Here's another other opportunity to show DigitalGov innovators what you got!

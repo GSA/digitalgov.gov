@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Question-Mark-Rawpixel-Ltd-iStock-Thinkstock-180823703.jpg" alt="A crowd of anonymous people holding up question mark signs in front of their faces." caption="" >}}

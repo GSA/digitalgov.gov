@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/600-x-369-comScore-Single-Platform-Users-Share-of-Total-Digital-Population_reference.jpg" alt="comScore graph showing Single-Platform Users Share of Total Digital Population" >}}

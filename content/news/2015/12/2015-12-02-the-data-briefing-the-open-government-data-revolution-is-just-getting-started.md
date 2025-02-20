@@ -9,6 +9,7 @@ topics:
   - data-visualization
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Some of you may remember when President Reagan opened America’s Global Positioning System (GPS) data. President Reagan gave all countries access to the GPS data in response to the Soviet Union shooting down Korean Airlines Flight 007 on September 1, 1983. I do not believe that the U.S. realized how much opening up GPS data would revolutionize the world economy, health services, travel and almost every other aspect of daily life. {{< legacy-img src="2015/12/600-x-370-Long-shadow-USA-flag-icon-with-a-map-mark-Blablo101-iStock-Thinkstock-496554590.jpg" alt="Long shadow USA flag icon with a map" caption="" >}} 

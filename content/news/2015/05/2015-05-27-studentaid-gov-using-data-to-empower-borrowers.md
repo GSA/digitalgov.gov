@@ -11,6 +11,7 @@ topics:
   - open-data
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/250-x-370-Black-Mortarboard-and-dollar-Feng-Yu-iStock-Thinkstock-96226456.jpg" alt="A graduation cap and diploma is seen in the background, with a hand holding a calculator and a stack of hundred dollar bills in the foreground." caption="" >}} 

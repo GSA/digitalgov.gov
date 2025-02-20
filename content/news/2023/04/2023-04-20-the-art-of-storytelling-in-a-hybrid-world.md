@@ -49,7 +49,7 @@ In all likelihood, you have a varied audience, each with different needs, experi
 
 Take the time and effort to get to know your audience, where they are coming from, and what they are bringing to the dialogue.
 
-Next, remember that communications are not just about giving information. How often do you truly remember a chart full of numbers or a list of statistics? Stories, on the other hand, have lasting power. There is a reason we, as humans, gravitate towards stories. We see ourselves in them and we respond on an emotional level. A giant influx of insensible data is just never going to do that. I’m of course talking about [storytelling](https://digital.gov/2015/06/29/the-content-corner-telling-your-story/), that buzzword that has been haunting our virtual and private business spaces for almost a decade now. But what does storytelling really mean?
+Next, remember that communications are not just about giving information. How often do you truly remember a chart full of numbers or a list of statistics? Stories, on the other hand, have lasting power. There is a reason we, as humans, gravitate towards stories. We see ourselves in them and we respond on an emotional level. A giant influx of insensible data is just never going to do that. I’m of course talking about storytelling, that buzzword that has been haunting our virtual and private business spaces for almost a decade now. But what does storytelling really mean?
 
 ## What does storytelling really mean?
 

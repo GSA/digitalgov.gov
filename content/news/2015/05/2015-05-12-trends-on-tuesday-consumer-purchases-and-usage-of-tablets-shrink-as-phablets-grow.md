@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/500-x-348-Android-chart-tumblr\_inline\_nnkzc31AAT1tpd7xq_500.jpg" alt="Distribution of Android Device Models by Form Factor from Flurry Analytics." >}}

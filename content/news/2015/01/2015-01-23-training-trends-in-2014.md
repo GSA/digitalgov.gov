@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - user-experience
   - social-media
+expirydate: 2025-01-01
 ---
 
 In recent years, DigitalGov University (DGU) has evolved from a prescriptive training program to a more agile program looking to federal government leaders like you to [share the innovations, tools, resources, hurdles and case studies of how you work to meet the digital expectations]({{< ref "/about/_index.md" >}} "Contact Us") of the 21st century citizen customer better. Whew. That’s a mouthful.

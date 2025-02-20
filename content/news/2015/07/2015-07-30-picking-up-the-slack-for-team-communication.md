@@ -8,6 +8,7 @@ authors:
 topics:
   - social-media
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-226-Slack-browser-phones-cutoff.jpg" alt="Slack device group – Browser+Phones – Cutoff" >}}

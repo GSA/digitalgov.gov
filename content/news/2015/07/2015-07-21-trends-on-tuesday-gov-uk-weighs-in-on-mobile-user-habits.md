@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-300-UKgov-mobile-views-0415.jpg" alt="Chart showing Top 10 Gov dot U K content viewed via mobile devices" >}}

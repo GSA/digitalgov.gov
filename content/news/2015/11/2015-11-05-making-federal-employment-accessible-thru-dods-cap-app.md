@@ -10,6 +10,7 @@ topics:
   - mobile
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 “My Disability is One Part of Who I Am” was the theme of the [70th National Disability Employment Awareness Month](http://www.dol.gov/odep/topics/ndeam/) this past October. We celebrated the many contributions of our friends and co-workers with disabilities and recognized the diverse skills and talents they bring to our workplace.

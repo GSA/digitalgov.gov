@@ -10,6 +10,7 @@ topics:
   - search
   - search-engine-optimization
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/600-x-291-ADOBE-DIGITAL-INDEX-chart-Spread-of-organic-search-visits-by-mobile-friendliness-from-April-21-2015-to-June-29-2015.jpg" alt="Spread of organic search visits by mobile friendliness from April 21, 2015 to June 29, 2015. Highlights Organic traffic up to 10% lower among sites with low mobile engagement." caption="" >}}

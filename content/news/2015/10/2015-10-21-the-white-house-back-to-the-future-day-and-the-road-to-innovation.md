@@ -13,6 +13,7 @@ topics:
   
 primary_image: white-house-back-to-the-future-day-2015-social-graphic-cropped
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-300-wh_backtothefutureday_socialgraphic.jpg" alt="White House's Back To The Future Day graphic" >}}

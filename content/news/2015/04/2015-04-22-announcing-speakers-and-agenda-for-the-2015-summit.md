@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 We are busting at the seams with excitement because the DigitalGov Citizen Services Summit is less than a month away! Today we are announcing the working agenda and confirmed speakers.

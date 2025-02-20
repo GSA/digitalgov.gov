@@ -8,6 +8,7 @@ authors:
 topics:
   - communication
   - plain-language
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-366-English-Dictionary-Alan-Crawford-iStock-Thinkstock-166091799.jpg" alt="A large English dictionary." caption="" >}} 

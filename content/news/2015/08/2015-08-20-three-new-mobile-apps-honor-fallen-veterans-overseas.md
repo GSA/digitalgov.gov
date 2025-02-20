@@ -6,6 +6,7 @@ summary: "The American Battle Monuments Commission (ABMC) released three new mob
 topics:
   - software-engineering
   - mobile
+expirydate: 2025-01-01
 ---
 
 The [American Battle Monuments Commission](https://www.abmc.gov/) (ABMC) released three new mobile apps this summer to honor fallen veterans in overseas cemeteries in Belgium, France, and Italy.

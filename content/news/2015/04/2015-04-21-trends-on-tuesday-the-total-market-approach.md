@@ -11,6 +11,7 @@ topics:
   - multilingual
   - research
   - usability
+expirydate: 2025-01-01
 ---
 
 Your audience is not homogenous. No matter the agency, target audiences are not only diverse, they are diverse on a multitude of factors. Recently, evolving trends in multicultural marketing have gained attention as organizations adjust their marketing and outreach strategies to meet 21st century realities.

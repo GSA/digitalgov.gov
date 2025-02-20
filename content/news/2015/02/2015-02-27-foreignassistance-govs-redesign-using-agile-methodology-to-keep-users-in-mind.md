@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}} 

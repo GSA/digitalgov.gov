@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - artificial-intelligence
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-400-Robot-charles-taylor-iStock-Thinkstock-149070348.jpg" alt="Robot on a light keyboard" caption="" >}} 

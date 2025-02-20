@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/08/600-x-400-featured-301-x-212-Website-wireframe-sketch-on-digital-tablet-screen-ronstick-iStock-Thinkstock-456037107.jpg" alt="Website wireframe sketch on digital tablet screen" caption="" >}} 

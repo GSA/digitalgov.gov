@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 This month we’re highlighting articles about challenge competitions and crowdsourcing across the federal government.

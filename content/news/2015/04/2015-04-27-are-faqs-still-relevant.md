@@ -10,6 +10,7 @@ topics:
   - contact-centers
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Frequently-Asked-Questions-Typed-on-an-Old-Typewriter-travellinglight-iStock-Thinkstock-176898124.jpg" alt="Frequently Asked Questions displays as typed on white paper in an old typewriter." caption="" >}} 

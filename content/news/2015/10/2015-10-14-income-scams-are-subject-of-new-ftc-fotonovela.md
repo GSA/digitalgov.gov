@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - communication
   - multilingual
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-425-FTC-fotonovela-Fatima.jpg" alt="FTC fotonovela Fatima Says No to an Income Scam" >}}

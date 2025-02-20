@@ -7,6 +7,7 @@ authors:
   - marybeth-murphy
 topics:
   - analytics
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Business-Vision-Zoonar-RF-Zoonar-Thinkstock-126809628.jpg" alt="Business vision concept with male and female figures and gears." caption="" >}} 

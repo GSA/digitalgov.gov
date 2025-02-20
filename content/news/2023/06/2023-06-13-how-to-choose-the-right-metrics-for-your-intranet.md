@@ -30,7 +30,7 @@ To ensure your intranet meets its intended goals, it's crucial to establish key 
 
 Intranet objectives are the foundational bedrock on which your metrics should be built. They steer the direction of your intranet, influencing its content, structure, and functionality. Having a clear comprehension of your agency's intranet objectives is paramount, as they will guide you in selecting the appropriate metrics.
 
-Common intranet objectives for federal agencies vary based on the specific mission, goals, and [user needs](https://digital.gov/2015/07/20/the-content-corner-determining-your-users-needs/) of the agency. Nevertheless, they often include:
+Common intranet objectives for federal agencies vary based on the specific mission, goals, and user needs of the agency. Nevertheless, they often include:
 
 * **Enhancing internal communication**: The intranet should foster efficient and effective communication between departments, teams, and individuals within the agency.
 * **Promoting collaboration**: The intranet should provide access to tools and platforms that support collaborative work, such as document sharing, project management, and communication channels.

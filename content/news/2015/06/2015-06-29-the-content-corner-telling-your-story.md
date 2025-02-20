@@ -7,6 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Story-word-in-wood-type-marekuliasz-iStock-Thinkstock-492624321.jpg" alt="The word Story in wooded type" caption="" >}} 

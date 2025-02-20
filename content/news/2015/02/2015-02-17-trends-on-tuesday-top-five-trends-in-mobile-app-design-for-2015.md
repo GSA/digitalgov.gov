@@ -11,6 +11,7 @@ topics:
   - customer-experience
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2015/02/250-x-280-Tablet-pc-media-concept-DenisKot-iStock-Thinkstock-179029246.jpg" alt="Tablet pc media concept" caption="DenisKot/iStock/Thinkstock" >}} 

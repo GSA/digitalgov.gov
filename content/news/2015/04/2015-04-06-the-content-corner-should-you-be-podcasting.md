@@ -12,6 +12,7 @@ topics:
   - social-media
   - content-strategy
 
+expirydate: 2025-01-01
 ---
 
 Along a somewhat personal journey (that you have chosen to join) to better define the term **content,** I’ve stumbled upon the puzzle of podcasts. Full disclosure: I have never been and most likely will never be a consumer of podcasts, ten years ago or today. I tried several times to listen to “[Serial](http://serialpodcast.org/)” and my lifestyle just doesn’t seem to allow for the level of concentration that a podcast requires. It&#8217;s not music or background noise; you actually have to be able to listen to it and pay attention. I’m lucky to have a pretty short commute to work via public transportation, so there goes one of the more applicable situations. But Serial’s popularity and the launch of Slate’s [Panoply](http://mashable.com/2015/02/25/slate-podcast-network-panoply/) makes it clear that I am (or am soon to be) an outlier. Podcasts seem poised for a major comeback and have to be part of any content consideration.

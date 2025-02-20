@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-337-Curiosity\_Approaching\_Mars\_Artists\_Concept-NASA-public-domain.jpg" alt="600-x-337-Curiosity\_Approaching\_Mars,\_Artists\_Concept-NASA-public-domain" >}}

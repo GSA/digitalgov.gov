@@ -9,6 +9,7 @@ topics:
   - design
   - analytics
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Once simply an idea, remote data gathering is now a very important reality in UCD (user-centered design) work. However, there are some challenges, particularly when your agency serves the entire nation and all of the groups in it. Identifying and finding solutions for these issues will help you best use this important tool. 

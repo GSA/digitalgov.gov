@@ -12,6 +12,7 @@ topics:
   - search-engine-optimization
   - mobile
   - open-data
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2015/03/DigitalGovU_450x108.jpg" alt="DigitalGov University DGU logo" >}}]({{< ref "/events" >}})

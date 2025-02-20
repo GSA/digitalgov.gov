@@ -11,6 +11,7 @@ topics:
   - multimedia
   - emerging-tech
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-360-ADI\_Video\_2.jpg" alt="Adobe Digital Index: Device share of online video starts" >}}

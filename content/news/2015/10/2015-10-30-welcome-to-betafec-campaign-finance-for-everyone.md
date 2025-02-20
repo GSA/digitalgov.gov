@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/output_fGqTQA.gif" alt="Animated gif of the beta F.E.C. homepage" >}}

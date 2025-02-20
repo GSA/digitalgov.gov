@@ -10,6 +10,7 @@ authors:
   - melody-kramer
 topics:
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg" alt="Wooden letter blocks spell out the word agile." caption="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/01/600-x-398-Agile-letter-blocks-joreks-iStock-Thinkstock-166098897.jpg) 

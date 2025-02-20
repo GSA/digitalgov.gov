@@ -7,6 +7,7 @@ topics:
   - professional-development
 authors:
   - lnelson
+expirydate: 2025-01-01
 ---
 
 1. **Divide and conquer**: Keep projects simple&mdash;if you have a big project, consider dividing it into smaller tasks. You can also offer several tasks at the same time (rather than sequentially).
