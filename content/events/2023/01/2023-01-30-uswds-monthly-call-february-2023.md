@@ -7,10 +7,12 @@ summary: "Join us as we take a deep dive into USWDS design tokens. We’ll cover
   needs."
 host: U.S. Web Design System
 event_organizer: Digital.gov
+event_cop:
+  - user-experience
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdOitrTIjG0pADR0k0Ij_xeiSBknpJyE
 captions: https://www.streamtext.net/player?event=BIS-GSA-JY
-date: 2023-02-16 14:00:00 -0500
-end_date: 2023-02-16 15:00:00 -0500
+date: 2025-02-16 14:00:00 -0500
+end_date: 2025-02-16 15:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - open-source
