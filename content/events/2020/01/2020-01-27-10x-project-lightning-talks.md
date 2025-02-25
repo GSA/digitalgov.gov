@@ -37,7 +37,7 @@ youtube_title: "10x Project Lightning Talks"
 
 ---
 
-{{< img-right src="10x-logo" >}}
+{{< img-right src="10x-logo" alt="10x logo">}}
 
 Join us for a live showcase of some of the most innovative projects in government. In this event, several 10x-funded projects will give an overview of their work, an update on the current status, and discuss other ways in which the 10x approach is unique.
 
