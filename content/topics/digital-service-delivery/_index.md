@@ -305,6 +305,7 @@ aliases:
   - /topics/veterans-health-administration/
   - /topics/vha/
   - /topics/web-based/
+  - /2024/12/13/driving-digital-transformation-across-government-for-lasting-impact/
 
 # Weight
 weight: 2
