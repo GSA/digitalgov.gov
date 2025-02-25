@@ -85,7 +85,7 @@ _- - - 15 minute break - - -_
 
 ## Speakers
 
-{{< img-right src="laura-larrimore" >}}
+{{< img-right src="laura-larrimore" alt="Speaker's photograph" >}}
 **Laura Larrimore** — coordinates the digital operations at the United States Patent and Trademark Office (known as the USPTO), including the agency’s website and social media accounts. As Senior Digital Strategist, she advises agency leaders on the strategic use and development of digital communications tools and explores new technologies for their potential to help the agency meet its communication goals at lower cost with less staff time.
 
 For 6 months in 2017 and 2018, Laura was on special assignment at the Department of Commerce as the Deputy Director of Digital Strategy, providing advice to the US Secretary of Commerce and Commerce bureaus navigating the presidential transition.
@@ -94,11 +94,11 @@ Prior to joining the federal government, she worked in university communications
 
 Laura is passionate about using technology to communicate in ways that are practical, useful and fun.
 
-{{< img-right src="riley-wilson" >}}
+{{< img-right src="riley-wilson" alt="Speaker's photograph" >}}
 **Riley Wilson** — currently works for the National Institute of Standards and Technology (NIST) as social media coordinator, joining the team in April 2019. In her role at NIST, she crafts content for and manages the agency's Facebook, Twitter, Instagram, LinkedIn and (newly launched) Reddit accounts. Prior to Riley's entrance into public service as a federal employee, she worked for three years as a health communications contractor with IQ Solutions, mainly providing communications support for the National Institute on Deafness and Other Communication Disorders within the National Institutes of Health. There, she managed the Institute's editorial calendar of promotions across multiple communications channels, conducted data analysis across web, social and email channels, and developed content for and monitored the Institute's social media accounts.
 
-{{< img-right src="robin-materese" >}}
+{{< img-right src="robin-materese" alt="Speaker's photograph" >}}
 **Robin Materese** — is the director of web content at the National Institute of Standards and Technology (NIST). In this role, she oversees NIST’s web and social media presence and also serves as a producer for much of the organization’s video content. Prior to NIST, she served as the press team lead and, for six months, as the acting public affairs branch chief, for NIH's National Heart, Lung and Blood Institute. She also worked as the communications manager for Johns Hopkins University Montgomery County, in public relations and marketing at the National Academies, within corporate communications at Choice Hotels International, at a small public relations firm and at a literary agency. She is the co-founder of BioBuzz Montgomery County, a networking group for the Maryland biotech community, and a volunteer for the Gaithersburg Book Festival!
 
-{{< img-right src="katherine-spivey" >}}
+{{< img-right src="katherine-spivey" alt="Speaker's photograph" >}}
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
