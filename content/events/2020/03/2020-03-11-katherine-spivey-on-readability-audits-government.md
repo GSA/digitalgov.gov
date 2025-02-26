@@ -50,13 +50,13 @@ map: ""
 
 ---
 
-{{< img-right src="plain-language" >}}
+{{< img-right src="plain-language" alt="Plain Language logo">}}
 
 We have _a lot_ of content on government websites. Much of this content would benefit from pruning, if not outright deleting. In this talk, Katherine will show how she did a readability audit on a set of pages, describe the decisions she had to make, and explain unexpected results. As a result, you can decide whether a readability audit might work for your website content (and how or why it might not).
 
 ## Presenter
 
-{{< img-right src="katherine-spivey" >}}
+{{< img-right src="katherine-spivey" alt="professional photo of the presenter" >}}
 
 Katherine Spivey serves as Plain Language Launcher at the U.S. General Services Administration (GSA). She is co-chair of the [Plain Language Action and Information Network](https://digital.gov/communities/plain-language/) (PLAIN) and provides Plain Language training for DigitalGov University.
 
