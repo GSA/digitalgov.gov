@@ -19,32 +19,25 @@ The following sections will help you step through constructing a frame that is w
 
 Use this checklist as you move through this section to ensure you’re set up for success in the framing phase.
 <div style="margin-left: 20px">
-    <label>
-    <input type="checkbox">
-    Read the <a href="{{< ref "/guides/hcd/discovery-concepts/plan.md" >}}"> Plan your project</a> section of the HCD Discovery Concepts Guide.
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Identify your project leads, and leadership stakeholders.
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Hold detailed conversations with stakeholders to understand the problem they would like to research.
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Produce a problem frame statement based on your stakeholder conversations.
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Get confirmation from leadership and/or stakeholders that your problem frame statement accurately reflects the research goal.
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Investigate prior research in this area through traditional journals and publications (desk research).
-    </input></label><br>
-    <label>
-    <input type="checkbox">
-    Determine the project scale / scope, based on your problem frame statement and research.
-    </input></label><br>
+    <input id="plan" type="checkbox">
+    <label for="plan">Read the <a href="{{< ref "/guides/hcd/discovery-concepts/plan.md" >}}"> Plan your project</a> section of the HCD Discovery Concepts Guide.
+    </label><br>
+    <input id="leads" type="checkbox">
+    <label for="leads">Identify your project leads, and leadership stakeholders.
+    </label><br>
+    <input id="convo" type="checkbox">
+    <label for="convo">Hold detailed conversations with stakeholders to understand the problem they would like to research.
+    </label><br>
+    <input id="problem" type="checkbox">
+    <label for="problem">Produce a problem frame statement based on your stakeholder conversations.
+    </label><br>
+    <input id="confirmation" type="checkbox">
+    <label for="confirmation">Get confirmation from leadership and/or stakeholders that your problem frame statement accurately reflects the research goal.
+    </label><br>
+    <input id="investigate" type="checkbox">
+    <label for="investigate">Investigate prior research in this area through traditional journals and publications (desk research).
+    </label><br>
+    <input id="scale" type="checkbox">
+    <label for="scale">Determine the project scale / scope, based on your problem frame statement and research.
+    </label><br>
 </div>

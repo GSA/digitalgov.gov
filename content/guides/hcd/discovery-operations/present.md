@@ -20,45 +20,29 @@ Conversely, your research might confirm what your leadership and stakeholders pr
 Use this checklist to move through the presentation and communication of your findings and deliverables:
 
 <div style="margin-left: 20px">
-<label>
-<input type="checkbox">
-Organize all materials on a shared drive using a consistent naming protocol and file hierarchy.
-</input>
-</label><br>
-<label>
-<input type="checkbox">
-Provide a link to this guide in the folder so that anyone can review and follow your project history.
-</input></label><br>
-<label>
-<input type="checkbox">
-Create a presentation deck using your findings (see guidance below).
-</input></label><br>
+<input id="organize" type="checkbox">
+<label for="organize">Organize all materials on a shared drive using a consistent naming protocol and file hierarchy.</label><br>
+<input id="provide" type="checkbox">
+<label for="provide">Provide a link to this guide in the folder so that anyone can review and follow your project history.</label><br>
+<input id="create" type="checkbox">
+<label for="create">Create a presentation deck using your findings (see guidance below).</label><br>
 
 **Include these design details to create an impactful presentation:**
 <div style="margin-left: 20px">
-<label>
-<input type="checkbox">
-Use photos in your deck.
-</input></label><br>
-<label>
-<input type="checkbox">
-Use the presenter notes section to include details you will verbally present.
-</input></label><br>
-<label>
-<input type="checkbox">
-If necessary, create an appendix to include details or raw data.
-</input></label><br>
-<label>
-<input type="checkbox">
-Practice presenting your deck to leadership and stakeholders.
-</input></label><br>
-<label>
-<input type="checkbox">
-Show your work. Effective slides emphasize your talking points. Avoid large amounts of text in your deck. 
-</input></label><br>
-<label>
-<input type="checkbox">
-Be present and conversational in your presentation; don’t just read your deck aloud to your audience.
-</input></label><br>
+<input id="photos" type="checkbox">
+<label for="photos">Use photos in your deck.</label><br>
+<input id="notes" type="checkbox">
+<label for="notes">Use the presenter notes section to include details you will verbally present.</label><br>
+<input id="appendix" type="checkbox">
+<label for="appendix">If necessary, create an appendix to include details or raw data.</label><br>
+<input id="deck" type="checkbox">
+<label for="deck">Practice presenting your deck to leadership and stakeholders.
+</label><br>
+<input id="emphasize" type="checkbox">
+<label for="emphasize">Show your work. Effective slides emphasize your talking points. Avoid large amounts of text in your deck. 
+</label><br>
+<input id="read" type="checkbox">
+<label for="read">Be present and conversational in your presentation; don’t just read your deck aloud to your audience.
+</label><br>
 </div>
 </div>

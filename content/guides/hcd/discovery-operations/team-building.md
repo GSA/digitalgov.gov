@@ -20,24 +20,19 @@ It’s also important to know that each role will have its time to be at the for
 Use this checklist as you build your team to ensure you’re set up for success:
 
 <div style="margin-left: 20px">
-  <label>
-  <input type="checkbox">
-  Read through the team role descriptions
-  </input></label><br>
-  <label>
-  <input type="checkbox">
-  Identify potential researchers, recruiters, logistics coordinator, and local contacts
-  </input></label><br>
-  <label>
-  <input type="checkbox">
-  Invite each identified person to join the team
-  </input></label><br>
-  <label>
-  <input type="checkbox">
-  Get confirmation from each person on their commitment to join the team.
-  </input></label><br>
-  <label>
-  <input type="checkbox">
-  Share the team map with all teammates to ensure that everyone understands their role, and the roles of the others.
-  </input></label>
+  <input id="role" type="checkbox">
+  <label for="role">Read through the team role descriptions
+  </label><br>
+  <input id="identify" type="checkbox">
+  <label for="identify">Identify potential researchers, recruiters, logistics coordinator, and local contacts
+  </label><br>
+  <input id="invite" type="checkbox">
+  <label for="invite">Invite each identified person to join the team
+  </label><br>
+  <input id="confirmation" type="checkbox">
+  <label for="confirmation">Get confirmation from each person on their commitment to join the team.
+  </label><br>
+  <input id="share" type="checkbox">
+  <label for="share">Share the team map with all teammates to ensure that everyone understands their role, and the roles of the others.
+  </label>
 </div>

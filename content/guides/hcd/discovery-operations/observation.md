@@ -22,36 +22,36 @@ In both of these methods, the data you collect will be multi-sensorial. It’s i
 Use this checklist to prepare the night before you go into observation-based research.
 
 <div style="margin-left: 20px">
-<label>
-<input type="checkbox">
+<input id="research" type="checkbox">
+<label for="research">
 Review the <a href="{{< ref "/guides/hcd/discovery-concepts/do-research.md" >}}">research section of the HCD Discovery Concepts Guide.</a>
-</input></label><br>
-<label>
-<input type="checkbox">
+</label><br>
+<input id="participant" type="checkbox">
+<label for="participant">
 Check with the participant the day before to see if specialized gear is needed.
-</input></label><br>
-<label>
-<input type="checkbox">
+</label><br>
+<input id="background" type="checkbox">
+<label for="background">
 Review the participant’s background, and any information you might have on how they work.
-</input></label><br>
-<label>
-<input type="checkbox">
-Gather your supplies and pack them: camera, recorder, notebook.
-</input></label><br>
-<label>
-<input type="checkbox">
+</label><br>
+<input id="supplies" type="checkbox">
+<label for="supplies">Gather your supplies and pack them: camera, recorder, notebook.
+</label><br>
+<input id="method" type="checkbox">
+<label for="method">
 Have an idea of which method you might prefer for this observation: fly-on-the-wall or participatory.
-</input></label><br>
-<label>
-<input type="checkbox">
+</label><br>
+<input id="guide" type="checkbox">
+<label for="guide">
 Have print and digital versions of your interview/conversation guide ready.
-</input></label><br>
+</label><br>
 <label>
-<input type="checkbox">
+<input id="pitch" type="checkbox">
+<label for="pitch">
 Review your project elevator pitch.
-</input></label><br>
-<label>
-<input type="checkbox">
+</label><br>
+<input id="focus" type="checkbox">
+<label for="focus">
 Focus. Get yourself mentally ready to deeply listen and interact with another person.
-</input></label>
+</label>
 </div>

@@ -16,22 +16,18 @@ Some insights will not present opportunities for your team. You will know that y
 
 Use this checklist to guide you through finding opportunities:
 <div style="margin-left: 20px">
-<label>
-<input type="checkbox">
-Take no longer than a one hour break between the end of the Insights discovery phase, and the start of the opportunities discovery phase.
-</input></label><br>
-<label>
-<input type="checkbox">
-Write all the insights discovered in the first three phases of the synthesis process on computer paper using Sharpie markers. Use a new sheet of paper for each Insight.
-</input></label><br>
-<label>
-<input type="checkbox">
-Tape the insights up across the wall or windows in a row.
-</input></label><br>
-<label>
-<input type="checkbox">
-There is no time limit here, but the Project Lead needs to pay careful attention to the energy in the room. Everyone, including the Lead, will be tired. Push everyone to keep up the work until it is thoroughly done.
-</input></label><br>
+<input id="break" type="checkbox">
+<label for="break">Take no longer than a one hour break between the end of the Insights discovery phase, and the start of the opportunities discovery phase.
+</label><br>
+<input id="write" type="checkbox">
+<label for="write">Write all the insights discovered in the first three phases of the synthesis process on computer paper using Sharpie markers. Use a new sheet of paper for each Insight.
+</label><br>
+<input id="tape" type="checkbox">
+<label for="tape">Tape the insights up across the wall or windows in a row.
+</label><br>
+<input id="limit" type="checkbox">
+<label for="limit">There is no time limit here, but the Project Lead needs to pay careful attention to the energy in the room. Everyone, including the Lead, will be tired. Push everyone to keep up the work until it is thoroughly done.
+</label><br>
 </div>
 
 ## Find and define opportunities

@@ -11,37 +11,37 @@ primary_image: hcd-discovery-operations
 Use this checklist for overview planning.
 
 <div style="margin-left: 20px">
-  <label>
-  <input type="checkbox">
+  <input id="timeline" type="checkbox">
+  <label for="timeline">
   Create a high-level timeline by week. Use a calendar tool/format that can be easily shared with your team.
-  </input></label><br>
-  <label>
-  <input type="checkbox">
+  </label><br>
+  <input id="roles" type="checkbox">
+  <label for="roles">
   Meet with the team to discuss roles and high-level timeline. Explain that the timeline will change as interview times shift.
-  </input></label><br>
-  <label>
-  <input type="checkbox">
+  </label><br>
+  <input id="recruit" type="checkbox">
+  <label for="recruit">
   Ensure that the recruiter is comfortable with the timeline for recruitment, and is poised to start work as soon as possible.
-  </input></label><br>
-  <label>
-  <input type="checkbox">
+  </label><br>
+  <input id="research" type="checkbox">
+  <label for="research">
   Give researchers access to desk research, or any early research you’ve done, so that they can review while the logistics come together.
-  </input></label><br>
+  </label><br>
 
 **Ensure that the logistics coordinator:**
   <div style="margin-left: 20px">
-    <label>
-    <input type="checkbox">
+    <input id="site" type="checkbox">
+    <label for="site">
     Knows the type of site where the team will be working, and is prepared to book conference/hotel space, if needed
-    </input></label><br>
-    <label>
-    <input type="checkbox">
+    </label><br>
+    <input id="contact" type="checkbox">
+    <label for="contact">
     Has identified a local contact, if required
-    </input></label><br>
-    <label>
-    <input type="checkbox">
+    </label><br>
+    <input  id="travel" type="checkbox">
+    <label for="travel">
     Is poised to start developing a travel schedule (if needed) for the team as soon as interviews are scheduled.
-    </input></label><br>
+    </label><br>
   </div>
 </div>
 
