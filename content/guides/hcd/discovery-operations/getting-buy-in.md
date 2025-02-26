@@ -15,16 +15,16 @@ This part of the project involves “selling” your project idea. This means pu
 Use this checklist to ensure you’re doing all you can to get the buy-in of your leadership.
 
 <div style="margin-left: 20px">
-  <input type="checkbox">
-  Put together a pitch (persuasive argument) for why your project should be allowed to proceed. Create a project write up, a project deck, or a spreadsheet showing data that initially drove your project frame.
-  </input><br>
-  <input type="checkbox">
-  Include your project frame and explain what the project will do for leadership and/or their organization.
-  </input><br>
-  <input type="checkbox">
-  Schedule time with leadership to walk them through your project.
-  </input><br>
-  <input type="checkbox">
-  Practice your project pitch multiple times before walking into the presentation to leadership.
-  </input>
+  <input id="pitch" type="checkbox">
+  <label for="pitch">Put together a pitch (persuasive argument) for why your project should be allowed to proceed. Create a project write up, a project deck, or a spreadsheet showing data that initially drove your project frame.
+  </label><br>
+  <input id="project" type="checkbox">
+  <label for="project">Include your project frame and explain what the project will do for leadership and/or their organization.
+  </label><br>
+  <input id="schedule" type="checkbox">
+  <label for="schedule">Schedule time with leadership to walk them through your project.
+  </label><br>
+  <input id="practice" type="checkbox">
+  <label for="practice">Practice your project pitch multiple times before walking into the presentation to leadership.
+  </label>
 </div>
