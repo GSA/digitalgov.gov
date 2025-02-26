@@ -9,6 +9,7 @@ topics:
   - mobile
   - multilingual
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/08/latino-infograph-236x1024-236x300.jpg" alt="Infographic by Mobile Future about Latino Mobile Use" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/08/latino-infograph-236x1024.jpg)

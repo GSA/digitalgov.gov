@@ -9,6 +9,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 A website with too much information on the homepage, or any page, will overwhelm users in less than a second. They will be unable to find a starting point to accomplish what they came there to do. If users are not able to locate the information they need and/or are unable to get past the homepage, they will go to another website to look for the information they are seeking.

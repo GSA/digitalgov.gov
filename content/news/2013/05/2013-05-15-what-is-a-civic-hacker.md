@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 <p>

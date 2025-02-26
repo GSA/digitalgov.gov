@@ -9,6 +9,7 @@ topics:
   - mobile
   - content-strategy
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/01/photo-1024x768.png" alt="CDC Solve the Outbreak Plantation Blues for iPad showing the first clue in their new game scenario with a photo of the Louisiana bayou." >}} 

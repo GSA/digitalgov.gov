@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2013/09/SSI-Mobile-pic-266x400.png" alt="Screen capture of the Reporting For section of the Supplemental Security Income (SSI) Mobile Wage app. Text at the top reads, I am reporting wages for, and offers 3 choices: myself, other person or persons, or both. A button labeled Next is below the choices." >}}

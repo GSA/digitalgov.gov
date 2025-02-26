@@ -12,6 +12,7 @@ topics:
   - design
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 The [Department of State](http://www.state.gov/) has updated their mobile website [m.state.gov](http://m.state.gov) with responsive design. The site auto-detects mobile devices and displays the State mobile site by default.

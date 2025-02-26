@@ -6,6 +6,7 @@ summary: "Learn how to create amazing and engaging Mobile Gov User Experiences b
 topics:
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2013/02/250-x-359-PTSD-App-User-Experience-webinar.jpg" alt="Screencapture of the PTSD App for the User Experience webinar" >}}

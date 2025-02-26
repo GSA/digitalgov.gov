@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - customer-experience
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/250-x-240-Customer-Service-Experience-NemanjaZs-iStock-Thinkstock-462082529.jpg" alt="Customer word puzzle" caption="" >}} 

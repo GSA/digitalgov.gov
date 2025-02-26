@@ -10,6 +10,7 @@ topics:
   - emerging-tech
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 <img src="https://s3.amazonaws.com/digitalgov/&#95;legacy-img/2013/09/Pewchart.jpg" align="right" alt="Pew Research Center’s Internet & American Life Project released their report on Cell Phone Activities for 2013. This is a graph documenting mobile access to email, Internet and other digital technologies.">[Pew Research Center’s Internet & American Life Project](http://www.pewinternet.org/) recently released their report on Cell Phone Activities for 2013. The report stated that 91% of American adults own a cell phone and many use their devices for more than just phone calls.
