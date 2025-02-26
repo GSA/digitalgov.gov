@@ -47,13 +47,13 @@ Many questions exist in terms of how to engage in an effective acquisition and p
 
 **Omid Ghaffari-Tabrizi**
 
-{{< img-right src="omid-ghaffari-tabrizi" alt="professional photo of the speaker">}}
+{{< img-right src="omid-ghaffari-tabrizi" alt="Presenter Omid Ghaffari-Tabrizzi's photograph">}}
 
 As the Acquisition Lead focusing on program management at the IT Modernization Centers of Excellence (CoE), Omid stood up the acquisition team that supports internal needs as well as those of each of the CoE agency partners. He leads the modernization efforts for procurement processes and acquisition shops within GSA, as well as throughout the government. Culminating in the efforts currently underway at the Joint Artificial Intelligence Center (JAIC) and Department of Labor, Omid's work has developed tools and the processes that use those tools to buy the latest technology being implemented in the government, including AI and RPA. Prior to joining the CoE, Omid did similar work for [login.gov](https://login.gov/) and the 18F Office of Acquisitions. Before joining the government, Omid was an attorney specializing in contract law.
 
 **Keith Nakasone**
 
-{{< img-right src="keith-nakasone" alt="professional photo of the speaker">}}
+{{< img-right src="keith-nakasone" alt="Presenter Keith Nakasone's photograph">}}
 
 Mr. Keith Nakasone is the Deputy Assistant Commissioner, Acquisition Management, within the Office of Information Technology Category (ITC) in GSA’s Federal Acquisition Service (FAS). The Federal Acquisition Service provides buying platforms and acquisition services to Federal, State and Local governments for a broad range of items from office supplies to motor vehicles to information technology and telecommunications products and services. As an organization within FAS, ITC provides access to a wide range of commercial and custom IT products, services and solutions.
 
@@ -63,7 +63,7 @@ Mr. Nakasone started his civil service career in 1989 specializing in the field 
 
 **Eric Ewing**
 
-{{< img-right src="eric-ewing" alt="professional photo of the speaker">}}
+{{< img-right src="eric-ewing" alt="Presenter Eric Ewing's photograph">}}
 
 Eric Ewing has over 8 years of experience in data, analytics and artificial intelligence initiatives. Eric has served as a senior advisor to multiple federal Chief Data Officers, providing leadership, guidance, and expertise into enterprise modernization initiatives. With the CoE, Eric consolidates and organizes long and short term strategy for data and AI while leading initiatives for the management of data as a strategic asset. Prior to joining the CoE, Eric was a data scientist and senior consultant leading key analytics programs, AI research and development, and IT supply chain security initiatives with both private and public sector partners.
 
