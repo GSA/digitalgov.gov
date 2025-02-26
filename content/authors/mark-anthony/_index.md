@@ -5,7 +5,7 @@
 
 display_name: "Mark Anthony Dingbaum"
 first_name: "Mark Anthony"
-last_name: "DIngbaum"
+last_name: "Dingbaum"
 
 
 # slug — the specific user-id for an author.
