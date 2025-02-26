@@ -20,8 +20,6 @@ The theme of this year&#8217;s Summit was "open." The agenda was packed with pre
 
 Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all techies in government to help solve problems and be part of decision-making at the highest levels of government.
 
-{{< tweet user="JanetBS" id="601376122086039552" >}}
-
 She also said that young people have found ways to serve their country through the Peace Corps and Teach for America and invited the group to think how they could serve digitally.
 
 <blockquote class="twitter-tweet" data-width="500">
