@@ -10,6 +10,7 @@ topics:
   - multimedia
   - accessibility
   - privacy
+expirydate: 2025-01-01
 ---
 
 Government videos need to follow two main laws:

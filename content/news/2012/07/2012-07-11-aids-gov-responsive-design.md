@@ -10,6 +10,7 @@ topics:
   - mobile
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 _Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by AIDS.gov._

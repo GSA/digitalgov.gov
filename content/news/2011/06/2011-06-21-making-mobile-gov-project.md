@@ -8,7 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - mobile
-
+expirydate: 2025-01-01
 ---
 
 _Making Mobile Gov was a three phase multi-media project created by the [MobileGov Community of Practice]({{< ref "/communities" >}} "Mobile") to help federal agencies discover, discuss and design a citizen-centric path to mobile government services and information. Held during the summer 2011, this project served three strategic goals:_
