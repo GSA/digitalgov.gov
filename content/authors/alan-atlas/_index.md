@@ -6,7 +6,6 @@ display_name: "Alan Atlas"
 first_name: "Alan"
 last_name: "Atlas"
 
-# user id — not easily changed
 slug: "alan-atlas"
 
 # Agency Full Name [e.g. U.S. General Services Administration]
