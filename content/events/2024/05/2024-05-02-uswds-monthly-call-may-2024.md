@@ -24,9 +24,11 @@ youtube_id: UfufY8gStqI
 youtube_title: "Creating accessible civic spaces"
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-may-2024.pptx" label="View the slides (Powerpoint presentation, 14 MB, 32 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is notably, wearing glasses. Apparently I now need computer glasses so I don't get headaches! Maybe I'll update my avatar next month.
 

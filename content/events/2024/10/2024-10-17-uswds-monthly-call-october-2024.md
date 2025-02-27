@@ -27,9 +27,11 @@ primary_image: 2024-uswds-monthly-call-october-title-card
 
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-october-2024.pptx" label="View the slides (Powerpoint presentation, 2.5 MB, 109 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2024" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2024" icon="content_copy" >}}
 **Slide 1.** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for October 2024. We're clearly in the middle of spooky season. With Halloween only a couple weeks away, the USWDS logo is trying to get its costume ready. It's doing its best to be a vampire, but — as we can see here with the two triangles in red and the rest in black — it's still having trouble getting the fangs to look right.
 
 **Slide 2.** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt, glasses —today real-life me is wearing a gray shirt, warm red pants, and some pinkish socks, approximately violet-warm-10.

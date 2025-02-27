@@ -21,9 +21,11 @@ primary_image: "uswds-june-2022-monthly-call-title-card"
 
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-june-2022.pptx" label="View the slides (PowerPoint presentation, 4.8 MB, 42 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2022" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for June 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 

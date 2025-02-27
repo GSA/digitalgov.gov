@@ -24,9 +24,11 @@ primary_image: uswds-monthly-call-may-title-card
 
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-may-2022.pptx" label="View the slides (PowerPoint presentation, 7.6 MB, 64 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for May 2022" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2022" icon="content_copy" >}}
 
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call. For May 2022 — home of the May flowers that those April showers are said to bring —accompanied by this spring flower–colored USWDS logo. Today is also Global Accessibility Awareness Day. Thank you to everyone working to make our sites and services more useful, more usable, and more accessible to the folks that really need it.

@@ -25,9 +25,11 @@ youtube_title: "The landscape of Web Components"
 primary_image: 2024-uswds-monthly-call-sep-title-card
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-september-2024.pptx" label="View the slides (Powerpoint presentation, 6.7 MB, 75 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2024" icon="content_copy" >}} **Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2024. It's getting a bit cooler out here in the pacific northwest. This month we're celebrating the fall equinox this weekend with a USWDS logo in green, white, and blue like the Earth. And at least around here, I'm seeing more and more pumpkins around town, both on stoops and in stores, so here's a pumpkin-colored USWDS logo!
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2024" icon="content_copy" >}} **Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2024. It's getting a bit cooler out here in the pacific northwest. This month we're celebrating the fall equinox this weekend with a USWDS logo in green, white, and blue like the Earth. And at least around here, I'm seeing more and more pumpkins around town, both on stoops and in stores, so here's a pumpkin-colored USWDS logo!
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead. Here, on-screen, is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a blue shirt today, green socks, and red slacks, approximately red-60.
 

@@ -22,9 +22,11 @@ event_platform: zoom
 primary_image: 2022-uswds-monthly-call-dec-title-card
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint presentation, 9.7 MB, 75 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for December 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for December 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For December 2022. It's a cold and frosty morning here in Portland, Oregon, and the USWDS logo is suitably wintry, with an evergreen triangle and a selection of cool blues and white. And I should say that we've had a bit of bad weather across the country and some connectivity issues as well. All's gone well in our tech check, but if we have any connection issues, we'll figure it out asap.
 

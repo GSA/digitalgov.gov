@@ -21,9 +21,11 @@ youtube_id: GHomUbYTgwQ
 youtube_title: "An introduction to Web Components"
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a simple green checked shirt. It's also a bright-green socks day!
 
