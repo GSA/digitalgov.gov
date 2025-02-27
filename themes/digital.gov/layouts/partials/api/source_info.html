@@ -5,5 +5,5 @@
   "field_domain" : "{{- .Params.domain -}}",
 {{- end -}}
 {{- if (isset .Params "logo") -}}
-  "field_logo" : "{{- .Params.logo -}}",
+  "field_logo" : "/static/logos/{{- .Params.logo -}}-logo.png",
 {{- end -}}
