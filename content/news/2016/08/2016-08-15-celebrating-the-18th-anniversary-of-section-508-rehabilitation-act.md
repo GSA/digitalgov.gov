@@ -328,9 +328,9 @@ The Dept. of Health and Human Services shares their Section 508 plans and milest
     </td>
   </tr>
   <tr>
-    <th colspan="7" scope="row" align="left">
+    <td colspan="7" scope="row" align="left">
       <em>* This is partial data for the last 6 months; please <a title="View 508 Compliance Leaderboards" href="http://www.hhs.gov/web/section-508/compliance-and-remediation/leaderboards/index.html">visit HHS’s site</a> for the full year, August 2015 to July 2016.</em>
-    </th>
+    </td>
   </tr>
 </table>
 
@@ -342,9 +342,12 @@ Another collaborative initiative we want to highlight is the [Improving the Acce
 
 ## Testing
 
-DHS leads the government’s Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/sites/default/files/publications/Trusted_Tester_Fact_Sheet_0.pdf "Trusted Tester Fact Sheet PDF file") ({{< legacy-img src="2016/08/application-pdf.png" alt="PDF icon" >}} 160KB PDF). Not only does the federal government then have a reliable set of testers who can address key Section 508 areas, but it also promotes a common understanding of the 508 standards and a common testing process developers can code to.
+DHS leads the government’s Interagency Trusted Tester Program (ITTP). The TT takes a harmonized, repeatable, scalable, code‐inspection‐based approach to determine software and website conformance to the Section 508 standards by [training individuals to become trusted testers](https://www.dhs.gov/publication/trusted-tester-resources). Not only does the federal government then have a reliable set of testers who can address key Section 508 areas, but it also promotes a common understanding of the 508 standards and a common testing process developers can code to.
 
-We are very excited about the strides made to allow all citizens easier access to government information throughout 2016, and we look forward to the new tools, training and innovations in accessibility coming in 2017. What is YOUR agency doing to makes strides with accessibility?_To view PDF documents, you&#8217;ll need the free Adobe Acrobat Reader app, available for multiple operating systems and devices:_
+We are very excited about the strides made to allow all citizens easier access to government information throughout 2016, and we look forward to the new tools, training and innovations in accessibility coming in 2017. What is YOUR agency doing to makes strides with accessibility?
+
+_To view PDF documents, you&#8217;ll need the free Adobe Acrobat Reader app, available for multiple operating systems and devices:_
 
   * _**Desktop app**: Visit the [Acrobat Reader download page](http://get.adobe.com/reader/ "Download Acrobat Reader for your computer") to get Reader for your desktop. Once there, you can select your language, operating system, and connection speed._
   * _**Mobile app**: To download this app, visit the [Google Play](https://play.google.com/store/apps/details?id=com.adobe.reader "Download Acrobat Reader for Android mobile devices") or the [iTunes App Store](https://itunes.apple.com/app/adobe-reader/id469337564?mt=8 "Download Acrobat Reader for Apple mobile devices"). You can also download the latest version of the mobile app for [Windows Phone](http://www.windowsphone.com/s?appid=134e363e-8811-44be-b1e3-d8a0c60d4692 "Download Acrobat Reader for Windows mobile devices") devices._
+
