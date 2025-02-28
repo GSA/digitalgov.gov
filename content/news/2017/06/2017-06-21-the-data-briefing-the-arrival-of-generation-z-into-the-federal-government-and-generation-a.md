@@ -11,6 +11,7 @@ topics:
   - emerging-tech
   - professional-development
   - social-media
+expirydate: 2025-01-01
 ---
 
 In the last national election, the earliest born members of Generation Z voted for the first time. In 2019, the American workforce will see the influx of tens of millions of Gen Zers who, according to some researchers, will be a stark contrast to the Millennials that will make the largest part of the 2020 workforce. According to [one researcher’s study of Gen Z](https://www.amazon.com/Gen-Work-Generation-Transforming-Workplace-ebook/dp/B01HM27IDK/), this generational group has seven distinguishing traits:
@@ -35,6 +36,7 @@ What does this mean for federal agencies as both trends (Gen Z and Gen A) merge 
 
 {{< legacy-img src="2017/06/600-x-400-Generation-Z-Timeline-olm26250-iStock-Thinkstock-498425358.jpg" alt="Generational markers on a timeline, Gen Z at the front." caption="olm26250/iStock/Thinkstock" >}}
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific products, brands, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
