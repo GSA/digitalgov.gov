@@ -337,7 +337,7 @@ For each GSA location, building entrance information and room numbers are provid
 ### Boston, MA
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Boston Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.941016803768!2d-71.06524388454356!3d42.36509627918656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37091ca7d7a51%3A0x76896e678018335!2sThomas+P.+O%E2%80%99Neill%2C+Jr.+Federal+Building+Courtyard%2C+Boston%2C+MA+02114!5e0!3m2!1sen!2sus!4v1558129280347!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **Thomas P. O'Neill, Jr. Federal Building** <br/>
@@ -355,7 +355,7 @@ Special instructions: Participant will follow all security procedures stated and
 ### Chicago, IL
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.6908709654977!2d-87.63270368455889!3d41.8779969792221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cbcfda00085%3A0xf1549152afb1fc00!2sRalph+H.+Metcalfe+Federal+Building!5e0!3m2!1sen!2sus!4v1558131886691!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Chicago Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.6908709654977!2d-87.63270368455889!3d41.8779969792221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cbcfda00085%3A0xf1549152afb1fc00!2sRalph+H.+Metcalfe+Federal+Building!5e0!3m2!1sen!2sus!4v1558131886691!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **Ralph H. Metcalfe Federal Building** <br/>
@@ -372,7 +372,7 @@ Special instructions: Participant will follow all security procedures stated and
 ### Ft. Worth, TX
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.573808637786!2d-97.33373098481862!3d32.750505780980006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e716aead3d0c5%3A0xe0a1082a61da1d03!2sFritz+G.+Lanham+Federal+Building!5e0!3m2!1sen!2sus!4v1558131954657!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Fort Worth Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3355.573808637786!2d-97.33373098481862!3d32.750505780980006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e716aead3d0c5%3A0xe0a1082a61da1d03!2sFritz+G.+Lanham+Federal+Building!5e0!3m2!1sen!2sus!4v1558131954657!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **Fritz G. Lanham Federal Building**<br/>
@@ -389,7 +389,7 @@ Special instructions: The building has two entrances. Participants can use eithe
 ### Kansas City, MO
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d673.9995266353473!2d-94.58459587200267!3d39.086237404280446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0f040139747f3%3A0x511cb7614756863d!2sTwo+Pershing+Square!5e0!3m2!1sen!2sus!4v1558132113071!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Kansas City Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d673.9995266353473!2d-94.58459587200267!3d39.086237404280446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0f040139747f3%3A0x511cb7614756863d!2sTwo+Pershing+Square!5e0!3m2!1sen!2sus!4v1558132113071!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **Two Pershing Square**<br/>
@@ -406,7 +406,7 @@ Special instructions: The building is open to the public. A hackathon representa
 ### New York City, NY
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2281083661273!2d-74.01534963459501!3d40.71299467933169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a197c06b7cb%3A0x40a06c78f79e5de6!2sOne+World+Trade+Center!5e0!3m2!1sen!2sus!4v1558132342003!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="New York City Google map"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2281083661273!2d-74.01534963459501!3d40.71299467933169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a197c06b7cb%3A0x40a06c78f79e5de6!2sOne+World+Trade+Center!5e0!3m2!1sen!2sus!4v1558132342003!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **One World Trade Center**<br/>
@@ -423,7 +423,7 @@ Special instructions: Please enter at the south entrance. Participants will foll
 ### Philadelphia, PA
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.60246174015!2d-75.1532151846182!3d39.95028107942215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c88395fde2b1%3A0xbac270fdd92c5b92!2sDow!5e0!3m2!1sen!2sus!4v1558132385144!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Philadelphia Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.60246174015!2d-75.1532151846182!3d39.95028107942215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c88395fde2b1%3A0xbac270fdd92c5b92!2sDow!5e0!3m2!1sen!2sus!4v1558132385144!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **Dow Building**<br/>
@@ -440,7 +440,7 @@ Special instructions: The Dow Building is located on the corner of 6th and Marke
 ### San Francisco, CA
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.4090289689775!2d-122.41671238468216!3d37.780452979758415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809b1ed4d4cd%3A0xe92713afd5d191dd!2s50+United+Nations+Plaza+Federal+Office+Building!5e0!3m2!1sen!2sus!4v1558132470711!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="San Francisco Google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.4090289689775!2d-122.41671238468216!3d37.780452979758415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809b1ed4d4cd%3A0xe92713afd5d191dd!2s50+United+Nations+Plaza+Federal+Office+Building!5e0!3m2!1sen!2sus!4v1558132470711!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **50 United Nations Plaza Federal Office Building**<br/>
@@ -457,7 +457,7 @@ Special instructions: Please enter through the center doors facing Civic Center 
 ### Washington, DC
 
 <div class="align-right">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.17426509174!2d-77.0446512846496!3d38.89713007957071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7bad139c21d%3A0xd0348594120eaa8!2s1800+F+St+NW%2C+Washington%2C+DC+20006!5e0!3m2!1sen!2sus!4v1558132531563!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe title="Washington, DC Google map"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.17426509174!2d-77.0446512846496!3d38.89713007957071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7bad139c21d%3A0xd0348594120eaa8!2s1800+F+St+NW%2C+Washington%2C+DC+20006!5e0!3m2!1sen!2sus!4v1558132531563!5m2!1sen!2sus" width="214" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 **U.S. General Services Administration, Central Office**<br/>
