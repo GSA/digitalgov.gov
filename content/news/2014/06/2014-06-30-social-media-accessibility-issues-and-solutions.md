@@ -3,6 +3,9 @@ slug: social-media-accessibility-issues-and-solutions
 date: 2014-06-30 10:00:10 -0400
 title: "Social Media: Accessibility Issues and Solutions"
 summary: "The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information&mdash;people with disabilities, since they have the least access to it."
+
+expirydate: "2025-01-22"
+
 authors:
   - victoria-wales
 topics:

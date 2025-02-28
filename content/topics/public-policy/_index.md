@@ -22,7 +22,6 @@ aliases:
   - /topics/policy/
   - /resources/omb-memos-circulars-executive-orders-and-other-policies/
 
-
 # Weight
 weight: 2
 

@@ -1,0 +1,4 @@
+/2011/06/21/making-mobile-gov-project/:      content/resources/connected-government-act.md                                                58
+/2012/02/22/my-tsa-mobile-app/:              content/resources/connected-government-act.md                                                141
+/2012/02/22/my-tsa-mobile-app/:              content/news/2013/09/2013-09-03-trends-on-tuesday-companies-use-mobile-for-brand-loyalty.md  15
+/2012/05/07/find-free-video-stock-footage/:  content/news/2013/05/2013-05-04-video-copyright.md                                           73

@@ -3,6 +3,9 @@ slug: benefits-of-accessible-design
 date: 2017-05-09 3:00:03 -0400
 title: Benefits of Accessible Design
 summary: 'According to the World Bank, approximately one billion people worldwide live with a disability, making up the world&#8217;s largest minority. Designing from an accessibility-first standpoint has the potential to benefit all stakeholders, not just people with disabilities, because accessible design typically delivers a better user experience. Currently many websites and digital platforms are inaccessible, which makes them difficult'
+
+expirydate: "2025-01-22"
+
 authors:
   - phillip-crawford
 topics:

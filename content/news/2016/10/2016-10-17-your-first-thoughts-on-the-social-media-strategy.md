@@ -3,6 +3,9 @@ slug: your-first-thoughts-on-the-social-media-strategy
 date: 2016-10-17 13:00:08 -0400
 title: Your First Thoughts on the Social Media Strategy
 summary: 'This post is written by Jeannie Chen, Mary King, and Hilary Parkinson and is part of our ongoing series about our social media strategy. We welcome comments from staff, other cultural institutions, and the public, and will continue to update the strategy as a living document. When we introduced NARA’s new social media strategy in August,'
+
+expirydate: "2025-01-22"
+
 authors:
   - mary-king
   - jeannie-chen
