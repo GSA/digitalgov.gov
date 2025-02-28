@@ -45,7 +45,7 @@
   {{- range $i, $e := $_featured_resources -}}
     {{- with $e -}}
       {{- if .link -}}
-        { "field_featured_resource_link":
+        { "field_featured_resource_href":
         "{{ .link }}"{{ if or .title .summary }},{{ end }}
         {{- if .title -}}
           "field_featured_resource_title":

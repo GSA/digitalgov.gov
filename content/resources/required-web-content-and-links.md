@@ -1,5 +1,6 @@
 ---
 date: 2011-12-05 12:37:26 -0400
+slug: required-web-content-and-links
 title: "Required web content and links"
 deck: "A list of required links that all federal websites need to have."
 summary: "Various policies require you to have certain content&mdash;or provide links to content&mdash;from specific places on your website."

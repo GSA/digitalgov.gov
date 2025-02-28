@@ -1,6 +1,7 @@
 ---
 date: 2025-01-03
 source: ""
+slug: an-introduction-to-data-visualization
 title: An introduction to data visualization
 deck: Understand how to tell a story using data and design
 summary: Use data visualization to communicate insights, tell a story, and share actionable information.
@@ -25,7 +26,7 @@ weight: 1
 ---
 ## What is data visualization?
 
-[Data visualization](https://digital.gov/topics/data-visualization/) is the visual and graphic representation of data through charts, graphs, maps, interactive dashboards, and other visual imagery. Data visualization can help [simplify large or complex datasets](https://datascience.cancer.gov/training/learn-data-science/visualize-data-basics) to encourage broader interest on an issue or topic. Common types of data visualization include pie charts, bar charts, maps, tables, and line charts. Dashboards or infographics may feature multiple data visualizations. 
+[Data visualization](https://digital.gov/topics/data-visualization/) is the visual and graphic representation of data through charts, graphs, maps, interactive dashboards, and other visual imagery. Data visualization can help [simplify large or complex datasets](https://datascience.cancer.gov/training/learn-data-science/visualize-data-basics) to encourage broader interest on an issue or topic. Common types of data visualization include pie charts, bar charts, maps, tables, and line charts. Dashboards or infographics may feature multiple data visualizations.
 
 ## Why is data visualization important?
 
@@ -45,7 +46,7 @@ When you create a data visualization, your goal should be to transform data into
 
 A clear, focused research question will guide the scope of your analysis. You may need to break down your research question into multiple components, which may be more clear to address in more than one visualization.
 
-{{< note >}} 
+{{< note >}}
   The 18F User Experience Guide provides [examples of research questions](https://guides.18f.gov/ux-guide/research/plan/#research-questions). While centered on user research, you can use the definition and principles to guide your own brainstorming.
 {{< /note >}}
 
@@ -63,7 +64,7 @@ The chart type you use should support your research goal and fit the type of dat
 
 ### Step 5. Check your visualization for bias
 
-Identify any limitations in the way the data was collected. Approaching visualization with [a lens of empathy and equity](https://www.nnlm.gov/training/class/do-no-harm-data-viz) can ensure visualizations are more well-justified, accurate, and impactful. 
+Identify any limitations in the way the data was collected. Approaching visualization with [a lens of empathy and equity](https://www.nnlm.gov/training/class/do-no-harm-data-viz) can ensure visualizations are more well-justified, accurate, and impactful.
 
 ### Step 6. Ensure that your data is accessible
 
