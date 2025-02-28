@@ -7,6 +7,8 @@ title: "Equity study reaches 4,000 participants"
 deck: "Launched last fall, the General Services Administration equity study on remote identity proofing aims to determine if biases exist in the algorithms used for online identity verification. The study has now reached its goal of recruiting 4,000 participants from diverse communities, and experts are ready to begin analysis of the data. Learn how the team at GSA plans to conduct this data analysis, and how their findings will lead to improved equitable services delivery in technology across the government."
 summary: "Launched last fall, the General Services Administration equity study on remote identity proofing aims to determine if biases exist in the algorithms used for online identity verification. The study has now reached its goal of recruiting 4,000 participants from diverse communities, and experts are ready to begin analysis of the data. Learn how the team at GSA plans to conduct this data analysis, and how their findings will lead to improved equitable services delivery in technology across the government."
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - analytics

@@ -1,0 +1,12 @@
+content/resources/connected-government-act.md
+content/resources/connected-government-act.md
+content/news/2013/09/2013-09-03-trends-on-tuesday-companies-use-mobile-for-brand-loyalty.md
+content/news/2013/05/2013-05-04-video-copyright.md
+content/news/2013/07/2013-07-29-how-to-create-open-structured-content.md
+content/resources/connected-government-act.md
+content/news/2013/12/2013-12-03-trends-on-tuesday-more-tablet-shipments-than-pcs-in-2014.md
+content/news/2013/07/2013-07-23-trends-on-tuesday-uprise-of-sms-marketing.md
+content/news/2013/06/2013-06-27-medicare-gov-mobile-website.md
+content/resources/introduction-to-translation-technology.md
+content/news/2013/03/2013-03-12-resources-and-tools-for-apis.md
+content/resources/federal-social-media-accessibility-toolkit-hackpad.md
