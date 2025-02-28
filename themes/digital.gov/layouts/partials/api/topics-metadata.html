@@ -44,18 +44,25 @@
   {{- $featured_resources_length := $_featured_resources | len -}}
   {{- range $i, $e := $_featured_resources -}}
     {{- with $e -}}
-      {{- if .link -}}
-        { "field_featured_resource_href":
-        "{{ .link }}"{{ if or .title .summary }},{{ end }}
+      {{- $page := site.GetPage .link -}}
+      {{- if $page -}}
+        { "field_featured_resource_href": "https://digital.gov{{ $page.RelPermalink }}"{{ if or $page.Title $page.Summary }},{{ end }}
+        {{- if $page.Title -}}
+          "field_featured_resource_title": "{{ $page.Title }}"{{ if $page.Summary }},{{ end }}
+        {{- end -}}
+        {{- if $page.Summary -}}
+          "field_featured_resource_summary": "{{ $page.Summary }}"
+        {{- end -}}
+      {{- else -}} <!-- fallback to external link if internal page not found -->
+        { "field_featured_resource_href": "{{ .link }}"{{ if or .title .summary }},{{ end }}
         {{- if .title -}}
-          "field_featured_resource_title":
-          "{{ .title }}"{{ if .summary }},{{ end }}
+          "field_featured_resource_title": "{{ .title }}"{{ if .summary }},{{ end }}
         {{- end -}}
         {{- if .summary -}}
           "field_featured_resource_summary": "{{ .summary }}"
         {{- end -}}
-        }{{ if lt (add $i 1) $featured_resources_length }},{{ end }}
       {{- end -}}
+      }{{ if lt (add $i 1) $featured_resources_length }},{{ end }}
     {{- end -}}
   {{- end -}}
   ],
