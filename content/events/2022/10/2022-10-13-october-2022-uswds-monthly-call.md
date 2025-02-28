@@ -25,8 +25,8 @@ event_platform: zoom
 primary_image: uswds-monthly-call-october-title-card
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-october-2022.pptx" label="View the slides (PowerPoint presentation, 7.2 MB, 67 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for October 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for October 2022. Fall is here. It's pumpkin and decorative gourd season. And here we see the USWDS logo in a pumpkin-colored orange and green.

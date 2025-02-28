@@ -27,8 +27,8 @@ primary_image: 2024-uswds-monthly-call-nov-title-card
 
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-november-2024.pptx" label="View the slides (Powerpoint presentation, 5 MB, 109 slides)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2024" icon="content_copy" >}}**Slide 1.** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for November 2024. Y'know it's almost Thanksgiving, so let's just do a classic Thanksgiving-themed USWDS logo in oranges, gold, and brown. Fall foliage. Nothing too clever!

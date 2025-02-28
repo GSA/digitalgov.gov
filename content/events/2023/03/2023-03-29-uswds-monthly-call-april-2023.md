@@ -21,8 +21,8 @@ youtube_id: d1wPuISaHIg
 youtube_title: "Top tasks: What the U.S. Web Design System team did and what they found."
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-april-2023.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 72 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for April 2023.

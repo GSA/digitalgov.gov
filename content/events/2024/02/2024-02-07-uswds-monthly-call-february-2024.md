@@ -24,8 +24,8 @@ youtube_title: "How to suggest a new component for the U.S. Web Design System (2
 primary_image: 2024-uswds-monthly-call-feb-title-card
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="USWDS Monthly Call Feb 2024.pptx" label="View the slides (PowerPoint presentation, 5.8 MB, 81 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for February 2024" icon="content_copy" >}}

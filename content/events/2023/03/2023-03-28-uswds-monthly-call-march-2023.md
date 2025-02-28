@@ -19,8 +19,8 @@ youtube_id: ceRXbLwEgD0
 youtube_title: "Making sense: Cognition, perception, and design"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-march-2023.pptx" label="View the slides (PowerPoint presentation, 1.8 MB, 56 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.

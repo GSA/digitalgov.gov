@@ -21,8 +21,8 @@ youtube_id: M2_SVDc_eCM
 youtube_title: "How to build with U.S. Web Design System tools (2024)"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for March 2024 — This month we're celebrating Women's History Month (with shades of orange, teal, purple, and pink. As well as the first day of Spring, the Vernal Equinox, which was on Tuesday with shades of pink like a cherry blossom.

@@ -21,8 +21,8 @@ youtube_id: GHomUbYTgwQ
 youtube_title: "An introduction to Web Components"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).

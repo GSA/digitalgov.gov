@@ -22,8 +22,8 @@ youtube_id: UxC-a48Vn7w
 youtube_title: "Developing and evaluating content for manual accessibility and user experience (UX) tests"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for June 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for June 2023, home to Pride month, Fathers Day, Flag Day, Kamehameha Day, and the Summer Solstice — as well as Juneteenth, this coming Monday, with the USWDS logo in red, white, and blue.

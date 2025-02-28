@@ -25,8 +25,8 @@ youtube_id: rl5hgoOK22o
 youtube_title: "Stepping back to look at the big picture"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?

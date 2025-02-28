@@ -22,8 +22,8 @@ youtube_id: yBCLyWO0yCo
 youtube_title: "A first look at working prototypes of U.S. Web Design System web components"
 ---
 
-## View the slides and read the transcript
-  
+## View the slides and read the transcript.  
+
 {{< asset-static file="uswds-monthly-call-june-2024.pptx" label="View the slides (Powerpoint presentation, 3 MB, 33 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for June 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for June 2024 — this month we're celebrating Juneteenth (just yesterday!) with the USWDS logo in red, white, and blue. We're also celebrating Pride month in June, with the USWDS logo showing a selection of Pride flags, including the classic rainbow pride flag; the Philadelphia City Hall pride flag, with black and brown stripes in addition to the rainbow; transgender pride in blue, pink, and white; nonbinary pride in yellow, white, purple, and black; and the intersex pride flag with a purple circle on yellow. Today is also the summer solstice here in the northern hemisphere — the longest day of the year — with the USWDS logo in bright yellow like the sun.
