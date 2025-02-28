@@ -17,6 +17,7 @@ topics:
   - application-programming-interface
   - contact-centers
   - open-data
+expirydate: 2025-01-01
 ---
 
 Performance Analytics for Social Media Decision Making. Creating Adaptive Content. Usability Testing. These are just some of the areas of programming we are putting together.

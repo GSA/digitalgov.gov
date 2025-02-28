@@ -11,6 +11,7 @@ topics:
   - emerging-tech
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [Josh Clark](http://globalmoxie.com/), one of the pioneers of touch Web design, and author of [Tapworthy](http://shop.oreilly.com/product/0636920001133.do) and [Designing for Touch](http://abookapart.com/products/designing-for-touch)</span><span style="font-weight: 400">, published an excellent article on A List Apart analyzing </span><span style="font-weight: 400"><a href="http://alistapart.com/article/how-we-hold-our-gadgets">How We Hold Our Gadgets</a></span><span style="font-weight: 400"> that has a wealth of data and graphics about this interesting and emerging design challenge. Below are 5 notable lessons from the post:</p> {{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="" >}}
@@ -65,6 +66,7 @@ topics:
   Check out the <a href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}">Mobile User Experience Guidelines and Recommendations</a> for more practices for good design. Join the <a href="{{< ref "/communities" >}}">MobileGov Community of Practice</a> to help build anytime, anywhere government.
 </p>
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: References above are for illustrative purposes and do not imply endorsement by the General Services Administration (GSA).

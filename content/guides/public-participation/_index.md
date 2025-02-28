@@ -48,6 +48,4 @@ Contributions to the U.S. Public Participation Playbook could include:
 
 To contribute, please [email us](mailto:%20digitalgov@gsa.gov) your recommendations or new content, or <a href="https://mymadison.io/docs/us-public-participation-playbook-vfeb15" target="_blank">visit the Madison platform</a>, hosted by the OpenGov Foundation, to annotate the playbook.
 
-[Now on GitHub: code and design contributions are welcomed and valued.](https://www.digitalgov.gov/2015/02/05/u-s-public-participation-playbook-open-for-coders-and-designers-on-github/)
-
 Thank you.

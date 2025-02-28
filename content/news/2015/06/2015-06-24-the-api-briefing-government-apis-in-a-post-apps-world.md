@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - open-data
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/250-x-235-Travel-mobile-apprication-nnnnae-iStock-Thinkstock-473901020-Converted.jpg" alt="Illustration of six travel- and entertainment-related icons with lines connected to a smart phone that reads, One app to rule them all?" caption="" >}} 
@@ -29,6 +30,7 @@ First, government APIs must be able to communicate with the mobile personal assi
 
 On a personal note: this is my last posting for the API Briefing. I am taking a two-month sabbatical this summer to work on some personal projects. After my sabbatical, I may come back to work for the federal government or may go into the private sector. I have greatly enjoyed writing the column, and I hope you have enjoyed reading about the great work in federal government APIs. Thank you.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -10,6 +10,7 @@ topics:
   - design
   - content-strategy
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Woman-typing-on-laptop-Jupiterimages-Stockbyte-Thinkstock-86541717.jpg" alt="Woman typing on laptop." caption="" >}} 

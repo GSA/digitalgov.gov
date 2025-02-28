@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - information-collection
 
+expirydate: 2025-01-01
 ---
 
 We recently polled the [Customer Experience Community of Practice](https://digital.gov/communities/customer-experience/) (CX-COP) to discover what kinds of training people needed most to improve customer experience at their agency. The most requested topic was measurement: specifically tools, analytics, and how to turn customer data into action.

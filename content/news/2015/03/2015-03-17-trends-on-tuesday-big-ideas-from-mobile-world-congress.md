@@ -9,6 +9,7 @@ topics:
   - mobile
   - emerging-tech
   - multimedia
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-439-MWC-entrance-image.jpg" alt="Will Sullivan takes a selfie outside the entrance to the Mobile World Congress" >}}

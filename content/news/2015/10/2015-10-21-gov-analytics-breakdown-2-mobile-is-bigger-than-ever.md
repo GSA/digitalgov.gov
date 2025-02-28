@@ -14,6 +14,7 @@ topics:
   - customer-experience
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 A review of the <a href="{{< ref "/guides/dap/_index.md" >}}" target="_blank">Digital Analytics Program</a> (DAP) data confirms what many are already saying: **Content is being viewed on mobile devices more than ever before, and the percentage of sessions via mobile devices is growing.**

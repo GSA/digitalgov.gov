@@ -11,6 +11,7 @@ topics:
   - plain-language
   - search-engine-optimization
   - usability
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/250-x-250-Burning-phone-Sergey-Peterman-Hemera-Thinkstock-ThinkstockPhotos-100882419.jpg" alt="Burning phone" caption="" >}}

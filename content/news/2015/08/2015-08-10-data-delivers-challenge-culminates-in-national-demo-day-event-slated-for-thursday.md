@@ -7,6 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-338-City-SDK.jpg" alt="600-x-338-City-SDK" >}}
