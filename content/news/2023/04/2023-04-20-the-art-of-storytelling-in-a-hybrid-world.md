@@ -41,7 +41,7 @@ As we slowly shift to an increasingly hybrid world, that in-person feel drives a
 
 The first step is to know and understand to whom you are communicating. What are their hopes and fears? How does what you have to tell them impact their lives, and what questions might they have? How much do they already know? How often do they want to hear from you, and in what venues? What has worked in the past, and what has not? How can your agency support them?
 
-In all likelihood, you have a varied audience, each with different needs, experience levels, and questions. [User personas](https://digital.gov/2015/01/09/personas-101/) can help you target your communications to your audience’s different needs and goals. Some other tools that can help you hone your messaging include:
+In all likelihood, you have a varied audience, each with different needs, experience levels, and questions. User personas can help you target your communications to your audience’s different needs and goals. Some other tools that can help you hone your messaging include:
 
 * [stakeholder analysis and mapping exercises](https://product-guide.18f.gov/discover/stakeholders/),
 * [empathy maps](https://qnetconfluence.cms.gov/display/HCD/Empathy+Maps),

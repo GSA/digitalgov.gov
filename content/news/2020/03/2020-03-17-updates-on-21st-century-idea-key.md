@@ -71,7 +71,7 @@ The next 21st Century IDEA deadline is for forms to be digital by **December 202
 
 Finally, if you’re overwhelmed by 21st Century IDEA tasks or similar huge digital undertakings, we close out with a few of the many inspiring examples of federal websites that have done work to improve their customers’ online experience:
 
-- General Services Administration - [CIO.gov](http://www.cio.gov), [Digital.gov](http://www.digital.gov), [GSA.gov](https://www.gsa.gov) (plus read the respective blog posts about each team’s work on [What's New on CIO.gov](https://www.cio.gov/highlights-of-the-updated-cio/), [Welcome to the NEW Digital.gov](https://digital.gov/2019/12/19/a-new-digitalgov/), and [A Look at the New GSA.gov](https://digital.gov/2020/01/08/a-look-at-new-gsagov/))
+- General Services Administration - [CIO.gov](http://www.cio.gov), [Digital.gov](http://www.digital.gov), [GSA.gov](https://www.gsa.gov) (plus read the respective blog posts about each team’s work on [What's New on CIO.gov](https://www.cio.gov/highlights-of-the-updated-cio/), and [A Look at the New GSA.gov](https://digital.gov/2020/01/08/a-look-at-new-gsagov/))
 - Department of Homeland Security - [Ready.gov](http://www.ready.gov)
 - Department of Commerce - [Commerce.gov](https://www.commerce.gov/) and [NIST.gov](http://www.NIST.gov)
 - Department of Justice - [AmberAlert.gov](http://www.amberalert.gov) and [NIJ.gov ](https://nij.ojp.gov/)
