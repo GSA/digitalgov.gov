@@ -4,6 +4,8 @@ title: "Inclusivity and automation"
 deck: "How a bot can help you stay accountable"
 summary: "Bots can help us improve our inclusivity by gently nudging us to use more appropriate language, explaining why some terms are offensive, and prompting us to consider others."
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - communication

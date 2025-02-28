@@ -4,6 +4,9 @@ kicker: Innovation
 title: "TTS Reflects: Black Histories to Celebrate Year-Round"
 deck: TTS employees share how Black history makers can inspire our work and innovation year-round.
 summary: Black history is American history. In this blog, TTS employees share how Black history makers can inspire our work and innovation year-round.
+
+expirydate: "2025-01-26"
+
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development

@@ -59,6 +59,7 @@ resource_topics:
     - acquisition
     - budgeting-and-performance
     - contact-centers
+    - intellectual-property
     - product-and-project-management
     - privacy
     - records-management
@@ -66,7 +67,6 @@ resource_topics:
   strategic_development:
     - best-practices
     - challenges-and-prize-competitions
-    - diversity-equity-and-inclusion
     - governance
     - innovation
     - public-policy

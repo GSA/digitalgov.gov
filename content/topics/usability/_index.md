@@ -15,6 +15,7 @@ aliases:
   - /topics/usability-case-study/
   - /topics/usability-starter-kit/
   - /topics/usability-testing/
+  - /resources/digitalgov-user-experience-resources/government-usability-case-studies/
 
 # Weight
 weight: 2
@@ -22,7 +23,7 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
-  link: "/resources/delivering-digital-first-public-experience"
+  link: "/resources/delivering-digital-first-public-experience/"
 
 # Featured resource to display at the top of the page
 featured_resources:
