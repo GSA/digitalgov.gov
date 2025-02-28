@@ -6,6 +6,7 @@ summary: "Publishing content as modular pieces of information that are tagged wi
 
 aliases:
   - /2013/07/29/how-to-create-open-structured-content/
+  - /2016/07/18/information-architecture-vs-content-strategy-and-why-you-need-both/
 
 # See all topics at https://digital.gov/topics
 author: Rachel Flagg

@@ -33,6 +33,7 @@ authors:
 youtube_id: KsDJx7gMJms
 youtube_title: "DAP Learning Series: Become a DAP Certified Analyst!"
 
+expirydate: 2025-01-01
 # Make it better ♥
 
 ---
