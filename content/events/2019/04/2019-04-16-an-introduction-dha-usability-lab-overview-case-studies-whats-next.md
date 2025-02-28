@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: wZ0knU9_TAU
+youtube_title: An Introduction to the DHA Usability Lab
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
