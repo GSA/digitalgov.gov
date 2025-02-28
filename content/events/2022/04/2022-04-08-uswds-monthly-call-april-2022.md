@@ -27,7 +27,7 @@ primary_image: uswds-monthly-call-april-title-card
 ---
 
 ## View the slides and read the transcript  
-
+<br>
 {{< asset-static file="uswds-monthly-call-april-2022.pptx" label="View the slides (PowerPoint presentation, 2.66 MB, 16 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2022" icon="content_copy" >}}

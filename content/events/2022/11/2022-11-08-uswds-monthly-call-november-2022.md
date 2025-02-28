@@ -24,7 +24,7 @@ primary_image: 2022-uswds-monthly-call-nov-title-card
 ---
 
 ## View the slides and read the transcript  
-
+<br>
 {{< asset-static file="uswds-monthly-call-nov-2022.pptx" label="View the slides (PowerPoint presentation, 14.1 MB, 82 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.

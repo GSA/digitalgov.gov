@@ -26,7 +26,7 @@ primary_image: 2024-uswds-monthly-call-aug-title-card
 ---
 
 ## View the slides and read the transcript  
-
+<br>
 {{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for August 2024" icon="content_copy" >}} **Slide 1** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for August 2024. Welcome back! I hope you're having as good a summer as possible. For our team, at least, July can be a great time to have a bit of focus time. This month we're simply celebrating the season with some warm summer colors in the USWDS logo: yellows, blue, green, and orange.

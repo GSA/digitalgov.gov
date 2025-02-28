@@ -25,7 +25,7 @@ youtube_title: "Creating accessible civic spaces"
 ---
 
 ## View the slides and read the transcript  
-
+<br>
 {{< asset-static file="uswds-monthly-call-may-2024.pptx" label="View the slides (Powerpoint presentation, 14 MB, 32 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
