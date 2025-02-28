@@ -12,6 +12,7 @@ topics:
   - multilingual
   - multimedia
   - social-media
+expirydate: 2025-01-01
 ---
 
 Anyone engaged in content marketing or content production probably owns a robust editorial calendar. A calendar that is quickly updated, helps keep deadlines and is flexible can serve as a helpful blueprint of your content activities for the year.

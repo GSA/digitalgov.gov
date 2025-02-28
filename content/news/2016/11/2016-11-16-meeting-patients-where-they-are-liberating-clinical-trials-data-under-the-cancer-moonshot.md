@@ -13,6 +13,7 @@ topics:
   - open-data
   - user-experience
   - innovation
+expirydate: 2025-01-01
 ---
 
 Cancer clinical trials are a critically important step on the pathway for new or improved treatments to make their way to patients in clinics and hospitals in towns and cities across the country.

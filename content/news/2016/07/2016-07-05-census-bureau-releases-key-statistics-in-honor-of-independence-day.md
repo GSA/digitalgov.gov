@@ -7,6 +7,7 @@ authors:
   - the-commerce-blog
 topics:
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 On July 4, 1776, the Continental Congress approved the Declaration of Independence, setting the 13 colonies on the road to freedom as a sovereign nation. This most American of holidays [is] marked with typical festivities ranging from fireworks, parades and concerts to more casual family gatherings and barbecues across the country.

@@ -71,7 +71,7 @@ I mean, with all the dog lovers out there, who wouldn’t want to read the artic
 
 Just like in social media, you want to develop and publish customer-centric or audience-centric content. You want to focus on what’s the most important information for customers to know, and then share it in the easiest way for them to understand. Ask yourself: what are their pain points, their challenges, and questions that you can help answer?
 
-Through trainings and focus groups, we hear about our employees’ problems with technology tools. We take this insight and [develop an editorial calendar](https://digital.gov/2016/10/24/the-essentials-of-an-editorial-calendar/) to line up relevant content far in advance. With this calendar, we’re not scurrying the week of the message to find quality topics to send.
+Through trainings and focus groups, we hear about our employees’ problems with technology tools. We take this insight and develop an editorial calendar to line up relevant content far in advance. With this calendar, we’re not scurrying the week of the message to find quality topics to send.
 
 And when we have a lighter week, we promote our self-help tech videos that are engaging, or we find a relevant, fun and obscure tech holiday that we can promote (like virtual “National High Five Day”). By keeping it light and fun, we’re able to connect better with our customers.
 

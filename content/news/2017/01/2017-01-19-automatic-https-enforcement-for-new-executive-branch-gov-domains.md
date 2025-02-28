@@ -18,6 +18,7 @@ topics:
   - search-engine-optimization
 
 primary_image: "dot-gov-tld-wood-block-marekuliasz-istock-gettyimages-476434043-1-comp"
+expirydate: 2025-01-01
 ---
 
 HTTPS is a necessary baseline for security on the modern web. Non-secure HTTP connections lack integrity protection, and can be used to attack citizens, foreign nationals, and government staff. HTTPS provides increased confidentiality, authenticity, and integrity that mitigate these attacks.

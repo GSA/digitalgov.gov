@@ -11,6 +11,7 @@ topics:
   - plain-language
   - social-media
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 Deep down we&#8217;ve always known that people only read a small portion of any content shared online. In many ways that can&#8217;t be fixed but there are ways to help people read more or at least scan better. {{< legacy-img src="2016/04/600-x-425-Internet-Life-Wahyu-b.-Pratomo-Hemera-Thinkstock-94048416.jpg" alt="Internet Life" caption="" >}}

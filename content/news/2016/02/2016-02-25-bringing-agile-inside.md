@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - research
   - innovation
+expirydate: 2025-01-01
 ---
 
 We hear a lot about [agile software development](https://pages.18f.gov/agile/) being used in work with customers and end users. [User stories](https://pages.18f.gov/agile/3-steps.html) are developed, coders and programmers turn them into prototypes, then [testing](https://pages.18f.gov/agile/4-validate.html) is done to make sure the features work and do what is expected. But, agile is more than a way to develop software; it&#8217;s a mindset that favors [iteration](https://pages.18f.gov/agile/6-iterate.html) over knowing everything up front.

@@ -14,6 +14,7 @@ topics:
   - open-data
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 Forbes magazine recently ran an [article showcasing six handy mobile apps that were built using federal government open data](https://www.forbes.com/sites/metabrown/2017/04/30/check-out-these-6-handy-apps-that-wouldnt-exist-without-government-open-data/#7180960b6859). The apps range from the [Alternative Fueling Station Locator](http://www.afdc.energy.gov/locator/stations/) to [ZocDoc](https://www.zocdoc.com/) (a doctor locator). What I especially like about the Forbes article is that the author describes the federal government data sets behind each app. There are many more mobile apps built by [federal government agencies](https://www.usa.gov/mobile-apps) or using [federal government data sources](https://www.data.gov/applications).

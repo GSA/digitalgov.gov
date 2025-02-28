@@ -57,10 +57,10 @@ Below are a few things attendees said they do to promote continuity on their web
 - **Create a clear vision, northstar or mission statement** based on desired outcomes and customer expectations for the website. For example, Digital.gov’s [About page](https://digital.gov/about/) is the site’s “northstar.”
 - **Help customers easily find the information.** Prioritize [usability](https://digital.gov/topics/usability/) over style.
 - **Eliminate long, hard-to-navigate pages.** Each page should meet a specific need.
-- **Improve site navigation.** Check the [metadata on pages](https://digital.gov/2017/04/14/steps-towards-seo-meta-descriptions-on-medlineplus/) and review your [content model](https://digital.gov/2016/01/07/content-models-as-simple-as-pizza-pie/), so pages do not get lost in your search.
+- **Improve site navigation.** Check the metadata on pages and review your [content model](https://digital.gov/2016/01/07/content-models-as-simple-as-pizza-pie/), so pages do not get lost in your search.
 - **Develop service blueprints.** Plan out and [create cross-channel experiences](https://digital.gov/2013/11/18/creating-cross-channel-experiences/).
 - **Use journey mapping.** Identify continuity gaps for critical activities.
-- **Manage and structure content.** Determine if a CMS could help you deliver a better experience.
+- **Manage and structure content.** Review the [Content Management System (CMS) Toolkit](https://digital.gov/2013/10/30/content-management-systems-toolkit/) and determine if a CMS could help you deliver a better experience.
 
 {{< img src="twidea-9-mural-meetup-summary" >}}
 

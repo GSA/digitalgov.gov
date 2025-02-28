@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
+expirydate: 2025-01-01
 ---
 
 You may have heard some chatter about syndication but thought to yourself—sounds good but does it really work? {{< legacy-img src="2015/11/600-x-360-Global-digital-concept-TCmake_photo-iStock-Thinkstock-183516872.jpg" alt="Global digital concept" caption="" >}} 
