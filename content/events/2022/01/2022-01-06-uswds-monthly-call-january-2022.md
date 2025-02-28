@@ -25,7 +25,7 @@ primary_image: uswds-january-title-card
 ---
 
 ## View the slides and read the transcript
-
+  
 [View the slides (PowerPoint presentation, 1.5 MB, 30 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Transcript for January 2022" icon="content_copy" >}}

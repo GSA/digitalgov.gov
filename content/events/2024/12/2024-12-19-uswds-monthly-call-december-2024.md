@@ -29,7 +29,7 @@ primary_image: 2024-uswds-monthly-call-dec-title-card
 ---
 
 ## View the slides and read the transcript
-
+  
 {{< asset-static file="uswds-monthly-call-december-2024.pptx" label="View the slides (PowerPoint presentation, 2.5 MB, 39 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for December 2024" icon="content_copy" >}} **Slide 1.** Thanks Kate, and welcome, everyone, to the U.S. Web Design System monthly call for December 2024. Today the USWDS logo is in a classic wreath form for the holiday season, with evergreen panels and a bright poinsettia-red segment like a bow.

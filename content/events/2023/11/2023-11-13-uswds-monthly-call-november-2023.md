@@ -31,7 +31,7 @@ youtube_title: "Designing a repeatable research process with people with disabil
 ---
 
 ## View the slides and read the transcript
-
+  
 {{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2023" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for November of 2023 where next week we celebrate Thanksgiving represented with this USWDS logo in shades of brown and orange.
