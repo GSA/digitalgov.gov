@@ -30,7 +30,7 @@ youtube_id: EQ8Nb60xgXA
 youtube_title: "Designing a repeatable research process with people with disabilities"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
 

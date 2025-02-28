@@ -25,7 +25,7 @@ youtube_id: rl5hgoOK22o
 youtube_title: "Stepping back to look at the big picture"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 

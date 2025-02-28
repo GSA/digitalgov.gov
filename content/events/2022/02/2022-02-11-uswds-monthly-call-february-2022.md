@@ -22,7 +22,7 @@ event_platform: zoom
 
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 [View the slides (PowerPoint presentation, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
 

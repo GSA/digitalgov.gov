@@ -22,7 +22,7 @@ youtube_id: JApBVTwZans
 youtube_title: "Answering your most-asked questions about the U.S. Web Design System"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-january-2023.pptx" label="View the slides (PowerPoint presentation, 1.9 MB, 60 pages)" >}}
 

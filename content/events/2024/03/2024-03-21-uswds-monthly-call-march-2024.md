@@ -21,7 +21,7 @@ youtube_id: M2_SVDc_eCM
 youtube_title: "How to build with U.S. Web Design System tools (2024)"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides)" >}}
 

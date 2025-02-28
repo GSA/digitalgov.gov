@@ -25,7 +25,7 @@ event_platform: zoom
 
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-october-2021-distro.pptx) (PowerPoint presentation, 3.6 MB, 41 pages)
 

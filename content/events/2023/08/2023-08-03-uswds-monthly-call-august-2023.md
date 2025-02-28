@@ -21,7 +21,7 @@ youtube_id: Kj-MYq_0A3s
 youtube_title: "USWDS product roadmap"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-august-2023.pptx" label="View the slides (PowerPoint presentation, 3.9 MB, 94 pages)" >}}
 

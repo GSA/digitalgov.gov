@@ -21,7 +21,7 @@ youtube_id: GHomUbYTgwQ
 youtube_title: "An introduction to Web Components"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 

@@ -27,7 +27,7 @@ primary_image: 2024-uswds-monthly-call-october-title-card
 
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-october-2024.pptx" label="View the slides (Powerpoint presentation, 2.5 MB, 109 slides)">}}
 

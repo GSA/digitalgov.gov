@@ -25,7 +25,7 @@ youtube_title: "The landscape of Web Components"
 primary_image: 2024-uswds-monthly-call-sep-title-card
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-september-2024.pptx" label="View the slides (Powerpoint presentation, 6.7 MB, 75 slides)">}}
 

@@ -21,7 +21,7 @@ youtube_id: d1wPuISaHIg
 youtube_title: "Top tasks: What the U.S. Web Design System team did and what they found."
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-april-2023.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 72 pages)" >}}
 

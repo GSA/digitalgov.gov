@@ -21,7 +21,7 @@ youtube_id: xP4IWCdzWmA
 youtube_title: "Component-based accessibility tests for the U.S. Web Design System"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-january-2024.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 87 pages)" >}}
 

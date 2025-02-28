@@ -22,7 +22,7 @@ youtube_id: yBCLyWO0yCo
 youtube_title: "A first look at working prototypes of U.S. Web Design System web components"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-june-2024.pptx" label="View the slides (Powerpoint presentation, 3 MB, 33 slides)">}}
 

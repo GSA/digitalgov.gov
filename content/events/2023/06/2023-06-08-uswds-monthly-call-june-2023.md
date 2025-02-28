@@ -22,7 +22,7 @@ youtube_id: UxC-a48Vn7w
 youtube_title: "Developing and evaluating content for manual accessibility and user experience (UX) tests"
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}
 

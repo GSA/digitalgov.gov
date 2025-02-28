@@ -25,7 +25,7 @@ youtube_title: "A look at beta web components"
 primary_image: 2024-uswds-monthly-call-aug-title-card
 ---
 
-## View the slides and read the transcript.  
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
