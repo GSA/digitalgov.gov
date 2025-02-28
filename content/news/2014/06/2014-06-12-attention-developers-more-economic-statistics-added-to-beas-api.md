@@ -7,6 +7,7 @@ authors:
   - bea-team
 topics:
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/250-x-69-Bureau-of-Economic-Analysis-BEA-logo.jpg" alt="250 x 69 Bureau of Economic Analysis BEA logo" >}}Developers, do you want to bring more detailed economic data to your next app? The Bureau of Economic Analysis (BEA) recently added several data sets to the application programming interface (API) we launched last year.

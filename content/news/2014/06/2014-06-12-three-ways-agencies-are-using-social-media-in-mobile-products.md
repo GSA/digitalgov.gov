@@ -11,6 +11,7 @@ topics:
   - emerging-tech
   - mobile
   - social-media
+expirydate: 2025-01-01
 ---
 
 As highlighted in this [Trends on Tuesday]({{< ref "2014-06-10-trends-on-tuesday-time-on-mobile-surpasses-pc-usage.md" >}}) post, time spent on mobile phones—about 3 hours per day—has surpassed that of daily PC usage. This yields a significant opportunity for consumer interaction with federal agencies’ mobile apps, not just websites, and social media outlets.

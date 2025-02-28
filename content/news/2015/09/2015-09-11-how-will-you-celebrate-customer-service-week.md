@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - customer-experience
 
+expirydate: 2025-01-01
 ---
 
 In 1992, Congress passed [Public Law No: 102-481](https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/166/text), which proclaimed the first full week in October as National Customer Service Week. Customer service is also a [Cross-Agency Priority (CAP) Goal](http://www.performance.gov/node/3400/view?view=public#overview), tasking agencies to “deliver world-class customer services to citizens by making it faster and easier for individuals and businesses to complete transactions and have a positive experience with government.” Federal agencies are encouraged to participate in Customer Service Week, to share how you’re working to improve service, and to recognize your agency’s customer service stars. Here are some ideas to help you get started.

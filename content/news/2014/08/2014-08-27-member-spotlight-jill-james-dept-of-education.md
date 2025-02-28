@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/08/250-x-330-Web-Manager-Community-Member-Spotlight-Jill-James-Senior-Web-Editor-Director-Department-of-Education-Communications-and-Outreach-Office.jpg" alt="Jill James, Senior Web Editor/Director, Department of Education, Communications and Outreach Office" >}}

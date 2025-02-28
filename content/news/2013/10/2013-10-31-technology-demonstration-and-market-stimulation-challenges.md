@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems—whether technical, scientific, or creative. One type of competition is technology demonstration and market stimulation prizes, competitions that result in fully developed solutions to address market failures, solve significant problems facing society, or catalyze and demonstrate breakthrough technical innovations.

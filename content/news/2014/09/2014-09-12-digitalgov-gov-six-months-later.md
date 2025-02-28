@@ -14,6 +14,7 @@ topics:
   - open-source
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-350-Mobile-phone-tablet-pc-notebook-and-computers-Nik_Merkulov-iStock-Thinkstock-478287255.jpg" alt="American flag and global continents on various devices; mobile phone, tablet, desktop computer, notebook" caption="" >}}

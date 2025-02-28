@@ -7,6 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Search-jobs-on-newspaper-in-tablet.-Conceptual-image-Bet_Noire-iStock-Thinkstock-459384559.jpg" alt="Search jobs on newspaper in tablet. Conceptual image" caption="" >}}

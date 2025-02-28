@@ -10,6 +10,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 Digital innovators from across government were asked to think of technology as digital service for their country at today&#8217;s [DigitalGov Citizen Services Summit](https://summit.digitalgov.gov/).
@@ -23,6 +24,7 @@ Megan Smith, U.S. Chief Technology Officer, opened the Summit, challenging all t
   
 <p>&mdash; Janet S (@JanetBS) May 21, 2015</p>
 </blockquote>
+
 
 She also said that young people have found ways to serve their country through the Peace Corps and Teach for America and invited the group to think how they could serve digitally.
 

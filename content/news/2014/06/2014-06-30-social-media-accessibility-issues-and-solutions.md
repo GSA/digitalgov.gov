@@ -15,6 +15,7 @@ topics:
   - plain-language
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 The more public information is digitized, the more it lands on or sprouts from social media channels. This is why there needs to be a greater level of awareness and consideration for those who can benefit most from that information—people with disabilities, since they have the least access to it. Like many websites, social media platforms present some of the greatest barriers in digital accessibility.

@@ -7,6 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-425-Magnifying-glass-showing-content-word-in-white-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-175224248.jpg" alt="Magnifying glass over the word content in white text." caption="" >}} 

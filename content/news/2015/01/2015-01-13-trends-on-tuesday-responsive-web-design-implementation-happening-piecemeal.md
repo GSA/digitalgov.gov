@@ -9,6 +9,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-522-Tablet-PC-and-Smart-Phone-monicaodo-iStock-Thinkstock-463424415.jpg" alt="Responsive web design mock-ups shown on mobile devices." caption="monicaodo, iStock, Thinkstock" >}}

@@ -8,6 +8,7 @@ authors:
 topics:
   - design
   - data-visualization
+expirydate: 2025-01-01
 ---
 
 At the U.S. Government Accountability Office (GAO) we have a long history of using data graphics in our reports and congressional testimonies to explain our findings. From photographs, tables, and charts in the 1950s; to computer-generated data graphics in the mid-1980s; to the complex interactive graphics we’re just starting to use this year, our graphics have been critical in helping decision makers understand relationships and see trends in federal data.

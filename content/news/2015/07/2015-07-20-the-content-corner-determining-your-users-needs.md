@@ -11,6 +11,7 @@ topics:
   - analytics
   - contact-centers
   - usability
+expirydate: 2025-01-01
 ---
 
 I recently wrapped up a series of user interviews as part of a review of our judiciary-wide intranet in order to provide better digital services to our customers (and yes, our internal users are our customers, not just the general public). As I prepare to delve back into determining user and content needs for a more varied audience and wider platform, I thought it might be helpful to share lessons learned during my recent effort and any new strategies that might be helpful for anyone getting ready to jump into their users’ brains.

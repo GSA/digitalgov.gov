@@ -11,6 +11,7 @@ topics:
   - usability
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 What do kids know about Web design? As we found out, quite a lot.

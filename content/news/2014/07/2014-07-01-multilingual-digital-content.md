@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - multilingual
 
+expirydate: 2025-01-01
 ---
 
 Federal agencies are required to provide meaningful access to government information to people with limited English proficiency. This applies to your agency&#8217;s digital content too. You need to determine how much information you need to provide in other languages, based on an assessment of your audience.

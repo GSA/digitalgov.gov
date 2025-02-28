@@ -9,6 +9,7 @@ authors:
 topics:
   - software-engineering
   - acquisition
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/04/tumblr\_static\_logo-18f-250-x-250-1.jpg" alt="18F logo" >}}Today we’re announcing our first product launch: [FBOpen](https://fbopen.gsa.gov/), a set of open-source tools to help small businesses search for opportunities to work with the U.S. government.

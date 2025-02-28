@@ -10,6 +10,7 @@ topics:
   - mobile
   - open-source
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/250-x-250-Modern-digital-media-website-connection-1-sphere-abstract-scheme-tovovan-iStock-Thinkstock-468874585.jpg" alt="A wire sphere of connected content type or pages of a website" caption="" >}}
