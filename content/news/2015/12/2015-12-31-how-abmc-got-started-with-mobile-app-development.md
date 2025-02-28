@@ -9,6 +9,7 @@ topics:
   - mobile
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 In the sea of apps, users get choosey with which apps can take up space on their phone. With one uninstall click the user can decide to breakup with the app if they have a bad experience. To keep your app from being all alone, the MobileGov Community of Practice put together [six Mobile User Experience Guidelines]({{< ref "2015-07-31-help-us-add-resources-to-the-updated-mobile-user-experience-guidelines.md" >}}) to help keep mobile users in love. DigitalGov University hosted a webinar in which the American Battle Monuments Commission (ABMC) highlighted two of these guidelines.

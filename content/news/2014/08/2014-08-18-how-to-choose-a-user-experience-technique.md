@@ -13,6 +13,7 @@ topics:
 
 primary_image: "how-ux-solves-problems-umbrella-image-by-dan-willis-uxcrank"
 
+expirydate: 2025-01-01
 ---
 
 The good news: Your boss is interested in User Experience!

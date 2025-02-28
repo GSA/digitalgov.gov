@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - innovation
+expirydate: 2025-01-01
 ---
 
 There’s more than one way to harness the wisdom of the crowd.

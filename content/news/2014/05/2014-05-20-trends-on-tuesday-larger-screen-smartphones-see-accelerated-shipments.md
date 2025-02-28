@@ -9,6 +9,7 @@ topics:
   - mobile
   - research
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Smaller doesn&#8217;t mean more popular when it comes to smartphone screen size.

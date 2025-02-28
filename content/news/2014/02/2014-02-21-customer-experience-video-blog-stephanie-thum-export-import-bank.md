@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/02/stephani-thum-image.jpg" alt="picture of Stephanie Thum" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/stephani-thum-image.jpg)

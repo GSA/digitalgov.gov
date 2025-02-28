@@ -10,6 +10,7 @@ topics:
   - data-visualization
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Pop quiz on statistics and data science (answers at the end of the article):

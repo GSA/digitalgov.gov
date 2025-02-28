@@ -7,6 +7,7 @@ authors:
   - tony-scott
 topics:
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 > Summary: Today, the Administration directed a series of actions to continue strengthening Federal cybersecurity & modernizing the government’s technology infrastructure.

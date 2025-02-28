@@ -10,6 +10,7 @@ topics:
 authors:
   - jherman
 
+expirydate: 2025-01-01
 ---
 
 The following contains the shared document for the development of the Social Media Policy Toolkit, [a shared service of the Federal Social Media Community of Practice]({{< ref "communities/social-media.md" >}}) lead by teams including The Department of Labor’s Office of Disability Employment Policy. The toolkit is intended to help agencies evaluate the accessibility of their social media programs for persons with disabilities, identify areas that need improving, and share their own ideas and recommendations for helping ensuring our modernization programs are easily accessed by all who need them.

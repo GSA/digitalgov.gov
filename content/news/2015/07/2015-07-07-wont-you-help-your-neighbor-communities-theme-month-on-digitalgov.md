@@ -9,6 +9,7 @@ topics:
   - customer-experience
   - mobile
   - social-media
+expirydate: 2025-01-01
 ---
 
 It’s a beautiful day in the DigitalGov neighborhood, and we want you to be our neighbor: no red sweater required.

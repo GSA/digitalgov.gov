@@ -10,6 +10,7 @@ topics:
   - analytics
   - customer-experience
   - privacy
+expirydate: 2025-01-01
 ---
 
 The second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
@@ -34,7 +35,6 @@ Megan Smith, U.S. Chief Technology Officer in the Office of Science and Technolo
 
 Dr. David Bray, Chief Information Officer for the Federal Communications Commission and 2015 Eisenhower Fellow, talked about going exponential and the Internet of Everything, and encouraged federal employees to become #ChangeAgents.
 
-{{< tweet user="BernettaReese" id="601102824252936193" >}}
 
 {{< tweet user="alyciap1" id="601392825348050944" >}}
 
@@ -60,12 +60,10 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
-{{< tweet user="BernettaReese" id="601102824252936193" >}}
-
-{{< tweet user="BernettaReese" id="601385199994327040" >}}
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
+expirydate: 2025-01-01
 ---
 
 *This post was originally published on Bernetta Reese's personal website.*

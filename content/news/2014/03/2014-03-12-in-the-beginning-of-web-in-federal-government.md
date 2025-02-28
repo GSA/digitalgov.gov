@@ -10,6 +10,7 @@ authors:
 topics:
   - content-strategy
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/03/Birthday-Cake_Internet_World-Wide-Web_25-years-old_Featured_301x212-250x176.jpg" alt="The internet is 25 years old!" >}}

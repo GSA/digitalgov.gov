@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/250-x-340-Mary-Meeker-Web-2-0-Conference.jpg" alt="Mary Meeker" >}}Since 2001, Mary Meeker has developed a knack for highlighting [what’s currently happening on the Internet]({{< ref "2013-06-05-mary-meekers-internet-trends-report.md" >}}) and how this information may impact technology and business in the future. Last week she released her [2014 Internet Trends](http://www.kpcb.com/internet-trends) and it reveals some interesting digital trends. Here are the highlights:

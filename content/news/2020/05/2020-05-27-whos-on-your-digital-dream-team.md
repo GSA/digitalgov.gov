@@ -56,9 +56,7 @@ Every web or digital team also needs support from key players with agency-wide r
 
 ## How to Fill the Roles
 
-If you are missing one of these key roles, review these [Sample Position Descriptions for Digital Government Jobs](https://digital.gov/resources/sample-position-descriptions-for-digital-government-jobs/). They can help you recruit new team members with the skills you need to build out your roster. (And if you have a sample position description to share, please [send it to us](mailto:digitalgov@gsa.gov), so we can add it to this list!)
-
-You can also post a task on [Open Opportunities](https://openopps.usajobs.gov/) to fill any short-term gaps and needs. Open Opportunities offers an easy way for you to tap into talent and expertise while offering professional development to fellow feds.
+You can post a task on [Open Opportunities](https://openopps.usajobs.gov/) to fill any short-term gaps and needs. Open Opportunities offers an easy way for you to tap into talent and expertise while offering professional development to fellow feds.
 
 Another option is partnering with an office like the U.S. General Services Administration’s [18F](https://18f.gsa.gov/) or [Centers of Excellence (CoE)](https://coe.gsa.gov/) or with the [U.S. Digital Service](https://www.usds.gov/) (USDS). They are staffed by federal employees who work with other agencies to fix technical problems, build products, and improve how government serves the public through technology.
 

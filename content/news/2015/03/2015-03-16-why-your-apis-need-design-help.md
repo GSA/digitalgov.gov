@@ -11,6 +11,7 @@ topics:
   - usability
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/600-x-258-This-is-the-openFDA-API-endpoint-for-adverse-drug-event-reports-since-2004.jpg" alt="This is the openFDA API endpoint for adverse drug event reports since 2004" >}}

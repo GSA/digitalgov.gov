@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Mentor-On-Blackboard-frankwolffnl-iStock-Thinkstock-476483392.jpg" alt="The words Improve, Success, Training, Motivate, Work, and Inspire intersect the word Mentor on a blackboard." caption="frankwolffnl/iStock/Thinkstock" >}}
