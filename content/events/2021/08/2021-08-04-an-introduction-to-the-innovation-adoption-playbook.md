@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /events/
 # Archive 
 expirydate: "2021-07-17"
 
