@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Bulb-with-business-background-Gunnar-Pippel-Hemera-Thinkstock-ThinkstockPhotos-101180930.jpg" alt="Bulb with business background" caption="" >}} 
@@ -29,6 +30,7 @@ The EIA Excel plugin gives the user the following categories of energy data:
 
 What I especially like about these plugins is that other applications can read Excel spreadsheets. Excel spreadsheets can be imported into <a href="http://www.google.com/docs/about/" target="_blank">Google Docs</a> for easy sharing or into <a href="http://www.r-project.org/" target="_blank">R</a> for more sophisticated data analysis. Excel spreadsheets can be exported to any number of databases that support APIs. I hope that we can see more agencies with rich data sources build Excel or similar plugins.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

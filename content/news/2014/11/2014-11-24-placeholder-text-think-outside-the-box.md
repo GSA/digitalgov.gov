@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 The verdict is in. Placeholder text is harmful in search boxes.

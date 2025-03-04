@@ -14,6 +14,7 @@ topics:
   - human-centered-design
   - user-experience
   - multimedia
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [U.S. Department of Labor Blog](https://blog.dol.gov/)._

@@ -20,11 +20,13 @@ aliases:
   - /services/dap/incorporating-the-digital-analytics-program-tool-into-your-agencys-metric-program/
   - /services/dap/dap-digital-metrics-guidance-and-best-practices/
   - /services/dap/guidance-for-dap-gov-wide-data/
+  - /services/dap/gaining-access-to-dap-data/
   - /guides/dap/add-your-site-dap/
   - /guides/dap/common-questions-about-dap/
   - /guides/dap/gaining-access-to-dap-data/
   - /guides/dap/guidelines-for-sharing-dap-data/
   - /2015/03/04/what-is-the-digital-analytics-program-dap/
+  - /guides/dap/migration-from-universal-analytics-to-google-analytics-4/
 
 # For social media shares; if not provided, the default Digital.gov logo card appears.
 primary_image: guide-dap

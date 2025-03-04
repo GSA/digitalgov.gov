@@ -15,6 +15,7 @@ topics:
   - mobile
   - social-media
   - user-experience
+expirydate: 2025-01-01
 ---
 
 In May 2015, we’re hosting the second DigitalGov Citizen Services Summit "Spring 2015 DigitalGov Citizen Services Summit"). This round we are looking to you—federal innovators across government—to help build the agenda. We want to get you the information you need, ignite discussion, foster sharing, build capacity, even get you to challenge and debate each other in the name of delivering better digital services. So, we’ve set up a [crowdsourcing platform](https://crowdhall.com/h/299/) where you can suggest presentation ideas and vote for your favorites.
@@ -50,5 +51,3 @@ Voting is open until February 28th. But there’s more! You can also add a comme
 Presentations will be selected based on a magic combination your votes, recommendations from a sounding board of a bunch of smart digital gov leaders and flavored by our best judgement.
 
 [Register now](https://www.eventbrite.com/e/2015-spring-citizen-services-summit-registration-12671367401) to reserve your spot. Last year’s program sold out. We’ll publish the full the program and speakers in March 2015, but you can [sign up for email updates](https://public.govdelivery.com/accounts/USHOWTO/subscriber/new?topic_id=USHOWTO_45) to get the latest as we continue the planning.
-
----

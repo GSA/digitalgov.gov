@@ -9,6 +9,7 @@ topics:
   - design
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-400-DOD-DIA-focus-group-1.jpg" alt="A DOD focus group." >}}

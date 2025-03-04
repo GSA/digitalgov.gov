@@ -7,6 +7,7 @@ authors:
   - courtney-greenley
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-200-Day-100.jpg" alt="600-x-200-Day-100" >}}

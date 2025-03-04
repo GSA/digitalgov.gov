@@ -11,6 +11,7 @@ topics:
   - product-and-project-management
   - analytics
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/04/250-x-167-Matt-Trommer-iStock-Thinkstock-120992111.jpg" alt="An illustration of a team of figures working together with puzzle pieces" caption="" >}}

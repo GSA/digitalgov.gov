@@ -7,6 +7,7 @@ topics:
   - mobile
   - open-data
   - usability
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/08/520-x-293-Census-App-Pop-Quiz-home-screen-301x212.jpg" alt="Start screen of Census App Pop Quiz" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/08/520-x-293-Census-App-Pop-Quiz-home-screen.jpg)The U.S. Census Bureau today released [Census PoP Quiz](https://www.census.gov/mobile/censuspopquiz/), a new interactive mobile application that challenges users’ knowledge of demographic facts for all 50 states and the District of Columbia. The new app, which draws from the Census Bureau’s American Community Survey, aims to raise statistical literacy about the U.S. population.

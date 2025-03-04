@@ -11,6 +11,7 @@ topics:
   - emerging-tech
   - challenges-and-prize-competitions
   - multimedia
+expirydate: 2025-01-01
 ---
 
 _Summary: The Administration has launched a new competition for virtual and augmented reality developers to create learning tools to support career and technical education._
@@ -35,6 +36,7 @@ Stay tuned and visit the <a href="http://edsimchallenge.com/" target="_blank">Ed
 
 _Erik Martin is a Policy Advisor for the White House Office of Science and Technology Policy. Albert Palacios is an Education Program Specialist at the U.S. Department of Education._
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

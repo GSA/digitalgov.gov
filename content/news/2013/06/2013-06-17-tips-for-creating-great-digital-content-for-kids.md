@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - innovation
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/06/kids-with-computer-250x250.jpg" alt="Two young girls working on a laptop in the classroom" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/kids-with-computer.jpg)Great websites for kids have many of the same features as websites for adults, but some key differences are worth noting when writing digital content for kids or teens. Kids have short attention spans, so it&#8217;s important to keep your site engaging, fun, and active. Here are a few tips from [Kids.gov](http://kids.usa.gov/) on ways to create great online content for kids:

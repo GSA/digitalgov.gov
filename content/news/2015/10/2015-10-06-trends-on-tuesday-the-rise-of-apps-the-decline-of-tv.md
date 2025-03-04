@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Move over, 60 inch widescreens—for the first time ever, U.S. consumers are spending more time in mobile apps than on TV.

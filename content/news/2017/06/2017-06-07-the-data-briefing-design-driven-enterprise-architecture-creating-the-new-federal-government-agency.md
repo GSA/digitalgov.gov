@@ -13,6 +13,7 @@ topics:
   - information-architecture
   - best-practices
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 It’s been a while since I’ve checked in on enterprise architecture (EA). My last in-depth work with EA was around 2011 when I was on detail to the Office of Personnel Management’s Open Government Team. The EA model I worked with was the top-down organizational design of information technology assets, data assets, and business processes. Many of you are probably familiar with this traditional EA model.

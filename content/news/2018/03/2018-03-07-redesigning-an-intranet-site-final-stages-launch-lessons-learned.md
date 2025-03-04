@@ -19,6 +19,7 @@ topics:
 featured_image:
   uid: featured-301-x-212-nih-logo-national-institutes-of-health
   alt: 'NIH logo'
+expirydate: 2025-01-01
 ---
 
 This past year, I led an effort to redesign the staff Intranet site for the National Center for Complementary and Integrative Health (NCCIH), at the National Institutes of Health (NIH). After months of surveying, planning, and testing (see the part 1 blog post, [How Do You Redesign a ‘Dinosaur’? Redesigning an Intranet Site: the Beginning Stages](https://www.digitalgov.gov/2016/09/19/how-do-you-redesign-a-dinosaur-redesigning-an-intranet-site-the-beginning-stages/)), the site was launched in Fall 2017. I learned several helpful lessons along the way that I wanted to share:

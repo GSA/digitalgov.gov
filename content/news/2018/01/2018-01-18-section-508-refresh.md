@@ -18,6 +18,7 @@ featured_image:
   uid: 508-refresh
   alt: 'Section 508 Refresh illustration'
 
+expirydate: 2025-01-01
 ---
 
 In January 2017, the [U.S. Access Board](https://www.access-board.gov/) published a [final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) updating information technology (IT)accessibility requirements covered by Section 508 of the [Rehabilitation Act of 1973](https://www.access-board.gov/the-board/laws/rehabilitation-act-of-1973), which includes IT that is developed, procured, maintained, or used by federal agencies. The Rehabilitation Act is a federal law which requires programs and activities funded by federal agencies to be accessible to people with disabilities, including federal employees and members of the public. [Here’s a recap of the changes](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule).

@@ -9,6 +9,7 @@ topics:
   - mobile
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/02/UX-Summit-Crowd-Image-250x137.jpg" alt="Audience in chairs at the UX Summit" >}}

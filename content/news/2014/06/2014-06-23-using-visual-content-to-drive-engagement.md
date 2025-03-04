@@ -12,6 +12,7 @@ topics:
   - multimedia
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 {{< note variant="alert" >}}The **Consumer Action Handbook** by the U.S. General Services Administration (GSA) is no longer in production. The last one was published in 2017 and there are no more hard copies available.<br />

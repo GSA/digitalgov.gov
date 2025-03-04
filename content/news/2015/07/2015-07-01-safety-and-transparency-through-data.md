@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/400-x-317-pulsifer-Safety-and-Transparency-Through-Data-Quarry-API-Labor-DOL.jpg" alt="The Department of Labor's Quarry API seen on the screens of various devices" >}}

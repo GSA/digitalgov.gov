@@ -4,7 +4,7 @@ date: 2014-09-16 4:20:55 -0400
 title: "Lost and Found &#8211; Mapping Page"
 summary: "Had a HowTo.gov page bookmarked that you&#8217;re looking for on DigitalGov? Take a look at the list below for the corresponding DigitalGov URL."
 
-redirectto: "https://digital.gov/resources/"
+expirydate: 2025-01-01
 
 ---
 

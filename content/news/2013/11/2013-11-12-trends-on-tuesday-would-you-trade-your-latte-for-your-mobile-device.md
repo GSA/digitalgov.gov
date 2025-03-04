@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/11/Sprint-Wireless-Infographic.jpg" alt="Infographic showing how business executives use their smartphones." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/Sprint-Wireless-Infographic.jpg)

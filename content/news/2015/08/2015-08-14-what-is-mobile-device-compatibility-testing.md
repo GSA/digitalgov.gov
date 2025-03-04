@@ -1,4 +1,5 @@
 
+expirydate: 2025-01-01
 ---
 slug: what-is-mobile-device-compatibility-testing
 date: 2015-08-14 11:10:12 -0400
@@ -9,6 +10,7 @@ authors:
 topics:
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Mobile-devices-scanrail-iStock-Thinkstock-ThinkstockPhotos-507329083.jpg" alt="Mobile devices" caption="" >}} 

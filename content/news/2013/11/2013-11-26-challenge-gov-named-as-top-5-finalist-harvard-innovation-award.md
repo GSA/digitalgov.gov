@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
   - innovation
+expirydate: 2025-01-01
 ---
 
 <p>

@@ -7,6 +7,7 @@ topics:
   - software-engineering
   - mobile
   - innovation
+expirydate: 2025-01-01
 ---
 
 When agency folks gather together to talk about mobile gov, the number one question asked is, &#8220;Should we do a mobile app or a mobile web site?&#8221;

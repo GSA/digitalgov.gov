@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 _[Guidance for Contributing Digital Content to FDsys](https://www.fdlp.gov/file-repository/outreach/events/depository-library-council-dlc-meetings/2016-meeting-proceedings/2016-dlc-meeting-and-fdl-conference/2813-guidance-for-contributing-digital-content-to-fdsys-govinfo) (govinfo) is now available on [FDLP.gov](https://www.fdlp.gov)._ 

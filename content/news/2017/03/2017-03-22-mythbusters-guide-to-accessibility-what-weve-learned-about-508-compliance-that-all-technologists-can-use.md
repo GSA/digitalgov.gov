@@ -12,6 +12,7 @@ topics:
   - user-experience
   
 
+expirydate: 2025-01-01
 ---
 
 As government technology improves and accelerates, the U.S. Digital Service has the opportunity to improve the most critical public-facing services across agencies. The services and products we create need to be accessible to everyone. Too often, we’ve seen others neglect accessibility because of some common misconceptions that make things difficult. In this post, we’ll debunk these myths, so you can easily create universally accessible content.

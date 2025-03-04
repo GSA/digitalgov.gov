@@ -7,6 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 We’ve heard the phrase a million times: Nobody does it alone.

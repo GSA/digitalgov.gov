@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/250-x-425-Smartphone-two-sizes-milindri-iStock-Thinkstock-517420153.jpg" alt="Smartphone in two sizes" caption="" >}}

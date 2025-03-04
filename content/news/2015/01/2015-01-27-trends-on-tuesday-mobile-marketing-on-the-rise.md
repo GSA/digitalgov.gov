@@ -9,6 +9,7 @@ topics:
   - mobile
   - customer-experience
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-235-Mobile-target-ahmetemre-iStock-Thinkstock-504029513.jpg" alt="Mobile target" caption="" >}} 

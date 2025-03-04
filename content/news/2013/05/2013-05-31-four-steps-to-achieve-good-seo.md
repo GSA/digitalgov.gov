@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 Search Engine Optimization (SEO) is the active practice of improving aspects of your website so that commercial search engines (such as Google, Bing, and Yahoo) can find and display your Web pages in the results when they’re relevant to a searcher’s query. Users generally expect to find the most relevant results at the top of the search engine’s results page.

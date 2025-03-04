@@ -11,6 +11,7 @@ topics:
   - analytics
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Few other federal agencies deal with as much data as the National Aeronautics and Space Administration (NASA). Big science creates big data, and NASA manages many of the biggest science projects in world history. Even in the early days of NASA’s history, NASA pioneered new ways to create and store data. So, in the world of the [cloud]({{< ref "2013-10-17-cloud-computing-in-the-federal-government.md" >}}), [Internet of Things]({{< ref "2015-11-03-trends-on-tuesday-forecasting-the-internet-of-things.md" >}}), and [intelligent agents]({{< ref "2016-04-20-the-data-briefing-chatbots-and-the-rise-of-conversational-commerce-and-citizen-experience.md" >}}), how does NASA deal with its big data needs? {{< legacy-img src="2016/06/600-x-400-NASA-Expedition-46-Soyuz-Approaches-Space-Station-for-Docking-23682901352\_488a786d26\_o.jpg" alt="Expedition 46 of the Soyuz spacecraft as it approaches the International Space Station (I.S.S.) for docking." caption="" >}} 

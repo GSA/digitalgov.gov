@@ -14,6 +14,7 @@ topics:
   - mobile
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-415-orange-Business-team-Network-isolated-on-white-Mostafa-Fawzy-Hemera-Thinkstock-101365600.jpg" alt="Business team Network isolated on white" caption="Mostafa Fawzy, Hemera, Thinkstock" >}} 

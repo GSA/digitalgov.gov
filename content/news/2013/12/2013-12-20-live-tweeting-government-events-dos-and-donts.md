@@ -7,6 +7,7 @@ authors:
   - sara-harris-smith
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/12/socialgov-summit-250x186.jpg" alt="5 people sitting on a stage in chairs participating in a panel discussion" >}}

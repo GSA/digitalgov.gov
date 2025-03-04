@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/10/600-x-450-Image-of-tablet-with-city-urfinguss-iStock-Thinkstock-456860415.jpg" alt="Image of tablet with city" caption="" >}}
