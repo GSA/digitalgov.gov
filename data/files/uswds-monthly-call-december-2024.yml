@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/uswds-monthly-call-december-2024.pptx
+  # File shortcode: {{< asset-static file="uswds-monthly-call-december-2024.pptx" label="uswds-monthly-call-december-2024 (PDF, 4 pages, 2MB)" >}}
+  date     :  2024-12-18 22:06:00 -0400
+  uid      :  uswds-monthly-call-december-2024
+  format   :  pptx
+  

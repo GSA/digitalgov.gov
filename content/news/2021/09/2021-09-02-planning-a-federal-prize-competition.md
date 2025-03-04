@@ -1,10 +1,12 @@
 ---
 date: 2021-09-02 13:49:00 -0500
-expirydate: "2021-09-02"
 kicker: Challenge.gov
 title: "Planning a Federal Prize Competition"
 deck: A Spotlight Chat with members of the Lab to Market Inclusive Innovation Ecosystem Prize Competition.
 summary: Leaders of the Lab-to-Market (L2M) Inclusive Innovation Ecosystem Prize Competition share their experience running a federal prize competition.
+
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - challenges-and-prize-competitions

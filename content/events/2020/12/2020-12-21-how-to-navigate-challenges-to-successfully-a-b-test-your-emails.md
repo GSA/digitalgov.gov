@@ -1,12 +1,8 @@
 ---
-title: How To Navigate Challenges To Successfully A/B Test Your Emails
-deck: >
-  How do you understand what resonates with users when sending out an email?
-  Answer: A/B test it and find out!
+title: "How To Navigate Challenges To Successfully A/B Test Your Emails"
+deck: "How do you understand what resonates with users when sending out an email? Answer&#58; A/B test it and find out!"
 kicker: A/B Testing
-summary: >
-  In this talk, we will provide better understanding of how CFPB conducts email
-  A/B testing, see examples of email A/B tests, and discuss lessons learned.
+summary: "In this talk, we will provide better understanding of how CFPB conducts email A/B testing, see examples of email A/B tests, and discuss lessons learned."
 host: A/B Testing Community of Practice
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/how-to-navigate-challenges-to-successfully-ab-test-your-emails-tickets-133127936241

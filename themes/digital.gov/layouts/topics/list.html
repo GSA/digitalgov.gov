@@ -172,7 +172,7 @@
 
     {{ if .Params.legislation }}
       {{/* Display remaining resources, events and news for topic collection */}}
-      {{ if $is_first_page }}
+      {{ if and ($is_first_page) (.Params.featured_links) }}
         <section class="grid-container-desktop usa-section">
           {{/* Only show these sections when on page 1, otherwise hide to show only More News and Events */}}
           {{- $resource_settings := ( dict "header_title" (printf "Resources on %s" .Title) "header_size" 2 "variant" "media" "list_header" 3) -}}

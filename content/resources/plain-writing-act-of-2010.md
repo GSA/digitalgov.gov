@@ -5,14 +5,15 @@ title: Plain Writing Act of 2010
 summary: "The law requires that federal agencies provide clear communication about government information and services for the public."
 topics:
   - plain-language
-  - policy
+  - public-policy
 authors:
   - apiazza
+
 ---
 
 [The Plain Writing Act of 2010](http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf) (PDF, 153 kb, 3 pages, September 2010) was enacted to enhance citizen access to Government information and services by establishing that Government documents issued to the public must be written clearly.
 
-<a class="button" style="color: #000000" href="http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf">View Plain Writing Act of 2010</a>
+{{< button href="http://www.gpo.gov/fdsys/pkg/PLAW-111publ274/pdf/PLAW-111publ274.pdf" text="View Plain Writing Act of 2010 (PDF)" >}}
 
 ## Related Resources:
 

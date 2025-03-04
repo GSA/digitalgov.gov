@@ -6,6 +6,9 @@ title: "Mitigating Bias While Building Research Practices"
 deck: ""
 summary: "Learn the methods used by 18F and the State of Vermont as they conducted discovery research to understand and improve the experiences of Vermonters who utilize healthcare and economic assistance programs. "
 host: "User Experience"
+
+expirydate: "2025-01-22"
+
 event_organizer: "Digital.gov"
 registration_url: https://www.eventbrite.com/e/95462014455
 captions: https://www.captionedtext.com/client/event.aspx?EventID=4344427&CustomerID=321

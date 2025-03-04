@@ -7,6 +7,8 @@ title: "Equity in action: GSA's study on remote identity-proofing technologies"
 deck: "The Biden-Harris President’s Management Agenda (PMA) emphasizes an effective, equitable and accountable government. As part of this effort, the General Services Administration (GSA) is conducting a study on the equity of remote identity proofing. The study aims to assess and improve the accessibility and equity of remote identity verification technologies such as facial matching systems. Learn more about the context, purpose, and progress of the study, and how it supports GSA’s goal of enhancing digital government services and prioritizing equitable design practices."
 summary: "The Biden-Harris President’s Management Agenda (PMA) emphasizes an effective, equitable and accountable government. As part of this effort, the General Services Administration (GSA) is conducting a study on the equity of remote identity proofing. The study aims to assess and improve the accessibility and equity of remote identity verification technologies such as facial matching systems. Learn more about the context, purpose, and progress of the study, and how it supports GSA’s goal of enhancing digital government services and prioritizing equitable design practices."
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
@@ -16,7 +18,7 @@ topics:
   - design
   - human-centered-design
   - information-collection
-  - policy
+  - public-policy
   - research
   - user-experience
 

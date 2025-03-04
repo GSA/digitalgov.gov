@@ -4,6 +4,9 @@ kicker: Strategy
 title: Equity, a Core Principle of Customer Experience
 summary: This case study describes how two civic designers at different agencies
   embed equity in civic design to transform federal customer experience.
+
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience

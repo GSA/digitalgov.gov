@@ -16,8 +16,13 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government"
-  link: "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government"
+  title: "Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government and OMB Circular A-11, Section 280"
+  link: "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/"
+
+# Featured resource to display at the top of the page
+featured_resources:
+  resources:
+  - link: "resources/introduction-to-federal-web-standards/"
 
 # Featured community to display at the top of the page
 featured_communities:

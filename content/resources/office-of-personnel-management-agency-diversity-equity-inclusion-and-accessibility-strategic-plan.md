@@ -9,6 +9,9 @@ deck: OPM’s DEIA Strategic Plan identifies goals accompanied by actionable
   strategies that will advance our human capital priorities.
 summary: OPM’s DEIA Strategic Plan identifies goals accompanied by actionable
   strategies that will advance our human capital priorities.
+
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery

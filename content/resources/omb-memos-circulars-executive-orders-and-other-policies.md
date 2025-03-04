@@ -4,8 +4,10 @@ date: 2017-09-20 12:12:26 -0400
 title: OMB Memos, Circulars, Executive Orders and Other Policies
 summary: Tech- and digital-related policies, memos, circulars and executive orders.
 
+expirydate: 2025-02-18
+
 topics:
-  - policy
+  - public-policy
 weight: 2
 
 ---

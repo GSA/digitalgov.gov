@@ -5,7 +5,7 @@
 slug: "search-engine-optimization"
 
 # Topic Title
-title: "Search Engine Optimization"
+title: "Search engine optimization"
 deck: "Search engine optimization (SEO) is the practice of enabling search engines to index and surface content."
 
 # description — keep it short and clear

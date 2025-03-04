@@ -3,6 +3,8 @@ title: The Basics of Buying Accessible Products and Services
 kicker: Inclusive Acquisitions
 summary: A discussion with members of the U.S. General Services Administration (GSA) and U.S. Access Board (USAB) on best practices for buying information and communications technology and services that can be used by anyone.
 
+expirydate: "2025-01-22"
+
 host: GSA Government-wide IT Accessibility Program
 event_organizer: Digital.gov
 
@@ -15,12 +17,11 @@ end_date: 2022-05-03 12:00:00 -0500
 # See all topics at https://digital.gov/topics
 topics:
   - accessibility
-  - diversity-equity-and-inclusion
   - acquisition
   - product-and-project-management
   - content-strategy
   - best-practices
-  - policy
+  - public-policy
 
 # See all authors at https://digital.gov/authors
 authors:
@@ -40,8 +41,6 @@ youtube_id:
 primary_image: may-itbuyers-event-title-card
 
 ---
-
-Accessibility, the “A” in DEIA (Diversity, Equity, Inclusion, and Accessibility), is a foundation on which the federal workforce must build diversity, equity, and inclusion for people with disabilities.
 
 Learn the basics of buying accessible information and communications technology (ICT), and discover how you can help ensure that electronic information is accessible to everyone.
 
@@ -64,9 +63,7 @@ During our discussion, panelists from the U.S. General Services Administration (
 
 ## Related Resources
 
-* [Executive Order (14035) on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/)
 * [Information and Communication Technology (ICT) Revised 508 Standards and 255 Guidelines](https://www.access-board.gov/ict/)
-* [Integrating Accessibility into Agency Diversity, Equity, Inclusion and Accessibility (DEIA) Implementation Plans](https://www.section508.gov/manage/deia-guidance/)
 * [Digital.gov Accessibility Resources](https://digital.gov/topics/accessibility/)
 * [PlainLanguage.gov](https://www.plainlanguage.gov/)
 

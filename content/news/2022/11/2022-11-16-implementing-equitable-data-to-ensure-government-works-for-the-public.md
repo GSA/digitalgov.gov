@@ -5,6 +5,8 @@ title: "Implementing Equitable Data To Ensure Government Works for the Public"
 deck: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy"
 summary: "U.S. Digital Corps Fellow, Meredith Brown, reflects on her journey to civic tech and her impactful work supporting the White House Office of Science and Technology Policy."
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - open-data
