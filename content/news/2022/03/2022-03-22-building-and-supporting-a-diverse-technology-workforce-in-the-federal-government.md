@@ -4,11 +4,12 @@ kicker: ""
 title: Building and Supporting a Diverse Technology Workforce in the Federal Government
 summary: Brian Whittaker, acting Chief Innovation Officer at the Federal Deposit Insurance Corporation (FDIC), shares his personal reflections on the importance of a diverse workforce in government and civic tech.
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - professional-development
   - digital-service-delivery
-  - diversity-equity-and-inclusion
 
 # See all authors at https://digital.gov/authors
 authors:

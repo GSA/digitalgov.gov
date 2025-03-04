@@ -9,6 +9,8 @@ title: "10x Round Two: Submit Ideas by August 5"
 deck: "10x funds new ideas to help the federal government deliver better products and services."
 summary: "GSA’s 10x program funds the best ideas from federal employees across government."
 
+expirydate: "2025-01-22"
+
 # see all topics at https://digital.gov/topics
 topics: 
   - innovation

@@ -12,7 +12,7 @@ topics:
   - usability
   - user-experience
   - content-strategy
-  - policy
+  - public-policy
 # See all authors at https://digital.gov/authors
 authors:
   - andrew-nielson

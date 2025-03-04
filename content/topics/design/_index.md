@@ -6,7 +6,7 @@ slug: "design"
 
 # Topic Title
 title: "Design"
-deck: "Understand how and why design impacts user experience"
+deck: "Understand how and why design impacts user experience."
 
 summary: "Guidance, resources, and community to help you use design to create government websites that meet customer needs, work well on any device, and follow federal web requirements."
 
@@ -31,13 +31,13 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "21st Century Integrated Digital Experience Act"
+  title: "21st Century Integrated Digital Experience Act and OMB M-23-22"
   link: "/resources/21st-century-integrated-digital-experience-act/"
 
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-    - link: "/guides/hcd/discovery-concepts"
+    - link: "/guides/hcd/design-operations"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -48,14 +48,14 @@ featured_communities:
 featured_links:
   title: "Design: Essential knowledge"
   resources:
-    - title: "Federal website standards"
-      summary: "The federal website standards help agencies provide high-quality, consistent digital experiences for everyone. They cover common visual technical elements and reflect user experience best practices."
-      href: "https://standards.digital.gov/"
+    - title: "An introduction to federal website standards"
+      summary: "Understand how and why to use the federal website standards. The standards cover common visual technical elements and reflect user experience best practices."
+      href: "https://digital.gov/resources/introduction-to-federal-web-standards/"
     - title: "An introduction to design"
       summary: "How to design government websites that meet customer needs, work well on any device, and follow federal web requirements."
       href: "https://digital.gov/resources/an-introduction-to-design/"
     - title: "An introduction to design systems"
-      summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch. Learn how a design system can help you and what you need to know to get started."
+      summary: "If your organization needs to ensure compliance with a design standard or align to a brand, a design system can help you achieve those goals more easily than building a site from scratch."
       href: "https://digital.gov/resources/introduction-to-design-systems/"
     - title: "USWDS design principles"
       summary: "Earn trust by following consistent design principles."
@@ -63,7 +63,4 @@ featured_links:
     - title: "Understanding design in 10 questions"
       summary: "Learn how the discipline of design can help your agency improve customer experience."
       href: "https://digital.gov/2023/03/03/understanding-design-in-10-questions/"
-    - title: "Bringing design in-house"
-      summary: "What is design, who are designers, and how can they help your agency? Learn how to build a design team that can help your agency solve “wicked problems” and be more innovative."
-      href: "https://digital.gov/2023/01/27/bringing-design-in-house/"
 ---

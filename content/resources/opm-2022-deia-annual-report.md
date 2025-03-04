@@ -6,6 +6,8 @@ source: opm
 title: "Government-wide DEIA: Our Progress and Path Forward to Building a Better Workforce for the American People"
 summary: "Office of Personnel Management (OPM) 2022 Annual Report"
 
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - digital-service-delivery

@@ -3,6 +3,9 @@ date: 2022-05-23 10:22:00 -0500
 title: Embedding Equity in Civic Design to Transform Customer Experience
 deck:
 summary: This case study describes how two civic designers at different agencies embed equity in civic design to transform federal customer experience.
+
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - customer-experience
@@ -10,7 +13,7 @@ topics:
   - content-strategy
   - digital-service-delivery
   - trust
-  - diversity-equity-and-inclusion
+
 # See all authors at https://digital.gov/authors
 authors:
   - lashanda-hodge

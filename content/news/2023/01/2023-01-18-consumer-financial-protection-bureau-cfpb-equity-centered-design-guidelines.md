@@ -11,6 +11,9 @@ deck: This guide contains initial steps for designers, researchers, and
 summary: This guide contains initial steps for designers, researchers, and
   developers at the CFPB to help give the communities we design greater
   power and authority in the design and research process.
+
+expirydate: "2025-01-22"
+
 # See all topics at https://digital.gov/topics
 topics:
   - design

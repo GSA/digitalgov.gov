@@ -3,6 +3,9 @@ slug: using-plain-language-to-write-for-the-web
 date: 2015-09-16 11:10:24 -0400
 title: Using Plain Language to Write for the Web
 summary: 'Plain language will make you a better writer. For federal employees, it&#8217;s also the law. On September 9th, Katherine Spivey, Co-Chair of the Plain Language Action and Information Network (PLAIN), presented a webinar on plain writing principles and how to apply them to Web writing. She also addressed how federal writers can comply with the'
+
+expirydate: "2025-01-22"
+
 authors:
   - awichman
 topics:
@@ -31,8 +34,7 @@ You can watch the entirety of the webinar in the video below, or jump to specifi
   5. [What kind of page is it?](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=19m47s)
   6. [Headers, lists and tables](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=26m07s)
   7. [Keep things short](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=29m07s)
-  8. [Pronouns](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=31m56s)
-  9. [Write directly](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=34m04s)
+  8. [Write directly](https://www.youtube.com/watch?v=BB7oznnz3lQ#t=34m04s)
 
 ## Full Video
 
