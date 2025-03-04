@@ -1,10 +1,9 @@
 {{- $guidesPages := slice -}}
-{{- range .Site.Pages -}} 
+{{- range .Site.Pages -}}
   {{- if and (.File) (strings.Contains .File.Path "guides/") (strings.HasSuffix .File.Path ".md") -}}
     {{- $guidesPages = $guidesPages | append . -}}
   {{- end -}}
 {{- end -}}
-
 
 {
   "content": "guides",
