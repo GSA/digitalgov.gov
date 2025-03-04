@@ -46,8 +46,8 @@
     {{- with $e -}}
       {{- $page := site.GetPage .link -}}
       {{- if $page -}}
-        { "field_featured_resource_href":
-        "https://digital.gov{{ $page.RelPermalink }}"{{ if or $page.Title $page.Summary }}
+      { "field_featured_resource_href":
+      "https://digital.gov/{{ replace $page.RelPermalink 'preview/gsa/digitalgov.gov/nl-json-endpoints/' '' | safeURL }}"{{ if or $page.Title $page.Summary }}
           ,
         {{ end }}
         {{- if $page.Title -}}
