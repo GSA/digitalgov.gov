@@ -22,7 +22,7 @@ redirectto: https://github.com/18F/DevOps-Community-of-Practice/wiki/DevOps-Comm
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible
-weight: 1
+weight: 0
 
 community_list:
   - platform: listserv

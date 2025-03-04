@@ -16,7 +16,7 @@ topics:
   - content-strategy
   - open-source
   - user-experience
-  - policy
+  - public-policy
 
 ---
 

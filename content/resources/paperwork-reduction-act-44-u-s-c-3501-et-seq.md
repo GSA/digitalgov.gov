@@ -3,9 +3,12 @@ slug: paperwork-reduction-act-44-u-s-c-3501-et-seq
 date: 2015-12-01 1:40:45 -0400
 title: "Paperwork Reduction Act (44 U.S.C. 3501 et seq.)"
 summary: "The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office of Management and Budget (OMB) approval before requesting most types of information from the public."
+
+redirectto: https://pra.digital.gov/
+
 topics:
   - information-collection
-  - policy
+  - public-policy
 authors:
   - apiazza
 ---

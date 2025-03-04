@@ -12,7 +12,7 @@ topics:
   - search-engine-optimization
   - open-data
   - open-source
-  - policy
+  - public-policy
 
 ---
 

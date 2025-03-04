@@ -8,7 +8,7 @@ expirydate: "2024-10-23"
 
 topics:
   - multilingual
-  - policy
+  - public-policy
 authors:
   - apiazza
 

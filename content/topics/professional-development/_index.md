@@ -5,7 +5,7 @@
 slug: "professional-development"
 
 # Topic Title
-title: "Professional Development"
+title: "Professional development"
 deck: "Acquire new skills and knowledge to improve your career performance and reach  your professional goals."
 
 # description — keep it short and clear
