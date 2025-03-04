@@ -7,6 +7,7 @@ display_name: "Sara Harris Smith"
 first_name: "Sara Harris"
 last_name: "Smith"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: sara-harris-smith

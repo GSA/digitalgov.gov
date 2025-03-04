@@ -8,7 +8,7 @@ summary: "What is an Authorization to Operate? Before you use software in govern
 topics:
   - security
   - software-engineering
-  - policy
+  - public-policy
 
 # See all authors at https://digital.gov/authors
 authors:

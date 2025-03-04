@@ -25,7 +25,7 @@ topics:
   - user-experience
   - research
   - communication
-  - policy
+  - public-policy
 # See all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

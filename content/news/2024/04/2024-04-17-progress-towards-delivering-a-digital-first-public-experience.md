@@ -3,6 +3,8 @@
 source_url: https://www.whitehouse.gov/omb/briefing-room/2024/04/17/progress-towards-delivering-a-digital-first-public-experience/
 source: whitehouse
 date: 2024-04-17
+expirydate: 2025-02-18
+
 title: "Progress towards delivering a digital-first public experience"
 deck: "Each year, more than 400 million individuals, families, businesses, organizations, and local governments get information and services from about 430 federal agencies and sub-agencies. The Biden-Harris administration is driving a bold vision for how government agencies serve their customers digitally with OMB's ten-year roadmap for a modern digital experience. Agencies have already made significant strides. Learn about recent successes by the IRS, CDC, NASA, and FEMA, and how OMB will continue to collaborate with agencies to ensure ongoing improvement in digital government services."
 
@@ -20,7 +22,7 @@ topics:
   - design
   - innovation
   - content-strategy
-  - policy
+  - public-policy
 
 slug: progress-towards-delivering-a-digital-first-public-experience
 

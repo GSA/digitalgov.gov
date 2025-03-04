@@ -6,7 +6,7 @@ slug: "analytics"
 
 # Topic Title
 title: "Analytics"
-deck: "Measure and plan your site performance with analytics best practices and tools"
+deck: "Measure and plan your site performance with analytics best practices and tools."
 
 summary: "Web analytics provide valuable insights into how users interact with a website. Use the data gained from web analytics to identify areas for improvement and make data-driven decisions. This can lead to a more user-friendly and engaging website, which can enhance trust and overall site performance."
 
@@ -24,8 +24,8 @@ weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies (PDF, 130 KB, 9 pages, June 2010)"
-  link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
+  title: "Executive Order 14058 and OMB Circular A-11, Section 280"
+  link: "https://digital.gov/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/" 
 
 # Featured resource to display at the top of the page
 featured_resources:
@@ -41,6 +41,9 @@ featured_communities:
 featured_links:
   title: "Analytics: Essential knowledge"
   resources:
+  - title: "An introduction to analytics"
+    summary: "Learn how to set performance goals, and identify specific KPIs and targets to measure and meet them, using web analytics."
+    href: "https://digital.gov/resources/an-introduction-to-analytics/"
   - title: "How to build an analytics strategy"
     summary: "The Digital Analytics Program (DAP) provides a start-to-finish approach for assessing, reporting, and taking action using Digital.gov in a case study."
     href: "https://digital.gov/resources/how-to-build-an-analytics-strategy/"
@@ -50,9 +53,6 @@ featured_links:
   - title: "An introduction to search"
     summary: "Follow search engine optimization (SEO) best practices to help search engines discover your content."
     href: "https://digital.gov/resources/an-introduction-to-search/"
-  - title: "How to use web analytics to uncover cybersecurity incidents: A USAGov case study"
-    summary: "Learn how you can take a deep dive into analytics and uncover phishing attempts or other improper use of your agency’s content, logo, or brand."
-    href: "https://digital.gov/2020/10/26/true-crime-detectives-how-we-used-free-web-metrics-tools-to-uncover-a-cybersecurity-incident/"
   - title: "How to track performance"
     summary: "Use this step-by-step guide to choose metrics & tools, set budgets & goals, and add site tracking on your website."
     href: "https://designsystem.digital.gov/performance/how/"

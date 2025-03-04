@@ -7,6 +7,7 @@ display_name: "Sheila Prindiville"
 first_name: "Sheila"
 last_name: "Prindiville"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: sheila-prindiville

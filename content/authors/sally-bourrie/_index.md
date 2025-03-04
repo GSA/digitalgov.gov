@@ -7,6 +7,7 @@ display_name: "Sally Bourrie"
 first_name: "Sally"
 last_name: "Bourrie"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: sally-bourrie

@@ -7,6 +7,7 @@ display_name: "Stephen Buckner"
 first_name: "Stephen"
 last_name: "Buckner"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: stephen-buckner

@@ -7,6 +7,7 @@ display_name: "Sam Bronson"
 first_name: "Sam"
 last_name: "Bronson"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: sam-bronson
