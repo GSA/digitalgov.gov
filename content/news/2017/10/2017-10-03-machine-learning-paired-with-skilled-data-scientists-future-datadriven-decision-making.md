@@ -15,6 +15,7 @@ featured_image:
   uid: 3d-rendering-of-robot-face-zapp2photo-istock-thinkstock-675938062
   alt:
 
+expirydate: 2025-01-01
 ---
 
 Although the term [Machine Learning (ML)](https://en.wikipedia.org/wiki/Machine_learning) was coined in 1959, it’s advancement and development has never been more critical than it is today, particularly within government agencies. As the amount of data being produced, manipulated, and stored exponentially increases, so does the very real threat of [cyber-security breaches](http://www.nextgov.com/technology-news/tech-insider/2017/04/machine-learning-technologies-help-agencies-develop-highly-intelligent-security-postures/137061/) and fraud. Meanwhile, federal budgets and staff resources continue to decrease. ML can provide high-value services for federal agencies including data management and analytics, security threat detection, and process improvement—but the list does not stop there.

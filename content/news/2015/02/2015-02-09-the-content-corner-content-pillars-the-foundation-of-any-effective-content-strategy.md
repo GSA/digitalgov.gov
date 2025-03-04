@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - user-experience
+expirydate: 2025-01-01
 ---
 
 If you and your organization don’t already have a content strategy, then you are most likely working too hard to create content that is less effective in communicating your desired message and less relevant to your end-user. The lack of a content strategy can leave you at the mercy of the content “beast” where you are constantly scrambling to feed it with little time to think of the quality of the random scraps you keep flinging into the cage.

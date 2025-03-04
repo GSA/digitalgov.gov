@@ -15,6 +15,7 @@ topics:
   - social-media
   - user-experience
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/06/600-x-370-Justin-Herman-Panel-3-Public-Private-Partnerships-toni470-flickr-20140530_112350.jpg" alt="DigitalGov Citizen Services Summit and Expo - Justin Herman, GSA - Panel 3: Public Private Partnerships - Jack Bienko, SBA; Phil Ashlock, DataGov; Lynn Overmann, White House OSTP; Mike Reardon, DOL" caption="" >}}

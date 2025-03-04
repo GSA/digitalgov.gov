@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - user-experience
   - accessibility
+expirydate: 2025-01-01
 ---
 
 August 8, 2016, marks the 18th anniversary of the amendment to the [Section 508 Rehabilitation Act of 1973](http://www.section508.gov/section-508-of-the-rehabilitation-act "Section 508 Rehabilitation Act of 1973"), which covers access to information technology in the federal sector. To recognize the importance of IT accessibility, we wanted to highlight some agency initiatives to improve accessibility across the federal landscape.

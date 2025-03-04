@@ -18,6 +18,7 @@ topics:
   - information-architecture
 primary_image: "archaeologist-and-student-excavating-mypurgatoryyears-royalty-free-getty-images-176511372"
 
+expirydate: 2025-01-01
 ---
 
 Many content managers in the digital world understand the irrepressible desire to improve, fix, edit, add, and move things around. It’s our job, after all, to nurture the ongoing process of creating, updating, and testing. But, there are those sites or pages that never seem to make it to the high-priority list. For our Web team, this was our Center’s staff Intranet site.
@@ -62,6 +63,7 @@ After compiling the results and reviewing the top-level headings from this exerc
 
 We will now work on fine-tuning wireframes design elements, and  usability testing. I hope to update folks interested in this process in an upcoming blog post! 
 
+expirydate: 2025-01-01
 ---
 
 _Karla Blaine has been a Web and Intranet Content Manager for the past 10 years at the NIH National Center for Complementary and Integrative Health._

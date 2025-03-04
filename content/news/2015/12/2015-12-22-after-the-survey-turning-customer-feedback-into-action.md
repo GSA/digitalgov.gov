@@ -11,6 +11,7 @@ topics:
   - customer-experience
   - information-collection
 
+expirydate: 2025-01-01
 ---
 
 Doing business with any U.S. government agency can be a daunting task. For example, in the case of customers new to EXIM Bank, there are application forms to complete, rules to understand, processes to navigate and conditions that have to be met in order to work with our agency. What our staff considers an “everyday” transaction can be overwhelming for a new customer!

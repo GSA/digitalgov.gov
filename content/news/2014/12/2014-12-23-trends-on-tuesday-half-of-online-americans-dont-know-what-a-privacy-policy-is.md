@@ -12,6 +12,7 @@ topics:
   - privacy
   - security
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Federal agencies are required by law [see the list of applicable ones here](https://www.digitalgov.gov/resources/checklist-of-requirements-for-federal-digital-services#privacy-and-identity-management) to use privacy policies on their digital properties that explain how they use the data they collect about users and visitors. This ensures that these users and visitors know what the government is doing with their data.

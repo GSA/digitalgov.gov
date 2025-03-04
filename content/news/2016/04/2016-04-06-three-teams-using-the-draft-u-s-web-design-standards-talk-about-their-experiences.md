@@ -18,6 +18,7 @@ topics:
   - user-experience
   - public-policy
 
+expirydate: 2025-01-01
 ---
 
 In the five months since we launched the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards) — the U.S. government’s very own set of common UI components and visual styles for websites — over a dozen websites have used components of the Draft Standards on their sites.

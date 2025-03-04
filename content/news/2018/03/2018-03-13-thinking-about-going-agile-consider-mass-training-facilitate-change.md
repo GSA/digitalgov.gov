@@ -15,6 +15,7 @@ featured_image:
   uid: ux-training-class
   alt: 'Federal employees participate in an on-site User Experience training class.'
 
+expirydate: 2025-01-01
 ---
 
 _How organizational instruction can help transform the processes and culture of your office._

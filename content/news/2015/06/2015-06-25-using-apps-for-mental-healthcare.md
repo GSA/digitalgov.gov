@@ -7,6 +7,7 @@ authors:
   - awichman
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/250-x-417-T2-National-Center-for-Telehealth-and-Technology-PTSD-Coach-Android-app-Department-of-Veterans-Affairs.jpg" alt="PTSD Coach Android app menu screen" >}}Technology has opened new pathways for delivering health care, including mental health services.

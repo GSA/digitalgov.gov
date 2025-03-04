@@ -14,6 +14,7 @@ topics:
   - user-experience
   - best-practices
 
+expirydate: 2025-01-01
 ---
 
 Whenever I hear someone complain about the process of a design critique, I’m always a bit surprised. Blame it on the fact that I’m a design school graduate, where critique is a mandatory part of the educational experience. I consider learning to give and receive feedback as one of the most relevant and useful pieces of my education.

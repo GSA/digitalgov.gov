@@ -10,6 +10,7 @@ topics:
   - analytics
   - customer-experience
   - privacy
+expirydate: 2025-01-01
 ---
 
 The second annual [DigitalGov Citizen Services Summit](https://web.archive.org/web/20150623214816/http://summit.digitalgov.gov/) was held at GSA headquarters in Washington, DC on May 21. This year’s Summit sold out early to in person attendees, attracted nearly 1,200 folks to sign up, and for the first time a live stream was offered for online viewers across the country. I was honored to serve as this year’s virtual livestream host for the Summit.
@@ -44,6 +45,7 @@ Dr. David Bray, Chief Information Officer for the Federal Communications Commiss
 <p>&mdash; Bernetta Reese (@BernettaReese) May 20, 2015</p>
 </blockquote>
 
+
 {{< tweet user="alyciap1" id="601392825348050944" >}}
 
 {{< tweet user="rickholgate" id="601381790046117890" >}}
@@ -66,6 +68,7 @@ Federal agencies were also invited to showcase their programs, tools and innovat
 
 The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov15?src=hash), became a top trend across the United States on Twitter. Thank you to everyone who came in person to attend, tuned in online via livestream, tweeted throughout the event, put us in the top US trends, and helped to make &#35;DigitalGov15 such a success!
 
+
 <blockquote class="twitter-tweet" data-width="500">
 <p lang="en">We are trending in the US! You all rock! Keep the tweets coming! #DigitalGov15 <a href="https://twitter.com/hashtag/DigitalGov15?src=hash">#DigitalGov15</a></p>
   
@@ -75,6 +78,7 @@ The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov
 
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
+expirydate: 2025-01-01
 ---
 
 *This post was originally published on Bernetta Reese's personal website.*

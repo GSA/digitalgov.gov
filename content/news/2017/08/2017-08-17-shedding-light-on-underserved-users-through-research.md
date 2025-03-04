@@ -8,6 +8,7 @@ authors:
 topics:
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 _How user interviews helped spotlight the needs of a previously forgotten group._

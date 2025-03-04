@@ -18,6 +18,7 @@ featured_image:
   alt:
 canonical: https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0
 
+expirydate: 2025-01-01
 ---
 
 _This post was originally [published on GSA.gov](https://www.gsa.gov/blog/2018/12/17/Looking-Back-at-our-%E2%80%9CTour-of-Duty%E2%80%9D-in-American-Innovation-0)_

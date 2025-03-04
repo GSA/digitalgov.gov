@@ -13,6 +13,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - contact-centers
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-341-Earth-and-electronics-cherezoff-iStock-Thinkstock-495813521.jpg" alt="Earth and electronics" caption="cherezoff, iStock, Thinkstock" >}}

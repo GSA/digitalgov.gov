@@ -77,9 +77,5 @@ We generally recommend that any certificate you do purchase be low cost, automat
 
 At the GSA, we use a free, open-source option called “[Let’s Encrypt](https://letsencrypt.org/)”. Once implemented on your server, it auto-renews your certificate every three months. And if you host your government site on [cloud.gov](https://cloud.gov/), [search.gov](https://search.gov/) or [federalist.18f.gov](https://federalist.18f.gov/), your certificates will automatically renewed.
 
-**Related reading:**
-
-- [Let’s Encrypt Those CNAMES, Shall We?](https://digital.gov/2016/09/07/lets-encrypt-those-cnames-shall-we/)
-
 **Still have questions?**
 E-mail us at [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov) and we’ll try to get your questions answered.

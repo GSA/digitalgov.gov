@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - security
+expirydate: 2025-01-01
 ---
 
 _18F Editor’s note: This is a guest post by Karim Said of NASA. Karim was instrumental in NASA’s successful HTTPS and HSTS migration, and we’re happy to help Karim share the lessons NASA learned from that process._

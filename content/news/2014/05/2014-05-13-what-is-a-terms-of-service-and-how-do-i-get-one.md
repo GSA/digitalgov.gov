@@ -11,6 +11,7 @@ topics:
   - user-experience
   - terms-of-service
   - usability
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2015/02/250-x-384-DigitalGov-TOS-flowchart_v6-Feb-2-2015.jpg" alt="DigitalGov Terms of Service (TOS) flowchart" >}}

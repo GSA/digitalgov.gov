@@ -9,6 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 Federal agencies now have the ability to create a challenge competition website that accepts submissions and allows public voting with a new, no-cost tool.

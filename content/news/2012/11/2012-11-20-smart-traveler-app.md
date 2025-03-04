@@ -7,6 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 _[{{< legacy-img src="2013/12/Smart\_Traveler\_App.jpg" alt="Smart\_Traveler\_App" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/Smart_Traveler_App.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **<a href="http://www.state.gov/" rel="nofollow">Department of State</a>**._

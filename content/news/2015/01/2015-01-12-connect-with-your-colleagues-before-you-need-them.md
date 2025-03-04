@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - product-and-project-management
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-400-Managers-eating-meal-together-KatarzynaBialasiewicz-iStock-Thinkstock.jpg" alt="Managers eating meal together" caption="" >}} 

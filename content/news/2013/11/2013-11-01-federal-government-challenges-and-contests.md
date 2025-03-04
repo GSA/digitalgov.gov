@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 **<span style="font-size: 1.5em;">What is a Challenge?</span>**

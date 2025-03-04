@@ -11,6 +11,7 @@ topics:
   - accessibility
   - multimedia
   - social-media
+redirectto: "https://www.section508.gov/develop/universal-design-video-series/"
 ---
 
 {{< legacy-img src="2014/07/505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA.jpg" alt="505-x-320-Resource-Accessible-How-to-Caption-Videos-NASA" >}}

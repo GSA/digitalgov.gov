@@ -7,6 +7,7 @@ authors:
   - kelly-olson
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-450-Number-five-cupcake-RuthBlack-iStock-Thinkstock-465078596.jpg" alt="Cupcake with sprinkles and a starred number 5 candle" caption="" >}} 
