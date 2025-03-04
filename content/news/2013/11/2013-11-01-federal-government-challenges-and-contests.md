@@ -17,11 +17,9 @@ topics:
     <p>
       In a challenge, a &#8220;seeker&#8221; challenges &#8220;solvers&#8221; to identify a solution to a particular problem, or rewards contestants for accomplishing a goal. The solutions may be: ideas, designs, logos, videos, finished products, digital games, or mobile applications.
     </p>
-    
     <p>
       There are many challenge success stories in government:
     </p>
-    
     <ul>
       <li>
         <a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf">Challenges Conducted in 2011 Under America COMPETES Act Authority</a> (PDF, 486 KB, 53 pages, March 2012)
@@ -30,11 +28,9 @@ topics:
         <a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_prizesreport_dec-2013.pdf">Challenges Conducted in 2012 Under America COMPETES Act Authority</a> (PDF, 1,257 KB, 95 pages, December 2013)
       </li>
     </ul>
-    
     <p>
       Challenges can offer incentive prizes that are either monetary or non-monetary. Examples of non-monetary prizes can include:
     </p>
-    
     <ul>
       <li>
         A meeting with an important official;
@@ -46,27 +42,21 @@ topics:
         Recognition on your agency&#8217;s website, or at an awards ceremony
       </li>
     </ul>
-    
     <p>
       ​<a href="http://www.gsaelibrary.gsa.gov/ElibMain/sinDetails.do?scheduleNumber=541&specialItemNumber=541+4G&executeQuery=YES">Challenge platforms</a> are the online tools that provide a forum for the seeker to post the problem, or call-to-action, and invite a community of solvers to suggest, collaborate on, and judge solutions.
     </p>
-    
     <h2>
       Why It&#8217;s Important
     </h2>
-    
     <p>
       Challenges, prizes, and other incentive-based strategies can be used by federal agencies to find innovative or cost-effective solutions.
     </p>
-    
     <p>
       Challenges allow the public and the government to co-create. They allow government to tap into the collective knowledge and resources of the public, and help the public more easily contribute their expertise to find better solutions.
     </p>
-    
     <p>
       Among the benefits outlined in <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-11.pdf">OMB&#8217;s 2010 memo</a> (PDF, 94 KB, 12 pages, March 2010), challenges:
     </p>
-    
     <ul>
       <li>
         Establish an important goal without having to choose the approach or the team that is most likely to succeed;
@@ -93,19 +83,15 @@ topics:
         Capture the public&#8217;s imagination and change the public perception of what is possible.
       </li>
     </ul>
-    
     <h3>
       Next Step
     </h3>
-    
     <p>
       Ready to get started?
     </p>
-    
     <p>
       Check out the details on these types of challenges:
     </p>
-    
     <ul>
       <li>
         <a title="Ideation Challenges" href="{{< ref "2013-11-14-ideation-challenges.md" >}}">Ideation Challenges</a>
