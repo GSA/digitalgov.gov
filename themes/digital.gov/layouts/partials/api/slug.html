@@ -4,5 +4,5 @@
 {{- end -}}
 {{- if .Permalink -}}
   "url" :
-  "{{- replace .RelPermalink 'preview/gsa/digitalgov.gov/nl-json-endpoints/' '' | safeURL -}}"
+  "{{- replace .RelPermalink "preview/gsa/digitalgov.gov/nl-json-endpoints/" "" | safeURL -}}"
 {{- end -}}
