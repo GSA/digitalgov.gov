@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - multilingual
+expirydate: 2025-01-01
 ---
 
 Catching child predators? There&#8217;s an app for that, and it&#8217;s expanding its reach to Android smartphones.

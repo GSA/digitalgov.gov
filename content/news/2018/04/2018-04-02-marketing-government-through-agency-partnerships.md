@@ -20,6 +20,7 @@ featured_image:
   alt: 'USAGov Logo'
 canonical: https://blog.usa.gov/marketing-the-government-through-agency-partnerships
 
+expirydate: 2025-01-01
 ---
 
 _This article was originally posted on the [USAGov blog](https://blog.usa.gov/marketing-the-government-through-agency-partnerships). Claire Loxsom is a Program Analyst on USAGov’s Content and Outreach team._

@@ -10,6 +10,7 @@ topics:
   - social-media
   - open-government
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/08/600-x-180-SocialGov-Open-Data-White-House-EEOB-Summit-Aug-7th-2014.jpg" alt="SocialGov Open Data White House EEOB Summit, Aug 7th 2014" >}}

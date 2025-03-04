@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - design
+expirydate: 2025-01-01
 ---
 
 ## What It Is

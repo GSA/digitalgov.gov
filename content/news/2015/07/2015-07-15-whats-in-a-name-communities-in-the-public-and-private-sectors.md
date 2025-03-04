@@ -10,6 +10,7 @@ topics:
   - professional-development
   - social-media
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 Many of you are part of a government community. [We lead a few of them here]({{< ref "/communities" >}}), and new ones are forming all the time. In fact, as I was writing this article, I stumbled upon a [community for government Drupal users](https://www.drupalgovcon.org/drupal-govcon-2015/community).

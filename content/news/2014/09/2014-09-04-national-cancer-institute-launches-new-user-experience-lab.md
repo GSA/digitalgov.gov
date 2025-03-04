@@ -12,6 +12,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-400-National-Cancer-Institute-NCI-UX-lab-1.jpg" alt="User Experience U X lab 1" >}}

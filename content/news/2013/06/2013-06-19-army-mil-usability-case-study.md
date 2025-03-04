@@ -9,6 +9,7 @@ topics:
   - research
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 If you want to make a website more efficient and user friendly, then it’s not enough just to have your most valuable information on the site. People are busy—they want to find what they’re looking for, and they want it fast. You don’t always need to redesign an entire site to make things easier to find. Sometimes, a few small changes can do the trick.

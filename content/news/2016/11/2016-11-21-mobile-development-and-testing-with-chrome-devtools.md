@@ -11,6 +11,7 @@ topics:
   - design
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 Around Q3, I was looking for way to test the HTML and CSS of an online application that was to be public-facing. At first, my office’s plan was to connect mobile devices to the network owned by federal employees on a volunteer basis for testing. All of a sudden, a new policy came down that stated, &#8220;devices that were not purchased by the agency could not be connected to the network. If we needed a device(s) to be on the network, we needed to go through the steps to have the device inspected, documented and approved.&#8221;
@@ -45,6 +46,7 @@ The Viewport Controls that appear at the top of the browser window allow you to 
 
 So there you have it. Hopefully, this has pointed some of us in the direction of a free design/development tool that can help speed [mobile development work]({{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}) within the government.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

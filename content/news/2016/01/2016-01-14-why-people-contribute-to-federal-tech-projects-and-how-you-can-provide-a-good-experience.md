@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - professional-development
   - open-source
+expirydate: 2025-01-01
 ---
 
 _Author&#8217;s note: Anyone can contribute to the development of the Open Opportunities platform via [the project&#8217;s GitHub repository](https://github.com/18F/openopps-platform). The Open Opportunities program itself is only open to federal employees.

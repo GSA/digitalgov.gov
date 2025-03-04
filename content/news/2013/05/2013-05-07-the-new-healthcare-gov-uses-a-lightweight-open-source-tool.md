@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - open-data
   - open-source
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/05/healthcare.gov-3-350x152.jpg" alt="HealthCare.gov screenshot from May 2013" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/healthcare.gov-3-350x152.jpg)

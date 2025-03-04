@@ -11,6 +11,8 @@ topics:
   - public-policy
 authors:
   - apiazza
+expirydate: 2025-01-01
+
 ---
 
 The Paperwork Reduction Act (PRA) of 1995 requires that agencies obtain Office of Management and Budget (OMB) approval before requesting most types of information from the public. &#8220;Information collections&#8221; include forms, interviews, and record keeping, to name a few categories.

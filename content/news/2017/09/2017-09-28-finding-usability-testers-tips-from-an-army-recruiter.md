@@ -15,6 +15,7 @@ featured_image:
   uid: typing-on-laptop-close-up-littlehenrabi-istock-thinkstock-537275804
   alt: 'Close-up of hands typing on laptop.'
 
+expirydate: 2025-01-01
 ---
 
 After spending 22 years in the U.S. Army, including 3 years as a recruiter, Julie Jackson realized that not only was she qualified to work in usability, but had a knack for it—especially because of her ability to strike up a conversation with nearly anyone, anywhere. Julie shares how her training in the Army has helped in her approach to [usability testing]({{< ref "/topics/research" >}}), and gives a peek inside how usability testing works for [USAJOBS.gov](https://www.usajobs.gov/) at the [Office of Personnel Management](https://www.opm.gov/) (OPM).

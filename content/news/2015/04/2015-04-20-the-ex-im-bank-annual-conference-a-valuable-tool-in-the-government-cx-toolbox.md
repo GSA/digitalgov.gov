@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - customer-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-375-Connected-Modern-World-solarseven-iStock-Thinkstock-ThinkstockPhotos-482353395.jpg" alt="Connected Modern World" caption="" >}} 

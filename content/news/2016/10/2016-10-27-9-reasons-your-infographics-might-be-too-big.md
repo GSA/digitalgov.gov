@@ -13,6 +13,7 @@ topics:
   - social-media
   - data-visualization
   - multimedia
+expirydate: 2025-01-01
 ---
 
 Infographics are a useful tool for communicators to share complex data and information in a quick, easy-to-read format. Infographics can be beautifully designed works of art, pulling in a reader through storytelling and visual entertainment. And like art, infographics can be large, epic works, or small treasures.
@@ -114,6 +115,7 @@ At any large organization, accuracy of data is of paramount importance &#8212; f
 [_Sara Smith_](https://www.linkedin.com/in/saramariecrocoll) _([@CrocollSmith](https://twitter.com/CrocollSmith)) is the Social Media Strategist for the National Institute on Drug Abuse (NIDA) and_ [_Anne Rancourt_](https://www.linkedin.com/in/annerancourt) _([@annerancourt](https://twitter.com/AnneRancourt)) is a Communications Section Chief at the National Institute of Allergy and Infectious Diseases (NIAID); both part of the National Institutes of Health (NIH)._
 
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -9,6 +9,7 @@ authors:
 topics:
   - product-and-project-management
   - social-media
+expirydate: 2025-01-01
 ---
 
 In the next couple of years as new social media platforms emerge and organizations open more accounts, when do you make the decision to shut an account down? When resources are limited, we must analyze the effectiveness of our social media programs and put our time and effort into the accounts that best serve our audiences.

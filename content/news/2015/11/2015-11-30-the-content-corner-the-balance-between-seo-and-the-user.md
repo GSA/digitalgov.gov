@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - security
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 I always think of SEO like the dentist—no one really likes it, but you need to do it. Yet, despite my lack of excitement for the topic, this will be at a minimum my second post ([here&#8217;s the first]({{< ref "2015-08-31-the-content-corner-optimize-your-content.md" >}}) about the relationship between creating good content and SEO practices.

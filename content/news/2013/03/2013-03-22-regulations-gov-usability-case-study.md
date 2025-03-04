@@ -9,6 +9,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 More and more people use search as their primary means of finding what they are looking for. When users get confused by the search results, or can’t immediately find what they are looking for, they’re going to get frustrated. They may even leave the site for good. The DigitalGov User Experience Program helped test [Regulations.gov](http://www.regulations.gov/#!home;tab=search) on October 5, 2012, to find three high–priority, fixable problems that could make the user experience much easier and more pleasant.

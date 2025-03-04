@@ -10,6 +10,7 @@ topics:
   - mobile
   - challenges-and-prize-competitions
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-400-Smart-watch.-Smartwatch-concept-scyther5-iStock-Thinkstock-482564012.jpg" alt="Smart watch concept" caption="" >}} 

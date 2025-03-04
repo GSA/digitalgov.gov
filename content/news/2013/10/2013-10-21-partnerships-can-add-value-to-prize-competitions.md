@@ -7,6 +7,7 @@ authors:
   - ktrebon
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 The right partner can be the key to a successful challenge competition.

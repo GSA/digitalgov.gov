@@ -7,6 +7,7 @@ authors:
   - bbrantley
 topics:
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 Many IT pundits predict 2016 will be a major tipping point in data and related technologies. Here are just a few predictions:
@@ -43,6 +44,7 @@ It will be interesting to see how the federal government deals with the rise of 
 
 It is virtually impossible to predict precise future events. However, it is possible (and probably more useful) to devise scenarios about the future. As the five trends above demonstrate, there is great potential in current data technologies to change the federal government and the American Society.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: The mention of Google’s Siri and Microsoft’s Cortana are used for illustrative purposes only and do not imply endorsement by the U.S. federal government or any federal government agencies.

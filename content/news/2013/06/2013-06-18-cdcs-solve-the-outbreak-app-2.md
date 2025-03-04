@@ -8,6 +8,7 @@ topics:
   - design
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/12/CDCSolvetheOutbreakApp.jpeg" alt="Advertisement for CDC's Solve the Outbreak App" >}} _[Mobile Gov Experiences]({{< ref "/topics/mobile" >}}) are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by_ **_Centers for Disease Control and Prevention_.**

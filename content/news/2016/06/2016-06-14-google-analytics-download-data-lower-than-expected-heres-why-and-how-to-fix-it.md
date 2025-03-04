@@ -7,6 +7,7 @@ authors:
   - ilee
 topics:
   - analytics
+expirydate: 2025-01-01
 ---
 
 What’s the best way to track file downloads in Google Analytics? Will the [Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}}) (DAP) help me track PDF/.doc/.xls downloads? Are my download numbers accurate? Why aren’t my file downloads appearing in the web analytics data? {{< legacy-img src="2016/06/600-x-400-Download-f-dalgic-iStock-Thinkstock-481014627.jpg" alt="Download screen on a mobile phone." caption="" >}}

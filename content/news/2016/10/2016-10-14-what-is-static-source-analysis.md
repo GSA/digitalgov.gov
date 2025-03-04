@@ -9,6 +9,7 @@ topics:
   - analytics
   - content-strategy
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 In software development, we use a variety of techniques to help us understand the software we’ve written, whether it works as expected, and whether it will be easy to maintain over time. One of the techniques we use is called static source analysis, and it can tell us a lot about the maintenance requirements of our code.

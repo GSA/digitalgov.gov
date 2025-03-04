@@ -8,7 +8,7 @@ topics:
   - public-policy
 authors:
   - apiazza
-
+expirydate: 2025-01-01
 ---
 
 In the January 2009 Memo on Transparency and Open Government, President Obama emphasized the importance of establishing “a system of transparency, public participation, and collaboration.” Plain writing is indispensable to achieving these goals. The Plain Writing Act of 2010 (the Act) (Public Law 111-274), which the President signed into law on October 13, 2010, calls for writing that is clear, concise, and well-organized. This memorandum provides final guidance on implementing the Act and is designed to promote the goals of the President’s Open Government Initiative.

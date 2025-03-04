@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2018/03/new-release-fedramp-continuous-monitoring-documents
+# View this page at https://digital.gov/event/2018/03/13/new-release-fedramp-continuous-monitoring-documents
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: new-release-fedramp-continuous-monitoring-documents
 title: "New Release of FedRAMP Continuous Monitoring Documents"

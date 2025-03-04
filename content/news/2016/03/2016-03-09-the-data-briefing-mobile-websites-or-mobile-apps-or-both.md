@@ -10,6 +10,7 @@ topics:
   - mobile
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 The increasing sophistication of mobile devices has created many opportunities for developers. Thanks to APIs* and open data, developers can build thousands of mobile apps and mobile websites to meet users’ needs. This opportunity has created one of the most contentious debates in the mobile development community: mobile apps versus mobile websites? There is, yet, no solution to the debate. However, there are some advantages and disadvantages to both types of mobile solutions.
@@ -28,6 +29,7 @@ So, which do you choose? It depends on two factors: who is your audience and wha
 
 There is also a side issue for third-party apps that are developed using federal data and are used heavily by some citizens. Does the federal government have an obligation to step in and support the third-party app once the developer stops doing so? If the developer was encouraged by a federal agency hackathon to create the app and it is widely used, does that imply a responsibility for the federal agency to keep the mobile app alive and functioning? I would like to hear from you, the readers, on this issue.
 
+expirydate: 2025-01-01
 ---
 
 _*API – Application Programming Interface. How software programs and databases share data and functions with each other. Check out [APIs in Government]({{< ref "2013-04-30-apis-in-government.md" >}}) for more information._ 

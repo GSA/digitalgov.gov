@@ -9,6 +9,7 @@ authors:
 topics:
   - multimedia
   - open-government
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/04/250-x-166-Vladimir-Kolobov-iStock-Thinkstock-110941135-TV-at-press-conference.jpg" alt="A video camera is positioned behind a crowd of people seated at a public meeting or conference." caption="" >}}

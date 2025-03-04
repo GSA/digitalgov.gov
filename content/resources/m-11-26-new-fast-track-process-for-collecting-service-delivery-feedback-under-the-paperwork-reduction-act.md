@@ -9,6 +9,7 @@ topics:
 authors:
   - andreanocesigritz
 
+expirydate: 2025-01-01
 ---
 
 OMB Memo M-11-26, the [Paperwork Reduction Act Fast Track Process (PDF, 200 kb, 4 pages, 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2011/m11-26.pdf), will allow agencies to obtain timely feedback on service delivery while ensuring that the information collected is useful and minimally burdensome for the public, as required by the [Paperwork Reduction Act of 1995](https://digital.gov/resources/paperwork-reduction-act-44-u-s-c-3501-et-seq/).
