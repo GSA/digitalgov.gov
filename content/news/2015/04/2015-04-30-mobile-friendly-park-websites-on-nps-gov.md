@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - analytics
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/250-x-447-Mobile-friendly-NPS.gov-website-on-phone.jpg" alt="Mobile-friendly NPS.gov website on phone" >}}Park websites on NPS.gov from A ([Acadia](http://www.nps.gov/acad/index.htm)) to Z ([Zion](http://www.nps.gov/zion/index.htm)) are now mobile-friendly. Visitors using phones and tablets to visit national park websites now have a user-friendly experience to enhance their virtual visits. Previously, visitors using mobile devices saw a smaller version of the website scaled to fit the size of their screen. Now, the content will adjust to fit small screens while providing the same functionality available to those visiting the site using a desktop or laptop.

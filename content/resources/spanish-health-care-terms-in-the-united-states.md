@@ -8,6 +8,7 @@ topics:
 authors:
   - lgodfrey
   - lmartinez
+expirydate: 2025-01-01
 ---
 
 Below is a list of common English health care and medical terms (in **bold**), and their equivalent Spanish translations (in _italics_).

@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/05/Harvard-ash-2.jpg" alt="Harvard's John F. Kennedy school of Government logo - sheild with veritas, Harvard's motto." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/05/Harvard-ash-2.jpg)Nine federal programs made the list!

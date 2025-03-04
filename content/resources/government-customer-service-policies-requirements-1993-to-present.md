@@ -8,6 +8,7 @@ topics:
   - public-policy
 authors:
   - rflagg
+expirydate: 2025-01-01
 ---
 
 August 2023 — [OMB Circular A-11 Section 280, Managing Customer Experience and Improving Service Delivery (PDF, 385 KB, 14 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf)

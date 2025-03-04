@@ -70,17 +70,11 @@ featured_links:
   - title: "Eight principles of mobile-friendliness"
     summary: "Use these eight principles of mobile-friendliness to greatly improve the mobile-friendliness of your websites."
     href: "https://digital.gov/guides/mobile-principles/"
-  - title: "How to make a mobile paper prototype: A USA.gov case study"
-    summary: "Learn how you can use a single piece of paper to make your mobile app work 20 percent better."
-    href: "https://digital.gov/2014/05/22/how-to-make-a-mobile-paper-prototype/"
   - title: "Mobile development strategies"
     summary: "Learn about the most common mobile development strategies."
     href: "https://digital.gov/resources/mobile-development-strategies"
   - title: "How to track performance"
     summary: "A step-by-step guide to picking metrics and tools for tracking performance on your site."
     href: "https://designsystem.digital.gov/performance/how/"
-  - title: "How to contract for mobile development services"
-    summary: "Find out how to structure a Statement of Work (SOW) for the development of mobile products."
-    href: "https://digital.gov/resources/mobile-sow-and-developer-qualifications/"
 
 ---

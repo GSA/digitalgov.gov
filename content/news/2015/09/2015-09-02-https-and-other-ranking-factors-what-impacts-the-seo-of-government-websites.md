@@ -11,6 +11,7 @@ topics:
   - security
   - plain-language
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 Following the [recent OMB memo](https://https.cio.gov/) that all publicly available federal websites and Web services must [implement HTTPS](http://www.digitalgov.gov/2015/07/21/an-introduction-to-https-by-18f-and-digitalgov-university/) by December 31, 2016, Web content managers across government are considering the [SEO](http://search.digitalgov.gov/blog/seo-joe-pagano.html) (search engine optimization) implications of the transition, among other details.

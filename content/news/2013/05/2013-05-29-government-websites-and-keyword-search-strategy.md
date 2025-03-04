@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - user-experience
   - search-engine-optimization
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/05/250-x-154-SEO-Search-Engine-Optimization-components-464186213.png" alt="bubble with SEO written in the middle" >}}Having a keyword search strategy is critical for government agencies to:

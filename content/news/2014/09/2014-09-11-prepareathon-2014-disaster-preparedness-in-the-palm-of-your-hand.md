@@ -6,6 +6,7 @@ summary: "If there was one thing we learned on September 11, 2001, it's that you
 topics:
   - mobile
  
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/09/250-x-306-FEMA\_PREPARE-POSTERS\_general\_small\_v4\_RELEASE\_508.jpg" alt="FEMA ad for National Preparedness Month; National PrepareAthon! Day, September 30, 2014." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/09/600-x-735-FEMA_PREPARE-POSTERS_general_small_v4_RELEASE_508.jpg)If there was one thing we learned on September 11, 2001, it&#8217;s that you can never be too prepared for a disaster of any magnitude.

@@ -11,6 +11,7 @@ topics:
   - multilingual
   - multimedia
   - social-media
+expirydate: 2025-01-01
 ---
 
 Animated gifs are increasingly found throughout the digital experience of today’s users. They offer a dynamic presentation of information in a format that can be both more performance-effective and cost-effective than standard video or images, making them valuable for federal teams looking to bring their programs to the modern digital space and improve customer satisfaction.
@@ -87,6 +88,7 @@ Darren Cole of the [National Archives and Records Administration](http://todaysd
 
 [Gifs from Government Records (.pptx presentation, 3 MB)](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/Gifs-from-Government-Records-Darren-Cole-National-Archives-and-Records-Administration-NARA.pptx)
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -10,6 +10,7 @@ topics:
   - data-visualization
   - social-media
 
+expirydate: 2025-01-01
 ---
 
 A (possibly infamous) [blog post](http://www.zdnet.com/article/us-congress-publishes-press-release-made-of-copyright-violating-animated-gifs) from last Friday and the discussion/debate that followed reminded me of several important points that we all may lose sight of during our hectic schedules.
@@ -50,6 +51,7 @@ and I will keep writing about it, but every so often I need to go to [Smithsonia
 
 We have to always remember that our main mission is reaching out and building community and making people&#8217;s lives better. That&#8217;s a wonderful responsibility and we have so many exciting [tools]({{< ref "/resources/federal-compatible-terms-of-service-agreements.md" >}}) (with more popping up all the time) to play with and try and fail when needed. Animated gifs, kinetic infographics, live-streamed video: whatever it takes to make that connection, because that&#8217;s why we&#8217;re doing this. If you need to increase your comfort level with at least one of these visual platforms, then sign-up for [Essentials of Animated Gifs for Government]({{< tmp "events/essentials-of-animated-gifs-for-government.md" >}} "Essentials of Animated Gifs for Government").
 
+expirydate: 2025-01-01
 ---
 
 _You’ve just finished reading the latest article from our Monday column, [The Content Corner]({{< ref "/topics/content-strategy" >}}). This column focuses on helping solve the main content issues facing digital professionals, including producing enough content and making that content engaging._

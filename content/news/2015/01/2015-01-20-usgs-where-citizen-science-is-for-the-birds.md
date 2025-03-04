@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 > &#8220;I tell the interns: In this lab, we&#8217;re all about failure. If you&#8217;re not failing, you&#8217;re not really doing anything.&#8221;

@@ -10,6 +10,7 @@ topics:
   - communication
   - product-and-project-management
   - research
+expirydate: 2025-01-01
 ---
 
 Fresh from [last week’s article about workflows]({{< ref "2015-12-07-the-content-corner-work-smarter-with-workflows.md" >}}) and their importance in the content creation process, I stumbled upon a new twist in content production known as [pair writing](http://www.uxbooth.com/articles/write-better-content-by-working-in-pairs/).

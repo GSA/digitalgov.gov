@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/600-x-464-Two-robots-with-blank-tablet-computers-Kirillm-iStock-Thinkstock-178892148.jpg" alt="Two robots with blank tablet computers" caption="" >}} 
@@ -22,6 +23,7 @@ IFTTTâ€™s usefulness has even led to a similar service for back-end developmentâ
 
 Making app development as easy as visually combining APIs like Lego blocks will lead to a greater demand for more federal APIs. Taking a microservices architecture approach and using services like IFTTT is the best way for the federal government to serve citizens through the promise of open data.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

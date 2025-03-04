@@ -18,6 +18,7 @@ featured_image:
   uid: dotgov-card
   alt: 'The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background.'
 
+expirydate: 2025-01-01
 ---
 
 {{< img-right src="dotgov-logo" alt="The new DotGov logo has the .gov top-level domain text in light blue on a dark blue background." caption="The new DotGov logo." >}}

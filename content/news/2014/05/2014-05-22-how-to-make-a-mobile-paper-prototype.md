@@ -10,6 +10,7 @@ topics:
   - mobile
   - research
   - user-experience
+expirydate: 2025-01-01
 ---
 
 What if a single piece of paper could make your mobile app work 20 percent better?

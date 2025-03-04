@@ -8,6 +8,7 @@ authors:
 topics:
   - search-engine-optimization
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/250-x-60-DataGov-logo-with-flag.jpg" alt="Data.gov logo with AMerican flag" >}}Data.gov is the central clearinghouse for open data from the United States federal government. It also provides access to many local government and non-federal open data resources. But how does this data get on to Data.gov?

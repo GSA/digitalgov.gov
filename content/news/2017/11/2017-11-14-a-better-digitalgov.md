@@ -13,6 +13,7 @@ deck: "We’re going to try something new here"
 communities:
   - apis
   - accessibility
+expirydate: 2025-01-01
 ---
 
 We’re going to tell the story of how we’re rebuilding DigitalGov from the ground up — writing about the specific challenges we face, the methods and tools we’re using to overcome them, and how we’re measuring the results of our work.

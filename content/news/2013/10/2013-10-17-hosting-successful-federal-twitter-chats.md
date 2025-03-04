@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
   - social-media
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/12/USDA.jpg" alt="Image of federal employees conducting a Twitter chat." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/USDA.jpg)One way to leverage Twitter, beyond the basics of sending messages and engaging in dialogue, is to organize a Town Hall discussion, or Twitter chat.

@@ -10,6 +10,7 @@ topics:
   - social-media
   - multimedia
   - search
+expirydate: 2025-01-01
 ---
 
 Increasingly, we&#8217;ve noticed that our agency customers are publishing their highest quality images on social media and within database-driven multimedia galleries on their websites. These sources are curated, contain metadata, and have both thumbnails and full-size images. That&#8217;s a big improvement in quality over the images embedded within HTML pages on agencies&#8217; websites.

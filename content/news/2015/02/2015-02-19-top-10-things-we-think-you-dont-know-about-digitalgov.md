@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - analytics
   - search
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/02/600-x-400-Celebration-with-Balloons-Confetti-and-Cupcake-Danny-Hooks-iStock-Thinkstock-146803582.jpg" alt="Celebration with Balloons, Confetti, and Cupcake" caption="" >}} 

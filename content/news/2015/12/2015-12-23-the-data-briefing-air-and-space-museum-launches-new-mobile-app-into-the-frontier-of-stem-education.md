@@ -9,6 +9,7 @@ topics:
   - emerging-tech
   - software-engineering
   - mobile
+expirydate: 2025-01-01
 ---
 
 The Smithsonian Institution’s Air and Space Museum just released a new educational mobile app, <a href="http://airandspace.si.edu/explore-and-learn/mobile-missions/index.cfm" target="_blank">Mobile Missions</a>. From the website:

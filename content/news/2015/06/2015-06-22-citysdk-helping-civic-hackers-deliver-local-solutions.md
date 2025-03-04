@@ -12,6 +12,7 @@ topics:
   - application-programming-interface
   - open-data
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 Civic hackers are a special breed—their primary motivation is closely tied to the social issues closest to their hearts.

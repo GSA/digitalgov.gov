@@ -9,6 +9,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 One of the most vital parts of any website is its starting point. When a visitor arrives on the main page of your site, they should be able to quickly tell what the main tasks are and how to perform them. Visual cues and plain language are the best ways to accomplish this.

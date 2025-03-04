@@ -11,6 +11,7 @@ topics:
   - cloud-and-infrastructure
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 You may have heard of “serverless architecture” or Amazon Web Services (AWS) Lambda product and wondered what is unique about this new buzzword. As with many new digital cloud technologies, serverless architecture could mean two things. It may be applications that are built using third-party cloud applications. Or serverless architectures could be pieces of code that live in the cloud and only run when called on by a user: event-driven functions. One thing that is common to both definitions is that there are servers behind the serverless architectures.
@@ -27,6 +28,7 @@ In the second definition of serverless architecture, the server appears when the
 
 Serverless architecture is still evolving, and I expect to see many new developments as more developers explore event-driven applications. [Expect to see the federal government along with other governments explore the possibilities of serverless architecture in delivering government services to the American public](http://www.govtech.com/opinion/Serverless-Computing-Is-a-Growing-Trend-Heres-What-You-Need-to-Know.html).
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: AWS Lambda and Amazon Web Services are used for illustrative purposes and do not imply endorsement by the U.S. federal government or any specific federal agency.

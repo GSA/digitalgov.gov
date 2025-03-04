@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - analytics
   - multilingual
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [USAGov blog](https://blog.usa.gov/a-new-metric-to-help-us-measure-our-content-efficiency)._

@@ -10,6 +10,7 @@ topics:
   - mobile
   - content-strategy
   - human-centered-design
+expirydate: 2025-01-01
 ---
 
 How do you reach audiences with important health information and leave users asking for more? Is it enough to create responsive websites written in plain language or to design apps with health tips optimized for handheld devices? While those ideas are a step in the right direction, we do not live in a world where, “if you build it, they will come.”

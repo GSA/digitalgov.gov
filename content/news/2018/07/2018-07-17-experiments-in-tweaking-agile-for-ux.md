@@ -15,6 +15,7 @@ featured_image:
   uid: agile-ux-title
   alt: 'Featured image al text.'
 
+expirydate: 2025-01-01
 ---
 
 _This blog post is adapted from a talk at the 2018 Government UX Summit at the Bureau of Labor Statistics._

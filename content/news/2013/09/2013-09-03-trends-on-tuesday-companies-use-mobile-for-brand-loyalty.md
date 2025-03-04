@@ -6,6 +6,7 @@ summary: A recent survey of 100 retailers by EPiServer found that 46 percent of 
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/09/episerver-big-opt-400x300.jpg" alt="Percentage of Company Mobile Transactions" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/09/episerver-big-opt.jpg)A recent survey of 100 retailers by EPiServer found that 46 percent of those with a mobile strategy in place and 74 percent of those planning to launch one soon said they are [using mobile primarily to increase customer loyalty or provide a more personalized experience for customers](http://www.mobilecommercedaily.com/retailers-primarily-use-mobile-to-drive-loyalty-not-transactions-report). In comparison, only 8 percent said they use their mobile strategy for sales.

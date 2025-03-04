@@ -7,6 +7,7 @@ authors:
   - kelly-olson
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 The slow, tedious federal acquisition process has long been the butt of jokes in the private sector.

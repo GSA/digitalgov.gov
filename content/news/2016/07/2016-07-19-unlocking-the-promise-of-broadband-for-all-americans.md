@@ -9,6 +9,7 @@ authors:
 topics:
   - mobile
   - innovation
+expirydate: 2025-01-01
 ---
 
 > Summary: The Administration announces new wireless research efforts that will improve testing and research of advanced wireless technologies.

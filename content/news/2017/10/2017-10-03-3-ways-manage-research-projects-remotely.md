@@ -15,6 +15,7 @@ topics:
 featured_image:
   uid: video-call-rawpixel-istock-thinkstock-508060428
   alt:
+expirydate: 2025-01-01
 ---
 
 > _This post was originally published on the [18F blog](https://18f.gsa.gov/2017/09/27/three-ways-to-manage-research-projects/)._

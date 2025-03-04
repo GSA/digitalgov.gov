@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 What’s your mobile itch?

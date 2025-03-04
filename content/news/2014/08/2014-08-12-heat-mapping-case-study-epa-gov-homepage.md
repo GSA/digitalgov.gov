@@ -11,6 +11,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 Most people relate the term “heat map” with something they see during the weather forecast on the nightly news, those colorful maps that vividly illustrate how hot it’s going to be during an impending heat wave. The word &#8220;heat map&#8221; may not usually however, conjure up images of a widely used Web usability tool; but for those who manage [Environmental Protection Agency’s](http://www.epa.gov/) (EPA) website, that is exactly what the phrase brings to mind.

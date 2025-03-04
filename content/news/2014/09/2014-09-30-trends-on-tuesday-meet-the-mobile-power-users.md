@@ -10,6 +10,7 @@ topics:
   - mobile
   - multilingual
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/05/600-x-400-Friends-Looking-At-Cell-Phone-Ridofranz-iStock-Thinkstock-166121799.jpg" alt="Young Hispanic millennials looking at cell phones" caption="" >}} 

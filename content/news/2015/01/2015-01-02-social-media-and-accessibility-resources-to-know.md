@@ -9,6 +9,7 @@ topics:
   - accessibility
   - social-media
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-452-Social-media-network-background-with-icons-vector-VLADGRIN-iStock-Thinkstock-470847401.jpg" alt="Social media network background with icons" caption="" >}} 

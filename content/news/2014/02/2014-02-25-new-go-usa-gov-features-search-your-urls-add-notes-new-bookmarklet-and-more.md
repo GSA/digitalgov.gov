@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/08/250-x-84-Go-USA-gov-URL-shortener-logo.jpg" alt="Go USA gov URL shortener logo" >}}
