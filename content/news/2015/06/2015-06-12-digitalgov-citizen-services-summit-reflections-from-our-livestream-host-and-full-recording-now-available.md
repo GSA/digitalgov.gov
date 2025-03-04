@@ -75,6 +75,7 @@ The Summit's hashtag, [&#35;DigitalGov15](https://twitter.com/hashtag/DigitalGov
 <p>&mdash; Bernetta Reese (@BernettaReese) May 21, 2015</p>
 </blockquote>
 
+
 {{< tweet user="WhoTrendedIT" id="601382714542022657" >}}
 
 expirydate: 2025-01-01
