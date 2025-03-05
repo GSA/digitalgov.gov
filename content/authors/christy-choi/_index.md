@@ -7,6 +7,7 @@ display_name: "Christy Choi"
 first_name: "Christy"
 last_name: "Choi"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: christy-choi

@@ -7,6 +7,7 @@ display_name: "Candace Maynard"
 first_name: "Candace"
 last_name: "Maynard"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: candace-maynard

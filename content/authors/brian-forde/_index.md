@@ -7,6 +7,7 @@ display_name: "Brian Forde"
 first_name: "Brian"
 last_name: "Forde"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: brian-forde

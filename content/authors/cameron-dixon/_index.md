@@ -7,6 +7,7 @@ display_name: "Cameron Dixon"
 first_name: "Cameron"
 last_name: "Dixon"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: cameron-dixon

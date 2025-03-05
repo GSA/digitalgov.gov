@@ -19,7 +19,7 @@ github: "18f"
 # Profile Photo
 # See [URL] for a full list of profile photo options
 # github-photo — requires a github ID
-profile_source: ""
+profile_source: "github"
 # For more information on managing your author page,
 # see https://workflow.digital.gov/authors
 ---

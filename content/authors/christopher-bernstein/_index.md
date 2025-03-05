@@ -7,6 +7,7 @@ display_name: "Christopher Bernstein"
 first_name: "Christopher"
 last_name: "Bernstein"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: christopher-bernstein

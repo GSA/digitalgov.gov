@@ -7,6 +7,7 @@ display_name: "Deborah Bennett"
 first_name: "Deborah"
 last_name: "Bennett"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: deborah-bennett

@@ -7,6 +7,7 @@ display_name: "Cheryl Hackley"
 first_name: "Cheryl"
 last_name: "Hackley"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: cheryl-hackley

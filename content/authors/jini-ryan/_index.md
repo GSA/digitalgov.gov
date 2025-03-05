@@ -7,6 +7,7 @@ display_name: "Jini Ryan"
 first_name: "Jini"
 last_name: "Ryan"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: jini-ryan

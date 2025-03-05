@@ -7,6 +7,7 @@ display_name: "Jesse Taggert"
 first_name: "Jesse"
 last_name: "Taggert"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: jesse-taggert

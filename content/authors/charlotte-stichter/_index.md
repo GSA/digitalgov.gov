@@ -7,6 +7,7 @@ display_name: "Charlotte Stichter"
 first_name: "Charlotte"
 last_name: "Stichter"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: charlotte-stichter

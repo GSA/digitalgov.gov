@@ -7,6 +7,7 @@ display_name: "Dorothy Amatucci"
 first_name: "Dorothy"
 last_name: "Amatucci"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: dorothy-amatucci

@@ -7,6 +7,7 @@ display_name: "Carolyn Hinkley"
 first_name: "Carolyn"
 last_name: "Hinkley"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: carolyn-hinkley

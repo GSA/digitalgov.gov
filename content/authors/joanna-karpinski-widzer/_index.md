@@ -7,6 +7,7 @@ display_name: "Joanna Karpinski-Widzer"
 first_name: "Joanna"
 last_name: "Karpinski-Widzer"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: joanna-karpinski-widzer
