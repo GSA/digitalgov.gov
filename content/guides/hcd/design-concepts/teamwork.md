@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 2: Teamwork"
 guide: hcd-design-concepts
+field_guide_nav_title: "Teamwork"
 primary_image: hcd-design-concepts
 ---
 {{< img src=hcd-design-concepts-2 >}}

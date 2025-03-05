@@ -1,5 +1,5 @@
 ---
-slug: web-accessibility-guidelines/
+slug: web-accessibility-guidelines
 title: Web Accessibility Guidelines (WCAG)
 deck: "A single shared standard for web content accessibility, developed in the open to meet the needs of individuals, organizations, and governments internationally"
 source_url: https://www.w3.org/WAI/standards-guidelines/wcag/

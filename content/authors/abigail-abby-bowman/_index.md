@@ -4,8 +4,7 @@
 
 # slug — the specific user-id for an author.
 slug: abigail-abby-bowman
-display_name: "Abigail \"Abby\" Bowman"
-first_name: "Abigail \"Abby\""
+first_name: "Abigail 'Abby' "
 last_name: "Bowman"
 
 agency_full_name: "Bureau of Alcohol, Tobacco, Firearms and Explosives"

@@ -2,6 +2,7 @@
 date: 2020-07-28 09:00:00 -0500
 title: "Access the data"
 guide: site-scanning
+field_guide_nav_title: "Access the data"
 aliases:
   - /guide/site-scanning/data/
   - /guides/site-scanning/download-the-data/

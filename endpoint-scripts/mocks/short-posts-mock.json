@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "field_title": "FY 24 Governmentwide Section 508 Assessment",
+            "field_deck": "The FY 2024 Governmentwide Section 508 Assessment highlights progress and ongoing challenges in federal digital accessibility efforts. This assessment provides key findings on governmentwide accessibility maturity and actionable recommendations. The recommendations include stronger enforcement of 508 standards, increased resourcing, and integrating accessibility into the technology lifecycle to enhance compliance and access for all.",
+            "field_summary": "The FY 2024 Governmentwide Section 508 Assessment highlights progress and ongoing challenges in federal digital accessibility efforts. This assessment provides key findings on governmentwide accessibility maturity and actionable recommendations. The recommendations include stronger enforcement of 508 standards, increased resourcing, and integrating accessibility into the technology lifecycle to enhance compliance and access for all.",
+            "field_date": "2024-12-20T00:00:00-0500",
+            "date_modified": "2024-12-20T14:45:54-05:00",
+            "field_page_weight": "1",
+            "field_external_url": "https://www.section508.gov/manage/section-508-assessment/2024/executive-summary/",
+            "field_source": "gsa",
+            "field_short_post_type": "News",
+            "field_topics": [
+                "accessibility",
+                "best-practices",
+                "digital-service-delivery",
+                "emerging-tech"
+            ],
+            "filepath": "/content/news/2024/12/2024-12-20-fy-24-governmentwide-section-508-assessment.md",
+            "uid": "fy-24-governmentwide-section-508-assessment",
+            "slug": "fy-24-governmentwide-section-508-assessment",
+            "url": "/2024/12/20/fy-24-governmentwide-section-508-assessment/"
+        }
+    ]
+}

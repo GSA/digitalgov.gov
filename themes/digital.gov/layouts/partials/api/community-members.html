@@ -1,0 +1,7 @@
+{{- if (isset .Params "community_list") -}}
+  {{- $community_lists := .Params.community_list -}}
+  {{- range $community_lists -}}
+    "field_members" : "{{- .members -}}", "field_subscribe_email_subject" :
+    "{{- .subscribe_email_subject -}}",
+  {{- end -}}
+{{- end -}}

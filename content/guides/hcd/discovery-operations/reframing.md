@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Reframing"
 summary: "As you learn more about the problem space, iteratively reframe it, to ensure you’re working within scope, and researching the right problem."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Reframing"
 primary_image: hcd-discovery-operations
 ---
 

@@ -4,6 +4,7 @@ title: "Make data-informed decisions"
 deck: "How to turn the DAP data into actionable insights"
 summary: "Learn how to use custom reports to turn the DAP data into actionable insights."
 guide: dap
+field_guide_nav_title: "Insights"
 primary_image: guide-dap
 aliases:
   - /services/dap/common-questions-about-dap-faq/

@@ -21,7 +21,6 @@ topics:
   - product-and-project-management
   - plain-language
   - content-strategy
-  - content-strategy
   - customer-experience
   - user-experience
 

@@ -4,6 +4,7 @@ title: "Web analytics playbook"
 deck: "Use web analytics to reach your strategic website goals"
 summary: "This guide provides actionable strategies for effectively using web analytics to improve federal websites and digital services."
 guide: web-analytics-playbook
+field_guide_nav_title: "Overview"
 aliases:
 image: guide-web-analytics-playbook
 primary_image: guide-web-analytics-playbook

@@ -4,6 +4,7 @@ title: "Establish goals"
 deck: ""
 summary: "Learn how to clearly define and communicate your objectives."
 guide: public-participation
+field_guide_nav_title: "Establish goals"
 primary_image: guide-public-participation
 ---
 

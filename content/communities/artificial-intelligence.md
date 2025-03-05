@@ -12,6 +12,7 @@ deck: ""
 summary: "Supporting and coordinating the use of artificial intelligence technologies in federal agencies."
 
 redirectto: https://coe.gsa.gov/communities/ai.html
+source_url: https://coe.gsa.gov/communities/ai.html
 
 # see all topics at https://digital.gov/topics
 topics:
@@ -32,11 +33,11 @@ community_list:
     subscribe_email: "AI-subscribe-request@listserv.gsa.gov"
     terms: "Only federal employees are eligible to join."
     members: 1118
-  - platform: listserv
-    type: public
-    subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
-    terms: "Anyone is eligible to join."
-    members: 357
+  # - platform: listserv
+  #   type: public
+  #   subscribe_email: "AIPUBLIC-subscribe-request@listserv.gsa.gov"
+  #   terms: "Anyone is eligible to join."
+  #   members: 357
 
 ---
 

@@ -4,6 +4,7 @@ title: "Learn more about the program"
 deck: ""
 summary: "Learn about the program, how it operates, and where to find additional information."
 guide: site-scanning
+field_guide_nav_title: "Learn more about the program"
 primary_image: guide-site-scanning
 aliases:
   - /guide/site-scanning/learn-more-about-the-program/

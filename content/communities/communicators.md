@@ -1,6 +1,7 @@
 ---
 
 title: Join the Communicators
+slug: communicators
 summary: "Improve written and verbal communication to make government more effective."
 deck: Share and learn with communications and public affairs practitioners.
 

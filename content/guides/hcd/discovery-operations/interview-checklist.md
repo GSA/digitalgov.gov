@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Interview checklist"
 summary: "Use this checklist to prepare the night before you plan to conduct research interviews."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Interview checklist"
 primary_image: hcd-discovery-operations
 ---
 <div style="margin-left: 20px">

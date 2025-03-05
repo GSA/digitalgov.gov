@@ -4,6 +4,7 @@ title: "Terms of service"
 deck: "GSA offers DAP subject to your acceptance of these terms"
 summary: "Access to or use of the Digital Analytics Program (DAP) constitutes acceptance of these terms of service."
 guide: dap
+field_guide_nav_title: "Terms of service"
 primary_image: guide-dap
 aliases:
   - /services/dap/guidelines-for-sharing-dap-data/

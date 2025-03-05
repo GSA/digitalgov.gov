@@ -4,6 +4,7 @@ title: "Understanding the Digital Analytics Program"
 deck: "A free analytics tool for measuring digital services in the federal government"
 summary: "The Digital Analytics Program (DAP) offers advanced, easy web analytics for federal agencies."
 guide: dap
+field_guide_nav_title: "Overview"
 
 # See all topics at https://digital.gov/topics
 topics:

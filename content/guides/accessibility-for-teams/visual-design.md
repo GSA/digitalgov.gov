@@ -4,6 +4,7 @@ title: "Accessibility for visual designers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
+field_guide_nav_title: "Visual design"
 primary_image: accessibility-for-teams-guide
 summary_box: true
 topics:

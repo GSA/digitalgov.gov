@@ -4,6 +4,7 @@ title: "Get started with DAP"
 deck: "Use DAP to better understand user behavior"
 summary: "Learn how to use DAP to better understand user behavior."
 guide: dap
+field_guide_nav_title: "Get started"
 primary_image: guide-dap
 aliases:
   - /services/dap/add-your-site-dap/

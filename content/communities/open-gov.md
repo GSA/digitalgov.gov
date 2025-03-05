@@ -17,6 +17,7 @@ topics:
   - open-source
 
 redirectto: https://open.usa.gov/mailing-list/
+source_url: https://open.usa.gov/mailing-list/
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden

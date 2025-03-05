@@ -9,6 +9,7 @@ deck: ""
 summary: "To support people working to enhance access to federal information technology (IT), we identify and promote best practices for compliance with Section 508 law, and conformance to the Revised 508 Standards."
 
 redirectto: https://www.section508.gov/manage/join-the-508-community/
+source_url: https://www.section508.gov/manage/join-the-508-community/
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

@@ -5,6 +5,7 @@ summary: "These communities of interest are for federal staff seeking to improve
 
 # Redirects: Enter the full URL that this page will point to.
 redirectto: https://www.archives.gov/records-mgmt/policy/coi
+source_url: https://www.archives.gov/records-mgmt/policy/coi
 
 # See all topics at https://digital.gov/topics
 topics:
