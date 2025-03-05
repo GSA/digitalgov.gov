@@ -4,8 +4,8 @@
 # https://digital.gov/authors/mary-king
 
 display_name: "Mary King"
-first_name: "Mary King"
-last_name: "Mary King"
+first_name: "Mary"
+last_name: "King"
 
 
 # slug — the specific user-id for an author.

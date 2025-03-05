@@ -7,6 +7,7 @@ display_name: "Lisa Wilcox"
 first_name: "Lisa"
 last_name: "Wilcox"
 
+expirydate: 2025-02-18
 
 # slug — the specific user-id for an author.
 slug: lisa-wilcox

@@ -5,7 +5,7 @@
 # slug — the specific user-id for an author.
 slug: nicolas-pjontek
 display_name: "Nicolas Pjontek"
-first_name: "Nicolas "
+first_name: "Nicolas"
 last_name: "Nicolas Pjontek"
 
 

@@ -45,6 +45,12 @@ aliases:
   - /authors/joel-minton
   - /authors/john-grill
   - /authors/john-paul
+  - /authors/lisa-friedersdorf
+  - /authors/lisa-gelobter
+  - /authors/lisa-wilcox
+  - /authors/lisa-wolfisch
+  - /authors/loren-siebert
+  - /authors/lorrie-cranor
   - /authors/ryan-xue
   - /authors/sally-bourrie
   - /authors/sam-bronson
