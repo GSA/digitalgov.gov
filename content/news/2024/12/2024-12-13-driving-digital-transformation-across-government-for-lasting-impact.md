@@ -3,6 +3,7 @@
 source_url: https://www.whitehouse.gov/omb/briefing-room/2024/12/12/driving-digital-transformation-across-government-for-lasting-impact/
 source: whitehouse
 date: 2024-12-12 00:00:00 -0500
+expirydate: 2025-02-18
 title: Driving Digital Transformation Across Government for Lasting Impact
 deck: Digital promotes effective, usable federal services that enhance public
   trust in government. Over the past four years, the Office of the Federal

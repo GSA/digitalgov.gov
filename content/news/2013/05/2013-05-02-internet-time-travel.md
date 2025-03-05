@@ -7,6 +7,7 @@ authors:
   - tammi-marcoullier
 topics:
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/05/600-x-328-CERN-homepage-Oct-7-2015.jpg" alt="CERN homepage" caption="" >}}

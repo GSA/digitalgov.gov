@@ -8,6 +8,7 @@ authors:
 topics:
   - application-programming-interface
   - open-data
+expirydate: 2025-01-01
 ---
 
 The Department of Education (ED) launched its [first developer site](https://usedgov.github.io/). The developer site is built on GitHub which will make it easier for ED to centralize their code and Application Programming Interfaces (APIs). Currently, ten APIs are on the developer site:

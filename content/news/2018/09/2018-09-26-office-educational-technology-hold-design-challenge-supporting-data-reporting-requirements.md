@@ -14,6 +14,7 @@ featured_image:
   uid: people-working-together
   alt: 'Photo of people working together at the Open Data Hackathon, 2016&#46;'
 
+expirydate: 2025-01-01
 ---
 
 

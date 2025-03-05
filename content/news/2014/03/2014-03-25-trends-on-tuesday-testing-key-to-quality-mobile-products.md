@@ -9,6 +9,7 @@ topics:
   - mobile
   - research
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2013/12/mobile-devices-testing-app.jpeg" alt="Many smartphones and tablets on a table displaying the same app." >}}

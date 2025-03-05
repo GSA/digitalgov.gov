@@ -11,6 +11,7 @@ topics:
   - cloud-and-infrastructure
   - data-visualization
   - open-data
+expirydate: 2025-01-01
 ---
 
 Maps and geospatial analysis have become increasingly important as they allow the FCC to display information to the public in an interactive visual format. The FCC’s maps have become useful tools for conveying data in conjunction with Commission reports and public notices. The FCC’s maps site serves as a centralized hub for data visualizations and is one of the most highly trafficked parts of [the Commission’s website](https://www.fcc.gov/).

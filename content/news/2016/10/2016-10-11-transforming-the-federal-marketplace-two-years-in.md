@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - acquisition
   - innovation
+expirydate: 2025-01-01
 ---
 
 > _Summary: It’s been two years since we laid out the Administration’s plan to transform the Federal marketplace. Here’s a look at what we’ve accomplished, and what’s next._

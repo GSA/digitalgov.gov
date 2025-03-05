@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/07/Featurephone.jpg" alt="Stock Image of a person using a feature phone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/07/Featurephone.jpg)[MobileMarketingWatch](http://www.mobilemarketingwatch.com/sms-marketing-how-its-changing-in-2013-34049/) recently published an article on how the SMS marketing world is changing. Due to its popularity, SMS has evolved into one of the most effective mobile marketing strategies.

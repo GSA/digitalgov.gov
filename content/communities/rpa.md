@@ -7,6 +7,8 @@ date: 2019-12-12 19:00:00 -0500
 title: "Robotic Process Automation (RPA)"
 summary: "A collaborative body designed to rapidly accelerate the adoption of Robotic Process Automation (RPA) technology across the federal government."
 
+kicker: "Join the RPA Community"
+
 # see all topics at https://digital.gov/topics
 topics:
   - emerging-tech

@@ -2,6 +2,10 @@
 
 .dg-guide__container {
   display: flex;
+
+  .dg-guide__menu-bar-links {
+    // padding-left: calc(50vw - 36rem);
+  }
 }
 
 .dg-guide__content {

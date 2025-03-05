@@ -7,6 +7,7 @@ authors:
   - mary-king
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/11/600-x-550-screen-capture-of-Twitter-Polls-how-to-tweet-and-video.jpg" alt="A screen capture of Twitter Polls how to tweet and video" >}}

@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - security
+expirydate: 2025-01-01
 ---
 
 These days, when you turn on the news you almost always see another hack, leak, or breach putting sensitive information at risk. But we’ve been focusing on <a href="http://www.gao.gov/highrisk/ensuring_the_security_federal_government_information_systems/why_did_study?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">keeping federal agency information systems secure</a> for a long time. For October’s Cybersecurity Awareness Month, the WatchBlog takes a look at <a href="http://gao.gov/key_issues/cybersecurity/issue_summary?utm_source=blog&utm_medium=social&utm_campaign=watchblog" target="_blank">federal cybersecurity challenges</a>. <span id="more-4956"></span> {{< legacy-img src="2016/10/600-x-450-Security-concept-Gold-Closed-Padlock-on-digital-background-Maksim-Kabakou-iStock-Thinkstock-166739999.jpg" alt="Security concept: Gold Closed Padlock on digital background." caption="" >}} 

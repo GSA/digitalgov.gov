@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/03/featured-stopwatch-cropped-301-x-212-250x176.jpg" alt="Stopwatch vector illustration" caption="" >}} 

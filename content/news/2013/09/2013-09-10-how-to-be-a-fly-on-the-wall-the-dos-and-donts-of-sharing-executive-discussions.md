@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - product-and-project-management
   - social-media
+expirydate: 2025-01-01
 ---
 
 A sure way to annoy employees is to never share what executives discuss or decide until a new mandate lands on the organization’s collective head. While senior leaders should expect some privacy in decision-making and debate, they should also expect to openly hold themselves accountable and to make sure their employees know where the organization is headed.

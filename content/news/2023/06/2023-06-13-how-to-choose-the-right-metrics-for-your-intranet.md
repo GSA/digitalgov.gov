@@ -30,7 +30,7 @@ To ensure your intranet meets its intended goals, it's crucial to establish key 
 
 Intranet objectives are the foundational bedrock on which your metrics should be built. They steer the direction of your intranet, influencing its content, structure, and functionality. Having a clear comprehension of your agency's intranet objectives is paramount, as they will guide you in selecting the appropriate metrics.
 
-Common intranet objectives for federal agencies vary based on the specific mission, goals, and [user needs](https://digital.gov/2015/07/20/the-content-corner-determining-your-users-needs/) of the agency. Nevertheless, they often include:
+Common intranet objectives for federal agencies vary based on the specific mission, goals, and user needs of the agency. Nevertheless, they often include:
 
 * **Enhancing internal communication**: The intranet should foster efficient and effective communication between departments, teams, and individuals within the agency.
 * **Promoting collaboration**: The intranet should provide access to tools and platforms that support collaborative work, such as document sharing, project management, and communication channels.
@@ -74,14 +74,14 @@ These metrics can reveal how well your intranet fosters communication and collab
 
 ### Satisfaction metrics
 
-[Satisfaction metrics](https://digital.gov/2016/08/05/csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx/) measure users' perceptions and experiences with your intranet. They include:
+Satisfaction metrics measure users' perceptions and experiences with your intranet. They include:
 
 * **Survey results**: Regular surveys can gauge user satisfaction, gather feedback, and identify areas for improvement.
 * **Feedback**: Regular feedback collection can offer qualitative insights into user satisfaction and highlight potential issues.
 * **Customer loyalty score**: A measure of how likely users are to recommend the intranet to their colleagues.
 * **Customer effort score**: A measure of how easy it is for users to complete tasks on the intranet.
 
-Collecting and analyzing these metrics can ensure your intranet meets user expectations, contributing to higher satisfaction and engagement. [Common Metrics: Guidance, Best Practices, and Tools](https://digital.gov/2013/07/15/digital-metrics-for-federal-agencies/#part-1) is also worth a read.
+Collecting and analyzing these metrics can ensure your intranet meets user expectations, contributing to higher satisfaction and engagement.
 
 ## Aligning objectives with metrics
 

@@ -3,6 +3,8 @@ date: 2023-11-16 12:16:00 -0500
 title: Federal Program and Project Management (FedPM)
 summary: The Federal Program and Project Management (FedPM) Community of Practice is the central source for the sharing of program and project management expertise across the entire federal government.
 
+kicker: "Join the Federal Program and Project Management Community"
+
 redirectto: https://community.max.gov/pages/viewpage.action?pageId=713787996
 source_url: https://community.max.gov/pages/viewpage.action?pageId=713787996
 
@@ -12,5 +14,6 @@ source_url: https://community.max.gov/pages/viewpage.action?pageId=713787996
 weight: 1
 
 slug: federal-program-and-project-management-fedpm
+
 
 ---

@@ -15,6 +15,7 @@ topics:
   - open-data
   - privacy
   - security
+expirydate: 2025-01-01
 ---
 
 > **Summary**: Today, OMB is releasing an update to Circular A-130, the Federal Government’s governing document for the management of Federal information resources.

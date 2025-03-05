@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 Facebook is a highly visual medium. [Studies](http://www.socialmediaexaminer.com/photos-generate-engagement-research) show that [Facebook posts featuring photos](https://www.facebook.com/AIDS.gov/) are the most noticed, liked, and shared.

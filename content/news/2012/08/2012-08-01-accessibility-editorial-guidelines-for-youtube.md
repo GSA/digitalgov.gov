@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - multimedia
   - multilingual
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2012/08/600-x-332-USAgov-Youtube-channel.jpg" alt="USAgov YouTube Channel" >}}

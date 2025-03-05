@@ -7,6 +7,7 @@ authors:
   - jonathan-rubin
 topics:
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2013/06/250-x-172-User-Experience-Slide-with-Jakob-Neilsen-quote_A-Snappy-User-Experience-Beats-a-Glamorous-One.jpg" alt="User Experience Slide with Jakob Neilsen quote A Snappy User Experience Beats a Glamorous One" >}}If you want a better user experience on your government website, there’s a simple secret: early planning.  Good designers know that it&#8217;s much more difficult to make changes to something **after** it&#8217;s built than before. This is true for designing just about anything, whether it&#8217;s a website, car, or new kitchen.

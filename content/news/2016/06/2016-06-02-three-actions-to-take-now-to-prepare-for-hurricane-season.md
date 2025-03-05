@@ -7,6 +7,7 @@ authors:
   - craig-fugate
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 > _Summary: The 2016 National Preparedness Report is an important guidepost in our work to build a stronger, more resilient America._

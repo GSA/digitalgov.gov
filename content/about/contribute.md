@@ -10,6 +10,8 @@ aliases:
   - /join/
   - /contribute/
   - /digitalgov-university/
+  - /2015/02/03/let-us-share-your-events/
+  - /digitalgov-university/digitalgov-university-event-and-training-request-form/
 
 ---
 Digital.gov provides guidance on building better digital services in government. Do you have a case study or success story to share? Did your team recently accomplish something noteworthy?

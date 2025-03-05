@@ -10,6 +10,7 @@ topics:
   - user-experience
   - customer-experience
   - contact-centers
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/07/250-x-200-Computer-mouse-connected-to-the-word-SOS-internet-concept-lcs813-iStock-Thinkstock-482767263.jpg" alt="Computer mouse connected to the word SOS" caption="" >}}

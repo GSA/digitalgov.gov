@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 The Pew Research Center released an interesting [report about home Internet usage](http://www.pewinternet.org/2015/12/21/home-broadband-2015/) that revealed broadband usage plateaued in 2013 and, in fact, dropped 3% in 2015. {{< legacy-img src="2016/01/600-x-400-Network-cable-alexskopje-iStock-Thinkstock-118986380.jpg" alt="Network cable" caption="" >}} 

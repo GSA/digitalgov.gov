@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - crowdsourcing-and-citizen-science
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 The world’s toughest challenges require out-of-the-box thinking. But how can agencies facilitate intentional, structured collaboration that leads to this thinking? Gamification. {{< legacy-img src="2016/04/600-x-415-Gamification-in-business-concept-illustration-Anatolii-Babii-iStock-Thinkstock-462488743.jpg" alt="Gamification in business concept illustration" caption="" >}}

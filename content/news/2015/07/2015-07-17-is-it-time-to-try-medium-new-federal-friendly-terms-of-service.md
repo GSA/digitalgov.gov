@@ -8,6 +8,7 @@ authors:
 topics:
   - social-media
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 ## What is Medium?

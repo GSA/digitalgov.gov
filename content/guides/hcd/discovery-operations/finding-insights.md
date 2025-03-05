@@ -21,21 +21,21 @@ This means sitting down as a group, reading all the notes from all the interview
 Use this checklist as you move through the Insights portion of Synthesis.
 
 <div style="margin-left: 20px">
-<input type="checkbox">
-Review the <a href="{{< ref "/guides/hcd/discovery-concepts/synthesize.md" >}}">synthesis section of the HCD Discovery Concepts Guide</a>
-</input><br>
-<input type="checkbox">
-Book a private conference room with a closing door and exterior windows.
-</input><br>
-<input type="checkbox">
-Gather your supplies: sticky notes, blank computer or notebook paper, markers, painters’ tape (aka paper tape or blue tape. Masking tape also works), and camera, either on-phone or separate.
-</input><br>
-<input type="checkbox">
-Each team member should prepare for this Synthesis session by reading all the notes from the interviews they did not attend.
-</input><br>
-<input type="checkbox">
-Each team member should print multiple copies of all the notes you took for each interview for which you acted as Notetaker.
-</input><br>
+<input id="review" type="checkbox">
+<label for="review">Review the <a href="{{< ref "/guides/hcd/discovery-concepts/synthesize.md" >}}">synthesis section of the HCD Discovery Concepts Guide</a>
+</label><br>
+<input id="book" type="checkbox">
+<label for="book">Book a private conference room with a closing door and exterior windows.
+</label><br>
+<input id="gather" type="checkbox">
+<label for="gather">Gather your supplies: sticky notes, blank computer or notebook paper, markers, painters’ tape (aka paper tape or blue tape. Masking tape also works), and camera, either on-phone or separate.
+</label><br>
+<input id="prepare" type="checkbox">
+<label for="prepare">Each team member should prepare for this Synthesis session by reading all the notes from the interviews they did not attend.
+</label><br>
+<input id="print" type="checkbox">
+<label for="print">Each team member should print multiple copies of all the notes you took for each interview for which you acted as Notetaker.
+</label><br>
 </div>
 
 ## Reading, questioning, jotting notes

@@ -11,6 +11,7 @@ topics:
   - mobile
   - multimedia
 
+expirydate: 2025-01-01
 ---
 
 Big news in the technology world as Microsoft unveiled <a href="http://www.microsoft.com/microsoft-hololens/en-us" target="_blank">HoloLens and Microsoft’s use of holographic computing in the upcoming Windows 10 release</a>. Holographic computing or augmented reality uses computer-generated images that are overlaid on real world videos. For example, a user can view a car through their smartphone. An app can project information such as make and model, fuel mileage, and other facts onto a real-time view of a particular car. The value of augmented reality apps is that the app can recognize a real world object and provide the user relevant information concerning the object.
@@ -21,6 +22,7 @@ Since <a href="http://www.google.com/glass/start/" target="_blank">Google Glass<
 
 As holographic computing becomes more easily accessible, federal government APIs will be a valuable source of information to supply the augmented reality apps. The federal government can also be a leader in exploring the frontiers of holographic computing.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

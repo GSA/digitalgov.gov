@@ -3,7 +3,7 @@
 .dg-guide__nav-container {
   display: none;
   flex-shrink: 0;
-  margin: units(5) units(2) units(0) units(2);
+  margin-top: units(7);
   position: sticky;
   top: units(15);
   width: 10rem;
@@ -13,7 +13,7 @@
   }
 
   @include at-media("desktop") {
-    margin: units(5);
+    margin-top: units(7);
     width: 15rem;
   }
 
