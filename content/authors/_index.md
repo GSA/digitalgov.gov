@@ -30,5 +30,11 @@ aliases:
   - /authors/charlotte-stichter
   - /authors/cheryl-hackley
   - /authors/christopher-bernstein
-  - /authors/christy-choi
+  - /authors/christy-choi 
+  - /authors/deborah-bennett
+  - /authors/dominic-mcdevitt-parks
+  - /authors/donavan-albert
+  - /authors/donna-canestraro
+  - /authors/donna-dodson
+  - /authors/dorothy-amatucci
 ---

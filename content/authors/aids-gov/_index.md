@@ -8,8 +8,7 @@ first_name: "AIDS.gov"
 last_name: "Blog"
 # slug — the specific user-id for an author.
 slug: aids-gov
-# Agency Acronym [e.g., GSA]
-agency: ""
+agency_full_name: "U.S. Department of Health & Human Services"
 
 # Tell us where you live and work [e.g. 'New York City' or 'Portland, OR']
 location: ""
