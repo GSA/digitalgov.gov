@@ -17,6 +17,7 @@ topics:
   - innovation
   - emerging-tech
   - multimedia
+expirydate: 2025-01-01
 ---
 
 Since 2007, a major consulting firm has conducted an annual survey on organizations' “Digital IQ.” In the ten years of organizations grappling with digital transformation, what has been learned? [From the report](https://www.pwc.com/us/en/advisory-services/digital-iq.html):

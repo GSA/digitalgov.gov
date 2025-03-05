@@ -13,6 +13,7 @@ topics:
   - usability
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 I first came across the redesigned IdentityTheft.gov on Reddit, of all places. Someone had posted a link to the Federal Trade Commission’s (FTC) [newly redesigned site](https://www.identitytheft.gov/) and [wrote](https://www.reddit.com/r/personalfinance/comments/463tc0/in_case_your_identity_is_ever_compromised_i/):

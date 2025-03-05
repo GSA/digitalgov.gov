@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - user-experience
   - social-media
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg" alt="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)Kids and adults use Web search tools differently. Kids fail more often, because they often don’t have enough knowledge or experience to search using the right keywords, or understand search results.

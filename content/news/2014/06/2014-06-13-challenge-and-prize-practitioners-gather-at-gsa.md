@@ -11,6 +11,7 @@ topics:
   - innovation
   - software-engineering
 
+expirydate: 2025-01-01
 ---
 
 Got [innovation]({{< ref "/topics/challenges-and-prize-competitions" >}} "Link to Challenges Content on DigitalGov.gov")? Well, we do!

@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - mobile
   - user-experience
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/01/Usability.gov-reboot-450x300.jpg" alt="Mobile devices - Laptop, tablets, smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Usability.gov-reboot.jpg)It used to be when we said mobile we meant activities and devices defined strictly by mobility and the features associated with it, such as GPS, SMS, barcode readers, cell phones, etc. But when I found myself in my easy chair watching a ballgame on my laptop because it was closer than the TV, while checking other scores on my smartphone, mobility had little to do with it. If anything, I was the anti-mobile user. And that’s when I finally understood that the “mobility” landscape has expanded and covers a far greater range of uses than the simple term <span style="text-decoration: line-through">of</span> “mobile” can encompass.

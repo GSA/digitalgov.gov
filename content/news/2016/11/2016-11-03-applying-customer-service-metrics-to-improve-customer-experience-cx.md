@@ -13,6 +13,7 @@ topics:
   - analytics
   - information-collection
 
+expirydate: 2025-01-01
 ---
 
 Lately, I’ve looked at how a government agency measures a customer’s experience. It’s such a complex topic that I would need more than one blog to discuss the nuances behind it. In my last blog, I examined and brokedown three types of [customer service metrics]({{< ref "2016-08-05-csat-nps-ces-3-easy-ways-to-measure-customer-experience-cx.md" >}}): customer satisfaction (CSAT), Net Promoter Score (NPS), and Customer Effort Score (CES). This one is about identifying how easy it is to work with your organization and discover ways to improve service delivery.

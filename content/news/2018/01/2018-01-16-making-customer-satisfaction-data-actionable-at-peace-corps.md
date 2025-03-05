@@ -18,6 +18,7 @@ featured_image:
   uid: peace-corps
   alt: 'Peace Corps Logo'
 
+expirydate: 2025-01-01
 ---
 
 {{< img-right src="peace-corps" capton="" alt="" >}}

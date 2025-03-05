@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - innovation
+expirydate: 2025-01-01
 ---
 
 _[<img class="alignright  wp-image-127002" alt="Two and three quarter's rows of small circles with a headshot in them, 31 faces in all." src="https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/HHS-IDEA-Lab-people.png" width="450" height="172" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/HHS-IDEA-Lab-people.png)This post was originally published on the IDEA Lab blog by Read Holman, HHS Innovation Advisor to the Chief Technology Officer and an Intrapreneur working in the HHS IDEA Lab._

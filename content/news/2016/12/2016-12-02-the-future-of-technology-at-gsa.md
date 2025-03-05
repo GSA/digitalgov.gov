@@ -12,6 +12,7 @@ topics:
   - innovation
 primary_image: "nongkran-ch-istock-getty-images-487970224-comp"
 
+expirydate: 2025-01-01
 ---
 
 The potential to transform government and impact the lives of Americans is tremendous. Our country needs the government to work well, and **technology** is the key to that.
@@ -104,6 +105,7 @@ We are driven by the mission of giving the government the tools to more effectiv
 
 _**The American people aren’t going anywhere and neither is the need for better technology.**_
 
+expirydate: 2025-01-01
 ---
 
 _Learn more about GSA’s Technology Transformation Service [here](http://www.gsa.gov/portal/category/25729). This post was originally published on GSA’s [Storify](https://web.archive.org/web/20161215030755/https://storify.com/GSA/futureofgsatech) and [blog](https://web.archive.org/web/20161207232843/https://gsablogs.gsa.gov/gsablog/2016/12/01/the-future-of-technology-at-gsa/)._

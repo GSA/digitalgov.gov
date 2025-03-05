@@ -11,6 +11,7 @@ topics:
   - research
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-400-Eureka-Antonis-Papantoniou-iStock-Thinkstock-93816882.jpg" alt="An aha moment or Eureka! concept graphic shows a dark field of question marks surrounding one bright, electric exclamation point." caption="" >}} 

@@ -10,6 +10,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 When designing a site, remember that your terms and icons are like signposts that show people where your links and pages lead. Make sure that you use words and pictures that are easily understood or people will have trouble using your site. Small changes like underlining links or adding arrows to indicate expandable information can vastly improve the usability of your site.

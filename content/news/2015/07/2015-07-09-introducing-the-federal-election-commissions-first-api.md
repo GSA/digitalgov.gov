@@ -7,6 +7,7 @@ authors:
   - lindsay-young
 topics:
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-250-openfec-banner.jpg" alt="Federal Election Commission (FEC) OpenFEC banner for exploring campaign finance data" >}}

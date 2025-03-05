@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 {{< note variant="alert" >}}

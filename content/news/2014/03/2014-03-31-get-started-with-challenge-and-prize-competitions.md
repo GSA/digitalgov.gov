@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/03/250-x-220-stack-of-books-resources.jpg" alt="A stack of hardcover books" >}}

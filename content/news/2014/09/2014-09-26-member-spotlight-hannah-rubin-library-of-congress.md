@@ -11,6 +11,7 @@ topics:
   - research
   - user-experience
   - professional-development
+expirydate: 2025-01-01
 ---
 
 Meet Hannah Rubin, who works in the Congressional Research Service (CRS) at the Library of Congress. She&#8217;s the focus of this month&#8217;s Member Spotlight. In addition to her &#8220;real&#8221; job, she&#8217;s also currently working as a &#8220;20%-er&#8221; with the [DigitalGov User Experience Program]({{< ref "digitalgov-user-experience-resources.md" >}} "DigitalGov User Experience Program") via our [Open Opportunities program]({{< ref "open-opportunities.md" >}} "Open Opportunities Program").
@@ -53,7 +54,5 @@ After eight years in journalism and communications, I went back to school for a 
 
 I have kids, and family time is a high priority. I also like to read, bake, swim, travel, and spend time outside.
 
-
----
 
 **Disclaimer**: The views expressed herein are those of the author and are not presented as those of the Congressional Research Service or the Library of Congress.

@@ -10,6 +10,7 @@ topics:
   - trust
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 Recently, the Pew Internet and the American Life Project released [a report that analyzed the use of digital tools for different groups of tech literacies](http://www.pewinternet.org/2016/09/20/digital-readiness-gaps/) and found some interesting ‘digital divides’ and levels of trust, usage, and skill.

@@ -5,6 +5,7 @@ title: Energy.gov goes Responsive
 summary: ' Did this week&#8217;s polar vortex wreak havoc on your heating and cooling system? Maybe now you&#8217;re in the hunt for a new furnace or looking for more efficient ways to'
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/01/EnergyGovscreenshot.jpg" alt="The newly redesigned Energy.gov website uses responsive design features that offer any smartphone, tablet or desktop user an optimal online experience." >}}

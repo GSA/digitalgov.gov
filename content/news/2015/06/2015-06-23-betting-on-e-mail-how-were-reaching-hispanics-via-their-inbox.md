@@ -9,6 +9,7 @@ authors:
 topics:
   - content-strategy
   - multilingual
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Smartphone-Marco_Piunti-iStock-Thinkstock-476864628.jpg" alt="Woman using a smartphone" caption="" >}}

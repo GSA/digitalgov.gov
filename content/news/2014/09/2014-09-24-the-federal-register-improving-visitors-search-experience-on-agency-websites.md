@@ -11,6 +11,7 @@ topics:
   - application-programming-interface
   - search
   - social-media
+expirydate: 2025-01-01
 ---
 
 The [Office of the Federal Register](https://www.federalregister.gov/policy/about-us)’s mission “informs citizens of their rights and obligations, documents the actions of Federal agencies, and provides a forum for public participation in the democratic process.”

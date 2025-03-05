@@ -12,6 +12,7 @@ topics:
   - customer-experience
   - contact-centers
   - research
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/600-x-450-Silver-plate-with-chart-peshkov-iStock-Thinkstock-490450531.jpg" alt="Silver plate with chart" caption="" >}}

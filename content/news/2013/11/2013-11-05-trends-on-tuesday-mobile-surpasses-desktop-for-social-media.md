@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/11/social-media-on-mobile-first-infographic.png" alt="Infographic showing how users are accessing social media on mobile. Details are discussed within this post. " >}}](http://www.unifiedsocial.com/mobile-social-marketing/)More users are now accessing social media via mobile than on desktops.  People are checking email or using social networks during their commute, in line at the grocery store, or waiting at the doctor&#8217;s office.

@@ -17,6 +17,7 @@ topics:
 featured_image:
   uid: translate-keyboard
   alt:
+expirydate: 2025-01-01
 ---
 
 You need to create new content—perhaps a website or another type of asset. It is at this point that you’d want to determine whether this content will also be used to communicate with audiences whose primary language is not English.

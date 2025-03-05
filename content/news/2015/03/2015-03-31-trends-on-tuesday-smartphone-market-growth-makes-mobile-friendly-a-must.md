@@ -10,6 +10,7 @@ topics:
   - analytics
   - content-strategy
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/600-x-340-3d-mobile-smart-phone-and-chart-pie-everythingpossible-iStock-Thinkstock-ThinkstockPhotos-453448349.jpg" alt="3-D mobile smart phones and pie chart" caption="everythingpossible, iStock, Thinkstock" >}}

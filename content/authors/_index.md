@@ -37,4 +37,12 @@ aliases:
   - /authors/donna-canestraro
   - /authors/donna-dodson
   - /authors/dorothy-amatucci
+  - /authors/jerry-sheehan
+  - /authors/jesse-taggert
+  - /authors/jessica-milcetich
+  - /authors/jini-ryan
+  - /authors/joanna-karpinski-widzer
+  - /authors/joel-minton
+  - /authors/john-grill
+  - /authors/john-paul
 ---

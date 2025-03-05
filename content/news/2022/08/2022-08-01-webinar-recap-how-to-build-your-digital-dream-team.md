@@ -89,8 +89,6 @@ Also, GSA’s Service Delivery team held an [information session (PDF, 2.1 MB, 2
 - [User Experience Designer](https://github.com/GSA/service-delivery/blob/main/team/User_Experience_Designer.md) (closed)
 - [Content Designer](https://github.com/GSA/service-delivery/blob/main/team/Content_Designer.md) (closed)
 
-Browse the [sample position descriptions for digital government jobs](https://digital.gov/resources/sample-position-descriptions-for-digital-government-jobs/) for even more sample descriptions that you can use and customize to hire your own digital gov team.
-
 Do you have a good sample position description to add to this list? Send it to us at [digitalgov@gsa.gov](about:blank).
 
 In closing, building a digital dream team requires some similar skills to building an excellent website:

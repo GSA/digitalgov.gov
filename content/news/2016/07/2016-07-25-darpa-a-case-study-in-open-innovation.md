@@ -11,6 +11,7 @@ topics:
   - product-and-project-management
   - innovation
   - open-government
+expirydate: 2025-01-01
 ---
 
 You may not know it, but the Defense Advanced Research Projects Agency, or DARPA, has changed your life.

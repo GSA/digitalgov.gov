@@ -12,6 +12,7 @@ topics:
   - emerging-tech
   - user-experience
   - multimedia
+expirydate: 2025-01-01
 ---
 
 One of the great challenges in designing a product — digital or otherwise — is stepping outside yourself and climbing into the minds of your users. You love the wonderful new app you’ve designed, but will it appeal to others? Fortunately, the field of user experience design (UX) gives us tools to understand our users through surveys, interviews, card sorting, and user testing.
