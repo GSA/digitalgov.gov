@@ -8,6 +8,7 @@ authors:
 topics:
   - crowdsourcing-and-citizen-science
   - mobile
+expirydate: 2025-01-01
 ---
 
 No one wants to feel helpless in an emergency situation. To provide tips and assistance anytime, anywhere, the Federal Emergency Management Agency (FEMA) stepped up their mobile game.

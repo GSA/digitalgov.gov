@@ -17,6 +17,7 @@ topics:
 featured_image:
   uid: accessibility-stock-photo
   alt: 'Photo of two men working on mobile app development and design at a whiteboard&#46;'
+expirydate: 2025-01-01
 ---
 
 > _This post was also published on the [GSA blog](https://www.gsa.gov/blog/2018/08/07/Collaborating-for-Better-Design-Technology-and-User-Experience-0)._

@@ -66,7 +66,7 @@ The good news is that there are several tools available to gather feedback. Here
 - **Customer Experience Surveys** - [OMB Circular A-11, Preparation, Submission, and Execution of the Budget (for Fiscal Year 2025) (PDF, 12.1 MB, 1,070 pages, August 2023)](https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf) provides a framework for product surveys to help you focus on seven dimensions of experience when you query your customers. USDA has published its guidance on [how to create an A-11 survey](https://www.usda.gov/digital-strategy/research/plays#research2).
 - **[18F Methods](https://methods.18f.gov/)** - A list of research methods to help you bring human-centered design into each phase of your project, including potential tools for each step.
 
-For any tool, take the time to understand the [terminology](https://support.google.com/analytics/topic/6083659) and [dive into the nuances](https://digital.gov/2019/04/04/web-analytics-why-users-metric-just-got-more-complicated/) of its data and methodology. And, as your team matures in its analytics capabilities, also consider using [A/B testing](https://digital.gov/topics/a-b-testing/), [tag management](https://digital.gov/2016/03/31/tag-management-a-digital-analysts-best-friend/), [heat-mapping](https://digital.gov/2014/04/04/heatmapping-tools-show-whats-hot-on-your-pages/), and [data visualization](https://digital.gov/topics/data-visualization/) to make data-informed decisions.
+For any tool, take the time to understand the [terminology](https://support.google.com/analytics/topic/6083659) and [dive into the nuances](https://digital.gov/2019/04/04/web-analytics-why-users-metric-just-got-more-complicated/) of its data and methodology. And, as your team matures in its analytics capabilities, also consider using [A/B testing](https://digital.gov/topics/a-b-testing/), tag management, [heat-mapping](https://digital.gov/2014/04/04/heatmapping-tools-show-whats-hot-on-your-pages/), and [data visualization](https://digital.gov/topics/data-visualization/) to make data-informed decisions.
 
 ### Q3. What content is driving interest?
 
@@ -84,7 +84,7 @@ Use [top tasks](https://digital.gov/event/2018/04/11/a-deep-dive-into-top-tasks-
 
 Usability.gov provides a [Task Analysis Toolkit](https://www.usability.gov/how-to-and-tools/methods/task-analysis.html) with some detailed steps for prioritizing content and optimizing top tasks.
 
-Analyze your search terms to understand customer pain points. If people need to search for something, that likely means they had trouble finding it on your site. A few years ago, the team at [FTC.gov told Digital.gov](https://digital.gov/2016/09/14/analytics-success-series-federal-trade-commission/) exactly how they made changes based on such an analysis.
+Analyze your search terms to understand customer pain points. If people need to search for something, that likely means they had trouble finding it on your site.
 
 #### Help us identify the right questions that make discovery possible
 
@@ -96,11 +96,6 @@ When we listen, we learn. We’d like your help in learning what actions federal
 >    {{< /card-prompt >}}
 
 We’ll be taking your answers and using them to create content on Digital.gov to provide you with the guidance and tools you need.
-
-## Up Next
-
-- April 23, 2020: Learn about [the basics of the Digital Analytics Program (DAP)](https://digital.gov/event/2020/04/23/dap-learning-series-an-introduction-basics/)—the interface, common terminology, and basic reports in Google Analytics.
-- May 27, 2020: Become a [DAP Certified Analyst](https://digital.gov/event/2020/05/27/dap-learning-series-become-a-dap/)! Join the DAP team to learn about the DAP exam and how you can use it to demonstrate your analytics mastery.
 
 ## From the Field
 

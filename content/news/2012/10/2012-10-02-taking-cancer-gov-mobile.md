@@ -7,6 +7,7 @@ authors:
   - jparcell
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 _[<img class="alignright size-medium wp-image-95452" alt="NCI Mobile" src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_nci1-166x250.jpg" width="166" height="250" />](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/ss_nci1.jpg)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by <a href="http://www.cancer.gov/" rel="nofollow">National Cancer Institute</a>.__

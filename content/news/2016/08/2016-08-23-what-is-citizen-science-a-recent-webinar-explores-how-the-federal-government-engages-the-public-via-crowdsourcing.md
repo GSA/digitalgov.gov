@@ -7,6 +7,7 @@ authors:
   - zohaa-ahmad
 topics:
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 From the [National Park Service](https://www.nps.gov/) (NPS) to the [Centers for Disease Control and Prevention](http://www.cdc.gov/) (CDC), the use of citizen science has become a prominent factor in the science community and a critical tool for the federal government.
@@ -37,6 +38,7 @@ If this sounds like something you or your agency want to be a part of, you shoul
 
 There, you will find a diverse community that is transforming society within the learning and the science worlds through a variety of collaborations. It’s a perfect illustration of public engagement and open innovation, bringing together people to help solve scientific problems regardless of age, gender, race, class, or other factors.
 
+expirydate: 2025-01-01
 ---
 
 _Zohaa Ahmad is a rising junior at Riverside High School in Leesburg, VA who is interested in pursuing the medical field in the future. She is interning with the Innovation Portfolio in the Technology Transformation Service (TTS) Office of Citizen Services and Innovative Technologies (OCSIT) at GSA for summer 2016._

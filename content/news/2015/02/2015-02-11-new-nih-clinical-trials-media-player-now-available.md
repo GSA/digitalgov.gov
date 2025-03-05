@@ -7,6 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 Spread the Word about Clinical Trials!

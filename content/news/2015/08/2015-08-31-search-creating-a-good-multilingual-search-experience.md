@@ -10,6 +10,7 @@ topics:
   - search
   - multilingual
 
+expirydate: 2025-01-01
 ---
 
 In 2015, [DigitalGov Search](https://www.search.gov/) dramatically expanded support for languages on our search results page, expanding from just English and Spanish to support [68 different languages](https://search.gov/admin-center/dashboard/supported-languages.html). Government agencies across the United States publish content in a growing number of languages to do the business of the country. Language-specific websites and mobile apps include not just translated content, but also site navigation and other lexical elements.

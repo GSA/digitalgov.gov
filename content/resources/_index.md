@@ -4,7 +4,6 @@ deck: "Don't know where to start with a federal requirement? Aren't sure how to 
 summary: "Essential how-to guidance for government product managers and digital teams."
 
 aliases:
-  - /about/lost-and-found-mapping-page/
   - /pages/
   - /hurricane-ian/
   - /resources/hurricane-ian-guidance-for-us-government/
@@ -151,7 +150,6 @@ resource_topics:
 
 - [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 - [Eight Principles of Mobile-Friendliness](https://digital.gov/resources/mobile/principles/)
-- [A Guide to Creating Mobile-Friendly Websites](https://digital.gov/resources/guide-create-mobile-friendly-websites/)
 - [Mobile Application Development Program]({{< ref "mobile-application-development-program.md" >}})
     - [Mobile Code Sharing Catalog]({{< ref "2013-05-13-federal-mobile-code-sharing-catalog-is-here.md" >}})
 - [Mobile Development Strategies](https://digital.gov/resources/mobile-development-strategies/)
@@ -185,7 +183,6 @@ resource_topics:
 - [Building a 21st Century Digital Government](https://obamawhitehouse.archives.gov/sites/default/files/uploads/2012digital_mem_rel.pdf) (PDF, 65.3 kb, 2 pages, May 2012)
 - [Connected Government Act](https://digital.gov/resources/connected-government-act/), January 2018
 - [Checklist of Requirements for Federal Digital Services]({{< ref "checklist-of-requirements-for-federal-digital-services.md" >}})
-- [Digital Governance Policy Outline](https://digital.gov/resources/digital-governance-policies/)
 - [Electronic Capital Planning and Investment Control eCPIC]({{< ref "electronic-capital-planning-and-investment-control-ecpic.md" >}})
 - [Policies for Dot Gov Domain Issuance for Federal Agency Public Websites](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf) (PDF, 304 KB, 2 pages, January 2015)
 - [Sample Position Descriptions for Digital Government Jobs]({{< ref "sample-position-descriptions-for-digital-government-jobs.md" >}})

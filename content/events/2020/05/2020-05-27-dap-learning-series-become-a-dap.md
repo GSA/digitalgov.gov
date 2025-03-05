@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2020/05/dap-learning-series-become-a-dap
+# View this page at https://digital.gov/event/2020/05/27/dap-learning-series-become-a-dap
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: dap-learning-series-become-a-dap
 kicker: "DAP Learning Series"
@@ -33,6 +33,7 @@ authors:
 youtube_id: KsDJx7gMJms
 youtube_title: "DAP Learning Series: Become a DAP Certified Analyst!"
 
+expirydate: 2025-01-01
 # Make it better ♥
 
 ---

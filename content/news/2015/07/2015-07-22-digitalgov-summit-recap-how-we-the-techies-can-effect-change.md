@@ -9,6 +9,7 @@ authors:
 topics:
   - product-and-project-management
 
+expirydate: 2025-01-01
 ---
 
 Who do you need to bring to the table to make a better world?

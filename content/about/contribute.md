@@ -10,6 +10,8 @@ aliases:
   - /join/
   - /contribute/
   - /digitalgov-university/
+  - /2015/02/03/let-us-share-your-events/
+  - /digitalgov-university/digitalgov-university-event-and-training-request-form/
 
 ---
 Digital.gov provides guidance on building better digital services in government. Do you have a case study or success story to share? Did your team recently accomplish something noteworthy?
@@ -26,7 +28,7 @@ We welcome ideas and expertise from folks across all levels of experience. You m
 
 ### 2. Make sure your contribution aligns with our users’ needs.
 
-Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences. 
+Not sure what to share? Digital.gov focuses on creating content with direct and actionable connections to digital services. We are looking for ideas that will help generalists, technologists, and teams in the federal government create world-class digital experiences.
 
 You can find examples of recent case studies and stories in our [blogs](https://digital.gov/news/) and on our [resource](https://digital.gov/resources/) pages. If you’re interested in pitching an event, check out our [video archive of past events](https://youtube.com/@DigitalGov).
 

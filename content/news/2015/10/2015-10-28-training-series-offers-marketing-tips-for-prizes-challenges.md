@@ -7,6 +7,7 @@ authors:
   - eric-beidel
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-415-Light-bulb-with-drawing-business-success-strategy-plan-idea-graphicnoi-iStock-Thinkstock-460807473.jpg" alt="Light bulb with drawing of various business and strategy imagery" caption="" >}}

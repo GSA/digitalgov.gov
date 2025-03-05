@@ -10,6 +10,7 @@ topics:
   - data-visualization
   - emerging-tech
   - open-data
+expirydate: 2025-01-01
 ---
 
 Hello, everyone. My summer sabbatical was short but educational, and I am glad to be back in the federal government. I am also excited to again take up the weekly API article that is now expanded to include all things federal government data. Much has happened in the open data realm, and there is much to chronicle as government uses data in more innovative ways.

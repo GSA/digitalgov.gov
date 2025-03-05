@@ -7,6 +7,7 @@ authors:
   - jherman
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 _(This is the next installment of an <a href="https://digital.gov/2013/09/18/best-week-in-socialgov-ever-week-1-2/" target="_blank">ongoing series</a> charting the programs, events and people that make the emerging field of social media and data in government an exciting place to serve the public. Agencies are encouraged to submit their own stories for this travelogue of digital innovation.)_

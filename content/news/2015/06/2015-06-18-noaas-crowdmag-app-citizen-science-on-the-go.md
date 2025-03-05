@@ -11,6 +11,7 @@ topics:
   - research
   - content-strategy
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 The rise in mobile device usage has created a rise in expectations: [the public wants new and innovative interactions]({{< ref "2014-06-24-trends-on-tuesday-are-mobile-devices-the-center-of-social-universe.md" >}}) with all organizations, including government. Incorporating [social media in mobile websites and native apps]({{< ref "2014-06-12-three-ways-agencies-are-using-social-media-in-mobile-products.md" >}}) is one way federal agencies have increased public interaction.

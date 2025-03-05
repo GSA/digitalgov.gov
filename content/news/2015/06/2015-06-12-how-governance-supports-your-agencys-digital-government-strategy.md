@@ -11,6 +11,7 @@ topics:
   - governance
   - product-and-project-management
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 It seems that everyone these days is talking about “governance.” But what is it, really, and how can you make good governance usable in your agency?

@@ -8,6 +8,7 @@ authors:
 topics:
   - software-engineering
   - open-government
+expirydate: 2025-01-01
 ---
 
 Since the United States joined the Open Government Partnership in 2011, U.S. agencies have been working alongside civil society to develop and implement commitments to increase transparency, improve participation, and curb corruption. From opening up Federal spending data to make it easier to see how taxpayer dollars are spent, to the _[We the People](https://petitions.whitehouse.gov/)_ online petition site where the public can propose U.S. policy changes, to strengthening efforts to deny safe haven in the U.S. to corrupt individuals, our efforts to advance open government are making an impact.

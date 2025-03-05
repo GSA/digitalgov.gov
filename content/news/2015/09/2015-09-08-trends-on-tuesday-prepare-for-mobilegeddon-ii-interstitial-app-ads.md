@@ -9,6 +9,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 Google has announced a [second wave of "Mobilegeddon" search penalties for websites using mobile app install interstitials](http://searchengineland.com/library/google/google-mobile-friendly-update). Beginning November 1st, mobile app Web pages that use large app install interstitials to hide content from the users will be downgraded in search results for not being mobile-friendly.

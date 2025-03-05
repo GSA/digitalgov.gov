@@ -13,6 +13,7 @@ topics:
   - privacy
   - security
 
+expirydate: 2025-01-01
 ---
 
 Today, people rely heavily on insecure and inefficient means to access federal government applications to conduct business (i.e., they depend on usernames and passwords to log into federal agency services online). Users are required to create and manage several online accounts for different applications, which can become a nuisance, difficult to manage, and creates administrative burden for the organization. Additionally, with the abundance of these weak credentials (i.e., usernames and passwords that are easy to hack and difficult to trust), organizations – including the federal government – are left with minimal confidence in a user’s identity. The fundamental weakness in authentication and identity proofing (i.e., trusting that people are who they say they are) is felt across the federal landscape.

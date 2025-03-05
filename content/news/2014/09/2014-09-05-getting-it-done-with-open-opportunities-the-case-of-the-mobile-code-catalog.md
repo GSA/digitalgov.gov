@@ -10,6 +10,7 @@ topics:
   - mobile
   - professional-development
   - open-source
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-418-Mobile-phone-and-gears-Application-development-concept-alex-mit-iStock-Thinkstock-453629635.jpg" alt="Mobile phone and gears; application development concept" caption="" >}}

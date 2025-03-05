@@ -8,6 +8,7 @@ authors:
 topics:
   - open-government
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226.jpg" alt="600-x450-Communication-concept-opera3d-istock-Thinkstock-177409226" >}}

@@ -12,6 +12,7 @@ featured_image:
   uid: analytics-data-reports
   alt: 'An illustration of a team of figures working on analytics reports.'
 
+expirydate: 2025-01-01
 ---
 
 The U.S. federal government is probably the one of the biggest (if not the biggest) producers of data. Every day, thousands of federal workers collect, create, analyze, and distribute massive amounts of data from weather forecasts to economic indicators to health statistics. Federal government data is a major driver of the American economy as businesses use the data to make decisions or blend the government data into products and services sold to consumers.

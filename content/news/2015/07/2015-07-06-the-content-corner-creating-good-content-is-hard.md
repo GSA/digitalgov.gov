@@ -7,6 +7,7 @@ authors:
   - tyrus-manuel
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/07/600-x-210-Content-Writing-Block-Vertical-Pens-ileezhun-iStock-Thinkstock-472384968.jpg" alt="the words, Content Writing over a block of random placeholder text with vertical pen nibs" caption="" >}} 
