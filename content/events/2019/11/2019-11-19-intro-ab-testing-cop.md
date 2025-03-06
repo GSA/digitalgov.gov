@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: fXHqrdOEbnI
+youtube_title: "An Introduction to the A/B Testing Community of Practice"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

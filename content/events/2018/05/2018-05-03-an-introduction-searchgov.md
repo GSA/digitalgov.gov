@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: W9gFgy4Jx6k
+youtube_title: "An Introduction to Search.gov"
 
 # Primary Image (for social media)
 primary_image: "searchgov-intro"

@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: gbmRaFuJyrM
+youtube_title: "Emerging Technology Leadership Series: Laura Manley, Harvard Technology and Public Purpose Project"
 
 # Make it better ♥
 

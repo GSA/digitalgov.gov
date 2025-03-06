@@ -33,6 +33,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: qeFNf2EPzpE
+youtube_title: "Workshop: Making Government Websites with GitHub, Federalist & U.S. Web Design Standards"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 
