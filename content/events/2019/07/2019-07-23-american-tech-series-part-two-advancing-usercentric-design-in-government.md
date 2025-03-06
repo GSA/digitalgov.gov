@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: Hi9KWZhi0so
+youtube_title: "American Tech Series, Part Two: Advancing User-centric Design in Government"
 
 # Primary Image (for social media)
 primary_image: "americantech"

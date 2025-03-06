@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: EnRVrJz2Ut0
+youtube_title: "An Introduction to 10x and How to Get Your Idea Funded"
 
 # Primary Image (for social media)
 primary_image: "10x-funded-cover"

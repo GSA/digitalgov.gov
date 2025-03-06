@@ -43,6 +43,7 @@ authors:
 
 # YouTube ID
 youtube_id: 5ORul6NslyE
+youtube_title: "U.S. Government Open Innovation Summit"
 
 # Primary Image (for social media)
 primary_image: "open-innovation-summit-lockup"

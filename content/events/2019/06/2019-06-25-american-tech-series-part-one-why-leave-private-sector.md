@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: F8ynyjxNjEI
+youtube_title: "American Tech Series, Part One: Why Leave the Private Sector?"
 
 # Primary Image (for social media)
 primary_image: "americantech"
