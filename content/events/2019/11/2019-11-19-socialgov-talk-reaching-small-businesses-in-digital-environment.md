@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: aR2feIr_1Ds
+youtube_title: "SocialGov Talk: Reaching Small Businesses in the Digital Environment"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

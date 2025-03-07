@@ -70,7 +70,7 @@ This next generation of technologists included innovators in middle school, such
 
 Video: Fourteen-year-old Olivia Goodreau from Colorado presents her “TOP Health” innovation: TickTracker App with heat maps by the LivLyme Foundation. Video courtesy of the U.S. Census Bureau:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/36sdFlR1F-s?start=7411" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Deep Dive: Using Data Technology + Innovation for Lyme Disease" width="560" height="315" src="https://www.youtube.com/embed/36sdFlR1F-s?start=7411" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In addition to these K-12 STEM innovations, two adult-led teams participated in the TOP Health sprint for Lyme disease. These two teams were:
 

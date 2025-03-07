@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: bSVMF4MzGyc
+youtube_title: "SocialGov Talks: Tips for LinkedIn Content Strategy, with Matt Ross"
 
 # Primary Image (for social media)
 primary_image: "socialgov-linkedin-2"

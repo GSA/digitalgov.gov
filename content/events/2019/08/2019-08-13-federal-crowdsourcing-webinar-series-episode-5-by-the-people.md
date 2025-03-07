@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: -37DJHJtFE0
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 5: By the People"
 
 # Primary Image (for social media)
 primary_image: "challengegov-card-episode-5"

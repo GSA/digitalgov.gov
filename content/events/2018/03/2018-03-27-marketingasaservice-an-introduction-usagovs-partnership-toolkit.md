@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: mg1W8l1bfqI
+youtube_title: "Marketing-as-a-Service: An Introduction to USAGov’s Partnership Toolkit"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 

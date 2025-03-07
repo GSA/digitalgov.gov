@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: aQXHz9CDtGE
+youtube_title: "Creating Videos in Languages Other Than English"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases: 
