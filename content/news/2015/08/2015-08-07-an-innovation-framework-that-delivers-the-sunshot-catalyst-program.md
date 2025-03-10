@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - innovation
   - open-data
+expirydate: 2025-01-01
 ---
 
 Behind every great innovation is a team. And behind successful innovation teams are efficient tools, processes, and most importantly, people.

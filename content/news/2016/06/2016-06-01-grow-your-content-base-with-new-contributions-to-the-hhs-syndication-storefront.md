@@ -1,4 +1,3 @@
-
 ---
 slug: grow-your-content-base-with-new-contributions-to-the-hhs-syndication-storefront
 date: 2016-06-01 10:00:39 -0400
@@ -8,6 +7,7 @@ authors:
   - christen-geiler
 topics:
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 We have written about [syndication]({{< ref "2014-11-10-get-more-health-content-for-your-websites-apps-and-social-media.md" >}}) and its [successes]({{< ref "2016-02-04-does-content-syndication-work.md" >}}) before.

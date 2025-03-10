@@ -12,6 +12,7 @@ topics:
 featured_image:
   uid: automation-of-business-workflows-and-processes-with-businessman-nicoelnino-istock-thinkstock-612012708
   alt:
+expirydate: 2025-01-01
 ---
 
 A Washington, D.C. think tank recently released [reports](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx) advocating using artificial intelligence (AI) tools to reorganize the federal government. There has been a larger debate about the effects of automation on the [private sector and the American economy](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF), but this appears to be one of the few reports focusing on the federal government. According to the think tank, the U.S. government “[could yield $23.9 billion in reduced personnel costs and a reduction in the size of the federal workforce by 288,000](https://fcw.com/articles/2017/08/15/can-ai-replace-feds.aspx).” The authors of this report argue that the real value of AI is in replacing federal workers.

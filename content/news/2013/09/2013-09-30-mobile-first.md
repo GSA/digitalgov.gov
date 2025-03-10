@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 Mobile First is the idea that web sites should first be designed for mobile devices, including only those tasks/items that website visitors use most. Then as screen real estate increases, add in tasks/features as needed based on user priority.

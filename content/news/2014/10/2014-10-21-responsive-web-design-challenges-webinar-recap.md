@@ -9,6 +9,7 @@ authors:
 topics:
   - mobile
   - analytics
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/10/250-x-444-responsive-design-Energy-Gov-website-Oct20th2014-Android.jpg" alt="The Energy.gov responsive website as seen on an Android phone." >}}A website redesign is never an easy task, but when responsiveness is one of your redesign&#8217;s key goals, special considerations come into play that can present unique challenges. In the September webinar on Responsive Web Design Challenges in Government, we heard from two agencies who identified coordination, leadership buy-in and content decisions when mobilizing their websites.

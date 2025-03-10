@@ -7,6 +7,7 @@ authors:
   - clair-koroma
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 This year, we moved [HHS.gov](http://www.hhs.gov) to a responsive template to ensure that users accessing our site in a mobile environment had the best possible experience. Our department faced several challenges in moving a site the size of HHS.gov into a responsive template and one of those challenges surrounded our need to make tables work in a responsive environment.

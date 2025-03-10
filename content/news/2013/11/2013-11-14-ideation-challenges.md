@@ -8,6 +8,7 @@ authors:
 topics:
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 [Tips for Conducting an Ideation Challenge](#tips-for-conducting-an-ideation-challenge)

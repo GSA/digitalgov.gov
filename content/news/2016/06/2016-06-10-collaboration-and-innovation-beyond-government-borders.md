@@ -9,6 +9,7 @@ topics:
   - software-engineering
   - professional-development
   - open-source
+expirydate: 2025-01-01
 ---
 
 How to start an innovation movement: Connect innovators with fellow innovators, and find more innovators to collaborate with. This idea underpins a new pilot from the Department of Veterans Affairs (VA), which seeks to harness the power of collaboration among the public and government to better serve veterans.

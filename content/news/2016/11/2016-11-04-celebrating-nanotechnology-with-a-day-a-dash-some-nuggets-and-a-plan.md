@@ -11,6 +11,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - innovation
+expirydate: 2025-01-01
 ---
 
 > _Summary: The release of an updated National Nanotechnology Initiative Strategic Plan caps a month of activities highlighting nanotechnology._

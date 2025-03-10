@@ -6,6 +6,7 @@ summary: 'Over the last 18 months, the intrepid Mobile Gov team has worked with 
 topics:
   - mobile
   - usability
+expirydate: 2025-01-01
 ---
 
 <span style="line-height: 1.5em;">Over the last 18 months, the intrepid Mobile Gov team has worked with you to prioritize a set of </span><a style="line-height: 1.5em;" title="Mobile User Experience Guidelines and Recommendations" href="{{< ref "mobile-user-experience-guidelines-and-recommendations.md" >}}" target="_blank">guidelines and recommendations for good mobile user experience</a><span style="line-height: 1.5em;">; categories are ranked by priority and tagged by user experience concepts such as information architecture, content, functionality, design, trustworthiness, and user context.</span>

@@ -10,6 +10,7 @@ topics:
   - mobile
   - research
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2014/08/250-x-244-GSA-Mobile-Site-Slider.jpg" alt="Screencapture of a GSA mobile site photo carousel." >}}

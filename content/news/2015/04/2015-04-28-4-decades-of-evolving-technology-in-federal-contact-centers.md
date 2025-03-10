@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - customer-experience
   - contact-centers
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/600-x-400-Telephone-Robert-Redelowski-iStock-Thinkstock-152157402.jpg" alt="An old rotary telephone with the receiver off the hook and in the foreground" caption="" >}} 

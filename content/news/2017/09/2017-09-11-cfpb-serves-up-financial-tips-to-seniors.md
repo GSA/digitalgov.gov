@@ -13,6 +13,7 @@ topics:
   - design
   - user-experience
   - multilingual
+expirydate: 2025-01-01
 ---
 
 _The Consumer Financial Protection Bureau and Meals on Wheels America have created multilingual educational resources about financial scams that target the elderly which can be easily distributed to seniors in the communities they serve, and downloaded or ordered in bulk for free by the general public._

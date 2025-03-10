@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - professional-development
 
+expirydate: 2025-01-01
 ---
 
 The increasing presence of big data and all things digital will require the federal government to hire more techies. The skills brought by techies will help the federal government, but we also must consider that success in the federal government will require more than the skills they bring. The techies may be from the private sector and not completely understand the nuances of working in a federal agency.

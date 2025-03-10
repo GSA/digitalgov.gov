@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - multilingual
+expirydate: 2025-01-01
 ---
 
 In mobile app development, if you aren&#8217;t making it multilingual, you miss providing anytime, anywhere information and services to important mobile-only audiences.

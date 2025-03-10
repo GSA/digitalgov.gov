@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/250-x-340-Smartphone-santa-claus-cartoon-character-buy-Christmas-presents-online-shopping-drante-iStock-Thinkstock-514103937.jpg" alt="Smartphone santa claus cartoon character buy holding a present" caption="" >}} 

@@ -9,6 +9,7 @@ topics:
 authors:
   - andreanocesigritz
 
+expirydate: 2025-01-01
 ---
 
 The use of social media for federal services and interactions is growing tremendously, supported by directives from government leaders and demands from the public. This situation presents both opportunity and risk. Guidelines and recommendations for using social media technologies in a manner that minimizes the risk are analyzed and presented in this document.

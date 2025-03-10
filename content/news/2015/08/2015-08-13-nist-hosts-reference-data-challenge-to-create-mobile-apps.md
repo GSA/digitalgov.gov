@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - mobile
   - open-data
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/06/600-x-400-Mobile-phone-with-interface-screens-infographic-design-totallyPic.com-iStock-Thinkstock-484759697.jpg" alt="Mobile phone with app interface screens" caption="" >}} 

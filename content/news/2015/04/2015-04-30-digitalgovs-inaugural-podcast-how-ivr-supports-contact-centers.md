@@ -12,6 +12,7 @@ topics:
   - multimedia
 primary_image: "orig-dg-podcast-logo-mei-suseno-istock-getty-images-1148452254"
 
+expirydate: 2025-01-01
 ---
 
 [DigitalGov University](https://digital.gov/digitalgov-university/) has added podcasts to our suite of offerings on DigitalGov, featuring interviews and discussions with leaders in the DigitalGov community.

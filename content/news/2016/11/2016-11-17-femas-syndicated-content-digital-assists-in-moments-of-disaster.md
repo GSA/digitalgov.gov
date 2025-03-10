@@ -11,6 +11,7 @@ topics:
   - product-and-project-management
   - mobile
   - multilingual
+expirydate: 2025-01-01
 ---
 
 I recently interviewed Daniel Kuhns, Web Manager at [FEMA](https://www.fema.gov), about the site widgets and the FEMA app his organization has been developing. The widgets currently available include: FEMA App, Preparedness, Severe Weather, Private Sector, Kids Fire Safety, and Are you a Disaster Survivor.

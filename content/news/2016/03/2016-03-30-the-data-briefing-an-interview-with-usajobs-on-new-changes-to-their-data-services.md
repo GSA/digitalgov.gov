@@ -13,6 +13,7 @@ topics:
   - emerging-tech
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 The Office of Personnel Management released a new look and functionality to [USAJOBS](https://www.usajobs.gov/) in February. I recently contacted Michelle Earley, the USAJOBS Program Manager, to ask about the [changes to USAJOBS](https://www.usajobs.gov/ResourceCenter/SpotlightDetails/?contentID=1137) and the data it provides.

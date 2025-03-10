@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - search-engine-optimization
   - open-source
+expirydate: 2025-01-01
 ---
 
 Improving the federal government’s ability to deliver digital information anytime, anywhere, on any device—via open content—is a key goal of the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html). A [content management system](http://en.wikipedia.org/wiki/Content_management_system) (CMS) can help your agency move to an [open content model]({{< ref "2014-05-05-government-open-and-structured-content-models-are-here.md" >}} "Government Open and Structured Content Models Are Here!"), making it easier for people to find, share, use, and re-use your information.
@@ -383,6 +384,7 @@ If you’ve done your research and followed your plan, you should have a smooth 
   * [How NASA Chose a New Content Management System]({{< ref "2012-11-21-how-nasa-chose-a-new-content-management-system.md" >}} "How NASA Chose a New Content Management System")
   * [How the Department of Education Automated Publication of Press Releases]({{< ref "2012-11-21-how-the-department-of-education-automated-publication-of-press-releases.md" >}} "How the Department of Education Automated Publication of Press Releases")
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.
