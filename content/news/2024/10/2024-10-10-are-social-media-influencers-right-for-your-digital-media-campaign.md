@@ -22,7 +22,7 @@ slug: are-social-media-influencers-right-for-your-digital-media-campaign
 
 ---
 
-{{< img-right src="influencers-101-cover" >}}
+{{< img-right src="influencers-101-cover" alt="Two young people pose confidently with the words 'Tobacco free and fresh' near them" >}}
 
 In 2023, the U.S. Food and Drug Administration’s Center for Tobacco Products developed a guide for public health programs that want to launch influencer programs on social media. This post highlights content from the guide by introducing influencer programs, setting goals, and considering different budgets.
 

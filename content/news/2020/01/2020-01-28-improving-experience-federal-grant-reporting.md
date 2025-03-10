@@ -21,7 +21,7 @@ authors:
 
 ---
 
-{{< img-right src="10x-logo" >}}
+{{< img-right src="10x-logo" alt="10x logo">}}
 
 The 10x [Federal Grant Reporting project](https://github.com/18F/federal-grant-reporting/blob/master/README.md) team at GSA is investigating opportunities to make the grant reporting process more efficient. The project, which is receiving its third phase of seed-funding through GSA’s [10x program](http://10x.gsa.gov), is building towards a prospective shared solution to improve the [Single Audit](https://en.wikipedia.org/wiki/Single_Audit) finding resolution process for managing grants at federal agencies.
 
