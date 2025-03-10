@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-450-Man-looking-at-cell-phone-Ron-Chapple-Stock-Ron-Chapple-Studios-Thinkstock-126472230.jpg" alt="Man looking at cell phone" caption="" >}} 

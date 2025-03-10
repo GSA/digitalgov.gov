@@ -10,6 +10,7 @@ topics:
   - user-experience
   - communication
   - plain-language
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151-250x125.jpg" alt="community center children work at a computer" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)A few days ago a coworker asked me to look at a paragraph. He said it was on the top customer service priorities in our division.

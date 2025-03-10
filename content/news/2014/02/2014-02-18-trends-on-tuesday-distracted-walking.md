@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/06/hands-holding-smartphone-450x300.jpg" alt="Hands holding and using a smartphone" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/06/hands-holding-smartphone.jpg)Piggybacking on one of my earlier posts, [People are Excited about Mobile]({{< ref "2013-08-13-trends-on-tuesday-people-are-excited-about-mobile.md" >}} "Trends on Tuesday: People Are Excited about Mobile!"), I’m going to talk about &#8220;Distracted Walking.&#8221; Who among us hasn&#8217;t walked and texted or checked Facebook or Twitter on our smartphones, but have bumped into someone or something while texting on your smartphone? I know I am guilty of that.

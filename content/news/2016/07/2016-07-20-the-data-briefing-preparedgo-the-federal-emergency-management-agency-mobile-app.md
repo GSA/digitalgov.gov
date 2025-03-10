@@ -9,6 +9,7 @@ topics:
   - content-strategy
   - emerging-tech
   - mobile
+expirydate: 2025-01-01
 ---
 
 While you are outside [hunting Pokemon]({{< ref "2016-07-12-catch-the-mall-with-pokemon-and-public-services.md" >}}) or helping your children hunt Pokemon, consider adding another mobile app to your smartphone or tablet. The [Federal Emergency Management Agency (FEMA) mobile app](https://www.fema.gov/mobile-app) alerts you about severe weather and other natural disasters. The app is also a great information resource on surviving disasters and connects you to FEMA for immediate assistance. A feature you won’t find in many other apps is the ability for users to crowdsource photos of disaster areas to help first responders.
@@ -25,6 +26,7 @@ During disasters, electrical power and wireless communication often fails. Witho
 
 There are a few apps that use mesh networking. Firechat and Jott are being used by mostly teenagers to [create secure chat networks without having to use data plans or a WiFi network](http://www.forbes.com/sites/parmyolson/2015/06/10/chat-app-jott-teens-mesh-networks/#74d6761e7d2f). In Australia, there is the [Serval Project](http://www.servalproject.org/), which is free mesh networking software designed to build mesh networks during disasters. When FEMA updates the FEMA mobile app, I hope they consider building mesh networking functionality into the mobile app. The ability to maintain a wireless communication network when all other communication methods have failed will make the FEMA mobile app even more valuable to the American public.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

@@ -7,6 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/512-x-400-Web-Components-light-logo.jpg" alt="Web Components light logo" >}}
@@ -33,6 +34,7 @@ If you would like to learn more about Web Components, you can start with these r
 
 Web Components present another way that federal agencies can package and distribute their APIs. Maybe a possible new project is to create a federal Web Components library for website developers and mobile app developers?
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

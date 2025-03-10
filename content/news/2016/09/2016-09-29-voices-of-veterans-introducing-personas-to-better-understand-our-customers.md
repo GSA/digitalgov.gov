@@ -11,6 +11,7 @@ topics:
   - human-centered-design
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 Understanding our Veterans and their unique needs and experiences is at the heart of creating a more Veteran-centered VA. By listening to their voices and the stories they share, we can design services and experiences that meet the needs of Veterans. {{< legacy-img src="2016/09/600-x-640-VA-Center-for-Innovation-VACI-Vietnam-Veteran-photo-101st-Airborne-Division-hat.jpg" alt="Vietnam Veteran wearing a 101st Airborne Division hat." caption="" >}} 

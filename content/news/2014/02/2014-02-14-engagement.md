@@ -7,6 +7,7 @@ authors:
   - dorothy-amatucci
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 It’s one of the most important words to a federal social media account manager and knowing who to talk to can sometimes make or break a communications campaign.

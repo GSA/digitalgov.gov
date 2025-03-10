@@ -97,6 +97,7 @@ This month, we’re focusing on large group meetings: divisional Town Halls or o
 <p>A staple of TTS large group meetings is sharing “pets, children, and other cuteness.” Staff turn on their video cameras (if they weren’t already on) and show off their pets, children, or something else they enjoy. Photos can be shown to the camera, too. The icing on the cake: if you wait until the end of the meeting to reveal these, people will stay until the end!</p>
 
 <p>We also encourage gratitude and reflection. Kudos are another staple of our meetings: we set aside a timeblock for teammates to thank each other, in their own words. The moderator can gather names ahead of time and call on each person to unmute. They can also read off kudos for anyone who can’t attend or would prefer not to unmute.</p>
+
 </li>
 </ol>
 

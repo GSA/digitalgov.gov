@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - acquisition
+expirydate: 2025-01-01
 ---
 
 I recently met with more than 50 representatives from the top IT services companies and talked about the good and the bad in federal acquisition. Some of the discussion was surprising … some not so much. The key takeaways include some changes that are fairly simple for government to implement, yet have big impacts.

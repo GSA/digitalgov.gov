@@ -162,7 +162,6 @@ Ok, so we have everything almost ready to go to launch the survey to users, but 
 If you are not familiar with the PRA — the Paperwork Reduction Act — and how that impacts research efforts, I highly recommend you check out the resources we’re dropping in the chat.
 
 - [https://pra.digital.gov/about/](https://pra.digital.gov/about/)
-- [https://digital.gov/resources/paperwork-reduction-act-fast-track-process/](https://digital.gov/resources/paperwork-reduction-act-fast-track-process/)
 
 We don’t have time in this session to dive into all the requirements surrounding the PRA (plus, I’m not a lawyer), but generally speaking, you should know that it doesn’t have to be scary. Our experience with it was actually pretty good!
 

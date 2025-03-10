@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 Every second counts, even those precious two or three seconds it takes your website to load. When it [comes to mobile]({{< ref "2014-11-18-trends-on-tuesday-speed-matters-when-measuring-responsive-web-design-performance-load-times.md" >}}), users won’t wait.

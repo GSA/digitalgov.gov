@@ -10,6 +10,7 @@ topics:
   - product-and-project-management
   - social-media
   - user-experience
+expirydate: 2025-01-01
 ---
 
 <p style="text-align: center">

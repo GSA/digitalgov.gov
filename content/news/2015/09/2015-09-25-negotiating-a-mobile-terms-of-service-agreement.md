@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - terms-of-service
+expirydate: 2025-01-01
 ---
 
 In our personal lives, most of us barely pay attention to Terms of Service (TOS) agreements. But in our professional lives, as federal employees, mindlessly clicking through a TOS is not an option.

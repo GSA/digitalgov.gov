@@ -8,6 +8,7 @@ authors:
 topics:
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 For many agencies, what data to make open is left up to the agency’s judgment. This has worked well as agencies do a good job in understanding the public’s needs for specific datasets. Even so, as developers and citizens begin using the open datasets, there is increasing demand for specific agency datasets. The issue is how to best accommodate those requests given the constraints of agency budgets and open data support staff. {{< legacy-img src="2015/03/600-x-400-Electronic-data-storing-and-hosting-concept-hoodesigns-iStock-Thinkstock-97930610.jpg" alt="Electronic data storing and hosting concept" caption="" >}} 

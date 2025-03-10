@@ -9,6 +9,7 @@ topics:
   - accessibility
   - challenges-and-prize-competitions
   - crowdsourcing-and-citizen-science
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-400-Disabled-paper-figure-Anton-Prado-PHOTOGRAPHY-iStock-Thinkstock-149059983.jpg" alt="Disabled paper figure in crowd" caption="" >}}

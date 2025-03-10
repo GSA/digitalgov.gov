@@ -10,6 +10,7 @@ topics:
   - customer-experience
   - contact-centers
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/04/250-x-167-call-center-Wavebreakmedia-Ltd-Wavebreak-Media-Thinkstock-450795317.jpg" alt="Beautiful smiling businesswoman using futuristic interface showing applications" caption="" >}} 

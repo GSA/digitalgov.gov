@@ -10,6 +10,7 @@ topics:
   - mobile
   - emerging-tech
   - user-experience
+expirydate: 2025-01-01
 ---
 
 John Connor can&#8217;t save you. Robots are here to take over the world. {{< legacy-img src="2016/02/600-x-400-Adult-pretty-cyborg-robot-woman-stylish-portrait-Skin-texture-saved-tolokonov-iStock-Thinkstock-492534457.jpg" alt="A beautiful female cyborg with the face, still connected to the head by cables, held in one of her hands." caption="" >}} 

@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - innovation
 
+expirydate: 2025-01-01
 ---
 
 As you're planning your challenge, you'll want to review the relevant policies, memos, and legislation pertaining to challenge competitions. The most important is the [Prize Authority in the America COMPETES Reauthorization Act (PDF, 275 KB, 12 pages, 2011)](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/assets/egov_docs/prize_authority_in_the_america_competes_reauthorization_act.pdf) for it gives all executive branch agencies a baseline authority to run prize competitions. Be sure to consult with your agency’s attorneys on this to learn how your agency has decided to implement challenge competitions conducted under COMPETES at your agency. Challenges run under COMPETES have a few requirements, which include:

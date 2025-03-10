@@ -33,7 +33,7 @@ The PIF journey is a tested one. For seven years, fellows have been catalysts in
 **Take a look at what our fellows have been working on:** 
 
 **GIL ALTEROVITZ** 
-While at the [National Cancer Institute](https://www.cancer.gov/) (NCI) of the [U.S. Department of Health and Human Services](https://www.hhs.gov/) (HHS) and the [U.S. Department of Veterans Affairs](https://www.va.gov) (VA), Gil incentivized government and industry artificial intelligence data linkages through [Health Tech Sprint](https://digital.gov/2018/11/02/health-tech-sprint-aims-at-improving-care-access-experience/), and provided AI thought leadership to the White House. In July 2019, [VA Research announced Gil as their first director of artificial intelligence](https://www.blogs.va.gov/VAntage/63005/va-aims-expand-artificial-intelligence-research/). 
+While at the [National Cancer Institute](https://www.cancer.gov/) (NCI) of the [U.S. Department of Health and Human Services](https://www.hhs.gov/) (HHS) and the [U.S. Department of Veterans Affairs](https://www.va.gov) (VA), Gil incentivized government and industry artificial intelligence data linkages through Health Tech Sprint, and provided AI thought leadership to the White House. In July 2019, [VA Research announced Gil as their first director of artificial intelligence](https://www.blogs.va.gov/VAntage/63005/va-aims-expand-artificial-intelligence-research/). 
 
 **STEVEN BABITCH** 
 Steven is codifying how the [Federal Bureau of Investigation](https://www.fbi.gov/) (FBI) engages industry, including on information sharing. He is advising on the approach related to a policy matter, and working with mission support and operational divisions on the mitigation of national security threats. 

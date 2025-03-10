@@ -12,6 +12,7 @@ topics:
   - search-engine-optimization
   - multilingual
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/04/250-x-250-Welcome-Language-poster-design-johavel-iStock-Thinkstock-ThinkstockPhotos-528825345.jpg" alt="Language poster design using social speech bubbles with the word, Welcome, in various languages" caption="" >}}

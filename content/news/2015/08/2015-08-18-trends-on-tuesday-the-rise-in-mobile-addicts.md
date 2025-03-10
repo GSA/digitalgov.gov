@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/500-x-463-tumblr\_inline\_nrj2vgy1eu1tpd7xq_500.jpg" alt="Mobile Addicts App Usage Over-Index chart from Flurry" >}}

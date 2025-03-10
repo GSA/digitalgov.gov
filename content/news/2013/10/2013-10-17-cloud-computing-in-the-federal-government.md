@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - cloud-and-infrastructure
   - security
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/03/600-x-436-cloud-computing-CIOgov-177370799.jpg" alt="600-x-436-cloud-computing-CIOgov-177370799" >}}

@@ -9,6 +9,7 @@ topics:
   - content-strategy
 aliases:
 
+expirydate: 2025-01-01
 ---
 
 _This guide was developed by the [MobileGov](https://digital.gov/communities/mobile/) Communtiy of Practice._

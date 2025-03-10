@@ -8,6 +8,7 @@ authors:
 topics:
   - innovation
 
+expirydate: 2025-01-01
 ---
 
 The week before Patriot Day, our nation’s annual remembrance of the 9&#47;11 attacks, first responders share their remembrances and vision for the future of public safety communications in this video series. This week, we’ll hear from:

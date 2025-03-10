@@ -9,6 +9,7 @@ topics:
   - analytics
   - challenges-and-prize-competitions
   - social-media
+expirydate: 2025-01-01
 ---
 
 Challenge and prize competitions are one path that federal agencies take to drive innovation and solve mission-centric problems—whether technical, scientific, or creative. Creative competitions include multimedia, photo, poster, and design competitions. 

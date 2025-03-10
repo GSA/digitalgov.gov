@@ -51,5 +51,4 @@ Together with [Technology Transformation Services](https://www.gsa.gov/about-us/
 _**Questions about this event or future events? Send them to [digitalgov@gsa.gov](mailto:digitalgov@gsa.gov).**_
 
 - [Meet Our Presidential Innovation Fellows](https://www.presidentialinnovationfellows.gov/)
-- [On the Front Lines of Civic Tech](https://digital.gov/2018/12/19/looking-back-at-pifs-in-2018/)
 - [How 18F and Presidential Innovation Fellows Support One Another in Agencies](https://digital.gov/2019/05/07/two-complementary-teams-with-same-goal/)
