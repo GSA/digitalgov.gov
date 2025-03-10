@@ -1,5 +1,3 @@
-
-expirydate: 2025-01-01
 ---
 slug: what-is-mobile-device-compatibility-testing
 date: 2015-08-14 11:10:12 -0400
