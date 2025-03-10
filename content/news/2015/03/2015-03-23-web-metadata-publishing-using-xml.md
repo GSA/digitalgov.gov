@@ -1,5 +1,3 @@
-
-expirydate: 2025-01-01
 ---
 slug: web-metadata-publishing-using-xml
 date: 2015-03-23 11:00:18 -0400

@@ -1,5 +1,3 @@
-
-expirydate: 2025-01-01
 ---
 slug: trends-on-tuesday-using-sms-for-customer-support
 date: 2015-02-03 10:00:07 -0400
@@ -11,6 +9,7 @@ topics:
   - contact-centers
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/01/250-x-250-Mobile-phone-with-message-icon-tkacchuk-iStock-Thinkstock-183957481.jpg" alt="Mobile phone with message icon" caption="" >}} 
