@@ -34,5 +34,5 @@
   "field_page_weight" : "{{- .Params.weight -}}",
 {{- end -}}
 {{- if .Content -}}
-  "field_body" : {{- .Content | jsonify -}},
+  "field_body" : {{- .RawContent | jsonify -}},
 {{- end -}}
