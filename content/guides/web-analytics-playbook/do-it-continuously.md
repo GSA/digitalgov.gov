@@ -4,6 +4,7 @@ title: "Do it continuously"
 deck: ""
 summary: "Always be learning from past analytics cycles and making improvements for the future."
 guide: web-analytics-playbook
+field_guide_nav_title: "Iterate"
 primary_image: guide-web-analytics-playbook
 aliases:
 

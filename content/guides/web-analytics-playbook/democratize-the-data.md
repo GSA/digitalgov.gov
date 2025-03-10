@@ -4,6 +4,7 @@ title: "Democratize the data"
 deck: ""
 summary: "Allow the relevant parties to access the data, and empower them with the skills to understand it."
 guide: web-analytics-playbook
+field_guide_nav_title: "Share"
 primary_image: guide-web-analytics-playbook
 aliases:
 ---

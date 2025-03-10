@@ -2,168 +2,21 @@
 {{- $length := (len $list) -}}
 {
     "version" : "https://jsonfeed.org/version/1",
-    "content" : "events",
-    "type" : "list",
-    "title" : "{{- if eq  .Title  .Site.Title -}}{{- .Site.Title -}}{{- else -}}{{- with .Title -}} {{.}} | {{- end -}} {{ .Site.Title }} {{- end -}}",
-    "description": "{{- if ne  .Title  .Site.Title -}}{{- with .Title -}}{{.}}{{- end -}}{{- end -}}",
-    "home_page_url" : "{{- .Site.BaseURL -}}",
+    "content" : "Events",
     "count" : "{{- $length -}}",
-    {{- with .OutputFormats.Get "JSON" -}}
-    "feed_url" : "{{- .Permalink -}}",
-    {{- end -}}
-    {{- with $.Param "icon" -}}
-    "icon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{- with $.Param "favicon" -}}
-    "favicon" : "{{- . | absURL -}}",
-    {{- end -}}
-    {{- with .Site.Author.name -}}
-    "author" : {
-        "name" : "{{- . -}}"{{- with $.Site.Author.Params.url -}},
-        "url": "{{- . -}}"{{- end -}}{{- with $.Site.Author.avatar -}},
-        "avatar": "{{- . | absURL -}}"{{- end -}}
-    },
-    {{- end -}}
-    {{ with .Section }}
-    "section" : "{{ . }}",
-    {{ end }}
-    {{ with eq .Kind  "taxonomy"}}
-    "taxonomy" : "{{ $.Data.Singular }}",
-    "term" : "{{ $.Data.Term }}",
-    {{ end }}
     "items" : [
     {{- range $index, $element := $list -}}
     {
-      {{- if (isset .Params "kicker") -}}
-      "kicker" : "{{- .Params.kicker -}}",
-      {{- end -}}
-      "title" : {{- .Title | jsonify -}},
-      {{- if (isset .Params "deck") -}}
-      "deck" : "{{- .Params.deck | markdownify -}}",
-      {{- end -}}
-      {{- if (isset .Params "summary") -}}
-      "summary" : "{{- replace .Params.summary "\n" "\\n" -}}",
-      {{- end -}}
-      "date" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}",
-      {{- if .Lastmod -}}
-      "date_modified" : "{{- .Lastmod.Format "2006-01-02T15:04:05Z07:00" -}}",
-      {{- else -}}
-      "date_modified" : "{{- .Date.Format "2006-01-02T15:04:05Z07:00" -}}", -}}",
-      {{- end -}}
-      {{- with .Date -}}
-      "start_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
-      {{- end -}}
-      {{- with .Params.end_date -}}
-      "end_date" : "{{ . | dateFormat "2006-01-02T15:04:05Z07:00" }}",
-      {{- end -}}
-      {{ $data := $.Site.Data.events }}
-      {{ if (isset .Params "event_type") }}
-        {{ $_eventtype := .Params.event_type }}
-        {{ $length := $_eventtype | len }}
-        "event_type" : {
-        {{ range $i, $e := $_eventtype }}
-          {{ $etype := index $data $e }}
-          {{- if lt (add $i 1) $length -}}
-            "{{- $e -}}" : "{{ $etype.name | default $e }}",
-          {{- else -}}
-            "{{- $e -}}" : "{{ $etype.name | default $e }}"
-          {{- end -}}
-        {{ end }}
-        },
-      {{ end }}
-      {{- if (isset .Params "event_organizer") -}}
-      "event_organizer" : "{{- .Params.event_organizer -}}",
-      {{- end -}}
-      {{- if (isset .Params "host") -}}
-      "host" : "{{- .Params.host -}}",
-      {{- end -}}
-      {{- if (isset .Params "registration_url") -}}
-      "registration_url" : "{{- .Params.registration_url -}}",
-      {{- end -}}
-
-      {{- partial "api/captions.html" . -}}
-
-      {{- partial "api/youtube_id.html" . -}}
-
-      {{- if (isset .Params "zoom_id") -}}
-      "zoom_id" : "{{- .Params.zoom_id -}}",
-      {{- end -}}
-      {{- if (isset .Params "authors") -}}
-        {{- $_authors := .Params.authors -}}
-        {{- $length := $_authors | len -}}
-        "authors" : {
-        {{- range $i, $e := $_authors -}}
-          {{- $uid := $e | urlize -}}
-          {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
-          {{- with $author -}}
-            {{- if lt (add $i 1) $length -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}",
-            {{- else -}}
-              "{{- $uid -}}" : "{{- $author.Params.display_name | default $uid }}"
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-        },
-      {{- end -}}
-
-      {{- if (isset .Params "topics") -}}
-        "topics" : {
-        {{/* Sets the taxonomy we're pulling here */}}
-        {{- $taxonomy := "topics" -}}
-        {{- $topics := .Param $taxonomy -}}
-        {{/* Gets the number of topics that are applied */}}
-        {{- $length := $topics | len -}}
-
-        {{/* For each of the topics,... */}}
-        {{- range $i, $e := sort $topics -}}
-          {{- $slug := . -}}
-          {{/* Gets the Topics page */}}
-          {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
-            {{ if lt (add $i 1) $length }}
-            "{{- $slug -}}" : "{{- .Title }}",
-            {{- else }}
-            "{{- $slug -}}" : "{{- .Title }}"
-            {{ end }}
-          {{- end -}}
-
-        {{- end -}}
-        },
-      {{- end -}}
-
+      {{- partial "api/metadata.html" . -}}
       {{- partial "api/primary_image.html" . -}}
-
       {{- partial "api/featured_image.html" . -}}
-
-      "branch" : {{ $.Scratch.Get "branch" | jsonify }},
-      "filename" : {{- with .File -}}{{- .LogicalName | jsonify -}}{{- end -}},
-      {{ $path := "" }}{{ with .File }}{{ $path = .Path }}{{ else }}{{ $path = .Path }}{{ end }}
-      "filepath" : {{- with .File -}}{{- $path | jsonify -}}{{- end -}},
-      "filepathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/blob/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-      "editpathURL" : {{- with .File -}}{{- printf "https://github.com/%s/%s/edit/%s/content/%s" $.Site.Params.git_org $.Site.Params.git_repo ($.Scratch.Get "branch") $path | jsonify -}}{{- end -}},
-      {{- if .Params.weight -}}
-      "weight" : "{{- .Params.weight -}}",
-      {{- end -}}
-      {{- if .Params.aliases -}}
-      "aliases" : {
-        {{- $aliaslen := .Params.aliases | len -}}
-        {{- $.Scratch.Set "aliascount" 1 -}}
-        {{- range $i, $e := .Params.aliases -}}
-          {{- with $e -}}
-            {{- $aliascount := $.Scratch.Get "aliascount" -}}
-            {{- if eq $aliascount $aliaslen -}}
-              "{{- $i -}}" : "{{- $e -}}"
-            {{- else -}}
-              "{{- $i -}}" : "{{- $e -}}",
-            {{- end -}}
-            {{- $.Scratch.Add "aliascount" 1 -}}
-          {{- end -}}
-        {{- end -}}
-      },
-      {{- end -}}
-
+      {{- partial "api/event-info.html" . -}}
+      {{- partial "api/youtube_id.html" . -}}
+      {{- partial "api/aliases.html" . -}}
+      {{- partial "api/authors.html" . -}}
+      {{- partial "api/topics.html" . -}}
+      {{- partial "api/file-info.html" . -}}
       {{- partial "api/slug.html" . -}}
-
-      "url" : "{{- .Permalink -}}"
     }{{- if ne (add $index 1) $length -}},{{- end -}}
     {{- end -}}
     ]

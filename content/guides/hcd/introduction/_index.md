@@ -5,6 +5,7 @@ title: "Introduction to human-centered design"
 deck: "Everything you need to know to get started with our human-centered design series"
 summary: "Everything you need to know to get started with our human-centered design series"
 guide: hcd-introduction
+field_guide_nav_title: "Overview"
 glossary: hcd-glossary.json
 image: hcd-guide-intro
 primary_image: hcd-guide-intro

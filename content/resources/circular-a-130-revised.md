@@ -1,5 +1,6 @@
 ---
 url: /circular-a-130-revised/
+slug: circular-a-130-revised
 date: 2015-11-24 11:30:32 -0400
 title: Circular A-130 Revised
 summary: Circular A-130 was first issued in December 1985 to meet information resource management requirements that were included in the Paperwork Reduction Act (PRA) of 1980. Specifically, the PRA assigned responsibility to the OMB Director to develop and maintain a comprehensive set of information resources management policies for use across the Federal government, and to promote

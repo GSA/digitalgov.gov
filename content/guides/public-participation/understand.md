@@ -5,6 +5,7 @@ deck: ""
 summary: "Learn how to understand and empower your participants."
 summary_box: true
 guide: public-participation
+field_guide_nav_title: "Understand the playing field"
 primary_image: guide-public-participation
 ---
 

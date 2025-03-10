@@ -4,7 +4,6 @@ deck: The next generation of the design system
 kicker: USWDS
 summary: The U.S. Web Design System (USWDS) team will share their vision for the design system as a product, including USWDS Web Components and other new things the team expects to deliver in 2025. 
 event_organizer: Digital.gov
-cop_events: ""
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItfumsrzwiGRcqviGv4fcTLhgHS8ClFEU
 date: 2024-11-21 14:00:00 -0500
 end_date: 2024-11-21 15:00:00 -0500

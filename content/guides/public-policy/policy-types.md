@@ -7,6 +7,7 @@ summary: "Learn about different types of public policy, and explore the policy f
 expirydate: "2025-01-02"
 
 guide: public-policy
+field_guide_nav_title: "Policy types"
 primary_image: guide-public-policy
 
 ---

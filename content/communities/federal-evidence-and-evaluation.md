@@ -5,6 +5,7 @@ deck: ""
 summary: "For federal executive branch staff interested in evaluation and evidence-building. Connect with peers, share information, access resources and trainings, and sign up for events. Features content to support federal agencies as they implement the Evidence Act."
 
 redirectto: https://community.max.gov/pages/viewpage.action?pageId=630067080
+source_url: https://community.max.gov/pages/viewpage.action?pageId=630067080
 
 # See all topics at https://digital.gov/topics
 topics:

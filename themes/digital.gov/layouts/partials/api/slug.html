@@ -1,3 +1,8 @@
+"uid": "{{ default .Name .Params.slug }}",
 {{- with .Params.slug -}}
   "slug" : "{{- . -}}",
+{{- end -}}
+{{- if .Permalink -}}
+  "url" :
+  "{{- replace .RelPermalink "preview/gsa/digitalgov.gov/nl-json-endpoints/" "" | safeURL -}}"
 {{- end -}}

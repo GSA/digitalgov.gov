@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/2014-anle-agreement.pdf
+  # File shortcode: {{< asset-static file="2014-anle-agreement.pdf" label="2014-anle-agreement (PDF, 4 pages, 2MB)" >}}
+  date     :  2025-02-12 09:20:34 -0400
+  uid      :  2014-anle-agreement
+  format   :  pdf
+  

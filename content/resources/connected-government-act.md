@@ -149,7 +149,7 @@ We've covered the essentials above, but below is information about policies, pla
 If you are creating an app, you will need to work with the platform to get your app added to their store. The following have federal-compatible Terms of Service agreements.
 
 - **Apple** <br />https://www.digitalgov.gov/2013/05/30/apples-ios-terms-of-service-developer-program-license-agreement/
-- **Blackberry App World** <br />https://s3.amazonaws.com/digitalgov/_legacy-img/2014/07/blackberry-app-world-tos-agreement.pdf (PDF, 270 KB, 4 pages)
+- **Blackberry App World** <br />https://s3.amazonaws.com/digitalgov/static/blackberry-app-world-tos-agreement.pdf (PDF, 270 KB, 4 pages)
 
 ### Native Apps or Progressive Web Apps
 

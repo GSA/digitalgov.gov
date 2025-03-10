@@ -1,0 +1,25 @@
+{{- partial "core/set-env.html" . -}}
+{{- $list := (where .Site.Pages "Section" "topics") -}}
+{{- $length := len $list -}}
+{ "content" : "topics", "count" : "{{- $length -}}", "items" : [
+{{- range $topic := $list.ByTitle -}}
+  {{- with $topic -}}
+    {
+    {{ $path := "" }}{{ with .File }}
+      {{ $path = .Path }}
+    {{ else }}
+      {{ $path = .Path }}
+    {{ end }}
+    {{- partial "api/metadata.html" . -}}
+    {{- partial "api/topics-metadata.html" . }}
+    {{- partial "api/aliases.html" . -}}
+    {{- partial "api/file-info.html" . }}
+    {{- partial "api/slug.html" . }}
+    }
+    {{- $.Scratch.Add "i" 1 -}}
+    {{- $iterator := $.Scratch.Get "i" -}}
+    {{- if not (eq $length $iterator) -}},{{- end -}}
+
+  {{- end -}}
+{{- end -}}
+] }

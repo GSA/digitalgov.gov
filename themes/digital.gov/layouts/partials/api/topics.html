@@ -1,0 +1,14 @@
+{{- if (isset .Params "topics") -}}
+  "field_topics":
+  {{- $taxonomy := "topics" -}}
+  {{- $topics := .Param $taxonomy -}}
+  {{- $topicLinks := slice -}}
+  {{- range $i, $slug := sort $topics -}}
+    {{- with $.Site.GetPage (printf "/%s/%s" $taxonomy $slug) -}}
+      {{- $topicLinks = $topicLinks | append (printf "%s" $slug) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $topicsJSON := $topicLinks | jsonify -}}
+  {{- $topicsJSON -}}
+  ,
+{{- end -}}

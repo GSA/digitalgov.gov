@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "field_display_name": "Aaron Meyers",
+            "field_first_name": "Aaron",
+            "field_last_name": "Meyers",
+            "field_agency_full_name": "U.S. General Services Administration",
+            "field_github": "AKM399",
+            "date_modified": "2024-04-15T14:50:36-04:00",
+            "filepath": "/content/authors/aaron-meyers/_index.md",
+            "slug": "aaron-meyers",
+            "url": "http://localhost:1313/authors/aaron-meyers/"
+        },
+        {
+            "field_display_name": "Administrator Robin Carnahan",
+            "field_first_name": "Robin",
+            "field_last_name": "Carnahan",
+            "field_agency_full_name": "U.S. General Services Administration",
+            "field_profile_source": "digit-light",
+            "date_modified": "2022-07-20T12:03:58-04:00",
+            "filepath": "/content/authors/administrator-robin-carnahan/_index.md",
+            "slug": "administrator-robin-carnahan",
+            "url": "http://localhost:1313/authors/administrator-robin-carnahan/"
+        },
+        {
+            "field_display_name": "Jon Raedeke ",
+            "field_first_name": "Jon",
+            "field_last_name": "Raedeke",
+            "field_agency_full_name": "National Institute of Standards and Technology",
+            "field_github": "jonraedeke",
+            "date_modified": "2024-12-30T16:19:11-05:00",
+            "aliases": [
+                "https://digital.gov/authors/john-raedeke"
+            ],
+            "filepath": "/content/authors/jon-raedeke/_index.md",
+            "slug": "jon-raedeke",
+            "url": "http://localhost:1313/authors/jon-raedeke/"
+        }
+    ]
+}

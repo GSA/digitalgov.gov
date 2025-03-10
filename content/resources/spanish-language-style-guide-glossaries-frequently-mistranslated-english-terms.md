@@ -80,7 +80,7 @@ _Informar(se), enterar(se), tomar conocimiento de — conjugate accordingly._
 _Estar capacitado, calificado para…. Reunir los requisitos para un programa, o asistencia… **Avoid**: CALIFICAR (Ella califica para el préstamo—incorrect use)_
 
 **Raise awareness** &#91;exp.&#93;:<br />
-_[Concientizar al público][534a96e9] (widely used)_
+_[Concientizar al público][534a96e9](widely used)_
 
 [534a96e9]: https://www.google.com/search?num=100&hl=en&lr=&ie=UTF-8&q=concientizar+del+cancer "Google search results"
 

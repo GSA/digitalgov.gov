@@ -7,6 +7,7 @@ summary: "The Paperwork Reduction Act (PRA) is a key federal statute. Learn when
 expirydate: "2025-01-02"
 
 guide: public-policy
+field_guide_nav_title: "Information collection"
 primary_image: guide-public-policy
 
 ---

@@ -4,6 +4,7 @@ date: 2018-10-09 12:30:00 -0500
 title: "The viewport is the window to your site"
 summary: "Week two of our series covers the benefits of setting your viewport."
 guide: mobile-principles
+field_guide_nav_title: "Viewport"
 primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/viewport

@@ -4,6 +4,7 @@ title: "Understanding robotic process automation"
 deck: "Automate reptitive business processes without writing code"
 summary: "Configure bots to execute repetitive tasks and save users from performing mundane tasks repeatedly for the same process."
 guide: rpa
+field_guide_nav_title: "Overview"
 aliases:
 primary_image: "guide-rpa"
 image: guide-rpa
