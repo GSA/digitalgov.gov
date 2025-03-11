@@ -110,9 +110,11 @@ You can learn more by visiting our [Login.gov website](https://www.login.gov).
 
 Is your agency looking for a login solution for your online products and services? Visit [partners.login.gov](https://partners.login.gov).
 
-**Speaker**
+---
 
-Julia Elman - UX Lead, Login.gov.
+## About the author
+
+Julia Elman is the UX Lead for Login.gov.
 
 ---
 
