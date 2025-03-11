@@ -134,9 +134,3 @@ We hope that soon, it becomes standard practice to meaningfully incorporate the 
 
 6. United States, Executive Office of the President. “Executive Order 14058: Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government.” _Federal Register_, 16 December 2021, https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government. Accessed 16 February 2022.
 {{< /accordion >}}
-
----
-
-## About the authors
-
-Lashanda Hodge is the Managing Director of the Customer Experience and Contact Center, Centers of Excellence (CoE) at GSA. Aaron Stienstra is a Senior Design Strategist with the Office of Customer Experience at GSA.
