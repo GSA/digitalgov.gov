@@ -64,7 +64,7 @@ We’ll use plenty of before-and-after examples.
 
 ## Speaker:
 
-{{< img-right src="katherine-spivey" >}}
+{{< img-right src="katherine-spivey" alt="professional photo of the presenter">}}
 **Katherine Spivey** — serves as GSA’s Plain Language Launcher and is a Senior Communications Analyst for the Office of Strategic Communications. She is co-chair of the Plain Language Action and Information Network (PLAIN) and trains for DigitalGov. In her previous position at GSA, she managed web content, coordinated social media, and edited the Great Government through Technology blog. Before GSA, Katherine was web content manager at Homeland Security, law firm Steptoe & Johnson LLP, and the International Association of Chiefs of Police. With an M.A. from UVA and a B.A. from the University of Mary Washington, she has taught at community colleges and at the Amphibious Warfare School in Quantico, Virginia.
 
 ## Related Links
