@@ -12,6 +12,7 @@ topics:
   - innovation
   - human-centered-design
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Our goal for a more veteran-centered and innovative VA is shared. Our approach to innovation is collaborative.

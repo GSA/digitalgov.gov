@@ -9,6 +9,7 @@ topics:
   - application-programming-interface
   - software-engineering
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 The recent Ebola outbreaks demonstrate the need for current and authoritative health news. The Centers for Disease Control and Prevention (CDC) is the federal information source for Ebola and other infectious diseases, along with other public health data. [Data.CDC.gov](https://data.cdc.gov/) lists 48 datasets and views containing statistics from smoking to infectious diseases. Developers can use the <a href="http://dev.socrata.com/" target="_blank">Socrata Open Data API </a>to pull JSON data into their apps.

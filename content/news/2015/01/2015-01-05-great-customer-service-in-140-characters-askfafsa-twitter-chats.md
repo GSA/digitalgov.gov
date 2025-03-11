@@ -7,6 +7,7 @@ authors:
   - awichman
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/560-x-624-AskFAFSA-Twitter-Aug-2014.jpg" alt="560 x 624 AskFAFSA Twitter Aug 2014" >}}

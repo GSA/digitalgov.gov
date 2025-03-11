@@ -9,6 +9,8 @@ topics:
   - digital-service-delivery
   - search-engine-optimization
 
+aliases:
+  - /2014/11/24/placeholder-text-think-outside-the-box/
 # Controls how this page appears across the site
 # 0 -- hidden
 # 1 -- visible

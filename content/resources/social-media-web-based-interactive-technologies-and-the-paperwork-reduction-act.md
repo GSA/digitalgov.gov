@@ -7,6 +7,7 @@ topics:
   - social-media
   - information-collection
   - public-policy
+expirydate: 2025-01-01
 ---
 
 Inspired by the goal of promoting flexible and open interactions between federal agencies and the public, this memo clarifies when and how the Paperwork Reduction Act of 1995 (the PRA) applies to federal agency use of social media and web-based interactive technologies.

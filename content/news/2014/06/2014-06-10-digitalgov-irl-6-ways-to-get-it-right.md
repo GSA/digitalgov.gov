@@ -10,6 +10,7 @@ topics:
   - mobile
   - user-experience
   - open-data
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img-right src="2014/06/250-x-333-Gwynne-Kostin-Emergency-Alert-screenshot.jpg" alt="A screen capture of a Flash Flood Warning Emergency Alert for Washington D.C., sent on June 10, 2014 to mobile devices from the National Weather Service (NWS)." >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/06/EmergencyAlert.jpg)This morning I was walking down 18th Street, crossing Pennsylvania Avenue by the World Bank when I heard what sounded like &#8220;<a href="https://www.youtube.com/watch?v=NRxrCBvt7TM" target="_blank">a test from the Emergency Broadcast System</a>.&#8221; I looked behind me and realized it was coming from my purse and that my phone was jiggling.

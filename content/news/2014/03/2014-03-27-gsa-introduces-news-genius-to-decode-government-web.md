@@ -13,6 +13,7 @@ topics:
 
 primary_image: "gsa-mentor-protege-on-mobile-phone-comp"
 
+expirydate: 2025-01-01
 ---
 
 The federal government can now unlock the collaborative “genius” of citizens and communities to make public services easier to access and understand with a new free social media platform launched by GSA today at the Federal #SocialGov Summit on Entrepreneurship and Small Business.

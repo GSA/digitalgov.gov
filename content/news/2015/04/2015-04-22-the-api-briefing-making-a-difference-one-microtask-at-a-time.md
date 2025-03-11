@@ -10,6 +10,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - mobile
   - open-government
+expirydate: 2025-01-01
 ---
 
 I recently found an app that provides a great service through crowdsourcing. <a href="http://www.bemyeyes.org/" target="_blank">Be My Eyes</a> connects visually-impaired people with volunteers. Using the smartphone’s camera, the volunteers can perform tasks such as reading an expiration date or helping someone navigate unfamiliar surroundings. This is not a federal app, but I wanted to highlight it to demonstrate how crowdsourcing apps can make it easy for everyone to make a difference through microtasks.
@@ -20,6 +21,7 @@ Crowdsourcing is the use of an online platform to have a large number of people 
 
 In past columns, I have written about how federal agencies use APIs to supply federal data to apps. This is a vital service, but I also want to encourage agencies to think of ways that they could use crowdsourcing platforms to help citizens provide services to other citizens. Citizens can trust federal agencies to provide safe and reliable crowdsourcing platforms along with valid federal data sources. Citizen volunteers can feel a sense of civic pride while donating just a few minutes of their time to easy but vitally-needed microtasks. Everyone benefits as crowdsourcing becomes another way of delivering public services.
 
+expirydate: 2025-01-01
 ---
 
 **Disclaimer**: All references to specific brands, products, and/or companies are used only for illustrative purposes and do not imply endorsement by the U.S. federal government or any federal government agency.

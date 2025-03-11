@@ -10,6 +10,7 @@ topics:
   - innovation
   - open-data
 
+expirydate: 2025-01-01
 ---
 
 > _Summary: The White House is hosting its first-ever Electric Vehicle Datathon, and nominations for participation are now open. Don&#8217;t miss your chance to join the discussion!_

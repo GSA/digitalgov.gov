@@ -8,6 +8,7 @@ authors:
 topics:
   - product-and-project-management
   - security
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2013/11/nascio-Logo.jpg" alt="Logo for NASCIO" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/11/nascio-Logo.jpg)Security, consolidation, cloud services and enterprise portfolio management top the list of critical state CIO priorities in 2014, according to state information technology leaders surveyed by the National Association of State Chief Information Officers (NASCIO). The prioritized rankings of strategies and technologies reflect voting by state CIOs and are available for download at [www.nascio.org/publications/](http://www.nascio.org/publications/)

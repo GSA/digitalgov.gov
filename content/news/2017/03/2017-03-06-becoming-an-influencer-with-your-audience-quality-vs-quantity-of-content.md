@@ -8,6 +8,7 @@ authors:
 topics:
   - content-strategy
   - social-media
+expirydate: 2025-01-01
 ---
 
 Regardless of the platform, industry or niche, you became a social media influencer in one of two ways: adopting early or promoting great content.

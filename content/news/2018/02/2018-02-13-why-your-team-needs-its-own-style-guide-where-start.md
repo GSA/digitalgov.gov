@@ -16,6 +16,7 @@ featured_image:
   uid: cfpb-secondary-color-palette-swatches-featured
   alt: 'CFPB Design Manual: Secondary Colors Palette.'
 
+expirydate: 2025-01-01
 ---
 
 My team at the Federal Reserve is about to launch our first style guide and now that we have gone through the process and created this valuable resource, I can’t imagine creating another app or website without it. Here’s why your team needs a style guide and lessons learned from our experience.

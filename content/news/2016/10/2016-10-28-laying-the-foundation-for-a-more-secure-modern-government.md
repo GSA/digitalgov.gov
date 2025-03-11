@@ -15,6 +15,7 @@ topics:
   - budgeting-and-performance
   - privacy
   - security
+expirydate: 2025-01-01
 ---
 
 > _Summary: Building on efforts to boost Federal cybersecurity & as part of National Cybersecurity Awareness Month, today we&#8217;re releasing a proposed guidance to modernize Federal IT._

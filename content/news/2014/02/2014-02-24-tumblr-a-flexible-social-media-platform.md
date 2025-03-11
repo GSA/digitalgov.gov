@@ -7,6 +7,7 @@ authors:
   - jessica-milcetich
 topics:
   - social-media
+expirydate: 2025-01-01
 ---
 
 [{{< legacy-img src="2014/02/Tumblr-screenshot-250x154.png" alt="Screenshot of the Tumblr dashboard interface" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/02/Tumblr-screenshot.png)When HHS’s Katie Gorscak was looking for a way to share [Stopbullying.gov](http://www.stopbullying.gov/)’s information with teenagers, she looked at her options on social media.

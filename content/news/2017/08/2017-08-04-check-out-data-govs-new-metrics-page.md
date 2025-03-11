@@ -8,6 +8,7 @@ authors:
 topics:
   - open-data
   - analytics
+expirydate: 2025-01-01
 ---
 
 Data.gov recently updated its [Metrics](https://www.data.gov/metrics){.local-link} page to provide greater detail and transparency to the progress of the Data.gov catalog.

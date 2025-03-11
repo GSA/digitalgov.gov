@@ -8,6 +8,7 @@ authors:
 topics:
   - emerging-tech
   - mobile
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/12/600-x-450-Shows-tablet-denphumi-iStock-Thinkstock-176622799.jpg" alt="concept image of a mobile tablet being used for a variety of tasks; television, movies, games, music, email, social networks, et cetera." caption="" >}} 

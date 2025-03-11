@@ -7,6 +7,7 @@ authors:
   - courtney-greenley
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 Mobile-friendliness is a [must for government]({{< ref "2015-03-31-trends-on-tuesday-smartphone-market-growth-makes-mobile-friendly-a-must.md" >}} "Trends on Tuesday: Smartphone Market Growth Makes Mobile-Friendly a Must"). We know there are a number of agencies who have mobile-friendly digital products that we don’t know about, and they deserve their day in the sun.

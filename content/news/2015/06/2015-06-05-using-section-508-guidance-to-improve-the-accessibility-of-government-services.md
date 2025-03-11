@@ -8,6 +8,7 @@ authors:
 topics:
   - accessibility
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img-right src="2015/02/250-x-200-legal-clause-symbol-Paragraph-as-Law-Loophole-plrang-iStock-Thinkstock-137436398.jpg" alt="The symbol for legal clauses or sections." caption="" >}} 

@@ -24,17 +24,17 @@ aliases:
   - /topics/us-digital-registry/
   - /topics/yelp/
   - /topics/youtube/
-  - /news/2016/02/2016-02-03-new-u-s-digital-registry-authenticates-official-public-service-accounts
-  - /news/2016/02/2016-02-29-is-your-federal-mobile-app-or-website-in-the-us-digital-registry
-  - /news/2016/06/2016-06-20-u-s-digital-registry
+  - /2016/02/03/new-u-s-digital-registry-authenticates-official-public-service-accounts
+  - /2016/02/29/is-your-federal-mobile-app-or-website-in-the-us-digital-registry
+  - /2016/06/20/u-s-digital-registry
 
 # Weight
 weight: 2
 
 # Set the legislation card title and link
 legislation:
-  title: "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications (PDF, 103 KB, 9 pages)"
-  link: "https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2010/m10-23.pdf"
+  title: "OMB M-10-23, Guidance for Agency Use of Third-Party Websites and Applications"
+  link: "https://digital.gov/resources/guidance-for-agency-use-of-third-party-websites-and-applications/"
 
 # Featured community to display at the top of the page
 featured_communities:
@@ -49,9 +49,6 @@ featured_links:
     - title: "Six important factors to consider for digital advertising in government"
       summary: "Learn about the benefits and potential pitfalls of digital advertising and paid media."
       href: "https://digital.gov/2022/10/18/6-important-factors-to-consider-for-digital-advertising-in-government"
-    - title: "Guidelines for the secure use of social media"
-      summary: "Follow these guidelines from the Federal CIO Council and use social media in a manner that minimizes risk."
-      href: "https://digital.gov/resources/guidelines-for-secure-use-of-social-media"
     - title: "How to start and sustain a federal podcast"
       summary: "Discover how to create and maintain a successful podcast at your federal agency."
       href: "https://digital.gov/resources/how-to-start-and-sustain-a-federal-podcast"

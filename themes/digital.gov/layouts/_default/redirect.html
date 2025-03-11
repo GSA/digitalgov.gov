@@ -1,0 +1,52 @@
+{{ define "content" }}
+  <main role="main" id="main-content" class="dg-redirect">
+    <section class="grid-container-desktop dg-redirect__content">
+      <header class="dg-redirect__header">
+        <h1>The page you’re looking for is no longer available.</h1>
+      </header>
+
+      <section class="dg-redirect__body">
+        <div class="dg-redirect__body-links">
+          <h2 class="dg-redirect__body-header">
+            Connect with other Digital.gov resources:
+          </h2>
+          <ul class="usa-list">
+            <li>
+              Understand
+              <a href="{{- "topics/design" | relURL -}}"
+                >how and why design impacts user experience.</a
+              >
+            </li>
+            <li>
+              <a href="{{- "topics/digital-service-delivery" | relURL -}}"
+                >Make it easier for the public to access the information and
+                services that they count on.</a
+              >
+            </li>
+            <li>
+              Browse our
+              <a href="{{- "resources" | relURL -}}">resources by topic.</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="dg-redirect__body-buttons">
+          <a
+            href="{{- .Site.BaseURL -}}"
+            title="{{- .Site.Title }} Home"
+            aria-label="{{- .Site.Title }} Home"
+            class="usa-button"
+          >
+            Visit homepage
+          </a>
+          <a href="{{- "about/contact" | relURL -}}" class="usa-button">
+            Contact us
+          </a>
+        </div>
+      </section>
+    </section>
+  </main>
+  <section class="grid-container-desktop dg-redirect__touchpoints">
+    {{- partial "core/touchpoints-form.html" . -}}
+  </section>
+{{ end }}

@@ -12,6 +12,7 @@ topics:
   - research
   - plain-language
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/250-x-249-People-in-Social-network-VOLODYMYR-GRINKO-iStock-Thinkstock-156972305.jpg" alt="Outline of a figure is surrounded by social and business icons" caption="" >}} 

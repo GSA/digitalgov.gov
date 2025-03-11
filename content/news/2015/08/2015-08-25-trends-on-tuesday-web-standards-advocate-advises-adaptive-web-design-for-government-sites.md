@@ -9,6 +9,7 @@ topics:
   - design
   - mobile
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/08/600-x-400-Escalators-quote-Mitch-Hedberg.jpg" alt="I like an escalator because an escalator can never break, it can only become stairs. — Mitch Hedberg" >}}

@@ -8,6 +8,7 @@ authors:
 topics:
   - analytics
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/11/600-x-332-Strategy-concepts-on-chalk-board-Melpomenem-iStock-Thinkstock-466815611.jpg" alt="600 x 332 Strategy concepts on chalk board Melpomenem iStock Thinkstock 466815611" >}}

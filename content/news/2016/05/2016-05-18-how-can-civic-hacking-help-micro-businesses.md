@@ -7,6 +7,7 @@ authors:
   - jack-bienko
 topics:
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 _National Day of Civic Hacking on June 4th, D.C. Edition_

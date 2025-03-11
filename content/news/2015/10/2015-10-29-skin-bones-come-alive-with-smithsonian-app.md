@@ -8,6 +8,7 @@ authors:
 topics:
   - mobile
 
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/10/600-x-450-Smithsonian-Skin-and-Bones-app-iPad-home-screen.jpg" alt="The home screen of the Smithsonian Skin and Bones iPad app" >}}

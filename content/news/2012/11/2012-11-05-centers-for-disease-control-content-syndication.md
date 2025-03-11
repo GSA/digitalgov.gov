@@ -7,6 +7,7 @@ topics:
   - application-programming-interface
   - mobile
   - content-strategy
+expirydate: 2025-01-01
 ---
 
 _[{{< legacy-img src="2013/12/CDC\_iPad\_iPhone-250x171.png" alt="iPad and Phone showing CDC mobile content" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/CDC_iPad_iPhone.png)Mobile Gov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by **Centers for Disease Control and Prevention**._

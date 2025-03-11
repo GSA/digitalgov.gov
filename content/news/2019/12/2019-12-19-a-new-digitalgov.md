@@ -9,6 +9,8 @@ title: "Welcome to the NEW Digital.gov"
 deck: "It's now easier to find the tools and resources you need to make digital services better, and see examples of problems being solved across government."
 summary: "We've been working on a new version of Digital.gov, and we’re ready to make it available to you."
 
+expirydate: "2025-01-27"
+
 topics:
   - digital-service-delivery
   - design
@@ -33,7 +35,7 @@ Through collaboration in our communities of practice, Digital.gov is a window in
 
 ## What’s New?
 
-Our new site is built to be an example for meeting the goals in the [21st Century Integrated Digital Experience Act](https://digital.gov/guides/21st-century-idea/) (21st Century IDEA) and the previous [other federal digital policies](https://digital.gov/resources/omb-memos-circulars-executive-orders-and-other-policies/) that have come before it.
+Our new site is built to be an example for meeting the goals in the [21st Century Integrated Digital Experience Act](https://digital.gov/guides/21st-century-idea/) (21st Century IDEA) and the other federal digital policies](https://digital.gov/topics/public-policy/) that have come before it.
 
 We’ve followed many of the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS) [design principles](https://designsystem.digital.gov/maturity-model/) in building out our new site:
 

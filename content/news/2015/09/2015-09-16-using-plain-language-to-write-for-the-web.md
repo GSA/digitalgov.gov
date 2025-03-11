@@ -11,6 +11,7 @@ authors:
 topics:
   - communication
   - plain-language
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-400-Signpost-showing-simple-or-complicated-keport-iStock-Thinkstock-481691104.jpg" alt="A signpost showing signs pointing in opposite directions; one says, simple, and the other says, complicated." caption="" >}}
