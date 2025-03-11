@@ -30,8 +30,9 @@ The information in this month’s call will be beneficial for developers.
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event. Don’t forget to set a placeholder on your personal calendar for our future events this year.
 
-## About the Speaker
-{{< author-bio "dan-williams" >}}
+**Speaker**
+
+Dan Williams - Product Lead, USWDS
 
 ## About the USWDS
 
