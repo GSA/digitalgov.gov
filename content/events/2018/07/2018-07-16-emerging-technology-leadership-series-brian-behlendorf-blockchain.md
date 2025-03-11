@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: 0vEMKDmqKYM
+youtube_title: "Emerging Technology Leadership Series: Brian Behlendorf and Blockchain"
 
 # Make it better ♥
 

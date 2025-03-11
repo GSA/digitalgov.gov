@@ -22,6 +22,7 @@ authors:
 
 # YouTube ID
 youtube_id: cZYWQwY94Y0
+youtube_title: "Crowdsourcing for Access & Engagement at the Library of Congress"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden
