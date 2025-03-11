@@ -286,7 +286,7 @@ Define a framework for collecting common customer metrics, measures and outcomes
 
 - [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) - website analytics
 - [Search.gov](http://www.search.gov/) - hosted search service
-- [Federalist](https://federalist.18f.gov/) - web publishing platform
+- [Federalist](https://pages.cloud.gov/) - web publishing platform
 - [DOI Federal Consulting Group (FCG)](https://www.doi.gov/fcg) - survey tools and analysis support
 
 ### Engage your team
