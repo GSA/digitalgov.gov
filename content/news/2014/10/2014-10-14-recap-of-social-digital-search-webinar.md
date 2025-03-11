@@ -11,6 +11,7 @@ topics:
   - multimedia
   - search
   - social-media
+expirydate: 2025-01-01
 ---
 
 Content is no longer limited to .gov sites. As mentioned in a recent blog post, [Sharing is Caring, Adding Social Media Accounts to Search]({{< ref "2014-09-05-sharing-is-caring-adding-social-media-accounts-to-search.md" >}} "Sharing is Caring, Adding Social Media Accounts to Search"), DigitalGov Search uses Flickr, Instagram, and YouTube to populate image and video search results.

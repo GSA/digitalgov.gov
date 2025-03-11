@@ -5,6 +5,7 @@ title: Open Payments Apps Help Healthcare Professionals Track Reporting On The G
 summary: The Affordable Care Act (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements. And not only is the healthcare changing but also are the
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 The [**Affordable Care Act**](http://www.hhs.gov/healthcare/rights/) (ACA) is bringing lots of change to the traditional healthcare landscape as practitioners and healthcare companies gear up for an influx of patient demand. There are also changes to the way healthcare companies and doctors will track and report reimbursements.

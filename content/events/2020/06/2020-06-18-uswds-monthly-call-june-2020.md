@@ -36,10 +36,6 @@ youtube_id:
 # Primary Image (for social media)
 primary_image: "uswds-2-illio-feature-image"
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases: 
-  - /events/
-
 # Make it better ♥
 ---
 

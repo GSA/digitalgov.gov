@@ -10,6 +10,7 @@ topics:
   - software-engineering
   - open-data
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/09/600-x-222-OpenNASA-logo.jpg" alt="The Open NASA logo" >}}

@@ -10,6 +10,7 @@ topics:
   - content-strategy
   - mobile
   - social-media
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2012/11/250-x-250-Vector-contest-banners-in-flat-style-winners-venimo-iStock-Thinkstock-471796081.jpg" alt="Vector contest banners in flat style winners" caption="" >}} 

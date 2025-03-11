@@ -7,6 +7,7 @@ authors:
   - bbrantley
 topics:
   - application-programming-interface
+expirydate: 2025-01-01
 ---
 
 Serendipity can be a wonderful tool for discovery. I was looking through the Census Bureau site for some business census data when I came upon the <a href="http://www.census.gov/govs/cog/index.html" target="_blank">2012 Census of Governments</a>. According to the official description: “[t]he Census of Governments identifies the scope and nature of the nation&#8217;s state and local government sector; provides authoritative benchmark figures of public finance and public employment; classifies local government organizations, powers, and activities; and measures federal, state, and local fiscal relationships.”

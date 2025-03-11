@@ -10,6 +10,7 @@ topics:
   - application-programming-interface
   - content-strategy
   - open-source
+expirydate: 2025-01-01
 ---
 
 Most of us in the DigitalGov community recognize that responsive Web design is one approach to [mobile first]({{< ref "2013-09-30-mobile-first.md" >}}) and most of us have a pretty clear picture of what it means—a responsive website will adjust to different devices, and the content will neatly change its layout from one screen size to another.

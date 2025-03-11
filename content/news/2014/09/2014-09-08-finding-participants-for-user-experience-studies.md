@@ -9,6 +9,7 @@ topics:
   - research
   - user-experience
   - usability
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/09/600-x-450-Different-People-Palto-iStock-Thinkstock-492963023.jpg" alt="One figure in a long line of stick figures is highlighted in gold." caption="" >}}

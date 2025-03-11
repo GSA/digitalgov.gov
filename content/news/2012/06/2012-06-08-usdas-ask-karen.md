@@ -7,11 +7,12 @@ authors:
   - jparcell
 topics:
   - mobile
+expirydate: 2025-01-01
 ---
 
 _MobileGov Experiences are agency stories about creating anytime, anywhere, any device government services and info. This entry is a story shared by the U.S. Department of Agriculture._
 
-<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/AskKaren_Mobile.jpg" align="right">Mobile [Ask Karen](http://apps.usa.gov/ask-karen.shtml) is an extension of USDA's Food Safety and Inspection Service's 24-7 virtual representative Ask Karen. Ask Karen is a web knowledgebase, populated with answers to questions pertaining to food safety. Ask Karen provides answers to consumers via an automated response system.
+<img src="https://s3.amazonaws.com/digitalgov/_legacy-img/2013/12/AskKaren_Mobile.jpg" align="right" alt="Preview of a chatbot where text can be entered">Mobile [Ask Karen](http://apps.usa.gov/ask-karen.shtml) is an extension of USDA's Food Safety and Inspection Service's 24-7 virtual representative Ask Karen. Ask Karen is a web knowledgebase, populated with answers to questions pertaining to food safety. Ask Karen provides answers to consumers via an automated response system.
 
 ## Why We Did It
 

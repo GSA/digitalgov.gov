@@ -14,6 +14,7 @@ featured_image:
   alt: ''
 deck: 'How agency leaders can create a work environment that fosters innovation via creativity and experimentation'
 
+expirydate: 2025-01-01
 ---
 
 Every organization seeks to innovate, to use the latest technology or methods to provide new products and services to their users—but despite this near-universal desire to improve the product, many can have a tough time generating meaningful innovation. What differentiates those agencies that are creating novel products or services from the rest is leadership’s role in creating a safe, creative work environment where employees have freedom to experiment on the job.

@@ -16,7 +16,7 @@ authors:
 # 1 -- visible
 # 2 -- highlighted
 weight: 2
-
+expirydate: 2025-01-01
 ---
 
 Customer Experience (CX) is defined as the sum of all experiences a customer has with your organization. Since government is often a sole-source service provider (e.g., there’s only one place to pay taxes, or get a driver’s license), CX is even more important in the public sector than in other organizations.
@@ -230,7 +230,6 @@ Implement agile, iterative, customer-centric design processes for all customer i
 
 - [Foundations in Agile, Part I](https://digital.gov/event/2019/11/04/foundations-agile-i/), Digital.gov Event
 - [Foundations in Agile, Part II](https://digital.gov/event/2019/11/05/foundations-agile-ii/), Digital.gov Event
-- [How Agile Development Can Benefit Federal Projects](https://digital.gov/2016/01/04/how-agile-development-can-benefit-federal-projects/)
 - [Why People Contribute to Federal Tech Projects (And How You Can Provide a Good Experience)](https://digital.gov/2016/01/14/why-people-contribute-to-federal-tech-projects-and-how-you-can-provide-a-good-experience/)
 - [Agile Project Management in Government](https://digital.gov/2015/01/16/how-to-run-an-agile-project-in-government/)
 

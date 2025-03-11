@@ -11,6 +11,7 @@ topics:
   - product-and-project-management
   - content-strategy
   - innovation
+expirydate: 2025-01-01
 ---
 
 > **Summary**: Today, we’re releasing the Federal Source Code policy to support improved access to custom software code developed by or for the Federal Government.

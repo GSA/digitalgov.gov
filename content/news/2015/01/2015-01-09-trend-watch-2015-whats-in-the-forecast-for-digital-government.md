@@ -12,6 +12,7 @@ topics:
   - challenges-and-prize-competitions
   - customer-experience
   - mobile
+expirydate: 2025-01-01
 ---
 
 In January on DigitalGov, we’ll highlight pieces looking at trends we see coming in the digital government space in 2015 and beyond. We have lined up articles around:

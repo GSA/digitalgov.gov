@@ -9,6 +9,7 @@ topics:
   - product-and-project-management
   - user-experience
   - multilingual
+expirydate: 2025-01-01
 ---
 
 _[{{< legacy-img src="2014/01/student-aid-4-250x166.jpg" alt="student aid 4" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/student-aid-4.jpg)Guest post by_ _Brenda Wensil, Chief Customer Experience Officer for Federal Student Aid (FSA). Established in late 2010, FSA’s Customer Experience Office is responsible for identifying, measuring and reporting customer expectations and satisfaction with the financial aid services and products offered at Federal Student Aid._ 

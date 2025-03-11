@@ -10,9 +10,10 @@ topics:
   - content-strategy
   - user-experience
   - social-media
+expirydate: 2025-01-01
 ---
 
-[{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg" alt="" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)Kids and adults use Web search tools differently. Kids fail more often, because they often don’t have enough knowledge or experience to search using the right keywords, or understand search results.
+[{{< legacy-img src="2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg" alt="Two kids using laptops" >}}](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/01/Community-Center-Kids-Computers-Google-Creative-Commons-300x151.jpg)Kids and adults use Web search tools differently. Kids fail more often, because they often don’t have enough knowledge or experience to search using the right keywords, or understand search results.
   
 If you’re designing websites for kids, remember that they use search tools differently than adults. Kids prefer surfing over searching. If kids can’t easily find what they want, they will likely:
 

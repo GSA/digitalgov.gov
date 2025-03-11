@@ -9,6 +9,7 @@ topics:
   - mobile
   - social-media
   - emerging-tech
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2014/04/250-x-218-mobile-gps-location-map-marker-koya79-iStock-Thinkstock-178584733.jpg" alt="Smart phone navigation map" caption="" >}} 

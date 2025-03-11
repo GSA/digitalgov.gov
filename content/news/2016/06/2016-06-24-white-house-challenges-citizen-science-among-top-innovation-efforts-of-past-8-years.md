@@ -9,6 +9,7 @@ topics:
   - crowdsourcing-and-citizen-science
   - challenges-and-prize-competitions
   - innovation
+expirydate: 2025-01-01
 ---
 
 The White House this week released a report detailing the impact of 100 initiatives that have expanded U.S. capacity in science, technology and innovation over the past eight years.

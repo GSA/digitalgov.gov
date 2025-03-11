@@ -8,6 +8,7 @@ topics:
   - mobile
   - user-experience
 
+expirydate: 2025-01-01
 ---
 
 Content refers to the various types of material in different formats, such as text, images and video, that provide information to the user (it also fits into a mobile product's information architecture).

@@ -9,6 +9,7 @@ topics:
   - research
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 Accessibility testing is a subset of usability testing and is the inclusive practice of making websites and mobile applications usable by people of all abilities and disabilities. You do this by testing mobile websites and/or applications on all leading browsers, mobile devices and screen readers.

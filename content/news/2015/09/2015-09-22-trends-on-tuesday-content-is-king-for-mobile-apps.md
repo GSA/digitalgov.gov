@@ -10,6 +10,7 @@ topics:
   - mobile
   - emerging-tech
 
+expirydate: 2025-01-01
 ---
 
 Yahoo’s mobile analytics service, [Flurry](https://developer.yahoo.com/analytics/), released a [new and provocative report about mobile apps versus mobile browser usage](http://flurrymobile.tumblr.com/post/127638842745/seven-years-into-the-mobile-revolution-content-is), in which they found audiences are spending almost an hour more with their mobile phones than last year. They also discussed the importance of how “content is king” in mobile apps.

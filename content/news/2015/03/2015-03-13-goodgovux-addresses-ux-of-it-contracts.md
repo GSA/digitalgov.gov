@@ -12,6 +12,7 @@ topics:
   - acquisition
   - usability
   - user-experience
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/03/250-x-333-goodgovux-1.jpg" alt="Keith Deaven from Mediabarn kicks off the GoodGovUX event" >}}How do you define user experience (UX)?

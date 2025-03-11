@@ -9,6 +9,7 @@ topics:
   - challenges-and-prize-competitions
   - open-data
   - software-engineering
+expirydate: 2025-01-01
 ---
 
 You should be on this list—the current federal government participants in the <a title="civic hack day" href="http://hackforchange.org/" target="_blank">National Day of Civic Hacking</a>.

@@ -7,6 +7,7 @@ authors:
   - claire-yerke-desjardins
 topics:
   - challenges-and-prize-competitions
+expirydate: 2025-01-01
 ---
 
 {{< legacy-img src="2015/05/600-x-400-Building-under-construction-with-crane-green-bluebay2014-iStock-Thinkstock-494558479.jpg" alt="Concept graphic for housing construction, planning and costs." caption="" >}}
