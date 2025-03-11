@@ -106,7 +106,7 @@ The other small business, and eventual awardee, was a contractor that had previo
 
 The solicitation began on September 9, 2019. The website was delivered fully functional as described in the user story on October 15, 2019. From writing the solicitation to delivery, the entire story took 36 days. It’s worth noting that by the time development started, we could have already begun writing the solicitation for the next story. In this case, it turned out that the simplest, one-story solution removed the pressure to rush ahead so we have not yet begun on the second story.
 
-Upon completion of our work, the Innovation Lab’s website was created on a specific and internal URL, using a template on [Federalist](https://federalist.18f.gov/). Three prototypes (not just the one we thought we would get within the budget we had) linked to and displayed on that URL.
+Upon completion of our work, the Innovation Lab’s website was created on a specific and internal URL, using a template on [Federalist](https://pages.cloud.gov/). Three prototypes (not just the one we thought we would get within the budget we had) linked to and displayed on that URL.
 
 The industry partner we worked with also provided incredibly valuable feedback as it relates to the manner in which we utilized the MPT. This feedback touched on how we drafted [the solicitation itself](https://github.com/GSA/CoE-MPT/issues/1), how we communicated with them throughout the sprint, and how we handled the delivery in the end.
 

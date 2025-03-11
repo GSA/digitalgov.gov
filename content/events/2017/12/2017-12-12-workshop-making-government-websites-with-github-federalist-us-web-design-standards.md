@@ -42,7 +42,7 @@ aliases:
 
 ---
 
-Come learn how to create a simple, compliant government website using [GitHub](https://www.github.com/), [Federalist](https://federalist.18f.gov/), and the [U.S. Web Design Standards](https://standards.usa.gov/).
+Come learn how to create a simple, compliant government website using [GitHub](https://www.github.com/), [Federalist](https://pages.cloud.gov/), and the [U.S. Web Design Standards](https://standards.usa.gov/).
 
 This workshop will provide you and your team with an overview of using two new government-specific tools from the Technology Transformation Service (TTS) with GitHub. Then we’ll show you how, together, they make it easier than ever to create and launch compliant government websites.
 
