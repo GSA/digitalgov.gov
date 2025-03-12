@@ -181,7 +181,8 @@ It's important to say that while this release will signal the end of IE11 suppor
 
 {{< /accordion >}}
 
-
+## Agenda
+<br>
 Where does the design system go from USWDS 2.0? What did we learn from that release? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
 
 Join Dan Williams for the next USWDS Monthly Call, Thursday, September 16 from 2-3pm ET, to hear what the design system team is thinking, as we peer into the crystal ball and look into the future.

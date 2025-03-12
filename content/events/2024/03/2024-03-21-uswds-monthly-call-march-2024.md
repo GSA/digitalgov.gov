@@ -474,6 +474,8 @@ Have a great day and we'll see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System team for a lesson on customizing and extending USWDS. You’ll learn how to build new components that look and feel consistent with existing components.
 
 You’ll learn to:

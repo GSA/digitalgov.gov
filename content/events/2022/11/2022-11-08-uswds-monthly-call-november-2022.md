@@ -282,6 +282,8 @@ Thank you, and see you in December!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Many of the digital solutions we create rely on collecting personal information, allowing programs and services to connect with people who need assistance. Join us this month as we pick up where we left off in October and take a deeper dive into user profile patterns.
 
 We'll continue looking at personal user profile patterns, including: date of birth, race and ethnicity, biological sex and gender, and pronouns. We'll also take a look at our guidance, and discuss how an inclusive approach to these patterns can reduce barriers to participation.

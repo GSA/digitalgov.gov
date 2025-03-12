@@ -198,6 +198,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Now that USWDS 3.0 is out in the world, let’s look at how we can optimize it to improve performance. We’ll dive into tips and techniques you can use to reduce CSS size and chip away at your build time.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*

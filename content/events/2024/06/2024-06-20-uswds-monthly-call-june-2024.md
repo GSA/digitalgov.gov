@@ -301,6 +301,8 @@ Have a great day and a great summer. Make sure you check out our August Communit
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System (USWDS) team to see their progress toward developing web components for the design system. They’ll demo early working prototypes of a few components, and talk about some of the design questions they’re trying to answer through the prototyping process.
 
 In this online session with the USWDS team, you will:

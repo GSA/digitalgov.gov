@@ -344,6 +344,8 @@ Have a great day, and a great April, and we'll see you in May!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Web Components have been mentioned in a lot of recent discussions about the future of the U.S. Web Design System (USWDS) . What is this technology, exactly, and what can it mean for the design system?
 
 In this session, the USWDS team will:

@@ -232,6 +232,8 @@ it's really important to us and it's just one of the things that we're working o
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 During the [October 2023 monthly call](https://digital.gov/event/2023/10/19/uswds-monthly-call-october-2023/), the U.S. Web Design System team shared the progress we’re making on usability research with people who have disabilities.
 
 This month we’ll discuss:

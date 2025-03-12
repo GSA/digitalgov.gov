@@ -236,6 +236,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the Design System team as we take a step back and explore how our design decisions both support and are supported by the ways our bodies and brains perceive order and make sense of the world.
 
 In this session, we'll discuss:

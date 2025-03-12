@@ -285,6 +285,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us this month as we discuss how and why the U.S. Web Design System (USWDS) team performed their Top Tasks research, as well as what they learned and what they'll do next. Tune-in to learn more about what your feedback is doing for the Design System.
 
 In this session, you’ll learn:

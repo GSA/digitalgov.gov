@@ -228,8 +228,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
----
-
+## Agenda
+<br>
 What would it look like to implement and customize our design system via a component API? 
 
 Join us for a discussion of what might be next for USWDS after the release of USWDS 3.0 this spring.

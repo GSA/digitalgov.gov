@@ -345,6 +345,8 @@ Have a great day, and a great rest of September!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 It's been eight years since the first public release of the U.S. Web Design System (USWDS). What have we done? Where are we going? What have we learned? Let's revisit our mission and vision as we look out in the direction of the next eight years.
 
 We’ll discuss:

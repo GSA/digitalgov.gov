@@ -424,7 +424,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
-
+## Agenda
+<br>
 This month's topic: Community, Connection & Contribution. How can our community help teams solve problems together? What tools and channels can we use to ask questions, get answers, and provide useful feedback?
 
 Join the USWDS core team for the next USWDS Monthly Call on Thursday, October 21, 2-3PM ET to learn more about how and why we're trying to better connect with our community as we prepare for a new major design system release next year.  

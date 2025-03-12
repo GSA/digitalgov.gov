@@ -300,6 +300,8 @@ But we learned a lot, we did a lot, we're doing a lot and we will be following u
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly.
 
 Over the last few months, we've made a lot of progress. This month we'll share our progress and report on findings from our first round of this research: conducting usability tests on [Design System components](https://designsystem.digital.gov/components/overview/) focused on users with visual impairments.

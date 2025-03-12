@@ -380,6 +380,8 @@ Have a great day and we'll see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System (USWDS) team to learn more about the complete lifecycle of a USWDS component.
 
 In this session, you will learn:

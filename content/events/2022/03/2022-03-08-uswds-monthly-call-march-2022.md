@@ -115,6 +115,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 During this event, the USWDS core team will preview USWDS 3.0. We’ll talk about improvements to day-to-day maintainability, component packages, and the new component library.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*

@@ -147,8 +147,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
----
-
+## Agenda
+<br>
 For our first monthly call of 2022, we'll take a look at a new tutorial focused on getting started with the design system. Our team will also demo a new getting started guide for developers, with improved guidance for how to install, compile, and begin to customize the design system.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*

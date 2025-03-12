@@ -323,6 +323,8 @@ Have a great day, and a great July, and we'll see you in August!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us as we talk about the easy-to-follow, manual accessibility and user experience (UX) tests we're developing for U.S. Web Design System ([USWDS) components](https://designsystem.digital.gov/components/). We're calling these tests `Critical Checklists`.
 
 In this session, you’ll learn how we're approaching `Critical Checklists`:

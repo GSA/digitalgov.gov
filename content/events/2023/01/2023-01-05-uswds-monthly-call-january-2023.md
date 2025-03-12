@@ -264,6 +264,8 @@ Thank you, and see you next month!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the Design System team as we tackle your most commonly-asked questions.
 
 In this session, we’ll answer questions like:

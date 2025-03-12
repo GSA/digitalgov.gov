@@ -377,6 +377,8 @@ Have a great day, and a great August, try to beat the heat!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us as we talk about what's on the newest iteration of the U.S. Web Design System's [product roadmap](https://github.com/orgs/uswds/projects/13/views/1?visibleFields=%5B%22Title%22%2C%22Labels%22%5D). We'll look at what the USWDS team is working on for the rest of 2023 and into 2024.
 
 In this session, you’ll learn about our roadmap process:

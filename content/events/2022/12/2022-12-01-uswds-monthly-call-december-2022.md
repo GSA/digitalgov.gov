@@ -332,6 +332,8 @@ Thank you, and see you next month - in 2023!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 What things — small and large — made 2022 a great year for the Design System? This month, we’ll hear members of the Core Team share their favorite Design System updates from 2022. Join us as we look back at the year — you never know what you might have missed!
 
 _This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year._

@@ -180,6 +180,8 @@ Thank you, see you next month, and as Mike Horton at the Section 508 program say
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web.
 
 In this session, we’ll:
