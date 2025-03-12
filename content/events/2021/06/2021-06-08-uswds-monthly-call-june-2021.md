@@ -30,6 +30,8 @@ youtube_title: "Pagination Component: Inside Look with the Design System Team (J
 
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-june-2021-distro.pptx) (PowerPoint presentation, 4.82 MB, 37 pages)
 
+## Agenda
+<br>
 Join Dan Williams and the design system team for a close look at a new component: pagination. We invite you to learn more about what pagination is, why and how we built it, what problems it solves, and why it’s important. 
 
 We will give an overview of the background of this component (user experience research and testing), design considerations, guidance (when to use and when not to use), and then offer a demonstration to show you how it could work on your website. We will also offer use-cases and more, plus host a Q&A session with all attendees! 
