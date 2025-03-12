@@ -25,9 +25,11 @@ primary_image: uswds-monthly-call-sep-title-card
 
 ---
 
+## View the slides and read the transcript  
+<br>
 {{< asset-static file="uswds-monthly-call-september-2022.pptx" label="View the slides (PowerPoint presentation, 10.5 MB, 46 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For September 2022 — National Hispanic Heritage Month begins today, and coincidentally but fortuitously this month’s call dives into language selection for multilingual digital content. And here we see the USWDS logo in a festive teal, magenta, yellow, orange and blue.
 
@@ -240,6 +242,8 @@ The dropdown version of the language component, like the government banner, util
 Thank you, and see you in October!
 {{< /accordion >}}
 
+## Agenda
+<br>
 How do we help users find content in their preferred language? Join us as we take a closer look at the language selection patterns we're developing for USWDS.
 
 We'll talk about how this work evolved out of the [Multilingual Community of Practice](https://digital.gov/communities/multilingual/), then we'll discuss our general approach to pattern guidance, while looking at this specific guidance and the new components that support it.

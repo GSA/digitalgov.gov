@@ -21,11 +21,13 @@ event_platform: zoom
 
 ---
 
+## View the slides and read the transcript  
+<br>
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-september-2021-distro.pptx) (PowerPoint presentation, 5.19 MB, 58 pages)
 
 [View the Webinar Recap](https://digital.gov/2021/11/05/webinar-recap-u-s-web-design-system-september-2021-monthly-call/)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for September 2021" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Transcript for September 2021" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for September 2021. It's been a couple of months since we've seen some of you — and depending on where you live you may be seeing a bit of fall color already, just like the oranges and browns in our logo.
 
@@ -179,7 +181,8 @@ It's important to say that while this release will signal the end of IE11 suppor
 
 {{< /accordion >}}
 
-
+## Agenda
+<br>
 Where does the design system go from USWDS 2.0? What did we learn from that release? What challenges can the design system better address as we move forward? How can the design system be ready to grow and evolve alongside the teams that use it? 
 
 Join Dan Williams for the next USWDS Monthly Call, Thursday, September 16 from 2-3pm ET, to hear what the design system team is thinking, as we peer into the crystal ball and look into the future.

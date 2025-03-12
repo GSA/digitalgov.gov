@@ -22,9 +22,11 @@ youtube_id: SG6Bbv-uKeg
 youtube_title: "Real-world accessibility: USWDS hears from Eric Yarberry of World Services for the Blind"
 ---
 
+## View the slides and read the transcript  
+<br>
 {{< asset-static file="uswds-monthly-call-may-2023.pptx" label="View the slides (PowerPoint presentation, 5.4 MB, 23 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for May 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for May 2023.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for May 2023.
 
 This month we're celebrating Mothers Day, which was this last weekend, as I'm sure you remembered (with our logo in shades of pink, purple, and blue), as well as Memorial Day, which falls on Monday, May 29 this year (with our logo appearing in poppy red).
 
@@ -178,6 +180,8 @@ Thank you, see you next month, and as Mike Horton at the Section 508 program say
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us as we observe Global Accessibility Awareness Day and talk about the real-world experience of blind users on the web.
 
 In this session, we’ll:

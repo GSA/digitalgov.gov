@@ -21,9 +21,11 @@ youtube_id: Kj-MYq_0A3s
 youtube_title: "USWDS product roadmap"
 ---
 
+## View the slides and read the transcript  
+<br>
 {{< asset-static file="uswds-monthly-call-august-2023.pptx" label="View the slides (PowerPoint presentation, 3.9 MB, 94 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for August 2023. August, the month with no national holidays, but home to the Perseid meteor shower, the earth's yearly transit through space debris — which my family and I got up at 3am to watch the other night. It's shown here with a black USWDS logo, and if you just keep looking at it long enough, there'll be one little flash for a fraction of a second.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for August 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for August 2023. August, the month with no national holidays, but home to the Perseid meteor shower, the earth's yearly transit through space debris — which my family and I got up at 3am to watch the other night. It's shown here with a black USWDS logo, and if you just keep looking at it long enough, there'll be one little flash for a fraction of a second.
 
 Oh, there's one.
 
@@ -375,6 +377,8 @@ Have a great day, and a great August, try to beat the heat!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join us as we talk about what's on the newest iteration of the U.S. Web Design System's [product roadmap](https://github.com/orgs/uswds/projects/13/views/1?visibleFields=%5B%22Title%22%2C%22Labels%22%5D). We'll look at what the USWDS team is working on for the rest of 2023 and into 2024.
 
 In this session, you’ll learn about our roadmap process:

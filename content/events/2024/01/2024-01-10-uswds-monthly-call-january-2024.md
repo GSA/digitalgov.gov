@@ -21,9 +21,11 @@ youtube_id: xP4IWCdzWmA
 youtube_title: "Component-based accessibility tests for the U.S. Web Design System"
 ---
 
+## View the slides and read the transcript  
+<br>
 {{< asset-static file="uswds-monthly-call-january-2024.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 87 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for January 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for for January, 2024 — our first monthly call of the new year, and it kind of feels like it's been forever since the last one, way back in November. Welcome back! On screen we see the USWDS logo in wintery pale whites and blues, with one of the triangles of the logo in green and looking like an evergreen in a snowy landscape.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for January 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for for January, 2024 — our first monthly call of the new year, and it kind of feels like it's been forever since the last one, way back in November. Welcome back! On screen we see the USWDS logo in wintery pale whites and blues, with one of the triangles of the logo in green and looking like an evergreen in a snowy landscape.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a plaid button-down. And since it's cold where I am out on the west coast, I'm also wearing a pair of wool socks.
 
@@ -323,6 +325,8 @@ Welcome to 2024. Here we go. Have a great day and we'll talk with you next month
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System (USWDS) team as they continue to highlight accessibility by discussing the new component-based accessibility test pages and talk more about their development and phased rollout.
 
 In this session, you will learn:
