@@ -344,7 +344,8 @@ And if you have a question we couldn't answer in the call, or thought of later, 
 Have a great day. We'll see you in December!
 {{< /accordion >}}
 
-
+## Agenda
+<br>
 This month, join the U.S. Web Design System (USWDS) team as they lay out their vision for the direction of the design system.
 
 In this session, you’ll learn about:

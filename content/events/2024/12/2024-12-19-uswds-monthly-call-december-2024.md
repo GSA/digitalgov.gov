@@ -199,6 +199,8 @@ And if you have a question we weren't able to answer in the call, or thought of 
 
 Have a great day. We'll see you in 2025! {{< /accordion >}}
 
+## Agenda
+<br>
 This month, the U.S. Web Design System team hosts the Federal Website Standards team who will share more about the standards, their origin, the research backing them, and what standards are coming next. 
 
 In this session, you’ll:

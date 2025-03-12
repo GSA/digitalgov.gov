@@ -445,6 +445,8 @@ And if you have a question we weren't able to answer on the call or thought of l
 Have a great day and a great conclusion to your summer. We'll see you in November!
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System (USWDS) team for a talk about the product and engineering principles and values that guide the team’s decision-making as they look towards the future.
 
 In this session, you’ll:

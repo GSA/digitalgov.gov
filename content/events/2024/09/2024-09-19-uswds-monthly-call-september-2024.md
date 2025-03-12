@@ -338,6 +338,8 @@ These aren't abstract things, they influence what we do and our approach to judg
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.
 
 In this online session with the USWDS team, you will:

@@ -228,6 +228,8 @@ Have a great day and a great conclusion to your summer. We'll see you in Septemb
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923).
 
 In this online session with the USWDS team, you will:
