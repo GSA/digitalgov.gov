@@ -9,6 +9,16 @@
   @include u-text("black");
   @include u-font("sans", "xs");
 
+  .usa-button {
+    @include u-color("blue-warm-60v");
+    box-shadow: inset 0 0 0 2px color("blue-warm-60v");
+ 
+    &:hover {
+      @include u-color("blue-70v");
+      box-shadow: inset 0 0 0 2px color("blue-70v");
+    }
+  }
+  
   h5 {
     @include u-text("black");
     @include u-font("sans", "xs");
