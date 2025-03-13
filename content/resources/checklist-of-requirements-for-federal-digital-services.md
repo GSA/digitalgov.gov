@@ -81,7 +81,7 @@ Here are a few examples of policy areas you need to navigate:
 {{< box >}}
 ### Domain management
 DOTGOV Online Trust in Government Act and OMB Memo M-23-10
-{{< button href="https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/" style="color:#1D62C3" text="Explore domain management policy" >}}
+{{< button href="https://digital.gov/resources/requirements-for-the-registration-and-use-of-gov-domains-in-the-federal-government/" text="Explore domain management policy" >}}
 {{< /box >}}
 
 {{< box >}}
