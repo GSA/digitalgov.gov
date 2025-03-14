@@ -21,7 +21,7 @@ legislation:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "web-managers-forum"
+  - "web-content-managers"
   - "web-analytics-and-optimization"
 
 # Curated list of content, can be internal or external links

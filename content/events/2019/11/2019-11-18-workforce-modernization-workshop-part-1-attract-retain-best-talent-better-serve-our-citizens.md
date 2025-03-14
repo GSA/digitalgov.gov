@@ -24,7 +24,7 @@ venue:
 
 ---
 
-Join [IT Modernization Centers of Excellence] (https://coe.gsa.gov/) Director of Workforce Solutions, [Nina Bianchi] (https://digital.gov/authors/nina-bianchi/), in this two-hour in-person workshop to explore trends and barriers in the federal workforce transformation. You will learn insights identified from over 80 human-centered management workshops that Nina has led in the federal government since joining as a Presidential Innovation Fellow in September 2017. This workshop will be interactive and include collaborative human-centered brainstorming activities to help drive solutions that grow lifelong learning in the government. 
+Join [IT Modernization Centers of Excellence](https://coe.gsa.gov/) Director of Workforce Solutions, [Nina Bianchi](https://digital.gov/authors/nina-bianchi/), in this two-hour in-person workshop to explore trends and barriers in the federal workforce transformation. You will learn insights identified from over 80 human-centered management workshops that Nina has led in the federal government since joining as a Presidential Innovation Fellow in September 2017. This workshop will be interactive and include collaborative human-centered brainstorming activities to help drive solutions that grow lifelong learning in the government. 
 
 Let's imagine a future where the federal government is the employer of choice for the next generation of leaders. We’ll tackle some questions, such as: _How do we cultivate an environment of lifelong learning in the government where all stakeholders win?_, and _How might we foster learning cultures to meet evolving talent roles within the federal government?_ 
 

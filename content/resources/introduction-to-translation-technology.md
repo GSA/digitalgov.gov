@@ -13,8 +13,6 @@ topics:
   - multilingual
   - communication
   - content-strategy
-  - content-strategy
-  - communication
 
 # See all authors at https://digital.gov/authors
 authors:

@@ -40,7 +40,7 @@ legislation:
 featured_communities:
   - "social-media"
   - "communicators"
-  - "plain-language-community-of-practice"
+  - "plain-language"
 
 # Curated list of content, can be internal or external links
 featured_links:

@@ -7,6 +7,7 @@ date: 2018-05-31 12:00:00 -0400
 title: 'Results-Oriented Accountability for Grants'
 summary: "Our community engages stakeholders around the President’s Management Agenda (PMA), and the Results-Oriented Accountability for Grants Cross-Agency Priority (CAP) Goal."
 redirectto: https://www.cfo.gov/financial-assistance/
+source_url: https://www.cfo.gov/financial-assistance/
 
 # Weight: controls how this page appears across the site
 # 0 -- hidden
@@ -20,12 +21,12 @@ community_list:
     subscribe_email_subject: "Federal Join: Results-Oriented Accountability for Grants Community of Practice"
     members: 539
     emails_per_week: .3
-  - platform: "listserv"
-    type: public
-    subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
-    subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
-    members:
-    emails_per_week:
+  # - platform: "listserv"
+  #   type: public
+  #   subscribe_email: grantscommunity-subscribe-request@listserv.gsa.gov
+  #   subscribe_email_subject: "Non-Federal Join: Results-Oriented Accountability for Grants Community of Practice"
+  #   members:
+  #   emails_per_week:
 
 ---
 

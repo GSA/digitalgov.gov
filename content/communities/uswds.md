@@ -36,6 +36,7 @@ community_list:
     emails_per_week:
 
 redirectto: https://designsystem.digital.gov/about/community/
+source_url: https://designsystem.digital.gov/about/community/
 
 # Make it better ♥
 

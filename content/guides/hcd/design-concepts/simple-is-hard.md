@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Principle 1: Simple is hard"
 guide: hcd-design-concepts
+field_guide_nav_title: "Simple is hard"
 primary_image: hcd-design-concepts
 ---
 “How long will this take?” has to be one of the most terrifying questions any designer will be asked when embarking on the design phase. The simple answer: one can’t know — but rational time constraints can be useful. What we do know, from years of experience and many design case studies, is that getting to a simple, easy-to-understand, and useful solution to any design problem is the result of many rounds of iteration, problem-solving, and testing. 

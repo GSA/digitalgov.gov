@@ -4,6 +4,7 @@ title: "RPA Playbook"
 deck: ""
 summary: "The RPA Playbook provides detailed guidance for federal agencies starting a new RPA program or evolving an existing one."
 guide: rpa
+field_guide_nav_title: "Playbook"
 primary_image: "guide-rpa"
 ---
 ## RPA Playbook

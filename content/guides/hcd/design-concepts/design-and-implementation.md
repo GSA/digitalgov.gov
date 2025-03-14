@@ -1,8 +1,9 @@
 ---
 date: 2023-07-24 09:00:00 -0500
 title: "Design & Implementation"
-summary: "Learn about the issues with \"hand-offs\" and \"waterfall\""
+summary: "Learn about the issues with 'hand-offs' and 'waterfall'"
 guide: hcd-design-concepts
+field_guide_nav_title: "Design & Implementation"
 primary_image: hcd-design-concepts
 ---
 

@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Generating design expressions"
 summary: "Design expressions are tangible artifacts that illustrate your design ideas."
 guide: hcd-design-operations
+field_guide_nav_title: "Generating design expressions"
 primary_image: hcd-design-operations
 ---
 

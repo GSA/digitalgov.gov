@@ -9,6 +9,7 @@ title: "Crowdsourcing and Citizen Science"
 deck: ""
 summary: "We work across government develop best practices for designing, implementing, and evaluating crowdsourcing and citizen science initiatives."
 redirectto: https://www.citizenscience.gov/about/community-of-practice/
+source_url: https://www.citizenscience.gov/about/community-of-practice/
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /federal-crowdsourcing-and-citizen-science/

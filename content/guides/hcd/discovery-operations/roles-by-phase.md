@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Roles by phase"
 summary: "Who needs to be involved in each phase, and what they should focus on during that phase."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Roles by phase"
 primary_image: hcd-discovery-operations
 ---
 

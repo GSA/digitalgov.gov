@@ -1,7 +1,7 @@
 ---
 # This topic lives at
 # https://digital.gov/topics/user-experience
-slug: ""
+slug: "user-experience"
 
 # Topic Title
 title: "User experience"

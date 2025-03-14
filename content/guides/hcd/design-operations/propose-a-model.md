@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Propose a model for implementation"
 guide: hcd-design-operations
+field_guide_nav_title: "Propose a model"
 primary_image: hcd-design-operations
 ---
 

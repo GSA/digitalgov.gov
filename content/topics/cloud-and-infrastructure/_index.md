@@ -36,7 +36,7 @@ featured_resources:
 # Featured community to display at the top of the page
 featured_communities:
   - "cloud-infrastructure"
-  - "web-managers-forum"
+  - "web-content-managers"
 
 
 # For more information on managing topics,

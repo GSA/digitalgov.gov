@@ -20,12 +20,12 @@ weight: 2
 # Set the legislation card title and link
 legislation:
   title: "Requirements for delivering a digital-first public experience"
-  link: "/resources/delivering-digital-first-public-experience/"
+  link: "https://digital.gov/resources/delivering-digital-first-public-experience/"
 
 # Featured community to display at the top of the page
 featured_communities:
   - "user-experience"
-  - "web-managers-forum"
+  - "web-content-managers"
 
 # Curated list of content, can be internal or external links
 featured_links:

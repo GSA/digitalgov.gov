@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Goals and insights"
 guide: hcd-discovery-concepts
+field_guide_nav_title: "Goals and insights"
 primary_image: hcd-discovery-concepts
 ---
 ## Goals

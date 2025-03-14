@@ -103,9 +103,10 @@
       {{- if .Params.source_url -}}
       "source_url" : "{{- .Params.source_url -}}",
       {{- end -}}
-
-      {{- partial "api/slug.html" . -}}
-
+      "uid": "{{ default .Name .Params.slug }}",
+      {{- with .Params.slug -}}
+        "slug" : "{{- . -}}",
+      {{- end -}}
       "url" : "{{- .Permalink -}}",
       {{- if .Params.aliases -}}
       "aliases" : {

@@ -141,7 +141,7 @@ We recommend using the first two forms in the United States to avoid confusion w
 
 ### Numbers
 
-[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the [GSA-ANLE Agreement](https://s3.amazonaws.com/digitalgov/_legacy-img/2014/05/2014-ANLE-Agreement.pdf) (PDF, 214 KB, 4 pages), recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
+[The North American Academy of Spanish Language (www.anle.us)](http://www.anle.us/), acting under the [GSA-ANLE Agreement](https://s3.amazonaws.com/digitalgov/static/2014-ANLE-Agreement.pdf) (PDF, 214 KB, 4 pages), recommends that the notation for decimals and fractions in Spanish texts published in the United States follow the American model. Nine Latin American countries also follow this model. The decision was based on the nomenclature used in the United States by banks, financial documents, commerce and the media.
 
 Correct use in USA: $1,276.50
 

@@ -25,6 +25,7 @@ authors:
   - jarah-meador
 
 redirectto: https://www.challenge.gov/community/
+source_url: https://www.challenge.gov/community/
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

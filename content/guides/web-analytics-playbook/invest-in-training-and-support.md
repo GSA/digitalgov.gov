@@ -4,6 +4,7 @@ title: "Invest in training and support"
 deck: ""
 summary: "Take the time and effort to ensure stakeholders can understand and use the data."
 guide: web-analytics-playbook
+field_guide_nav_title: "Train"
 primary_image: guide-web-analytics-playbook
 aliases:
 

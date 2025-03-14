@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Observation methods"
 summary: "Follow these tips for different types of observation research"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Observation methods"
 primary_image: hcd-discovery-operations
 ---
 
