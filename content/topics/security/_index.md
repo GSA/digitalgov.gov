@@ -36,6 +36,6 @@ featured_resources:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "web-managers-forum"
+  - "web-content-managers"
 
 ---

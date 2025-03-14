@@ -53,15 +53,10 @@ legislation:
   title: "Connected Government Act"
   link: "https://digital.gov/resources/connected-government-act/"
 
-# Featured resource to display at the top of the page
-featured_resources:
-  resources:
-    - link: "/resources/mobile-sow-and-developer-qualifications"
-
 # Featured community to display at the top of the page
 featured_communities:
   - "user-experience"
-  - "web-managers-forum"
+  - "web-content-managers"
 
 # Curated list of content, can be internal or external links
 featured_links:

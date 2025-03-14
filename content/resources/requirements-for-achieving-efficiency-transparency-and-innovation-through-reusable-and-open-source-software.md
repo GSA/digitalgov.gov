@@ -25,11 +25,11 @@ weight: 1
 
 ## What is the Federal Source Code Policy?
 
-In August 2016, the Office of Management and Budget (OMB) issued [M-16-21, Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (PDF, 188 KB, 15 pages)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf). 
+In August 2016, the Office of Management and Budget (OMB) issued [M-16-21, Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software (PDF, 188 KB, 15 pages)](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf).
 
 The Federal Source Code Policy is designed to support the reuse of and public access to custom-developed federal source code. It requires new, custom-developed source code developed specifically by or for the federal government to be made available for sharing and re-use across all federal agencies. Furthermore, the policy supports publishing open source software (OSS).
 
-Agencies are required to perform several tasks in order to satisfy the objectives of the policy: 
+Agencies are required to perform several tasks in order to satisfy the objectives of the policy:
 
 1. **Updated agency policy:** Agencies must update their policies to be consistent with the Federal Source Code Policy.
 2. **Updated acquisition language:** Agencies must update acquisition language to capture new custom code, whether built by a contractor or federal employee.
@@ -43,7 +43,7 @@ When federal agencies make their custom-developed source code broadly available,
 
 ## What does it mean to achieve efficiency, transparency, and innovation through reusable and open source software?
 
-OMB’s policy guidance in M-16-21 requires all executive branch agencies to conduct a three-step analysis in meeting their software needs. 
+OMB’s policy guidance in M-16-21 requires all executive branch agencies to conduct a three-step analysis in meeting their software needs.
 
 1. Conduct strategic analysis and analyze alternatives
 2. Consider existing commercial solutions
@@ -89,7 +89,7 @@ As with step one, the purpose of this step is to develop your agency's strategic
 {{< card-policy src="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf" kicker="OMB M-16-21" title="Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software" >}}
 
 **Step 3**
-(Consider Custom Development): If an agency’s alternatives analysis concludes that an existing Federal software solution or commercial solution cannot adequately satisfy its needs, the agency may consider procuring custom-developed code in whole or in conjunction with existing Federal or commercial code. 
+(Consider Custom Development): If an agency’s alternatives analysis concludes that an existing Federal software solution or commercial solution cannot adequately satisfy its needs, the agency may consider procuring custom-developed code in whole or in conjunction with existing Federal or commercial code.
 
 When commissioning new custom-developed software, agencies must consider the value of publishing custom code as OSS and negotiate data rights reflective of its value-consideration. Agencies must also obtain sufficient rights to fulfill this policy’s objectives related to Government-wide code reuse and the open source pilot program.
 {{< /card-policy >}}
