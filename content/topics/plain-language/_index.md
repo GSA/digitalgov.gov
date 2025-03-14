@@ -33,7 +33,7 @@ featured_resources:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "plain-language-community-of-practice"
+  - "plain-language"
 
 # Curated list of content, can be internal or external links
 featured_links:

@@ -20,12 +20,12 @@ weight: 2
 # Featured resource to display at the top of the page
 featured_resources:
   resources:
-  - link: "guides/rpa/"
+  - link: "/guides/rpa/"
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "web-managers-forum"
-  - "rpa-community"
+  - "web-content-managers"
+  - "rpa"
 
 # Curated list of content, can be internal or external links
 featured_links:
