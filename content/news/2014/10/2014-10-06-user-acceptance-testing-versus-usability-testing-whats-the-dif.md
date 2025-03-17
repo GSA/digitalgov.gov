@@ -16,7 +16,7 @@ _Editor&#8217;s note: Building off the great discussion started around [Customer
 
 If you develop software, you&#8217;ve probably heard of User Acceptance Testing. You may also have heard the term Usability Testing. Same thing, right? Nope. And confusion here can cause big problems.
 
-{{< legacy-img src="2014/10/600-x-400-Usability-testing-NOAA-and-state-nice.jpg" alt="600-x-400-Usability-testing-NOAA-and-state-nice" >}}
+{{< img src="usability-testing-noaa-and-state-nice" >}}
 
 Last year I was developing a mobile game for Android—think Whack-A-Mole meets mutant veggies. Eight months into the project we decided to do some **user acceptance testing** to find some bugs before launch. We got several reports of the game crashing from testers, but we looked in the code and couldn&#8217;t find out why.
 
@@ -38,7 +38,7 @@ Each are similar but have very different goals. Let’s look closer:
   * This method is used to test if an application is or will be easy to use for the end user
   * Usability testing is done towards the middle and end of the design process, making incremental changes to the website design when issues are discovered
 
-{{< legacy-img src="2014/10/600-x-450-UAT-Usability-Testing-graphic.jpg" alt="600-x-450-UAT-Usability-Testing-graphic" >}}
+{{< img src="uat-usability-testing-graphic" >}}
 
 It is fairly common for people to use these two names interchangeably, which is understandable because there is overlap between the two methods. However, both methods are different and serve a different purposes.
 

@@ -330,7 +330,7 @@ https://www.flickr.com/creativecommons/
 
 Example
 
-{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="The word innovation written in all-caps, inside a thought bubble, on a chalkboard." caption="Missy Schmidt, Flickr, CC BY 2.0" >}}
+{{< img src="innovationchalkboard1" >}}
 
 Give attribution to photographers with CC license
 https://help.yahoo.com/kb/flickr/SLN7674.html

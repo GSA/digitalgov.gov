@@ -58,7 +58,7 @@ Many government transactions involve downloading forms or finding copies of a vi
 
 These customers **know what they want but need help finding it**. They might want to know how to get a free copy of their credit report or how to apply for Social Security benefits. We occasionally get inquiries that are very specific, such as the number of people on welfare in Kansas in 2011.
 
-{{< legacy-img src="2015/04/600-x-337-USAgov-Personas-slide-4-Browse-info-Learn-more.jpg" alt="Slide 4, Browse information or learn more on a general topic" caption="" >}}
+{{< img src="usagov-personas-slide-4-browse-info-learn-more" >}}
 
 
 ### Browse information or learn more on a general topic

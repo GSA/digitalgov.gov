@@ -29,7 +29,7 @@ Several recent policies support this shift by requiring federal agencies to publ
 
 Structured content gives you granular control over your information, so you can &#8220;**C**reate **O**nce, **P**ublish **E**verywhere,&#8221; instead of re-creating content for different platforms. Read about the [COPE: Create Once, Publish Everywhere](https://web.archive.org/web/20140517203502/http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) method from National Public Radio.
 
-{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}}
+{{< img src="structured-content-cope-strategy-graphic" >}}
 
 **Share and Re-Use Content via RSS and APIs**
 

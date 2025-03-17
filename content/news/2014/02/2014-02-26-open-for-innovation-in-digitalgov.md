@@ -13,7 +13,7 @@ topics:
 expirydate: 2025-01-01
 ---
 
-{{< legacy-img src="2014/02/InnovationChalkboard1.jpg" alt="The word innovation written in all-caps, inside a thought bubble, on a chalkboard." caption="Missy Schmidt, Flickr, CC BY 2.0" >}}
+{{< img src="innovationchalkboard1" >}}
 
 There’s tons of great work and innovations happening in federal agencies, and it is happening fast.
 

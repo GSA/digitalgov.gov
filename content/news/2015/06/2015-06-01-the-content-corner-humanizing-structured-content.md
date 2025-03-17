@@ -33,7 +33,7 @@ I have conducted more content management system training sessions than I care to
 
 By default I approach every content provider or SME as someone who is [terribly overworked](http://www.fastcompany.com/3010400/dialed/doing-more-with-less-4-ways-to-cope-and-even-succeed-in-a-downsized-world), and content creation is just one item on a very long to-do list. In the real world, it is very rare to find someone who gets to spend most of their day completely focused on their content generation and publishing. So I always try and respect the person’s workload and encourage them to look at properly structured content as a way to get the most bang for their buck (this approach also works for management).
 
-{{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="A graphic illustrating the COPE (Create Once, Publish Everywhere) content model strategy" >}}
+{{< img src="structured-content-cope-strategy-graphic" >}}
 
 The [create once, publish anywhere](http://www.programmableweb.com/news/cope-create-once-publish-everywhere/2009/10/13) (COPE) concept can be a powerful explanatory device, as long as you don’t jump too far into things like [APIs]({{< ref "/topics/application-programming-interface" >}}). But for someone who is either overworked or concerned about budgets and workloads, the idea that a little extra time on a few additional fields will allow one piece of content to be reused in a wide variety of ways has appeal.
 

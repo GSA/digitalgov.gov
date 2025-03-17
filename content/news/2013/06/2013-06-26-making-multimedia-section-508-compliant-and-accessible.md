@@ -13,7 +13,7 @@ topics:
 
 You've seen videos, podcasts, and audio files on your favorite sites—whether they're government, private sector, or entertainment sites. These are often viral media: media clips that are wildly popular, are shared through blogs or email, produce chatter on the web, and increase traffic to websites. Some government agencies are using this phenomenon, by participating in the "social web," to further their missions and support the President's mandate for [government agencies to be transparent and collaborative](http://www.whitehouse.gov/the_press_office/TransparencyandOpenGovernment/) with U.S. citizens. However, we also have the challenge of presenting government content in an accessible format. It's no secret that many sites where users post media are not Section 508 conformant (compliant) nor are they accessible. Here are the facts, requirements, and resources for posting media files that your site's visitors can easily access.
 
-{{< legacy-img src="2013/06/250-x-143-disabled-button-goldy-iStock-Thinkstock-494125429.jpg" alt="A disabled symbol on a keyboard button" caption="goldy / iStock / Thinkstock" >}}
+{{< img src="disabled-button-goldy-istock-thinkstock-494125429" >}}
 
 ## Why We Need Accessibility
 

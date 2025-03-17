@@ -33,7 +33,7 @@ According to [analytics.USA.gov](https://analytics.usa.gov/), most people today 
 
 Structured content gives you granular control over your information, so you can Create Once, Publish Everywhere (known as the COPE model), instead of re-creating similar content for different platforms.
 
-<!-- {{< legacy-img src="2013/12/structured-content-cope-strategy-graphic.jpg" alt="Diagram showing how content can be repurposed for multiple platforms" >}} -->
+<!-- {{< img src="structured-content-cope-strategy-graphic" >}} -->
 
 [Search engines](https://digital.gov/topics/search-engine-optimization/) use structured content to deliver more meaningful descriptions in search results. The more context and information you provide about your content, the more machine-readable it becomes, enabling web services and search engines to get your content to the people who need it. [Social media](https://digital.gov/topics/social-media/) platforms also use structured content to ensure your content appears in an easy-to-read way when you promote it on their network.
 
