@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "HCD background"
 guide: hcd-introduction
+field_guide_nav_title: "Background"
 primary_image: hcd-guide-intro
 ---
 

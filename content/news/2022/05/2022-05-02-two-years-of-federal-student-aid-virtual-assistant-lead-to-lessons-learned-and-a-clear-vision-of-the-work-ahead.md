@@ -24,7 +24,12 @@ weight: 1
 
 ## What is Aidan?
 
-<img src="https://s3.amazonaws.com/digitalgov/fafsa-ask-aidan-illustration-with-chat-screen_w800.jpg" alt="An illustration of a person wearing a lgiht blue hooded sweatshirt, dark blue pants, and black shoes, leaning against a tall stool and looking at a cell phone. To the right, is a cell phone the same height of the person, with the Free Application for Federal Student Aid, FAFSA®, chat feature displayed on the screen." align="right" width="33%">Aidan®, Federal Student Aid’s (FSA) virtual assistant, has been providing customers with responses to common questions about financial aid, loan balances, repayment plans, loan servicers, and more since December 2019. Read about our initial product development and implementation journey in our [prior article](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/).
+{{< img src="fafsa-ask-aidan-illustration-with-chat-screen" align="right" >}}
+
+<!-- <img src="https://s3.amazonaws.com/digitalgov/fafsa-ask-aidan-illustration-with-chat-screen_w800.jpg" alt="An illustration of a person wearing a lgiht blue hooded sweatshirt, dark blue pants, and black shoes, leaning against a tall stool and looking at a cell phone. To the right, is a cell phone the same height of the person, with the Free Application for Federal Student Aid, FAFSA®, chat feature displayed on the screen." align="right" width="33%"> -->
+
+
+Aidan®, Federal Student Aid’s (FSA) virtual assistant, has been providing customers with responses to common questions about financial aid, loan balances, repayment plans, loan servicers, and more since December 2019. Read about our initial product development and implementation journey in our [prior article](https://digital.gov/2020/12/07/federal-student-aids-new-virtual-assistant-offers-model-for-improved-customer-service-in-government/).
 
 We have learned a lot over the past two years, and it has helped us to drive improvements and expand the product to a wider range of users. We thought this would be a good time to provide an update about our takeaways from the process and what we see in Aidan’s future.
 
@@ -48,7 +53,13 @@ Additionally, in response to the single largest question we receive, we built ou
 
 ### Gathering Feedback and Data
 
-<img src="https://s3.amazonaws.com/digitalgov/ask-aidan-user-chat-feedback_w800.png" alt="A screen capture shows the pop-up user feedback form displayed over the Ask Aidan chat feature. At the top, is a green banner with Ask Aidan BETA in white text, and a muted sound icon. One can collapse or close the chat at the top right of the green bar. Below that a green bubble reads, give feedback about Aidan. The form has four sections on a white background. At the top is the question, What went well?, followed by five white feedback buttons with text and button outlines in blue. They are: Answered my questions, Easy to use, Helpful, Solved my problem, and Other. The third section has a Tell us more text box that is optional. It allows entry of up to 500 characters. Within the box, someone has typed: Thank you for your help! Below that box, on the right, a counter indicates how many characters were used; 24 of 500. At the bottom is a blue button with the word Submit in white text. In the top rght corner of the feedback pop-up is a dark gray x to close the box if the user does not want to submit anything." align="right" width="33%">In order to collect more meaningful and actionable user responses, we developed a new design pattern, which indeed made it easier for users to provide feedback. We have noticed not only a 25-point increase in participation from users, but also significantly more helpful and actionable feedback. Users responded to the new design pattern by providing a lot more feedback to us. Now it’s our job to glean insights and drive our improvements based on that information.
+
+{{< img src="ask-aidan-user-chat-feedback" align="right" >}}
+
+<!-- <img src="https://s3.amazonaws.com/digitalgov/ask-aidan-user-chat-feedback_w800.png" alt="A screen capture shows the pop-up user feedback form displayed over the Ask Aidan chat feature. At the top, is a green banner with Ask Aidan BETA in white text, and a muted sound icon. One can collapse or close the chat at the top right of the green bar. Below that a green bubble reads, give feedback about Aidan. The form has four sections on a white background. At the top is the question, What went well?, followed by five white feedback buttons with text and button outlines in blue. They are: Answered my questions, Easy to use, Helpful, Solved my problem, and Other. The third section has a Tell us more text box that is optional. It allows entry of up to 500 characters. Within the box, someone has typed: Thank you for your help! Below that box, on the right, a counter indicates how many characters were used; 24 of 500. At the bottom is a blue button with the word Submit in white text. In the top rght corner of the feedback pop-up is a dark gray x to close the box if the user does not want to submit anything." align="right" width="33%"> -->
+
+
+In order to collect more meaningful and actionable user responses, we developed a new design pattern, which indeed made it easier for users to provide feedback. We have noticed not only a 25-point increase in participation from users, but also significantly more helpful and actionable feedback. Users responded to the new design pattern by providing a lot more feedback to us. Now it’s our job to glean insights and drive our improvements based on that information.
 
 ## What's Next for Aidan?
 

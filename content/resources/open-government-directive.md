@@ -1,5 +1,6 @@
 ---
 url: /open-government-directive/
+slug: open-government-directive
 date: 2015-11-23 2:47:48 -0400
 title: Open Government Directive
 summary: "This memorandum is intended to direct executive departments and agencies to take specific actions to implement the principles of transparency, participation, and collaboration set forth in the President&rsquo;s Memorandum on Transparency and Open Government. This Directive was informed by recommendations from the Federal Chief Technology Officer, who solicited public comment through the White House Open"

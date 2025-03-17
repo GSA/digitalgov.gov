@@ -1,0 +1,21 @@
+{{- partial "core/set-env.html" . -}}
+{{- $list := where .Data.Pages "Params.source_url" "eq" nil -}}
+{{- $length := (len $list) -}}
+{
+    "content" : "news",
+    "count" : "{{- $length -}}",
+    "items" : [
+    {{- range $index, $element := $list -}}
+    {
+      {{- partial "api/metadata.html" . -}}
+      {{- partial "api/authors.html" . -}}
+      {{- partial "api/topics.html" . -}}
+      {{- partial "api/primary_image.html" . -}}
+      {{- partial "api/featured_image.html" . -}}
+      {{- partial "api/file-info.html" . }}
+      {{- partial "api/aliases.html" . -}}
+      {{- partial "api/slug.html" . -}}
+    }{{- if ne (add $index 1) $length -}},{{- end -}}
+    {{- end -}}
+    ]
+}

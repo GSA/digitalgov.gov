@@ -4,6 +4,7 @@ title: "Implement wisely"
 deck: ""
 summary: "Ensuring that your implementation is flexible is key for web analytics."
 guide: web-analytics-playbook
+field_guide_nav_title: "Implement"
 primary_image: guide-web-analytics-playbook
 aliases:
 ---

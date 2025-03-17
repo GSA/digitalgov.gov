@@ -16,6 +16,9 @@ buildFuture: true
 refLinksErrorLevel: WARNING
 
 module:
+  helpers: ["./helpers"]
+
+module:
   mounts:
     - source: content
       target: content
@@ -48,18 +51,21 @@ outputFormats:
     notAlternative: true
   JSON:
     mediatype: "application/json"
+    prettify: true
+    indent: "  "
 
 preserveTaxonomyNames: true
 
 taxonomies:
-  topic: "topics"
-  author: "authors"
+  # topic: "topics"
+  # author: "authors"
 
 outputs:
   home: ["HTML", "RSS", "SiteImages", "JSON"]
   section: ["HTML", "RSS", "JSON"]
   page: ["HTML", "JSON"]
   term: ["HTML", "RSS", "JSON"]
+  list: ["HTML", "JSON"]
 
 markup:
   defaultMarkdownHandler: goldmark

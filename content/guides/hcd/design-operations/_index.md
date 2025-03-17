@@ -8,6 +8,7 @@ guide: hcd-design-operations
 glossary: hcd-glossary.json
 image: hcd-design-operations
 primary_image: hcd-design-operations
+field_guide_nav_title: "Overview"
 layout: single
 weight: 5
 ---

@@ -5,6 +5,7 @@ deck: ""
 summary: "Learn how to design for inclusiveness and participation."
 summary_box: true
 guide: public-participation
+field_guide_nav_title: "Design participation"
 primary_image: guide-public-participation
 ---
 

@@ -6,6 +6,7 @@ summary: The Federal Program and Project Management (FedPM) Community of Practic
 kicker: "Join the Federal Program and Project Management Community"
 
 redirectto: https://community.max.gov/pages/viewpage.action?pageId=713787996
+source_url: https://community.max.gov/pages/viewpage.action?pageId=713787996
 
 # Controls how this page appears across the site
 # 0 -- hidden

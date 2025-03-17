@@ -37,7 +37,7 @@ In response to the California wildfires, the U.S. Department of Homeland Securit
 
 The authority for this action comes from [Emergency Support Function 15](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response#esf) (ESF-15 - Public Affairs – Annex R) of the [National Response Framework](https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response) where, during incidents of national significance, DHS has the authority to coordinate all U.S. government communications.
 
-On January 10, 2025, in conjunction with the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to the California wildfires. 
+On January 10, 2025, in conjunction with the [Digital Experience Council](https://digital.gov/resources/an-introduction-to-the-digital-experience-council/), DHS issued ESF-15 guidance for federal web and social communications to support the national response to the California wildfires.
 
 {{< note >}} **All federal agencies are required to follow this guidance.** {{< /note >}}
 

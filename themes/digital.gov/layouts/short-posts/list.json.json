@@ -1,0 +1,23 @@
+{{- partial "core/set-env.html" . -}}
+{{- $list := where .Site.RegularPages "Params.source_url" "ne" nil -}}
+{{- $list = where $list ".Type" "ne" "services" -}}
+{{- $length := (len $list) -}}
+{
+    "content" : "short-posts",
+    "count" : "{{- $length -}}",
+    "items" : [
+    {{- range $index, $element := $list -}}
+    {
+      {{- partial "api/metadata.html" . -}}
+      {{- partial "api/short_post_info.html" . -}}
+      {{- partial "api/primary_image.html" . -}}
+      {{- partial "api/featured_image.html" . -}}
+      {{- partial "api/aliases.html" . -}}
+      {{- partial "api/authors.html" . -}}
+      {{- partial "api/topics.html" . -}}
+      {{- partial "api/file-info.html" . -}}
+      {{- partial "api/slug.html" . -}}
+    }{{- if ne (add $index 1) $length -}},{{- end -}}
+    {{- end -}}
+    ]
+}

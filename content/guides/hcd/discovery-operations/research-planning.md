@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Research planning"
 summary: "How to go about scheduling and planning your research"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Research"
 primary_image: hcd-discovery-operations
 ---
 

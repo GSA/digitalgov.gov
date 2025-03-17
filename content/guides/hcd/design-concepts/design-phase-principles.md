@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Design phase principles"
 summary: "The following section should help you contextualize key design phase principles"
 guide: hcd-design-concepts
+field_guide_nav_title: "Design principles"
 primary_image: hcd-design-concepts
 ---
 

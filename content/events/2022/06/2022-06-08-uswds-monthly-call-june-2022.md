@@ -33,7 +33,7 @@ For June 2022 — home to Fathers Day, Juneteenth, heat waves, cold waves, Flag 
 
 First, I'd like to mention that we're recording this monthly call, so please refrain from turning on your camera. We will manually turn off any cameras to ensure the recording doesn't show us on camera. Unfortunately, while we are recording this call, we currently aren't able to share the video publicly.
 
-I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct] (handbook.tts.gsa.gov/code-of-conduct). We’ve posted the link to the code of conduct in the chat.
+I’d also like to remind you that all attendees must abide by the TTS Code of Conduct, which is available at [handbook.tts.gsa.gov/code-of-conduct](handbook.tts.gsa.gov/code-of-conduct). We’ve posted the link to the code of conduct in the chat.
 
 We'll be posting other links and references into the chat as we go along, and I encourage you to ask questions in the chat at any time. If any member of our team can answer your question in the chat, we'll do so, otherwise there'll be some time for questions and answers at the end of the hour. Also, be sure to introduce yourself in the chat as well — it's nice to know who's here. It's good to have you here today.
 
@@ -51,7 +51,7 @@ And then we’ll spend some time looking at our contribution model. We've got a 
 
 **Slide 4:** with site launches.
 
-**Slide 5:** Today we've got a nice new one from NOAA, [nesdis.noaa.gov] (nesdis.noaa.gov), a website for National Environmental Satellite Data and Information Service. It's the start of hurricane season, NESDIS provides secure and timely access to global environmental data and information from satellites and other sources. This highly customized USWDS site shows a large satellite image of hurricane on its home page with the words "2022 Hurricane Season Begins."
+**Slide 5:** Today we've got a nice new one from NOAA, [nesdis.noaa.gov](nesdis.noaa.gov), a website for National Environmental Satellite Data and Information Service. It's the start of hurricane season, NESDIS provides secure and timely access to global environmental data and information from satellites and other sources. This highly customized USWDS site shows a large satellite image of hurricane on its home page with the words "2022 Hurricane Season Begins."
 
 **Slide 6:** Congratulations, and great work! Be sure to let our team know when a new site launches, either with an email or a note on the USWDS public Slack channel!
 
@@ -78,7 +78,7 @@ Added a Remove Circle icon to the default set.
 
 **Slide 13:** So lots to come in USWDS 3.0.2, and we'll release it tomorrow.
 
-**Slide 14:** Next, [USWDS Compile Beta 3] (https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.3) — What I hope is the last Compile Beta before we release Compile 1.0.
+**Slide 14:** Next, [USWDS Compile Beta 3](https://github.com/uswds/uswds-compile/releases/tag/v1.0.0-beta.3) — What I hope is the last Compile Beta before we release Compile 1.0.
 
 **Slide 15:** Improved icon sprite workflow. Now it’s easy to customize the sprite and keep it up-to-date with USWDS.
 Fixed compatibility with M1 Macs and ARM-based silicon
@@ -90,7 +90,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 **Slide 18:**
 **DAN:** And to talk about contribution, I'd like to introduce my colleague Elisa Chen— Elisa, take it away!
 
-**ELISA:** Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F] (https://18f.gsa.gov/) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model.
+**ELISA:** Thanks Dan. Hi everyone! My name is Elisa Chen and I’m a Design Strategist with [18F](https://18f.gsa.gov/) and am currently detailing with USWDS. I have black, chin length hair. I’m wearing a red shirt.  Today, I’ll be discussing more about contributing to the Design System. So, why talk about this now? As the Design System grows and evolves, contributions will continue to play a critical role. After all, as an open source project, the Design System is the result of your contributions both large and small. Today’s conversation is just a start on how we’re improving the contribution model.
 
 **Slide 19:** More specifically, today we’ll share what we’ve learned from research we’ve recently done and some new ideas we’re trying based on that research. And at the end, we’ll walk through how you can contribute to the Design System.
 
@@ -126,7 +126,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 35:** If you want to propose a code fix, you can submit a pull request in GitHub. Again, check the open issues backlog to make sure no one’s already submitted the same fix. If your proposed solution exists, comment on the issue letting us know any additional context. If it doesn’t already exist, create a new issue for your proposal. And if you’re proposing bug fix, go ahead and submit your pull request tying it to that issue. If the pull request is accepted, we’ll schedule the issue and merge the pull request for you.
 
-**Slide 36:** If you’d like to contribute something else, we’d still love to hear about it. Just [create an issue] (https://github.com/uswds/uswds/issues) or a [discussion] (https://github.com/uswds/uswds/discussions) in GitHub, and we’ll start the conversation from there.
+**Slide 36:** If you’d like to contribute something else, we’d still love to hear about it. Just [create an issue](https://github.com/uswds/uswds/issues) or a [discussion](https://github.com/uswds/uswds/discussions) in GitHub, and we’ll start the conversation from there.
 
 **Slide 37:** Once you submit your contribution, the Design System team reviews and triages submissions based on three major considerations. Size -  meaning can the team accomplish this in a sprint (or 2 weeks) or will it take longer? Severity - meaning what type of functionality does this impact? Is it major or minor? And is there a workaround? Priority - meaning does this submission align with the Design System’s overall vision and roadmap goals?
 
@@ -142,7 +142,7 @@ Fixed compatibility with M1 Macs and ARM-based silicon
 
 **Slide 42:** Thanks for joining today’s USWDS monthly call. Next month, we'll be taking a break. We'll be back with a new monthly call in August. Have a great summer!
 
-As always, I encourage you to join our community in the [#uswds-public] (https://chat.18f.gov/) Slack channel so you can follow our progress, get answers, and contribute to the discussion.
+As always, I encourage you to join our community in the [#uswds-public](https://chat.18f.gov/) Slack channel so you can follow our progress, get answers, and contribute to the discussion.
 
 Thank you, and see you in August!
 

@@ -4,6 +4,7 @@ title: "Create a foundation"
 deck: ""
 summary: "Before starting, be sure to define your mission, goals, and key performance indicators."
 guide: web-analytics-playbook
+field_guide_nav_title: "Build"
 primary_image: guide-web-analytics-playbook
 aliases:
 ---

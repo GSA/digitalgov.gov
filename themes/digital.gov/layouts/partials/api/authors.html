@@ -1,0 +1,17 @@
+{{- if (isset .Params "authors") -}}
+  {{- $_authors := .Params.authors -}}
+  {{- $length := $_authors | len -}}
+  "field_authors" : [
+  {{- range $i, $e := $_authors -}}
+    {{- $uid := $e | urlize -}}
+    {{- $author := $.Site.GetPage (printf "/%s/%s" "authors" $uid) -}}
+    {{- with $author -}}
+      {{- if lt (add $i 1) $length -}}
+        "{{- $uid -}}",
+      {{- else -}}
+        "{{- $uid -}}"
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end -}}

@@ -9,7 +9,6 @@ topics:
   - design
   - content-strategy
   - plain-language
-  - content-strategy
 # See all authors at https://digital.gov/authors
 authors:
   - lgodfrey

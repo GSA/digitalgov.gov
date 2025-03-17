@@ -4,6 +4,7 @@ title: "Internal Controls Addendum"
 deck: ""
 summary: "This addendum provides practical insights for federal programs looking to minimize the risks associated with implementing RPA."
 guide: rpa
+field_guide_nav_title: "Internal Controls Addendum"
 primary_image: "guide-rpa"
 ---
 ## RPA Internal Controls

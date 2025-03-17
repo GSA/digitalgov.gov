@@ -12,7 +12,6 @@ summary: "Content strategy involves planning, creating, delivering, and governin
 
 aliases:
   - /topics/blog/
-  - /topics/content/
   - /topics/content-management-system/
   - /topics/content-models/
   - /topics/content-syndication/
@@ -47,7 +46,7 @@ featured_resources:
 
 # Featured community to display at the top of the page
 featured_communities:
-  - "web-managers-forum"
+  - "web-content-managers"
   - "user-experience"
 
 # Curated list of content, can be internal or external links

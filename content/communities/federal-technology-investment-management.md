@@ -8,6 +8,7 @@ title: "Federal Technology Investment Management"
 deck: "Working to achieve greater government efficiency in the management of federal IT resources and assets."
 summary: "We share best practices and lessons learned to improve IT cost transparency across government."
 redirectto: https://www.cio.gov/about/members-and-leadership/ftim-cop/
+source_url: https://www.cio.gov/about/members-and-leadership/ftim-cop/
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/federal-technology-investment-management-community/

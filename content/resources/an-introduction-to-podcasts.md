@@ -1,6 +1,7 @@
 ---
 date: 2025-01-06
 source: ""
+slug: an-introduction-to-podcasts
 title: An introduction to podcasts
 deck: Understand why and how to start podcasting
 summary: Explore the basics of launching a podcast and determine if creating a podcast is right for your agency. 
@@ -39,19 +40,19 @@ If you decide that podcasts are right for your agency and you have buy-in from l
 
 ### Step 1. Map out your vision and resources
 
-#### Create a launch plan 
+#### Create a launch plan
 
 Consider foundational elements such as:
-- Provide a clear vision for your podcast and where you see it going. 
-- Establish achievable performance goals within a specific timeframe. 
+- Provide a clear vision for your podcast and where you see it going.
+- Establish achievable performance goals within a specific timeframe.
 - Define your target audiences and consider how your podcast will reach them.
 - Prepare a list of ways in which your podcast meets your agency’s business objectives.
 - Define the key messages you’re hoping listeners will take away from your podcast.
-- Detail the roles and responsibilities of team members who will work on the podcast. 
+- Detail the roles and responsibilities of team members who will work on the podcast.
 
 #### Identify your theme
 
-Your podcast theme determines the topics you will cover, the topics you will not cover, and how the show might be structured. Try to identify a theme that is broad enough to be flexible, but not so broad that your audience has no idea what you will be discussing. 
+Your podcast theme determines the topics you will cover, the topics you will not cover, and how the show might be structured. Try to identify a theme that is broad enough to be flexible, but not so broad that your audience has no idea what you will be discussing.
 
 #### Understand your resources
 
@@ -62,23 +63,23 @@ Once you have a clear understanding of your goals, target audience, and resource
 
 #### Establish a cadence
 
-Creating and maintaining a podcast requires an investment of time and effort. Consider the following to choose what sort of cadence works best for your agency: 
+Creating and maintaining a podcast requires an investment of time and effort. Consider the following to choose what sort of cadence works best for your agency:
 
-- What information do you have to share at regular intervals? 
-- How many people are available to be dedicated to this effort? 
+- What information do you have to share at regular intervals?
+- How many people are available to be dedicated to this effort?
 - How long will your pre- and post-production tasks (like scripting, editing, and transcription) take?
-- How long do approvals in your agency usually take? 
+- How long do approvals in your agency usually take?
 
 Think of your availability and all the moving parts involved. If you take on too much, your podcast might become a burden instead of a valuable communications tool.
 
 #### Choose a podcast format
 
-The format of your podcast determines how your show is structured and presented. Two stand out as common “go-tos” formats: 
+The format of your podcast determines how your show is structured and presented. Two stand out as common “go-tos” formats:
 
-- **Narrative:** As a narrator, you tell a story — often interspersed with snippets from interviews with subject matter experts. 
+- **Narrative:** As a narrator, you tell a story — often interspersed with snippets from interviews with subject matter experts.
 - **Interview:** As an interviewer, you lead a question-and-answer style discussion with one or more guests.
 
-Every episode doesn’t have to follow the same format, but you do want to give your audience a sense of what to expect. 
+Every episode doesn’t have to follow the same format, but you do want to give your audience a sense of what to expect.
 
 #### Determine episode length
 
@@ -114,19 +115,19 @@ Use [analytics](https://digital.gov/topics/analytics/) to understand how your po
 
 {{< ring title="Case study: GSA Does That!?">}}
 
-The U.S. General Services Administration’s “GSA Does That!?” podcast offers an inside look at how GSA and its partners provide value and impact for the public. It features in-depth interviews with GSA leaders and experts, as well as others who can offer a fresh perspective to listeners. 
+The U.S. General Services Administration’s “GSA Does That!?” podcast offers an inside look at how GSA and its partners provide value and impact for the public. It features in-depth interviews with GSA leaders and experts, as well as others who can offer a fresh perspective to listeners.
 
-By the end of its first season in 2023, [the podcast had an aggregate of over 6,000 listeners and ranked in the top 10% of government-produced podcasts](https://www.gsa.gov/blog/2024/02/28/gsa-podcast-launches-second-season-with-conversation-on-jobs-and-sustainability). Executive producer Max Stempora offers three important pieces of advice from the podcast: 
+By the end of its first season in 2023, [the podcast had an aggregate of over 6,000 listeners and ranked in the top 10% of government-produced podcasts](https://www.gsa.gov/blog/2024/02/28/gsa-podcast-launches-second-season-with-conversation-on-jobs-and-sustainability). Executive producer Max Stempora offers three important pieces of advice from the podcast:
 
 - Know your audience and the story you want to tell.
 - Remain flexible and embrace change in methodology and planning approaches
-- Focus on feedback from leadership and listeners instead of getting too bogged down in the metrics. 
+- Focus on feedback from leadership and listeners instead of getting too bogged down in the metrics.
 
 {{< /ring >}}
 
 ## What can I do next?
 
-Do your research on other federal agencies and government organizations with podcasts (like “[GSA Does That!?](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)”). Reach out to other practitioners to identify lessons learned and learn how they manage and sustain their podcasts. 
+Do your research on other federal agencies and government organizations with podcasts (like “[GSA Does That!?](https://www.gsa.gov/about-us/newsroom/listen-to-the-gsa-does-that-podcast)”). Reach out to other practitioners to identify lessons learned and learn how they manage and sustain their podcasts.
 
 You can also join the Digital.gov [Communicators](https://digital.gov/communities/communicators/) and [Social Media](https://digital.gov/communities/social-media/) Communities of Practice to connect with other practitioners communicating digitally and get inspiration for your podcast.
 

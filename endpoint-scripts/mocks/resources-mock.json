@@ -1,0 +1,26 @@
+{
+    "items": [
+        {
+            "field_title": "Requirements for transforming federal customer experience and service delivery",
+            "field_deck": "Understand the policy framework: Executive Order 14058 and OMB Circular A-11 Section 280",
+            "field_summary": "Learn how to strengthen customer experience and service delivery within your federal agency.",
+            "field_date": "2024-12-04T00:00:00-0500",
+            "date_modified": "2024-12-30T16:22:48-05:00",
+            "field_page_weight": "1",
+            "field_authors": [
+                "cathryn-camenzind"
+            ],
+            "field_topics": [
+                "customer-experience",
+                "governance",
+                "human-centered-design",
+                "information-collection",
+                "policy",
+                "trust"
+            ],
+            "filepath": "/content/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery.md",
+            "slug": "requirements-for-transforming-federal-customer-experience-and-service-delivery",
+            "url": "http://localhost:1313/resources/requirements-for-transforming-federal-customer-experience-and-service-delivery/"
+        }
+    ]
+}

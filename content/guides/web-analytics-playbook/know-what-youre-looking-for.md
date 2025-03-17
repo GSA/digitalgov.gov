@@ -4,6 +4,7 @@ title: "Know what you’re looking for"
 deck: ""
 summary: "Be sure to consistently measure against your predetermined metrics to see if you are on track."
 guide: web-analytics-playbook
+field_guide_nav_title: "Measure"
 primary_image: guide-web-analytics-playbook
 aliases:
 ---

@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Interviews and observations"
 summary: "Interviews and observations are key to helping designers understand their problem frame"
 guide: hcd-discovery-operations
+field_guide_nav_title: "Interviews"
 primary_image: hcd-discovery-operations
 ---
 

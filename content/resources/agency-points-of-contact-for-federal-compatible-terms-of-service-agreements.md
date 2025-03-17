@@ -1,5 +1,6 @@
 ---
 url: /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/
+slug: agency-points-of-contact-for-federal-compatible-terms-of-service-agreements
 date: 2014-01-08 10:49:03 -0400
 redirectto: https://digital.gov/resources/federal-compatible-terms-of-service-agreements/
 title: Agency Points of Contact for Federal Compatible Terms of Service Agreements

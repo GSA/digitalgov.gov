@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Up next"
 guide: hcd-design-concepts
+field_guide_nav_title: "Up next"
 primary_image: hcd-design-concepts
 ---
 

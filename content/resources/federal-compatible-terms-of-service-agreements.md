@@ -1,5 +1,6 @@
 ---
 url: /resources/federal-compatible-terms-of-service-agreements/
+slug: federal-compatible-terms-of-service-agreements
 date: 2014-01-09 2:40:58 -0400
 aliases:
   - /resources/agency-points-of-contact-for-federal-compatible-terms-of-service-agreements/

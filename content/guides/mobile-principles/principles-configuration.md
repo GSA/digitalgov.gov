@@ -4,6 +4,7 @@ date: 2019-02-12 12:30:00 -0500
 title: "Properly configure the server"
 summary: "Week seven of our series covers configuring servers to optimize response time."
 guide: mobile-principles
+field_guide_nav_title: "Configuration"
 primary_image: guide-mobile-principles
 aliases:
   - /resources/mobile/principles/configuration

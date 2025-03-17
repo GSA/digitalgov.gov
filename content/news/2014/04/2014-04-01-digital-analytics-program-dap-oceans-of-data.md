@@ -22,4 +22,4 @@ DAP data helps agencies their website visitors find relevant and timely informat
 
 The DAP Web Analytics architecture with its agency-based views provides agency users with transparency into their Web traffic data and promotes every-day knowledge sharing, lessons learned, and best practices. Check out how [NASA]({{< ref "2013-09-17-digital-analytics-program-goes-to-the-moon.md" >}}) and [NPS]({{< ref "2013-11-06-nps-gov-use-of-digital-analytics-program-beyond-the-numbers.md" >}}) leverage the DAP GA data to improve their digital citizen services.
 
-_For more about DAP and how your agrency website can participate, [visit] ({{< ref "/guides/dap/_index.md" >}})._
+_For more about DAP and how your agrency website can participate, [visit]({{< ref "/guides/dap/_index.md" >}})._

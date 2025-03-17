@@ -4,6 +4,7 @@ title: "Accessibility for front-end developers"
 deck: ""
 summary: ""
 guide: accessibility-for-teams
+field_guide_nav_title: "Front-end development"
 primary_image: accessibility-for-teams-guide
 summary_box: true
 topics:

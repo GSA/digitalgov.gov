@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Designed things"
 summary: "This section provides an overview of products, services, and systems"
 guide: hcd-design-concepts
+field_guide_nav_title: "Designed things"
 primary_image: hcd-design-concepts
 ---
 

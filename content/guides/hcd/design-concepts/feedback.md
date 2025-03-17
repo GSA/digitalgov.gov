@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Feedback"
 guide: hcd-design-concepts
+field_guide_nav_title: "Feedback"
 primary_image: hcd-design-concepts
 ---
 

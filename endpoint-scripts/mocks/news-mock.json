@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "field_title": "Navigating digital acquisitions",
+            "field_deck": "How to adopt an agile approach for modernizing websites",
+            "field_summary": "Learn the best practices for agile acquisitions—from building and buying solutions, to overcoming common roadblocks.",
+            "field_date": "2024-11-26T00:00:00-0500",
+            "date_modified": "2024-11-26T17:33:35-05:00",
+            "field_page_weight": "1",
+            "field_authors": [
+              "frances-carden",
+              "ashley-owens"
+            ],
+            "field_topics": [
+              "acquisition",
+              "application-programming-interface",
+              "best-practices",
+              "content-strategy",
+              "digital-service-delivery",
+              "usability"
+            ],
+            "field_primary_image": "agile-project-development-flashvector-istock-getty-images-2149784445-2160477593",
+            "filepath": "/content/news/2024/11/2024-11-26-navigating-digital-acquisitions.md",
+            "slug": "navigating-digital-acquisitions",
+            "url": "http://localhost:1313/2024/11/26/navigating-digital-acquisitions/"
+          }
+    ]
+}

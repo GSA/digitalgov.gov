@@ -1,0 +1,25 @@
+{{/* Combines news and resources that are external links */}}
+{{- partial "core/set-env.html" . -}}
+{{- $news := (where .Site.Pages "Section" "news") -}}
+{{- $resources := (where .Site.Pages "Section" "resources") -}}
+{{- $shortposts := union $news $resources -}}
+{{- $shortposts = where $shortposts "Params.source_url" "ne" nil -}}
+{{- $length := $shortposts | len -}}
+{ "version" : "https://jsonfeed.org/version/1", "content" : "Shortposts",
+"type": "list", "title" : "Shortposts", "description": "External news and
+resources posts", "home_page_url" : "{{- .Site.BaseURL -}}", "count" :
+"{{- $shortposts | len -}}", "items" : [
+{{- range $index, $element := $shortposts -}}
+  { "hugo_content_type" : "{{ .Type }}",
+  {{- partial "api/metadata.html" . -}}
+  {{- partial "api/sources.html" . -}}
+  {{- partial "api/guides.html" . -}}
+  {{- partial "api/authors.html" . -}}
+  {{- partial "api/topics.html" . -}}
+  {{- partial "api/primary_image.html" . -}}
+  {{- partial "api/featured_image.html" . -}}
+  {{- partial "api/aliases.html" . -}}
+  {{- partial "api/slug.html" . -}}
+  }{{- if ne (add $index 1) $length -}},{{- end -}}
+{{- end -}}
+] }

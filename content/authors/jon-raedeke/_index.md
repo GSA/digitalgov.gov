@@ -6,7 +6,9 @@
 slug: jon-raedeke
 display_name: "Jon Raedeke "
 first_name: "Jon"
-last_name: "Raedeke "
+last_name: "Raedeke"
+
+
 # Agency Full Name [e.g. U.S. General Services Administration]
 agency_full_name: "National Institute of Standards and Technology"
 
@@ -14,6 +16,6 @@ agency_full_name: "National Institute of Standards and Technology"
 github: "jonraedeke"
 
 aliases:
- - john-raedeke
+ - /authors/john-raedeke
 # Make it better ♥
 ---

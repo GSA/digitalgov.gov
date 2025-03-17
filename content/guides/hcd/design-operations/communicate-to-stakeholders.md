@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "Communicate to stakeholders"
 guide: hcd-design-operations
+field_guide_nav_title: "Communicate to stakeholders"
 primary_image: hcd-design-operations
 ---
 At this point, you’ve analyzed your project through convergent and divergent thinking, generated multiple design ideas, built those out with references, and discussed them and figured out what to forward. Now take a moment to reach out to your stakeholders to communicate all this progress.

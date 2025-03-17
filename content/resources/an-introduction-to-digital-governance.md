@@ -10,7 +10,6 @@ author: Rachel Flagg
 topics:
   - governance
   - digital-service-delivery
-  - digital-service-delivery
 
 # Controls how this page appears across the site
 # 0 -- hidden

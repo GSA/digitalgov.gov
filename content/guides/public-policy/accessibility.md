@@ -7,6 +7,7 @@ summary: "An introduction to Section 508 of the Rehabilitation Act of 1973, and 
 expirydate: "2025-01-02"
 
 guide: public-policy
+field_guide_nav_title: "Accessibility"
 primary_image: guide-public-policy
 
 ---

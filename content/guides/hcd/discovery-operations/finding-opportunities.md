@@ -3,6 +3,7 @@ date: 2023-07-24 09:00:00 -0500
 title: "Finding opportunities"
 summary: "Find opportunities by identifying fields of potential improvement based on your insights."
 guide: hcd-discovery-operations
+field_guide_nav_title: "Finding opportunities"
 primary_image: hcd-discovery-operations
 ---
 Find opportunities by identifying fields of potential improvement based on your insights. Expand or diverge your insights out through the lens of your department, team, or business line.

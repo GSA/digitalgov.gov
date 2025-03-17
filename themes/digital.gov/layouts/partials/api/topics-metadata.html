@@ -1,0 +1,99 @@
+{{- if .Params.legislation -}}
+  "field_legislation": "{{ .Params.legislation.link }}", "legislation_title" :
+  "{{- .Params.legislation.title -}}", "legislation_link" :
+  "{{- .Params.legislation.link -}}",
+{{- end -}}
+{{- if (isset .Params "featured_communities") -}}
+  {{- $_featured_communities := .Params.featured_communities -}}
+  {{- $length := $_featured_communities | len -}}
+  "field_featured_communities" : [
+  {{- range $i, $e := $_featured_communities -}}
+    {{- with $e -}}
+      {{- if lt (add $i 1) $length -}}
+        "{{- . -}}",
+      {{- else -}}
+        "{{- . -}}"
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end -}}
+{{- if .Params.legislation -}}
+  "field_legislation": "{{ .Params.legislation.link }}",
+  "field_legislation_title" : "{{- .Params.legislation.title -}}",
+  "field_legislation_link" : "{{- .Params.legislation.link -}}",
+{{- end -}}
+{{- if (isset .Params "featured_communities") -}}
+  {{- $_featured_communities := .Params.featured_communities -}}
+  {{- $length := $_featured_communities | len -}}
+  "field_featured_communities" : [
+  {{- range $i, $e := $_featured_communities -}}
+    {{- with $e -}}
+      {{- if lt (add $i 1) $length -}}
+        "{{- . -}}",
+      {{- else -}}
+        "{{- . -}}"
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end -}}
+{{- if (isset .Params "featured_resources") -}}
+  "field_featured_resources": [
+  {{- $_featured_resources := .Params.featured_resources.resources -}}
+  {{- $featured_resources_length := $_featured_resources | len -}}
+  {{- range $i, $e := $_featured_resources -}}
+    {{- with $e -}}
+      {{- $page := site.GetPage .link -}}
+      {{- if $page -}}
+        {{- $pageLink := replace $page.RelPermalink "preview/gsa/digitalgov.gov/nl-json-endpoints/" "" | safeURL -}}
+        { "field_featured_resource_href":
+        "https://digital.gov{{ $pageLink }}"{{ if or $page.Title $page.Summary }}
+          ,
+        {{ end }}
+        {{- if $page.Title -}}
+          "field_featured_resource_title":
+          "{{ $page.Title }}"{{ if $page.Summary }},{{ end }}
+        {{- end -}}
+        {{- if $page.Summary -}}
+          "field_featured_resource_summary": "{{ $page.Summary }}"
+        {{- end -}}
+      {{- else -}}
+        <!-- fallback to external link if internal page not found -->
+        { "field_featured_resource_href":
+        "{{ .link }}"{{ if or .title .summary }},{{ end }}
+        {{- if .title -}}
+          "field_featured_resource_title":
+          "{{ .title }}"{{ if .summary }},{{ end }}
+        {{- end -}}
+        {{- if .summary -}}
+          "field_featured_resource_summary": "{{ .summary }}"
+        {{- end -}}
+      {{- end -}}
+      }{{ if lt (add $i 1) $featured_resources_length }},{{ end }}
+    {{- end -}}
+  {{- end -}}
+  ],
+{{- end }}
+{{- if (isset .Params "featured_links") -}}
+  "field_featured_links_title": "{{- .Params.featured_links.title -}}",
+  "field_featured_links": [
+  {{- $_featured_links := .Params.featured_links.resources -}}
+  {{- $featured_links_length := $_featured_links | len -}}
+  {{- range $i, $e := $_featured_links -}}
+    {{- with $e -}}
+      {
+      {{ if .title }}
+        "title": "{{- .title -}}",
+      {{ end }}
+      {{ if .summary }}
+        "summary": "{{- .summary -}}",
+      {{ end }}
+      {{ if .href }}
+        "href": "{{- .href -}}"
+      {{ end }}
+      }
+    {{ end }}{{ if lt (add $i 1) $featured_links_length }},{{ end }}
+  {{- end -}}
+  ],
+{{- end -}}

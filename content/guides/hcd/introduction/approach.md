@@ -2,6 +2,7 @@
 date: 2023-07-24 09:00:00 -0500
 title: "The HCD approach"
 guide: hcd-introduction
+field_guide_nav_title: "Approach"
 primary_image: hcd-guide-intro
 ---
 

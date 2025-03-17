@@ -9,6 +9,7 @@ title: "Cloud and Infrastructure"
 deck: "We connect data center and cloud colleagues to share insights and knowledge."
 summary: "A community for those who support their agency’s IT modernization efforts, and want to learn about application rationalization, data center optimization, and federal cloud computing."
 redirectto: https://www.cio.gov/about/members-and-leadership/cloud-infrastructure-cop/
+source_url: https://www.cio.gov/about/members-and-leadership/cloud-infrastructure-cop/
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
   - /communities/cloud-infrastructure-community/
