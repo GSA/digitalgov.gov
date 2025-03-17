@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/10x-FY20-Round-1-Selected-Projects.pdf
+  # File shortcode: {{< asset-static file="10x-FY20-Round-1-Selected-Projects.pdf" label="10x-FY20-Round-1-Selected-Projects (PDF, 8 pages, 116.3 KB)" >}}
+  date     :  2022-11-21 09:20:34 -0400
+  uid      :  10x-FY20-Round-1-Selected-Projects
+  format   :  pdf
+  

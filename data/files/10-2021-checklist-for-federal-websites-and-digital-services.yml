@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/10-2021-checklist-for-federal-websites-and-digital-services.xlsx
+  # File shortcode: {{< asset-static file="10-2021-checklist-for-federal-websites-and-digital-services.xlsx" label="2013-federal-ux-survey (Excel spreadsheet, 14 sheets, 70KB)" >}}
+  date     :  2025-11-17 09:20:34 -0400
+  uid      :  10-2021-checklist-for-federal-websites-and-digital-services
+  format   :  xlsx
+  

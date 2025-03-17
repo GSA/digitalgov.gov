@@ -1,0 +1,7 @@
+
+  # https://s3.amazonaws.com/digitalgov/static/plain-language-summit-nws-noaa-final.pptx
+  # File shortcode: {{< asset-static file="plain-language-summit-nws-noaa-final.pptx" label="plain-language-summit-nws-noaa-final.pptx (PowerPoint, 10 slides, 5.6MB)">}}
+  date     :  2022-11-22 17:44:10 -0400
+  uid      :  plain-language-summit-nws-noaa-final
+  format   :  pptx
+  

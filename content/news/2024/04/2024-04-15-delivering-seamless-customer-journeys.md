@@ -68,8 +68,6 @@ Back in October 2022, the Office of Customer Experience [wrote about measuring o
 
 We generated narrative reports, with visualizations that look like the following:
 
-<img src="https://s3.amazonaws.com/digitalgov/pie-chart-website-alignment-six-measurement-criteria.png" width="400" align="center">
-
 {{< img src="pie-chart-website-alignment-six-measurement-criteria" >}}
 
 Each slice of this colorful “pie” represents one of the six categories above. The bigger the slice, the closer the website is to performing in an ideal manner, according to our methodology. Read more about how we use this methodology to [determine the true value of a website](https://digital.gov/2024/04/16/determining-the-true-value-of-a-website-a-gsa-case-study/).
