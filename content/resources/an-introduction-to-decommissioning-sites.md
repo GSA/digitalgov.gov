@@ -36,7 +36,7 @@ Consider this decision-making framework when you’re evaluating whether it is t
     <th role="columnheader">Yes / No</th>
   </tr>
   <tr>
-    <th><b>Customer value</b> - The site is meeting a current customer need, and you have data to validate this.</th>
+    <td><b>Customer value</b> - The site is meeting a current customer need, and you have data to validate this.</td>
     <td>Yes / No</td>
   </tr>
   <tr>
