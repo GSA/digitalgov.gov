@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/history-of-the-picture-format.pdf
+# File shortcode: {{< asset-static file="history-of-the-picture-format.pdf" label="" >}}
+
+date     :  2024-07-25 17:49:20 -0400
+uid      :  history-of-the-picture-format
+format   :  pdf

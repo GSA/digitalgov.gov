@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/history-of-the.pdf.pdf
+# File shortcode: {{< asset-static file="history-of-the.pdf.pdf" label="" >}}
+
+date     :  2024-07-25 11:47:54 -0400
+uid      :  history-of-the.pdf
+format   :  pdf

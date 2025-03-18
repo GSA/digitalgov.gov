@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/FedCCS.pdf
+# File shortcode: {{< asset-static file="FedCCS.pdf" label="" >}}
+
+date     :  2022-11-22 11:25:51 -0400
+uid      :  FedCCS
+format   :  pdf

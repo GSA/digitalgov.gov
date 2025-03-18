@@ -3,8 +3,7 @@
 # https://digital.gov/topics/plain-language
 
 aliases:
-  - /communities/plain-language-community-of-practice/
-  - /topics/plain-language-community-of-practice/
+  - /communities/plain-language/
   - /topics/plain-writing-act-of-2010/
   - /resources/plain-writing-act-of-2010/
 

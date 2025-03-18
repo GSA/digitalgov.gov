@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/ep1-challengegov.pdf
+# File shortcode: {{< asset-static file="ep1-challengegov.pdf" label="" >}}
+
+date     :  2022-11-22 11:25:44 -0400
+uid      :  ep1-challengegov
+format   :  pdf

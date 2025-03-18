@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/DAPLearningSeries.pdf
+# File shortcode: {{< asset-static file="DAPLearningSeries.pdf" label="" >}}
+
+date     :  2022-11-21 17:18:49 -0400
+uid      :  DAPLearningSeries
+format   :  pdf

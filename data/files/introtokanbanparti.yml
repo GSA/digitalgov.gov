@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/IntroToKanbanPartI.pdf
+# File shortcode: {{< asset-static file="IntroToKanbanPartI.pdf" label="" >}}
+
+date     :  2022-11-22 11:25:26 -0400
+uid      :  IntroToKanbanPartI
+format   :  pdf

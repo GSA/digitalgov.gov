@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/results-of-the-fplrc.pptx
+# File shortcode: {{< asset-static file="results-of-the-fplrc.pptx" label="" >}}
+
+date     :  2022-11-17 09:35:55 -0400
+uid      :  results-of-the-fplrc
+format   :  pptx

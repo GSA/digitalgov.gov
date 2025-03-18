@@ -2,7 +2,7 @@
   "field_kicker" : "{{- .Params.kicker -}}",
 {{- end -}}
 {{- if .Title -}}
-  "field_title" : {{- .Title | jsonify -}},
+  "field_title" : {{- .Title | markdownify | jsonify -}},
 {{- end -}}
 {{- if (isset .Params "deck") -}}
   "field_deck" : "{{- .Params.deck | markdownify -}}",

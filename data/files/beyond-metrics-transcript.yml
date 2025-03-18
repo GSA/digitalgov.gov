@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/beyond-metrics-transcript.docx
+# File shortcode: {{< asset-static file="beyond-metrics-transcript.docx" label="" >}}
+
+date     :  2022-12-20 14:07:54 -0400
+uid      :  beyond-metrics-transcript
+format   :  docx

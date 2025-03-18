@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/rpa-use-case-inventory-august-2020.xlsx
+# File shortcode: {{< asset-static file="rpa-use-case-inventory-august-2020.xlsx" label="" >}}
+
+date     :  2022-11-17 12:06:21 -0400
+uid      :  rpa-use-case-inventory-august-2020
+format   :  xlsx

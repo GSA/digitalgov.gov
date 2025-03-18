@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/test.document-upload-7-25-2024.pdf
+# File shortcode: {{< asset-static file="test.document-upload-7-25-2024.pdf" label="" >}}
+
+date     :  2024-07-25 11:41:19 -0400
+uid      :  test.document-upload-7-25-2024
+format   :  pdf

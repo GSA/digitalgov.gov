@@ -6,9 +6,6 @@ summary: "Browse common terms that you will need to understand when using DAP."
 guide: dap
 field_guide_nav_title: "Glossary"
 primary_image: guide-dap
-aliases:
-  - /services/dap/gaining-access-to-dap-data/
-  - /guide/dap/gaining-access-to-dap-data/
 ---
 
 ## What are common DAP terms?

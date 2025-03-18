@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/usagov-usability-test-reports.pptx
+# File shortcode: {{< asset-static file="usagov-usability-test-reports.pptx" label="" >}}
+
+date     :  2022-11-17 09:35:55 -0400
+uid      :  usagov-usability-test-reports
+format   :  pptx

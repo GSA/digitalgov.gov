@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/usa.gov-monthly-search-reports-fy13.xls
+# File shortcode: {{< asset-static file="usa.gov-monthly-search-reports-fy13.xls" label="" >}}
+
+date     :  2022-12-20 19:49:46 -0400
+uid      :  usa.gov-monthly-search-reports-fy13
+format   :  xls

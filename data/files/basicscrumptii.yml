@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/BasicScrumPtII.pdf
+# File shortcode: {{< asset-static file="BasicScrumPtII.pdf" label="" >}}
+
+date     :  2022-11-21 17:18:44 -0400
+uid      :  BasicScrumPtII
+format   :  pdf

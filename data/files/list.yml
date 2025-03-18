@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/list.csv
+# File shortcode: {{< asset-static file="list.csv" label="" >}}
+
+date     :  2022-11-22 11:26:04 -0400
+uid      :  list
+format   :  csv

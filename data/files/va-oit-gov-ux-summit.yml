@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/va-oit-gov-ux-summit.pptx
+# File shortcode: {{< asset-static file="va-oit-gov-ux-summit.pptx" label="" >}}
+
+date     :  2022-11-17 09:35:55 -0400
+uid      :  va-oit-gov-ux-summit
+format   :  pptx

@@ -1,0 +1,6 @@
+# https://s3.amazonaws.com/digitalgov/static/upload-test.doc-v5.docx
+# File shortcode: {{< asset-static file="upload-test.doc-v5.docx" label="" >}}
+
+date     :  2024-07-23 13:08:42 -0400
+uid      :  upload-test.doc-v5
+format   :  docx
