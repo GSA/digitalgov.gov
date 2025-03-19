@@ -1,6 +1,7 @@
 {{- partial "core/set-env.html" . -}}
 {{- $list := where .Data.Pages "Params.source_url" "eq" nil -}}
 {{- $list = where $list "Params.expirydate" "eq" nil -}}
+{{- $list = where $list "Params.redirectto" "eq" nil -}}
 {{- $length := (len $list) -}}
 {
     "content" : "resources",

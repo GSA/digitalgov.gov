@@ -1,3 +1,6 @@
+{{- if (isset .Params "redirectto") -}}
+  "field_redirectto" : "{{- .Params.redirectto -}}",
+{{- end -}}
 {{- if (isset .Params "kicker") -}}
   "field_kicker" : "{{- .Params.kicker -}}",
 {{- end -}}
