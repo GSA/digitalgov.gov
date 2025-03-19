@@ -107,7 +107,7 @@ https://github.com/GSA/digitalgov.gov/pull/8366 needs to be integrated before th
 
 ## Featured Resource:
 
-{{< featured-resource link="guides/hcd" >}}
+{{< featured-resource link="topics/accessibility" >}}
 
 ## Featured Resource - External
 
