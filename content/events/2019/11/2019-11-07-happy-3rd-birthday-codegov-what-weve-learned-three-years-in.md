@@ -1,5 +1,5 @@
 ---
-# View this page at https://digital.gov/event/2019/11/happy-3rd-birthday-codegov-what-weve
+# View this page at https://digital.gov/event/2019/11/07/happy-3rd-birthday-codegov-what-weve
 # Learn how to edit our pages at https://workflow.digital.gov
 slug: happy-3rd-birthday-codegov-what-weve-learned-three-years-in
 title: "Happy 3rd Birthday, Code.Gov! What We’ve Learned Three Years In"
@@ -32,7 +32,7 @@ weight: 0
 # Make it better ♥
 ---
 
-_{{< asset-static file="Happy3rdBDayCode.gov.pdf" label="View the slides (PDF, 372 KB, 22 pages)" >}}_
+_{{< asset-static file="happy-3rd-bday-code-gov.pdf" label="View the slides (PDF, 372 KB, 22 pages)" >}}_
 
 It’s [Code.gov](https://code.gov/)’s 3rd birthday! As we celebrate our 3rd trip around the sun, we wanted to share where we’ve been, where we are going, and the implementation of the federal source code policy.
 
