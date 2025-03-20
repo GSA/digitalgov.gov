@@ -1,8 +1,7 @@
 ---
-title: USWDS Monthly Call - April 2021
-kicker: USWDS
-summary: Join the U.S. Web Design System team as they answer the crucial
-  question, “Why use the design system?”
+title: "USWDS Monthly Call - April 2021"
+kicker: "USWDS"
+summary: "Join the U.S. Web Design System team as they answer the crucial question: Why use the design system?"
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/getting-started-with-uswds-why-use-the-design-system-apr-2021-tickets-148769121447
@@ -24,10 +23,13 @@ youtube_id: V9l4MvXcrSc
 youtube_title: "Getting Started with USWDS: Why Use the Design System (Apr 2021)"
 
 ---
+
+## View the slides and read the transcript
+
 [View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-april-2021-distro.pptx) (PowerPoint presentation, 3.99 MB, 74 pages)
 
 ## Agenda
-<br>
+
 Join Dan Williams and the U.S. Web Design System (USWDS) team to learn more about the high-level system benefits of design systems, including USWDS. They will take a look at the design system’s core value and benefits, and answer these questions: 
 
 * Why choose USWDS over other frameworks?
