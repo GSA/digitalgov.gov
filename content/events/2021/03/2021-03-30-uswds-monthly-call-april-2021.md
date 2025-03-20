@@ -26,7 +26,7 @@ youtube_title: "Getting Started with USWDS: Why Use the Design System (Apr 2021)
 
 ## View the slides and read the transcript
 
-[View the slides](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-april-2021-distro.pptx) (PowerPoint presentation, 3.99 MB, 74 pages)
+[View the slides (PowerPoint presentation, 3.99 MB, 74 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-april-2021-distro.pptx)
 
 ## Agenda
 
