@@ -131,7 +131,29 @@ https://github.com/GSA/digitalgov.gov/pull/8366 needs to be integrated before th
 
 ## Link:
 
-{{< link "resources/21st-century-integrated-digital-experience-act.md" >}}
+### [Link to MD with type prefix that is a 404, defaults to /resources](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/2019/11/18/building-elements-that-earn-trust/)
+
+```[We published an overview of 21st Century IDEA]({{</* link "resources/21st-century-integrated-digital-experience-act.md" */>}})```
+
+[We published an overview of 21st Century IDEA]({{< link "resources/21st-century-integrated-digital-experience-act.md" >}})
+
+### [Link to a relative URL, not MD](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/event/2019/11/04/foundations-agile-i/)
+
+```[**Foundations of Agile, Part I**]({{</* link "/event/2019/11/04/foundations-agile-i/" */>}})```
+
+[**Foundations of Agile, Part I**]({{< link "/event/2019/11/04/foundations-agile-i/" >}})
+
+### [Link to MD without type prefix](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/resources/negotiated-terms-of-service-agreements/)
+
+```[Federal-Compatible Terms of Service Agreements]({{</* link "federal-compatible-terms-of-service-agreements.md" */>}})```
+
+[Federal-Compatible Terms of Service Agreements]({{< link "federal-compatible-terms-of-service-agreements.md" >}})
+
+### [Absolute external link](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/resources/federal-compatible-terms-of-service-agreements/)
+
+```[download our easy step-by-step flowchart]({{</* link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" */>}})```
+
+[download our easy step-by-step flowchart]({{< link "https://s3.amazonaws.com/digitalgov/_legacy-img/2015/02/DigitalGov-TOS-flowchart_v6-Feb-2-2015.pdf " see our easy step by step flowchart"" >}})
 
 ## Note:
 
@@ -186,4 +208,32 @@ Create an interview/conversation guide with a list of keywords or themes you wan
 
 ## Ref:
 
-{{< ref "commit-to-action" >}}
+### [Ref with no / or .md](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/guides/web-analytics-playbook/)
+
+```[Commit to action]({{</* ref "commit-to-action" */>}})```
+
+[Commit to action]({{< ref "commit-to-action" >}})
+
+### [Relative with / no .md](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/event/2019/05/28/mobile-community-practice-spring-meeting/)
+
+```[Mobile Community of Practice]({{</* ref "/communities" */>}})```
+
+[Mobile Community of Practice]({{< ref "/communities" >}})
+
+### [Prefix and MD](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/event/2019/05/28/mobile-community-practice-spring-meeting/)
+
+```[Eight Principles of Mobile-Friendliness]({{</* ref "/guides/mobile-principles/_index.md" */>}})```
+
+[Eight Principles of Mobile-Friendliness]({{< ref "/guides/mobile-principles/_index.md" >}})
+
+### [Ref with no prefix and MD](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/event/2020/09/24/dap-analytics-case-study-part-2/)
+
+```[Analytics Case Study Part 1]({{</* ref "2020-08-26-dap-analytics-case-study-part-1.md" */>}})```
+
+[Analytics Case Study Part 1]({{< ref "2020-08-26-dap-analytics-case-study-part-1.md" >}})
+
+### [Ref with prefix and links to _index.md](https://federalist-466b7d92-5da1-4208-974f-d61fd4348571.sites.pages.cloud.gov/preview/gsa/digitalgov.gov/nl-json-endpoints/event/2020/09/24/dap-analytics-case-study-part-2/)
+
+```[Digital Analytics Program]({{</* ref "/guides/dap/_index.md" */>}})```
+
+[Digital Analytics Program]({{< ref "/guides/dap/_index.md" >}})
