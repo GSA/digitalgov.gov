@@ -9,10 +9,6 @@ summary: "Promote the use of plain language to provide better service to the pub
 
 deck: Share and learn with plain language practitioners.
 
-# Redirects: enter the path of the URL that you want redirected to this page
-aliases:
-  - /communities/plain-language/
-
 # see all authors at https://digital.gov/authors
 authors:
   - katherine-spivey

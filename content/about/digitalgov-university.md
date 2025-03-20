@@ -8,8 +8,6 @@ expirydate: "2025-01-05"
 
 aliases:
   - /digitalgov-university/digitalgov-university-event-and-training-request-form/
-  - /2015/02/03/let-us-share-your-events/
-
 ---
 
 We provide a range of free online and in-person trainings and events for people and teams across the federal government. Many of our events highlight innovations, case studies, tools, and resources. All of our events are recorded and [archived on YouTube](https://youtube.com/@DigitalGov). Trainings are open to anyone working in the government or for a government agency.
