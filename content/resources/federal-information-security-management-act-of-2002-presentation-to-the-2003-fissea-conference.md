@@ -15,8 +15,6 @@ authors:
 
 The head of the agency delegates to the CIO a number of information security responsibilities. The CIO in turn designates a senior agency information security officer.
 
-<a class="button" style="color: #000000" href=""></a>
-
 {{< button href="http://csrc.nist.gov/organizations/fissea/2003-conference/presentations/fissea-FISMA-030603.pdf" text="View Federal Information Security Management Act of 2002 Presentation to the 2003 FISSEA Conference (PDF)" >}}
 
 ## Related Links
