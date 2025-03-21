@@ -19,11 +19,14 @@ primary_image: 2023-uswds-monthly-call-april-title-card
 # YouTube ID
 youtube_id: d1wPuISaHIg
 youtube_title: "Top tasks: What the U.S. Web Design System team did and what they found."
+
 ---
+
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-april-2023.pptx" label="View the slides (PowerPoint presentation, 3.2 MB, 72 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for April 2023.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for April 2023.
 
 This month we're celebrating Earth Day, which is this Saturday (with our logo in shades of blue, white, and green), as well as Arbor Day, which falls on next Friday, April 28 (with our logo showing a single green triangle in the shape of a tree).
 
@@ -282,6 +285,8 @@ We know that…
 Thank you, and see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join us this month as we discuss how and why the U.S. Web Design System (USWDS) team performed their Top Tasks research, as well as what they learned and what they'll do next. Tune-in to learn more about what your feedback is doing for the Design System.
 

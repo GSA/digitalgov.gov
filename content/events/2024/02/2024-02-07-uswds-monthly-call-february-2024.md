@@ -2,8 +2,7 @@
 title: USWDS Monthly Call - February 2024
 deck: How to suggest a new component for the U.S. Web Design System
 kicker: USWDS
-summary: Learn about the USWDS component lifecycle, and how you can suggest a
-  new component.
+summary: Learn about the USWDS component lifecycle, and how you can suggest a new component.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceyvpz4iGws79NmQy1Dj0BUoDVtPKzs#/registration
@@ -22,11 +21,14 @@ youtube_id: cmP9XsYVwQI
 youtube_title: "How to suggest a new component for the U.S. Web Design System (2024)"
 
 primary_image: 2024-uswds-monthly-call-feb-title-card
+
 ---
+
+## View the slides and read the transcript
 
 {{< asset-static file="USWDS Monthly Call Feb 2024.pptx" label="View the slides (PowerPoint presentation, 5.8 MB, 81 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for February 2024" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for February 2024" icon="content_copy" >}}
 
 **Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for February, 2024 — This month we're celebrating Black History Month with shades of green, gold, orange, and brown. As well as Valentine's Day yesterday with shades of pink.
 
@@ -377,6 +379,8 @@ If you have a question we weren't able to answer in the call, or thought of late
 Have a great day and we'll see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the U.S. Web Design System (USWDS) team to learn more about the complete lifecycle of a USWDS component.
 

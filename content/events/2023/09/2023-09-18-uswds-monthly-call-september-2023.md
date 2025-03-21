@@ -25,9 +25,11 @@ youtube_id: rl5hgoOK22o
 youtube_title: "Stepping back to look at the big picture"
 ---
 
+## View the slides and read the transcript  
+<br>
 {{< asset-static file="uswds-monthly-call-september-2023.pptx" label="View the slides (PowerPoint presentation, 3.4 MB, 99 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for September 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2023, where we've celebrated Labor Day, shown here with a USWDS logo in red white and blue. And if you squint perhaps you can see the form of Rosie the Riveter, with her bicep, blue shirt, and red bandana?
 
 And Saturday is the fall equinox, with the USWDS logo showing the seasons change: from green and gold, to brown and red.
 
@@ -343,6 +345,8 @@ Have a great day, and a great rest of September!
 
 {{< /accordion >}}
 
+## Agenda
+<br>
 It's been eight years since the first public release of the U.S. Web Design System (USWDS). What have we done? Where are we going? What have we learned? Let's revisit our mission and vision as we look out in the direction of the next eight years.
 
 We’ll discuss:
