@@ -23,7 +23,7 @@ primary_image: uswds-monthly-call-march-title-card
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 {{< asset-static file="uswds-monthly-call-march-2022.pptx" label="View the slides (PowerPoint presentation, 3.33 MB, 30 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2022" icon="content_copy" >}}
@@ -116,7 +116,7 @@ Thank you, and see you next month!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 During this event, the USWDS core team will preview USWDS 3.0. We’ll talk about improvements to day-to-day maintainability, component packages, and the new component library.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
