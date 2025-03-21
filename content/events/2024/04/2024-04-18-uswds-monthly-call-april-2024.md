@@ -357,7 +357,7 @@ In this session, the USWDS team will:
 
 **This event is best suited for:** All design system users (all levels). This will be a technical discussion, but anyone can attend as it requires no specialized knowledge.
 
-## Speakers
+**Speakers**
 
 - **Dan Williams** **-** Product Lead, USWDS
 - **James Mejia** **-** Developer, USWDS contractor
