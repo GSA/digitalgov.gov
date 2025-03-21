@@ -2,9 +2,7 @@
 title: USWDS Monthly Call - February 2023
 deck: Using USWDS design tokens
 kicker: USWDS
-summary: "Join us as we take a deep dive into USWDS design tokens. We’ll cover:
-  what they are, how they’re used, and how you can adapt them to your branding
-  needs."
+summary: "Join us as we take a deep dive into USWDS design tokens. We’ll cover: what they are, how they’re used, and how you can adapt them to your branding needs."
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItdOitrTIjG0pADR0k0Ij_xeiSBknpJyE
@@ -22,12 +20,15 @@ primary_image: 2023-uswds-monthly-call-feb-title-card
 # YouTube ID
 youtube_id: ObqPeagLZ5o
 youtube_title: "Using USWDS design tokens (2023)"
+
 ---
+
+## View the slides
 
 {{< asset-static file="uswds-monthly-call-february-2023.pptx" label="View the slides (PowerPoint presentation, 1.4 MB, 67 pages)" >}}
 
 ## Agenda
-<br>
+
 Join us as we take a deep dive into USWDS design tokens. What are they? How are they used? How can they be adapted to agencies’ branding needs?
 
 In this session, you’ll learn how to:
