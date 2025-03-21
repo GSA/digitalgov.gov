@@ -19,10 +19,11 @@ event_platform: zoom
 primary_image: 2024-uswds-monthly-call-april-title-card
 youtube_id: GHomUbYTgwQ
 youtube_title: "An introduction to Web Components"
+
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-april-2024.pptx" label="View the slides (Powerpoint presentation, 5.9 MB, 96 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for April 2024. This month we're celebrating the budding leaves and spectacular flowers of spring (with shades of pink and green and blue).
@@ -345,7 +346,7 @@ Have a great day, and a great April, and we'll see you in May!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 Web Components have been mentioned in a lot of recent discussions about the future of the U.S. Web Design System (USWDS) . What is this technology, exactly, and what can it mean for the design system?
 
 In this session, the USWDS team will:
@@ -356,7 +357,7 @@ In this session, the USWDS team will:
 
 **This event is best suited for:** All design system users (all levels). This will be a technical discussion, but anyone can attend as it requires no specialized knowledge.
 
-Speakers
+## Speakers
 
 - **Dan Williams** **-** Product Lead, USWDS
 - **James Mejia** **-** Developer, USWDS contractor
