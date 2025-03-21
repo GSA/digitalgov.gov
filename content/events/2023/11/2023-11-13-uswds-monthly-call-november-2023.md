@@ -2,8 +2,7 @@
 title: USWDS Monthly Call - November 2023
 deck: Designing a repeatable research process with people with disabilities
 kicker: Next steps in the U.S. Web Design System’s inclusive usability research
-summary: The USWDS team will continue sharing our progress to improve ongoing
-  research, publishing results and addressing recent findings.
+summary: The USWDS team will continue sharing our progress to improve ongoing research, publishing results and addressing recent findings.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJIsceupqj0pE-Dt8ojRN1yCeZHcM0jWgO8#/registration
@@ -28,10 +27,11 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-nov-title-card
 youtube_id: EQ8Nb60xgXA
 youtube_title: "Designing a repeatable research process with people with disabilities"
+
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-november-2023.pptx" label="View the slides (PowerPoint presentation, 6.3 MB, 63 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2023" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for November of 2023 where next week we celebrate Thanksgiving represented with this USWDS logo in shades of brown and orange.
@@ -233,7 +233,7 @@ it's really important to us and it's just one of the things that we're working o
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 During the [October 2023 monthly call](https://digital.gov/event/2023/10/19/uswds-monthly-call-october-2023/), the U.S. Web Design System team shared the progress we’re making on usability research with people who have disabilities.
 
 This month we’ll discuss:
