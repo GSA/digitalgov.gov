@@ -27,8 +27,8 @@ primary_image: 2024-uswds-monthly-call-october-title-card
 
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-october-2024.pptx" label="View the slides (Powerpoint presentation, 2.5 MB, 109 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2024" icon="content_copy" >}}
@@ -446,7 +446,7 @@ Have a great day and a great conclusion to your summer. We'll see you in Novembe
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 Join the U.S. Web Design System (USWDS) team for a talk about the product and engineering principles and values that guide the team’s decision-making as they look towards the future.
 
 In this session, you’ll:
