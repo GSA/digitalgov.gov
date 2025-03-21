@@ -132,7 +132,7 @@ Some things to keep in mind:
 * Do you want return users? Does that signify success? If your goal is for the user to find a form and download it once, then having that user return might signify an issue.
 * What do you want your users to do on the website? Do you want them to follow links, watch videos, download resources, contact you, fill in forms, sign up for the newsletter, etc.? If the answer is yes to any of these, you’ll want to pay special attention to these metrics.
 
-U.S. government websites should provide regular web metrics, search, and customer satisfaction reports to the public. For an example, view [](https://www.secretservice.gov/metrics) the [Department of Homeland Security’s web metrics](https://www.dhs.gov/metrics) and [USAGov’s analytics dashboard](https://www.usa.gov/website-analytics/).
+U.S. government websites should provide regular web metrics, search, and customer satisfaction reports to the public. For an example, view the [Department of Homeland Security’s web metrics](https://www.dhs.gov/metrics) and [USAGov’s analytics dashboard](https://www.usa.gov/website-analytics/).
 
 ### Additional Resources
 
