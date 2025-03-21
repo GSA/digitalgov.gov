@@ -23,10 +23,11 @@ event_platform: zoom
 primary_image: 2023-uswds-monthly-call-oct-title-card
 youtube_id: _uNXQpu6Dwg
 youtube_title: "How to develop a sustainable, repeatable research process"
+
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-october-2023.pptx" label="View the slides (PowerPoint presentation, 9.2 MB, 111 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for October 2023" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for October 2023, where some of us on the western half of the continental United States, just this weekend got to watch our little old moon pass right between us and our Sun and through some kind of cosmic coincidence, even though about 450 moons could fit across the diameter of the Sun, to us they look almost exactly the same size, and one can pretty much perfectly conceal the other, just as your thumb can cover up a mountain every once and a while. And just as we see the USWDS logo fading from yellow to black and back again.
@@ -301,7 +302,7 @@ But we learned a lot, we did a lot, we're doing a lot and we will be following u
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 One of our roadmap goals is to conduct more user research with people with disabilities — and to ensure we’re doing so regularly.
 
 Over the last few months, we've made a lot of progress. This month we'll share our progress and report on findings from our first round of this research: conducting usability tests on [Design System components](https://designsystem.digital.gov/components/overview/) focused on users with visual impairments.
