@@ -23,10 +23,11 @@ youtube_id: E826mR1B6_Y
 youtube_title: "The landscape of Web Components"
 
 primary_image: 2024-uswds-monthly-call-sep-title-card
+
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-september-2024.pptx" label="View the slides (Powerpoint presentation, 6.7 MB, 75 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for September 2024" icon="content_copy" >}} **Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for September 2024. It's getting a bit cooler out here in the pacific northwest. This month we're celebrating the fall equinox this weekend with a USWDS logo in green, white, and blue like the Earth. And at least around here, I'm seeing more and more pumpkins around town, both on stoops and in stores, so here's a pumpkin-colored USWDS logo!
@@ -339,7 +340,7 @@ These aren't abstract things, they influence what we do and our approach to judg
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 This month, join the U.S. Web Design System (USWDS) team in exploring the landscape of Web Components. The team will share their recent landscape analysis of Web Components-based design systems and discuss how these findings set a course for future USWDS development.
 
 In this online session with the USWDS team, you will:
