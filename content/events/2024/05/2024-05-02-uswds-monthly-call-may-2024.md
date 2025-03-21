@@ -22,10 +22,11 @@ event_platform: zoom
 primary_image: "uswds-gaad-monthly-call-may-2024"
 youtube_id: UfufY8gStqI
 youtube_title: "Creating accessible civic spaces"
+
 ---
 
-## View the slides and read the transcript  
-<br>
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-may-2024.pptx" label="View the slides (Powerpoint presentation, 14 MB, 32 slides)">}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
@@ -318,7 +319,7 @@ Have a great day and a great May. Make sure you check out our August Community C
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 Join the U.S. Web Design System team on Global Accessibility Awareness Day. Guest speaker Whitney Quesenbery will discuss her work to create a more accessible voting process. She previously served as a member of the U.S. Election Assistance Commission’s [Technical Guidelines Development Committee](https://www.eac.gov/about/technical_guidelines_development_committee) and helped draft versions 1.0 and 1.1 of the [Voluntary Voting System Guidelines](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines). Whitney's experience advocating for people with disabilities can help you design usable and accessible civic spaces on the web and beyond.
 
 **This event is best suited for:** Designers, product owners, developers, and accessibility specialists of all levels.
