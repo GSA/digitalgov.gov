@@ -22,6 +22,7 @@
           href="{{ .Permalink }}"
           title="{{ .Title | markdownify }}"
           rel="bookmark"
+          aria-label="{{ .Title}} on {{ dateFormat "Jan 02, 2006" .Date }}"
           >{{ .Title | markdownify }}</a
         >
       </h2>

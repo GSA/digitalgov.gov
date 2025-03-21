@@ -17,7 +17,7 @@
       </div>
     {{ end }}
     <h3 id="{{ $titleID }}">
-      <a href="{{ $internalLink }}">{{ $title | markdownify }}</a>
+      <a aria-label="{{ .Title}} on {{ dateFormat "Jan 02, 2006" .Date }}" href="{{ $internalLink }}">{{ $title | markdownify }}</a>
     </h3>
 
     {{ if $summary }}
