@@ -21,13 +21,16 @@ slug: uswds-monthly-call-november-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2022-uswds-monthly-call-nov-title-card
+
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 {{< asset-static file="uswds-monthly-call-nov-2022.pptx" label="View the slides (PowerPoint presentation, 14.1 MB, 82 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for November 2022" icon="content_copy" >}}
+
+**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For November 2022. Fall is here, and the USWDS logo is colored in orange, gold, green, and brown. Thanksgiving is right around the corner. Veteran's Day was last week. And, relevant to today's conversation, this week is Transgender Awareness Week.
 
@@ -283,7 +286,7 @@ Thank you, and see you in December!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 Many of the digital solutions we create rely on collecting personal information, allowing programs and services to connect with people who need assistance. Join us this month as we pick up where we left off in October and take a deeper dive into user profile patterns.
 
 We'll continue looking at personal user profile patterns, including: date of birth, race and ethnicity, biological sex and gender, and pronouns. We'll also take a look at our guidance, and discuss how an inclusive approach to these patterns can reduce barriers to participation.
