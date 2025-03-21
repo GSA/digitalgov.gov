@@ -25,7 +25,7 @@ primary_image: uswds-january-title-card
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 [View the slides (PowerPoint presentation, 1.5 MB, 30 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-january-2022-distro.pptx.zip)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Transcript for January 2022" icon="content_copy" >}}
@@ -148,12 +148,10 @@ Thank you, and see you next month!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 For our first monthly call of 2022, we'll take a look at a new tutorial focused on getting started with the design system. Our team will also demo a new getting started guide for developers, with improved guidance for how to install, compile, and begin to customize the design system.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
-
-
 
 ## About the USWDS
 
