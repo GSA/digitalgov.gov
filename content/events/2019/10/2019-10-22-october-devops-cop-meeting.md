@@ -26,6 +26,7 @@ authors:
 
 # YouTube ID
 youtube_id: yHlnAG2UX3Y
+youtube_title: "October DevOps Community Meeting"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

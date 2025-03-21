@@ -23,6 +23,7 @@ authors:
 
 # YouTube ID
 youtube_id: 2Bl5Z6XZFX8
+youtube_title: "Mobile Community of Practice Spring Meeting"
 
 # Primary Image (for social media)
 primary_image: "mobile-devices-testing-app-tilted"

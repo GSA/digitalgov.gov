@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: T_zTZGDE7Gg
+youtube_title: "Federal Plain Language Report Card Planning"
 
 # Primary Image (for social media)
 primary_image: "plain-language"

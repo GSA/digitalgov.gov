@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: uVvP6qeaZPY
+youtube_title: "DAP Learning Series: Understanding When to Use Sessions vs. Unique Pageviews"
 
 # Make it better ♥
 

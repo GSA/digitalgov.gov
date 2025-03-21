@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: P2zYuqikgzY
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 4: Open Opportunities"
 
 # Primary Image (for social media)
 primary_image: "challengegov-card-episode-4"

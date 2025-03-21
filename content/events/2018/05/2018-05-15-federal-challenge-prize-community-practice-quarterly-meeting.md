@@ -37,6 +37,7 @@ authors:
 
 # YouTube ID
 youtube_id: fY5jhPVVPwM
+youtube_title: "Federal Challenge & Prize Community of Practice Quarterly Meeting"
 
 # Make it better ♥
 
