@@ -23,7 +23,7 @@ event_platform: zoom
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 [View the slides (PowerPoint presentation, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Transcript for February 2022" icon="content_copy" >}}
@@ -225,11 +225,10 @@ Follow us on Github at github.com/uswds, check out our website, and visit design
   
 Thank you, and see you next month!
 
-
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 What would it look like to implement and customize our design system via a component API? 
 
 Join us for a discussion of what might be next for USWDS after the release of USWDS 3.0 this spring.
