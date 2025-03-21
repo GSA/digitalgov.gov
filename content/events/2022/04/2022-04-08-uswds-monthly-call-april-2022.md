@@ -27,7 +27,7 @@ primary_image: uswds-monthly-call-april-title-card
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 {{< asset-static file="uswds-monthly-call-april-2022.pptx" label="View the slides (PowerPoint presentation, 2.66 MB, 16 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2022" icon="content_copy" >}}
@@ -90,7 +90,7 @@ Thank you, and see you next month!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 What does USWDS 3.0 look like in the real world? Our friends at Digital.gov will join us to talk through their experience migrating to USWDS 3.0. We’ll talk about what you’ll need to upgrade, what to look out for, and any pain points you may come up against.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
