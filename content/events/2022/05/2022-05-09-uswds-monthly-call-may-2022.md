@@ -25,11 +25,10 @@ primary_image: uswds-monthly-call-may-title-card
 ---
 
 ## View the slides and read the transcript  
-<br>
+
 {{< asset-static file="uswds-monthly-call-may-2022.pptx" label="View the slides (PowerPoint presentation, 7.6 MB, 64 pages)" >}}
 
 {{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2022" icon="content_copy" >}}
-
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call. For May 2022 — home of the May flowers that those April showers are said to bring —accompanied by this spring flower–colored USWDS logo. Today is also Global Accessibility Awareness Day. Thank you to everyone working to make our sites and services more useful, more usable, and more accessible to the folks that really need it.
 
@@ -199,7 +198,7 @@ Thank you, and see you next month!
 {{< /accordion >}}
 
 ## Agenda
-<br>
+
 Now that USWDS 3.0 is out in the world, let’s look at how we can optimize it to improve performance. We’ll dive into tips and techniques you can use to reduce CSS size and chip away at your build time.
 
 *This event is part of a monthly series that takes place on the third Thursday of each month. Don’t forget to set a placeholder on your personal calendar for our future events this year.*
