@@ -1,8 +1,7 @@
 ---
 title: USWDS Monthly Call - June 2023
 kicker: USWDS
-summary: Developing and evaluating content for manual accessibility and user
-  experience (UX) tests
+summary: Developing and evaluating content for manual accessibility and user experience (UX) tests.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://gsa.zoomgov.com/meeting/register/vJItceGprT0tHyOpdv40WB6ome7t20p6EHQ
@@ -22,9 +21,11 @@ youtube_id: UxC-a48Vn7w
 youtube_title: "Developing and evaluating content for manual accessibility and user experience (UX) tests"
 ---
 
+## View the slides and read the transcript
+
 {{< asset-static file="uswds-monthly-call-june-2023.pptx" label="View the slides (PowerPoint presentation, 2.0 MB, 79 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for June 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for June 2023, home to Pride month, Fathers Day, Flag Day, Kamehameha Day, and the Summer Solstice — as well as Juneteenth, this coming Monday, with the USWDS logo in red, white, and blue.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for June 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for June 2023, home to Pride month, Fathers Day, Flag Day, Kamehameha Day, and the Summer Solstice — as well as Juneteenth, this coming Monday, with the USWDS logo in red, white, and blue.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a blue T-shirt and a brown sweater. We're back to the 40s in the morning out here on the west coast! I'd like to mention that when we introduce ourselves in these calls, you'll hear things like self-descriptions and pronouns — these help everyone share the same context and know a bit more about who we are, whether or not you can see us.
 
@@ -320,6 +321,8 @@ And if you have a question we weren't able to answer in the call, or thought of 
 Have a great day, and a great July, and we'll see you in August!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join us as we talk about the easy-to-follow, manual accessibility and user experience (UX) tests we're developing for U.S. Web Design System ([USWDS) components](https://designsystem.digital.gov/components/). We're calling these tests `Critical Checklists`.
 

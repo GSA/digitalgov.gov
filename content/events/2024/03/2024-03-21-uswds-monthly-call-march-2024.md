@@ -19,11 +19,14 @@ event_platform: zoom
 primary_image: 2024-uswds-monthly-call-march-title-card
 youtube_id: M2_SVDc_eCM
 youtube_title: "How to build with U.S. Web Design System tools (2024)"
+
 ---
+
+## View the slides and read the transcript
 
 {{< asset-static file="uswds-monthly-call-march-2024.pptx" label="View the slides (Powerpoint presentation, 1.9 MB, 20 slides)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for March 2024 — This month we're celebrating Women's History Month (with shades of orange, teal, purple, and pink. As well as the first day of Spring, the Vernal Equinox, which was on Tuesday with shades of pink like a cherry blossom.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2024" icon="content_copy" >}}**Slide 1:** Welcome everyone, to the U.S. Web Design System monthly call for March 2024 — This month we're celebrating Women's History Month (with shades of orange, teal, purple, and pink. As well as the first day of Spring, the Vernal Equinox, which was on Tuesday with shades of pink like a cherry blossom.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is wearing a black and white checked flannel shirt.
 
@@ -471,6 +474,8 @@ If you have a question we weren't able to answer in the call, or thought of late
 Have a great day and we'll see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the U.S. Web Design System team for a lesson on customizing and extending USWDS. You’ll learn how to build new components that look and feel consistent with existing components.
 

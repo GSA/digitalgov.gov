@@ -22,9 +22,11 @@ event_platform: zoom
 
 ---
 
+## View the slides and read the transcript  
+
 [View the slides (PowerPoint presentation, 13.4 MB, 75 pages)](https://designsystem.digital.gov/files/monthly-calls/uswds-monthly-call-february-2022-distro.pptx.zip)
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Script for February 2022" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call Transcript for February 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for February 2022. And, for February we're celebrating Black history month (with a red, gold, green, and brown logo), Valentine's Day (with a logo in shades of pink), and Washington's Birthday (otherwise known as Presidents Day — with a red, white, blue, and gray logo). 
 
@@ -223,10 +225,9 @@ Follow us on Github at github.com/uswds, check out our website, and visit design
   
 Thank you, and see you next month!
 
-
 {{< /accordion >}}
 
----
+## Agenda
 
 What would it look like to implement and customize our design system via a component API? 
 

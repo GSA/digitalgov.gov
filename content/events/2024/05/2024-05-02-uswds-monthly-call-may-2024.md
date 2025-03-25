@@ -22,11 +22,14 @@ event_platform: zoom
 primary_image: "uswds-gaad-monthly-call-may-2024"
 youtube_id: UfufY8gStqI
 youtube_title: "Creating accessible civic spaces"
+
 ---
+
+## View the slides and read the transcript
 
 {{< asset-static file="uswds-monthly-call-may-2024.pptx" label="View the slides (Powerpoint presentation, 14 MB, 32 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for May 2024" icon="content_copy" >}}**Slide 1:** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for May 2024. This month we've got a red USWDS logo reminiscent of both the roses blooming out here in Oregon, and of poppies of remembrance in honor of Memorial Day.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. Today my physical self is notably, wearing glasses. Apparently I now need computer glasses so I don't get headaches! Maybe I'll update my avatar next month.
 
@@ -314,6 +317,8 @@ And if you have a question we weren't able to answer in the call, or thought of 
 Have a great day and a great May. Make sure you check out our August Community Choice discussion, so we get a sense of what you'd like us to prepare, and we'll see you in June!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the U.S. Web Design System team on Global Accessibility Awareness Day. Guest speaker Whitney Quesenbery will discuss her work to create a more accessible voting process. She previously served as a member of the U.S. Election Assistance Commission’s [Technical Guidelines Development Committee](https://www.eac.gov/about/technical_guidelines_development_committee) and helped draft versions 1.0 and 1.1 of the [Voluntary Voting System Guidelines](https://www.eac.gov/voting-equipment/voluntary-voting-system-guidelines). Whitney's experience advocating for people with disabilities can help you design usable and accessible civic spaces on the web and beyond.
 

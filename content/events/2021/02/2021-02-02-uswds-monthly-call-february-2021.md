@@ -1,9 +1,7 @@
 ---
 title: USWDS Monthly Call - February 2021
 kicker: USWDS
-summary: Learn what's next for the U.S. Web Design System and our 2021
-  Roadmap&mdash;what we're planning to do this year, and why we're planning to
-  do it.
+summary: Learn what's next for the U.S. Web Design System and our 2021 Roadmap&mdash;what we're planning to do this year, and why we're planning to do it.
 host: U.S. Web Design System
 event_organizer: Digital.gov
 registration_url: https://www.eventbrite.com/e/139508891851
@@ -25,11 +23,12 @@ youtube_id: 0-OAp4ANEW0
 youtube_title: "USWDS Monthly Call: What's Next for the Design System? (Feb 2021)"
 
 ---
+
+## Agenda
+
 The U.S. Web Design System team is excited to share the 2021 Product Roadmap at the Monthly Call on Thursday, February 18! We will discuss the plan, goals, features, and long-term direction of USWDS. 
 
 This event is part of a monthly series that takes place on the third Thursday of each month. We post the video on Digital.gov shortly after each event. Don’t forget to set a placeholder on your personal calendar for our future events this year.
-
-
 
 ## About the USWDS
 

@@ -20,11 +20,14 @@ primary_image: 2023-uswds-monthly-call-jan-title-card
 # YouTube ID
 youtube_id: JApBVTwZans
 youtube_title: "Answering your most-asked questions about the U.S. Web Design System"
+
 ---
+
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-january-2023.pptx" label="View the slides (PowerPoint presentation, 1.9 MB, 60 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for January 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for January 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For January 2023. It's the start of a new year, month one. So this month, we've turned every triangle but one gray. Here we go again!
 
@@ -261,6 +264,8 @@ There are also additional entrypoints for sass partials, images, and fonts. Chec
 Thank you, and see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the Design System team as we tackle your most commonly-asked questions.
 

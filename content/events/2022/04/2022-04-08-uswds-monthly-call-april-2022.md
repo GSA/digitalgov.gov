@@ -26,9 +26,11 @@ primary_image: uswds-monthly-call-april-title-card
 
 ---
 
+## View the slides and read the transcript  
+
 {{< asset-static file="uswds-monthly-call-april-2022.pptx" label="View the slides (PowerPoint presentation, 2.66 MB, 16 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for April 2022" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for April 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for April 2022 — an interesting month and year where we've seen Passover, Ramadan, and Easter occurring at the same time, accompanied by this spring-colored USWDS logo. As well as Earth Day this week, and a blue marble USWDS logo to go with it.
 
@@ -86,6 +88,8 @@ Follow us on Github at [github.com/uswds/uswds](https://www.google.com/url?q=htt
 Thank you, and see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 What does USWDS 3.0 look like in the real world? Our friends at Digital.gov will join us to talk through their experience migrating to USWDS 3.0. We’ll talk about what you’ll need to upgrade, what to look out for, and any pain points you may come up against.
 

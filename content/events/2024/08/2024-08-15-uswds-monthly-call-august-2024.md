@@ -23,11 +23,14 @@ youtube_id: duomgOmMwro
 youtube_title: "A look at beta web components"
 
 primary_image: 2024-uswds-monthly-call-aug-title-card
+
 ---
+
+## View the slides and read the transcript
 
 {{< asset-static file="uswds-monthly-call-august-2024.pptx" label="View the slides (Powerpoint presentation, 3.6 MB, 48 slides)">}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2024" icon="content_copy" >}} **Slide 1** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for August 2024. Welcome back! I hope you're having as good a summer as possible. For our team, at least, July can be a great time to have a bit of focus time. This month we're simply celebrating the season with some warm summer colors in the USWDS logo: yellows, blue, green, and orange.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for August 2024" icon="content_copy" >}} **Slide 1** Thanks Jeannie, and welcome, everyone, to the U.S. Web Design System monthly call for August 2024. Welcome back! I hope you're having as good a summer as possible. For our team, at least, July can be a great time to have a bit of focus time. This month we're simply celebrating the season with some warm summer colors in the USWDS logo: yellows, blue, green, and orange.
 
 **Slide 2** My name is Dan Williams, he/him, and I'm the USWDS project lead — and here on-screen is my avatar: dark hair, blue sweater, collared shirt. As of this month, the avatar now has glasses — matching real life me, who's wearing a gray shirt today, and yellow socks, approximately gold-30v.
 As Jeannie mentioned, we are recording this call, and I'm happy to say we've started to be able to share the recordings of these monthly calls publicly. You can find pretty much everything from the last year's worth of monthly calls, back to January 2023, on our website, at [designsystem.digital.gov/about/monthly-calls](https://designsystem.digital.gov/about/monthly-calls/). We typically post videos shortly after the monthly call, and we also link out to the slides and the script, hosted at digital.gov. We've also started collecting each month's Q&A as a GitHub discussion linked from the monthly calls page. We've posted a link to our monthly calls page in the chat.
@@ -225,6 +228,8 @@ And if you have a question we weren't able to answer in the call, or thought of 
 Have a great day and a great conclusion to your summer. We'll see you in September!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the U.S. Web Design System (USWDS) team to understand their progress toward developing beta web components. They’ll also answer questions and requests posted by the [community in the community choice discussion thread for the August monthly call on GitHub](https://github.com/uswds/uswds/discussions/5923).
 

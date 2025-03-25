@@ -29,9 +29,11 @@ primary_image: uswds-august-2022-monthly-call-title-card
 
 ---
 
+## View the slides and read the transcript  
+
 {{< asset-static file="uswds-monthly-call-august-2022.pptx" label="View the slides (PowerPoint presentation, 7.8 MB, 83 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for August 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call. For August 2022 — the dog days of summer — which we'll celebrate with some classic dog colors of browns and whites in the USWDS logo. I've been away from home recently, and I miss my dog.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for August 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call. For August 2022 — the dog days of summer — which we'll celebrate with some classic dog colors of browns and whites in the USWDS logo. I've been away from home recently, and I miss my dog.
 
 **Slide 2:** My name is Dan Williams, he/him, and I'm the USWDS product lead and this is my avatar, dark hair, casual office wear. Keen observers will notice that real me got a haircut, and a bit of sun over the last few weeks. How ’bout that? Thanks for being here!
 
@@ -304,6 +306,8 @@ For example, with the language selector component, I was able to draw from exper
 
 Thank you, and see you in September or lose you to a summer love! Bye!
 {{< /accordion >}}
+
+## Agenda
 
 What are design patterns and how do they fit into the design system? Join us to learn more about USWDS Inclusive Design Patterns — upcoming guidance that will help connect components to common service interactions. We’ll preview this upcoming guidance and discuss the process we used to develop it.
 
