@@ -22,9 +22,11 @@ primary_image: uswds-monthly-call-march-title-card
 
 ---
 
+## View the slides and read the transcript  
+
 {{< asset-static file="uswds-monthly-call-march-2022.pptx" label="View the slides (PowerPoint presentation, 3.33 MB, 30 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2022" icon="content_copy" >}}
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2022" icon="content_copy" >}}
 
 **Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call for March 2022 — in fact, St Patrick's Day, 2022. And, for March we've got an emerald-hued logo.
 
@@ -112,6 +114,8 @@ Follow us on Github at https://github.com/uswds, check out our website, and visi
 Thank you, and see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 During this event, the USWDS core team will preview USWDS 3.0. We’ll talk about improvements to day-to-day maintainability, component packages, and the new component library.
 
