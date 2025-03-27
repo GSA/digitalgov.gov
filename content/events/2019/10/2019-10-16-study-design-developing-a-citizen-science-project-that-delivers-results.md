@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: ZQ2xibNtYqc
+youtube_title: "Study Design: Developing a Citizen Science Project that Delivers Results"
 
 # Primary Image (for social media)
 primary_image: "citizen-science-study-design"

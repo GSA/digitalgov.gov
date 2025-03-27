@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: 7LY8A2lMU8I
+youtube_title: "2019 Virtual Student Federal Service (VSFS) Info Session"
 
 # Primary Image (for social media)
 primary_image: "vsfs-card"

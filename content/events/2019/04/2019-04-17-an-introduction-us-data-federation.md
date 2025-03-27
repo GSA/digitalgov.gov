@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: r4XUu2MLrDo
+youtube_title: "An Introduction to the U.S. Data Federation"
 
 # Primary Image (for social media)
 primary_image: "data-federation-banner"

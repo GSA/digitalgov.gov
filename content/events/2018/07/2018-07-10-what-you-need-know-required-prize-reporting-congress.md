@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: msyPsjhZM7A
+youtube_title: "What You Need to Know: Required Prize Reporting to Congress"
 
 # Primary Image (for social media)
 primary_image: "challengegov-logo"

@@ -32,6 +32,7 @@ authors:
 
 # YouTube ID
 youtube_id: HZFw1zl5rcM
+youtube_title: "SocialGov Fall Meeting - Podcasting!"
 
 # Primary Image (for social media)
 primary_image: "socialgov-podcasting"

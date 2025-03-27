@@ -32,6 +32,7 @@ event_platform: youtube_live
 
 # YouTube ID
 youtube_id: rXYUcCDkF9I
+youtube_title: "Connect With Your Spanish-Language Audience on Social Media"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:

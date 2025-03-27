@@ -30,6 +30,7 @@ authors:
 
 # YouTube ID
 youtube_id: JIR489Oq7OY
+youtube_title: "Managing Your Plain Language Career"
 
 # Primary Image (for social media)
 primary_image: "plain-language"

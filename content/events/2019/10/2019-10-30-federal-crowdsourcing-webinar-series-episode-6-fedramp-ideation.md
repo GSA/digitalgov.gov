@@ -28,6 +28,7 @@ authors:
 
 # YouTube ID
 youtube_id: bx1ANQtHNQY
+youtube_title: "Federal Crowdsourcing Webinar Series, Episode 6: The FedRAMP Ideation"
 
 # Primary Image (for social media)
 primary_image: "challengegov-card-episode-6"

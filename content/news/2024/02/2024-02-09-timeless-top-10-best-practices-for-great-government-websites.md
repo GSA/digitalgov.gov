@@ -70,7 +70,7 @@ People are busy. If they don’t have a reason, they won’t visit your website.
 
 There are two core elements of top tasks: top tasks identification and task performance indicator. Watch this one-hour talk to understand how to use top tasks to prioritize and continuously improve what is truly important.
 
-{{< youtube id="5llJ98UkXYI" >}}
+{{< youtube id="5llJ98UkXYI" title="A Deep Dive into Top Tasks">}}
 
 {{< /ring >}}
 
@@ -90,7 +90,7 @@ As agencies look more and more to digital channels to serve customers and meet m
 
 Learn from the Internal Revenue Service as they share how they collect user feedback and use web analytics to improve Free File, one of the IRS’s most widely used applications.
 
-{{< youtube id="8zkHN3rxXHw" >}}
+{{< youtube id="8zkHN3rxXHw"  title="Continuously improve your website by using customer feedback and web analytics: An IRS case study">}}
 
 {{< /ring >}}
 

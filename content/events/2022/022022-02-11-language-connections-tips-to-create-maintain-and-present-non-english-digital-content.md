@@ -25,6 +25,7 @@ primary_image: feb-2022-multilingual-language-connections-title-card
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 youtube_id: goZjeCXIx_Q
+youtube_title: "Language Connections: Tips to Create, Maintain, and Present Non-English Digital Content"
 
 ---
 

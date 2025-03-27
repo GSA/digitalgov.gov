@@ -27,6 +27,7 @@ authors:
 
 # YouTube ID
 youtube_id: mBF73XzaU0c
+youtube_title: "DevOps Community Monthly Meeting: DevOps for the Decennial Census"
 
 # Page weight: controls how this page appears across the site
 # 0 -- hidden

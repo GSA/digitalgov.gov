@@ -29,6 +29,7 @@ authors:
 
 # YouTube ID
 youtube_id: ClRIrOw04XI
+youtube_title: "Conversations on Public Impact: How data trusts can preserve and protect your digital initiatives"
 
 # Redirects: enter the path of the URL that you want redirected to this page
 aliases:
