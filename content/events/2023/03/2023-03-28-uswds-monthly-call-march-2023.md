@@ -17,11 +17,14 @@ event_platform: zoom
 # YouTube ID
 youtube_id: ceRXbLwEgD0
 youtube_title: "Making sense: Cognition, perception, and design"
+
 ---
+
+## View the slides and read the transcript
 
 {{< asset-static file="uswds-monthly-call-march-2023.pptx" label="View the slides (PowerPoint presentation, 1.8 MB, 56 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for March 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for March 2023" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For March 2023, this month, we're celebrating Women's History Month (with our logo in shades of orange, teal, purple, and pink), as well as St. Patrick's Day this week (with shades of clover green), and the Spring Equinox next week (with shades of cherry-blossom pink). This week also featured both Pi Day and the Ides of March. Perhaps you did as I did, and had a meal with both pizza and a caesar salad.
 
@@ -233,6 +236,8 @@ Each of these guidelines helps users easily scan to find the meaning of a group 
 Thank you, and see you next month!
 
 {{< /accordion >}}
+
+## Agenda
 
 Join the Design System team as we take a step back and explore how our design decisions both support and are supported by the ways our bodies and brains perceive order and make sense of the world.
 

@@ -107,9 +107,3 @@ Digital.gov provides information and resources for federal agencies related to w
 Contact OMB’s Office of the Federal CIO at ofcio@omb.eop.gov with any questions about interpretations of these policies.
 
 {{< /note >}}
-
-
-
-
-
-[](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf)

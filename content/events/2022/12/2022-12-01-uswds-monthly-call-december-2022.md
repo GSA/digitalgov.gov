@@ -20,11 +20,16 @@ slug: uswds-monthly-call-december-2022
 # zoom, youtube_live, adobe_connect, google
 event_platform: zoom
 primary_image: 2022-uswds-monthly-call-dec-title-card
+
 ---
+
+## View the slides and read the transcript  
 
 {{< asset-static file="uswds-monthly-call-december-2022.pptx" label="View the slides (PowerPoint presentation, 9.7 MB, 75 pages)" >}}
 
-{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Script for December 2022" icon="content_copy" >}}**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
+{{< accordion kicker="Slide by Slide" title="USWDS Monthly Call - Presentation Transcript for December 2022" icon="content_copy" >}}
+
+**Slide 1:** Hi there and welcome to the U.S. Web Design System monthly call.
 
 For December 2022. It's a cold and frosty morning here in Portland, Oregon, and the USWDS logo is suitably wintry, with an evergreen triangle and a selection of cool blues and white. And I should say that we've had a bit of bad weather across the country and some connectivity issues as well. All's gone well in our tech check, but if we have any connection issues, we'll figure it out asap.
 
@@ -329,6 +334,8 @@ Once we know what our users’ top tasks are, we can then figure out how easy or
 Thank you, and see you next month - in 2023!
 
 {{< /accordion >}}
+
+## Agenda
 
 What things — small and large — made 2022 a great year for the Design System? This month, we’ll hear members of the Core Team share their favorite Design System updates from 2022. Join us as we look back at the year — you never know what you might have missed!
 
