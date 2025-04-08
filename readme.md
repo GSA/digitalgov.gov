@@ -6,7 +6,7 @@ https://digital.gov
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
 - Follow us on [LinkedIn »](https://www.linkedin.com/company/digitalgov-gas )
-- Follow us on [Twitter »](https://twitter.com/digital_gov/)
+- Follow us on [X (formerly Twitter) »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
