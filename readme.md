@@ -5,9 +5,10 @@
 https://digital.gov
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
-- Follow us on [LinkedIn »](https://www.linkedin.com/company/digitalgov-gas )
-- Follow us on [X (formerly Twitter) »](https://twitter.com/digital_gov/)
-- Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
+- Follow us on [LinkedIn »](https://www.linkedin.com/company/digitalgov-gsa)
+- Follow us on [X (formerly Twitter) »](https://twitter.com/Digital_Gov/)
+- Like our page on [Facebook »](https://www.facebook.com/DigitalGov/)
+- Watch our videos and playlists on [YouTube](https://www.youtube.com/@DigitalGov)
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
