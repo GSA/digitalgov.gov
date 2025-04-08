@@ -8,7 +8,7 @@ https://digital.gov
 - Follow us on [LinkedIn »](https://www.linkedin.com/company/digitalgov-gsa)
 - Follow us on [X (formerly Twitter) »](https://twitter.com/Digital_Gov/)
 - Like our page on [Facebook »](https://www.facebook.com/DigitalGov/)
-- Watch our videos and playlists on [YouTube](https://www.youtube.com/@DigitalGov)
+- Watch our videos and subscribe to our channel on [YouTube](https://www.youtube.com/@DigitalGov)
 
 Want to learn more about how we work? [Check out our Wiki page »](https://github.com/GSA/digitalgov.gov/wiki)
 
