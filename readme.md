@@ -5,6 +5,7 @@
 https://digital.gov
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
+- Follow us on [LinkedIn »](https://www.linkedin.com/company/digitalgov-gas )
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
 - Like our page on [Facebook »](https://www.facebook.com/digitalgov/)
 
@@ -14,9 +15,9 @@ Want to learn more about how we work? [Check out our Wiki page »](https://githu
 
 ## Repositories
 
-As a product, [digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a Github Issue, or commenting on existing Issues and Pull Requests.
+As a product, [Digital.gov](https://digital.gov) maintains a collection of repositories. All of our work is open source and we encourage you to take a look at and contribute to our projects by submitting a Pull Request, a GitHub Issue, or commenting on existing Issues and Pull Requests.
 
-The repositories below are all used to maintain [digital.gov:](https://digital.gov)
+The repositories below are all used to maintain [Digital.gov:](https://digital.gov).
 
 <details>
   <summary>Platform</summary>
@@ -91,7 +92,8 @@ hugo version
 ```
 
 **Note:** Digital.gov currently uses Hugo version 0.133.1. This is noted in our [.hugo-version](.hugo-version) file.
-If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions: 
+If Hugo has released a new version, but digital.gov hasn't been upgraded to that version, you may get errors when building locally. It is possible to use Homebrew to download a previous version of Hugo. To do that follow these instructions:
+
 1.  Uninstall the current version with `brew uninstall hugo`
 2.  Visit
     [<u>https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb</u>](https://github.com/Homebrew/homebrew-core/blob/master/Formula/h/hugo.rb)
@@ -179,10 +181,12 @@ Digital.gov uses a hybrid image processing system that combines Hugo's built-in 
 #### Image Processing System
 
 Images found in `content/images/inbox/` are handled in two ways simultaneously:
+
 1. Optimized and compressed then sent to an AWS S3 bucket via `gulp img`
 2. Processed by Hugo's built-in image processing to create responsive variants (800px and 1200px)
 
 This dual approach ensures:
+
 - Optimized image delivery through S3
 - Responsive image variants through Hugo
 - Fallback paths when either system isn't available
@@ -215,6 +219,7 @@ The `img` shortcode provides flexible image handling with both S3 and Hugo proce
 ```
 
 Parameters:
+
 - `src`: path to the image (required)
 - `alt`: alt text for accessibility (required)
 - `align`: alignment (left/center/right, optional)
@@ -231,10 +236,10 @@ Parameters:
 ## Upgrading Hugo
 
 1. Read through [the recent releases](https://github.com/gohugoio/hugo/releases)
-1. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
-1. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
-1. Update this README.md to show the current hugo version
-1. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
+2. Run `brew upgrade hugo` to upgrade your local copy ([docs](https://gohugo.io/getting-started/installing/#upgrade-hugo)).
+3. Set the version in the `.hugo-version` file. This is only used for telling Federalist which version of Hugo they should checkout and use.
+4. Update this README.md to show the current hugo version
+5. Update the version in `.circleci/config.yml to ensure that the same version of Hugo is being used for CI.
 
 ## Accessibility tests
 
